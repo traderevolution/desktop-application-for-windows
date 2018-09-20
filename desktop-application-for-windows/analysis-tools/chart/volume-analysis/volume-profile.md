@@ -1,6 +1,6 @@
 # Volume profile
 
-This functionality allows to aggregate volume or derived calculations for a specified period of time in form of histogram on the chart. Volume profile can be opened from the Analysis tools menu by clicking on the button![](../../../../.gitbook/assets/57.png)or through Context menu -&gt; Analysis tools -&gt; Volume profile.
+This functionality allows to aggregate volume or derived calculations for a specified period of time in form of histogram on the chart. Volume profile can be opened from the Analysis tools menu by clicking on the button![](../../../../.gitbook/assets/57%20%281%29.png)or through Context menu -&gt; Analysis tools -&gt; Volume profile.
 
 You can select a timeperiod on the chart for plotting a Volume profile with two vertical line-indicators, which are labeled as "Volume profile". 
 
@@ -10,7 +10,7 @@ You can select a timeperiod on the chart for plotting a Volume profile with two 
 
 Volume profile can be set up in the following way:
 
-![](../../../../.gitbook/assets/59.png)
+![](../../../../.gitbook/assets/59%20%281%29.png)
 
 * Visible – controls visibility of the volume profile on the chart, when checked, the volume profile is visible on the chart;
 * Properties for – this option allows selecting the section of properties to set up, available values \(types of the renderer displaying\) are: Right histogram, Left histogram, Step calculations.
@@ -19,7 +19,7 @@ Left histogram and Right histogram are exactly the same groups of settings with 
 
 Step calculations – this group of settings allows plotting volume histogram with a predetermined step \(1 minute, hour, day, week\). Value by default: calculation period = Day, value = 1;
 
-![](../../../../.gitbook/assets/60.png)
+![](../../../../.gitbook/assets/60%20%281%29.png)
 
 * Show on chart – when checked, a selected renderer's type is displayed on the chart. All three renderer types can be displayed at once;
 * Value filter – when checked, such elements as Operator and Filter value appear. They allow to set up a constraint for renderers' displaying:
@@ -87,9 +87,9 @@ This tool allows plotting custom profiles by selected area of the chart.
 When activating the button for plotting the profile, a crosshair transfers to the selection mode of the data area for further analysis.
 
   
-Selection of the area for plotting: click on the button ![](../../../../.gitbook/assets/61.png)=&gt; click the chart to set up the first border for plotting area selection =&gt; click the chart to set up the second border for plotting area selection:
+Selection of the area for plotting: click on the button ![](../../../../.gitbook/assets/61%20%281%29.png)=&gt; click the chart to set up the first border for plotting area selection =&gt; click the chart to set up the second border for plotting area selection:
 
-![](../../../../.gitbook/assets/62.png)
+![](../../../../.gitbook/assets/62%20%281%29.png)
 
 After an area selection, vertical selectors will be hidden from the chart. In order to use a mode of the data range modification for analysis, you should click on the left border of the Custom volume profile, then vertical selectors will be visible again and available for editing.
 
