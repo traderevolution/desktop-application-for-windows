@@ -43,4 +43,5 @@
     * [Super DOM](desktop-application-for-windows/trading-panels/super-dom.md)
     * [Market depth](desktop-application-for-windows/trading-panels/market-depth.md)
     * [Matrix](desktop-application-for-windows/trading-panels/matrix.md)
+* [Scalper](scalper.md)
 

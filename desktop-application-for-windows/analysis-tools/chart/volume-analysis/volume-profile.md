@@ -106,7 +106,7 @@ You can set up the Custom volume profile properties by selecting the option Sett
 
 Custom volume profile with the checked Point of control ray:
 
-![](../../../../.gitbook/assets/64.png)
+![](../../../../.gitbook/assets/64%20%281%29.png)
 
 
 
