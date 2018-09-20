@@ -2,7 +2,7 @@
 
 Order entry panel is where market or pending orders can be placed. To open the Order entry panel select Terminal -&gt; Order entry.
 
-![](.gitbook/assets/26.png)
+![](../../.gitbook/assets/26.png)
 
 This panel contains the following settings:
 
@@ -11,7 +11,7 @@ Order entry panel is where market or pending orders can be placed. To open the O
 * Symbol - the symbol available for the trade;
 * Side - allows to activate Buy or Sell side;
 
- Quantity – an amount of lots in which an order is placed. The button![](.gitbook/assets/27.png)near this fiel  allows to select among default values for Quantity from the drop-down list. The item Edit calls the Types manager panel, allowing to edit the default values;
+ Quantity – an amount of lots in which an order is placed. The button![](../../.gitbook/assets/27.png)near this fiel  allows to select among default values for Quantity from the drop-down list. The item Edit calls the Types manager panel, allowing to edit the default values;
 
 * Order type - defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop, OCO:
 
@@ -47,11 +47,11 @@ Note: if the user performs actions on the position or modifies the order from on
 * Limit price \(available together with Stop price for the "Stop order" and "OCO" order types; also available for the "Limit order" type\) - allows entering the order limit price;
 * Tr. stop offset - \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
 
-You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. Put your mouse on the SL button without clicking on it and then choose TSL to change Stop Loss order into Trailing Stop![](.gitbook/assets/28%20%281%29.png).
+You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. Put your mouse on the SL button without clicking on it and then choose TSL to change Stop Loss order into Trailing Stop![](../../.gitbook/assets/28%20%281%29.png).
 
  Order entry panel has two additional sections which display important information: VWAP and Margin. VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
 
-![](.gitbook/assets/29%20%281%29.png)
+![](../../.gitbook/assets/29%20%281%29.png)
 
 * Margin section - allows displaying Margin section in the Order entry panel.
 
@@ -84,5 +84,5 @@ P/L per Tick - no information for Index.
 
 **Fees** part shows commission for a trade:
 
-Total fee – shows the commission total on the trade. It is displayed depending upon commission plan settings on the Server. Information of the Margin section can be updated by clicking on the button![](.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+Total fee – shows the commission total on the trade. It is displayed depending upon commission plan settings on the Server. Information of the Margin section can be updated by clicking on the button![](../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
