@@ -39,4 +39,5 @@
     * [Time & Sales](desktop-application-for-windows/analysis-tools/time-and-sales.md)
   * [Technical indicators](desktop-application-for-windows/technical-indicators.md)
   * [Trading panels](desktop-application-for-windows/trading-panels.md)
+* [Order entry](order-entry.md)
 
