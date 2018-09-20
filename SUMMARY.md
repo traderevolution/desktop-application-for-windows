@@ -60,4 +60,5 @@
       * [Account performance](desktop-application-for-windows/portfolio-information/account/account-performance.md)
       * [Account operations](desktop-application-for-windows/portfolio-information/account/account-operations.md)
     * [Positions balance](desktop-application-for-windows/portfolio-information/positions-balance.md)
+    * [Currencies exposure](desktop-application-for-windows/portfolio-information/currencies-exposure.md)
 
