@@ -41,5 +41,5 @@
   * [Trading panels](desktop-application-for-windows/trading-panels/README.md)
     * [Order entry](desktop-application-for-windows/trading-panels/order-entry.md)
     * [Super DOM](desktop-application-for-windows/trading-panels/super-dom.md)
-* [Market depth](market-depth.md)
+    * [Market depth](desktop-application-for-windows/trading-panels/market-depth.md)
 

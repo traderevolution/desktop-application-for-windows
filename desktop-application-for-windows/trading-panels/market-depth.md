@@ -2,7 +2,7 @@
 
 The Market depth panel allows to view and trade Level II quotes. To open a new Market depth panel, go to Terminal -&gt; Market depth.
 
-![](.gitbook/assets/37%20%281%29.png)
+![](../../.gitbook/assets/37%20%281%29.png)
 
 The Market depth panel consists of several sections:
 
@@ -41,7 +41,7 @@ The color of QTY cell depends on a side of a position:
 
 The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose the way the panel looks, open context menu -&gt; View:
 
-![](.gitbook/assets/38.png)
+![](../../.gitbook/assets/38.png)
 
 In the detailed quote section, offers with equal prices are grouped by the same color. There are five available color groups. The quotes with best prices are placed on the top and regrouped each time a new quote comes.
 
@@ -76,7 +76,7 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 * Total size – when clicking on the Total size column, the price and total size values will be substituted in OE;
 * Price – when clicking on the Price column, only the price value will be substituted in OE \(for Limit order – limit price, for the Stop limit order, Stop order, Tr. stop – stop price\).
 
-![](.gitbook/assets/39%20%281%29.png)
+![](../../.gitbook/assets/39%20%281%29.png)
 
 ### **Market depth settings**
 
@@ -84,7 +84,7 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 
 #### **View**
 
-![](.gitbook/assets/40.png)
+![](../../.gitbook/assets/40.png)
 
 *  Standard settings – Font, Grid;
 * Show size in –   allows selecting in what form the volume will be shown. General defaults – is taken from general terminal settings; Lots – will be displayed in lots; Real size - will be displayed in real value;
@@ -99,7 +99,7 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 
 #### Colors
 
-![](.gitbook/assets/41.png)
+![](../../.gitbook/assets/41.png)
 
 Table/Grid/Selection – color settings.
 
@@ -109,37 +109,37 @@ The Market depth panel offers various coloring methods for Level 2 quotes. For s
 
 Depending on the selected criterion, there are six coloring methods available in the menu:
 
-![](.gitbook/assets/42.png)
+![](../../.gitbook/assets/42.png)
 
 * By price level – coloring the quotes depending on price tier. The coloring is configurable for up to 5 tiers separately:
 
-![](.gitbook/assets/43.png)
+![](../../.gitbook/assets/43.png)
 
 *  Relative to volume – Level 2 quotes are colored with the max volume getting the most saturated color. Allows setting the most saturated Ask and Bid colors:
 
-![](.gitbook/assets/44.png)
+![](../../.gitbook/assets/44.png)
 
 *  Step to max volume – Level 2 quotes are colored so that the max volume set in the "Max volume" field has the most saturated color. Allows setting the most saturated Ask and Bid colors;
 
-![](.gitbook/assets/45%20%281%29.png)
+![](../../.gitbook/assets/45%20%281%29.png)
 
 * By update time – the most recently updated Ask and Bid values are colored with the most saturated Ask and Bid colors set in the menu.
 
-![](.gitbook/assets/46%20%281%29.png)
+![](../../.gitbook/assets/46%20%281%29.png)
 
 *  By source and volume conditions 
 
-![](.gitbook/assets/47%20%281%29.png)
+![](../../.gitbook/assets/47%20%281%29.png)
 
 *  Size histogram
 
-![](.gitbook/assets/51%20%281%29.png)
+![](../../.gitbook/assets/51%20%281%29.png)
 
 Enabling the "Highlight new order" option \(Market depth Settings -&gt; View -&gt; ‘View by’ set to ‘By order’\) highlights the order recently added to the Market depth. If two orders were added simultaneously they are both highlighted.
 
 The colors for the text and background of the newly added order can be set in the menu.
 
-![](.gitbook/assets/544.png)
+![](../../.gitbook/assets/544.png)
 
 * Buy/Sell color settings – allows to change colors in the Position bar \(Price and QTY\), when positions are Long/Short;
 * Profit/Loss color settings – allows to change colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
@@ -156,13 +156,13 @@ Select desired price or MPID - &gt; right click on it - &gt; set the monitor - &
 
 The Additional tab of the Market depth settings looks as follows:
 
-![](.gitbook/assets/53%20%281%29.png)
+![](../../.gitbook/assets/53%20%281%29.png)
 
 In the "Orders q-ty for hotkey trading" section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. The "Auto-substitution order size by mouse click" and "Auto-substitution order price by mouse click" enable the user to perform the corresponding actions. 
 
 #### **Tab order**
 
-![](.gitbook/assets/54%20%281%29.png)
+![](../../.gitbook/assets/54%20%281%29.png)
 
 The Tab order section of the General tab of Market depth menu contains the checkboxes, checking which the selected menu items \(controls\) are included in the switching sequence between the items on pressing Shift / Shift + Tab. If any control was selected in the open Order entry menu at the moment of pressing Shift / Shift + Tab, the switching is performed starting from the control selected and in the sequence of the items checked.
 
