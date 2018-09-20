@@ -10,7 +10,9 @@ To open Accounts panel, select Account -&gt; Accounts in the header of the termi
 
 ![](../../../.gitbook/assets/11%20%282%29.png)
 
-If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. The following information about Accounts + calculation formulas is available:
+If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. 
+
+The following information about Accounts + calculation formulas is available:
 
 <table>
   <thead>
