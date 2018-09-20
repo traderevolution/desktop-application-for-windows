@@ -45,4 +45,5 @@
     * [Matrix](desktop-application-for-windows/trading-panels/matrix.md)
     * [Scalper](desktop-application-for-windows/trading-panels/scalper.md)
     * [Visual trading](desktop-application-for-windows/trading-panels/visual-trading.md)
+    * [Option master](desktop-application-for-windows/trading-panels/option-master.md)
 
