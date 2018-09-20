@@ -57,7 +57,7 @@ To remove more than one element, hold the key 'Ctrl', select as much elements as
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
 * ![](../../.gitbook/assets/8%20%285%29.png)– click to collapse each tree's entity;
-* ![](../../.gitbook/assets/9%20%283%29.png)– click to expand each tree's entity.
+* ![](../../.gitbook/assets/9%20%284%29.png)– click to expand each tree's entity.
 
 The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
 

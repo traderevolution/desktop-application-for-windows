@@ -51,4 +51,7 @@
     * [Orders history](desktop-application-for-windows/portfolio-management/orders-history.md)
     * [Filled orders](desktop-application-for-windows/portfolio-management/filled-orders.md)
     * [Saved orders](desktop-application-for-windows/portfolio-management/saved-orders.md)
+    * [Positions](desktop-application-for-windows/portfolio-management/positions.md)
+    * [Synthetic instruments](desktop-application-for-windows/portfolio-management/synthetic-instruments.md)
+    * [Assets](desktop-application-for-windows/portfolio-management/assets.md)
 
