@@ -18,7 +18,7 @@ There are three main methods of scalping:
 * User can trade immediately after opening the panel. Since the most liquid and volatile instruments always have activity and trades on such instruments can be made almost every second.
 * The result of the trade has already been known for a couple of tens of seconds, etc.
 
-![](.gitbook/assets/63%20%281%29.png)
+![](../../.gitbook/assets/63%20%281%29.png)
 
 The Scalper panel allows traders to view and to trade Level II quotes, to use overlay and impulse indicators for analysis and to view Time & Sales chart – all in one panel.
 
@@ -28,14 +28,14 @@ To open a new Scalper panel go to Terminal - &gt; Scalper.
 
 The top panel of the Scalper consists of the Symbol and Account lookups, trading buttons and Menu button.
 
-![](.gitbook/assets/64.png)
+![](../../.gitbook/assets/64.png)
 
 * Auto center button – allows auto centering the Market depth section relatively to spread.
 * Hot keys trading button – allows trading with the help of the Hotkeys from the keyboard and Market depth section which is an integral part of the Scalper panel.
 * Mouse trading button - allows trading with the help of the mouse and Market depth section. Both trading types \(Hot keys and Mouse\) are available simultaneously.
 * Context menu button – allows to evoke the Context menu of the panel, also it is available through right click tapping within the Scalper panel:
 
-![](.gitbook/assets/65%20%281%29.png)
+![](../../.gitbook/assets/65%20%281%29.png)
 
 - Show impulse indicator – allows to enable/disable the market sentiment indicators \(not more than three\).
 
@@ -47,7 +47,7 @@ The top panel of the Scalper consists of the Symbol and Account lookups, trading
 
 The bottom status bar consists of the three sections:
 
-![](.gitbook/assets/66.png)
+![](../../.gitbook/assets/66.png)
 
 1. Working quantity indicator – shows the current value of the working quantity that displays the number of active combination and the values themselves \(working quantity – increase quantity – decrease quantity\). All three available combinations are displayed on the status bar, and active combination is highlighted.
 2. SL/TP indicator – shows SL/TP values that are currently set in the settings. Also the separate indicator shows what type of adding SL/TP mode is now active \(auto or manual\).
@@ -64,7 +64,7 @@ The color of QTY cell depends on the side of the position:
 
 User has a possibility to change a size of Time and sales chart section using left mouse button \(drag&drop\), to provide this just disable Mouse trading and resize chart section to desired width.
 
-![](.gitbook/assets/67%20%281%29.png)
+![](../../.gitbook/assets/67%20%281%29.png)
 
 **Market depth section**
 
@@ -91,13 +91,13 @@ If several orders are open on current price \(summary volume is shown in the ord
 5. Overlay indicators – are any other symbols, the movement or side of which may be preceded by the movement of the traded asset, and the whole process of leading one another called "correlation". They are shown as line charts which are outputted in the panel without reference to Market depth section \(not more than 3\).
 6. Impulse indicators – are any other symbols which can cause impulsive directional movement of the traded instrument \(not more than 3\). Impulse indicator is presented in the form of two vertical columns opposite each other at the bottom and top of the panel Scalper. Upper column shows the total amount of purchases over a certain time interval, the lower - total sales for the specified time interval.
 
-**Scalper settings**
+### **Scalper settings**
 
 Scalper settings have six sections to setup.
 
 **General**
 
-![](.gitbook/assets/68%20%281%29.png)
+![](../../.gitbook/assets/68%20%281%29.png)
 
 Line types, colors and steps for the horizontal grid that are used in the charting area can be set here. General color of the panel background is also set here.
 
@@ -108,7 +108,7 @@ Show toolbar – allows showing toolbar.
 
 **Trading**
 
-![](.gitbook/assets/69.png)
+![](../../.gitbook/assets/69.png)
 
 * Cancellation priority – allows setting the priority for canceling orders in group \(FIFO, LIFO\).
 * Replacing priority – allows setting the priority for replacing orders in group \(FIFO, LIFO\).
@@ -125,7 +125,7 @@ Increase qty. – allows setting quantity of increasing the position.
 
 Decrease qty. – allows setting quantity of decreasing the position.
 
-![](.gitbook/assets/70.png)
+![](../../.gitbook/assets/70.png)
 
 **Orders execution scheme:**
 
@@ -141,7 +141,7 @@ For ‘Buy orders’ the offset is counted from Ask price by default. Positive o
 
 For ‘Sell orders’ the offset is counted from Bid price by default. Positive offset means that the order will be placed with better price than current Bid and therefore it will become the first in Market depth. Negative offset means that the order will be placed with worse price than current Bid and therefore it can start to fill immediately after placing.
 
-![](.gitbook/assets/71.png)
+![](../../.gitbook/assets/71.png)
 
 For Limit order strategy \(increase/decrease\), user can choose the order type \(Buy or Sell\) that allows to set up correct offsets for Buy/Sell orders. Note, when selecting the Order type, "Offset from" and "Offset" settings should be saved separately for Buy and Sell orders.
 
@@ -149,15 +149,15 @@ For ‘Sell orders’ the offset is counted from Bid price by default. Positive 
 
 Slippage field – the maximal slippage value is set while placing a new market order.
 
-![](.gitbook/assets/72.png)
+![](../../.gitbook/assets/72.png)
 
 Put over volume \(buy, sell, increase, decrease\) – allows setting order volume in the “Volume” field which should be skipped till placing user’s own order, i.e. some number of orders is skipped forward with the condition that the sum of their volume does not exceed the one specified in the field.
 
-![](.gitbook/assets/73.png)
+![](../../.gitbook/assets/73.png)
 
 **Time & Sales chart**
 
-![](.gitbook/assets/74.png)
+![](../../.gitbook/assets/74.png)
 
 * Mode – here can be two modes:
 
@@ -173,7 +173,7 @@ Trades and Quotes – tick chart and past trades are shown on the chart. If sele
 
 1. Base settings:
 
-![](.gitbook/assets/75.png)
+![](../../.gitbook/assets/75.png)
 
 * Standard settings – Font, Row height.
 * Size coloring scheme – allows selecting the coloring scheme of volume indicators:
@@ -193,7 +193,7 @@ Relative by custom volume – all cells are colored entirely, the color saturati
 * Show prices in spread – if checked, price values are shown in the spread; if unchecked – dashes.
 * Reverse size bar – if checked, size of quantity indicators will be filled from right to left; if unchecked – from left to right.
 
-![](.gitbook/assets/76.png)
+![](../../.gitbook/assets/76.png)
 
 2. Cumulative size indicator:
 
@@ -211,7 +211,7 @@ Relative by custom volume – all cells are colored entirely, the color saturati
 * Color settings for volume change indicators by each price;
 * Color settings for max volume markers.
 
-![](.gitbook/assets/77.png)
+![](../../.gitbook/assets/77.png)
 
 5. Lvl. 2 colors:
 
@@ -227,7 +227,7 @@ Color and line types settings for established orders and positions.
 
 **Impulse indicator**
 
-![](.gitbook/assets/78.png)
+![](../../.gitbook/assets/78.png)
 
 * Indicator 1, 2, 3 visible – allows to activate and to select not more than three symbols that will be displayed in the panel and to set the Bar max volume value for each of them.
 * Appearance:
@@ -240,20 +240,20 @@ Bar height, % - allows setting the size of one column in percent from panel heig
 
 * Colors – allows selecting the fill color for Buy and Sell columns.
 
-![](.gitbook/assets/79.png)
+![](../../.gitbook/assets/79.png)
 
 **Overlay indicator**
 
-![](.gitbook/assets/80.png)
+![](../../.gitbook/assets/80.png)
 
-![](.gitbook/assets/81.png)
+![](../../.gitbook/assets/81.png)
 
 * Overlay 1, 2, 3 – allows enabling overlay indicators \(not more than three\) and selecting the symbol for which the chart will be built, and also data type for charting and line style.
 * Overlay shift – allows indicating distance in pixels on which the next point of the overlay chart will be built.
 * Show price marker – allows showing near the chart the marker with price change in percent from the beginning of the day \(the opening of trade\).
 * Right margin, % - allows setting the distance from Market depth section at which the overlay chart will be built.
 
-**Scalper hotkeys**
+### **Scalper hotkeys**
 
 The list of hotkeys to set for the Scalper panel is available in the General settings - &gt; Hotkeys - &gt; Scalper.
 
