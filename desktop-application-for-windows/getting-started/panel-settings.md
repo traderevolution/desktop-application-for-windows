@@ -97,7 +97,7 @@ In the Export window choose a needed file format from the list:
 
 Set path for file saving, choose needed columns for exporting \(activate the 'Check all' function in order to select all columns\) and click on the button 'Export':
 
-![](../../.gitbook/assets/14%20%283%29.png)
+![](../../.gitbook/assets/14%20%284%29.png)
 
 Synchronize – this function is used for Excel format only, when checked, allows to view information in Excel format in real-time mode without saving this file.
 

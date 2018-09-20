@@ -37,7 +37,7 @@ Cluster chart fits for analysis on any timeframe for any style of the trading: s
 * Cluster color – allows allocating upward and downward clusters.
 * Doji
 
-![](../../../.gitbook/assets/14%20%282%29.png)
+![](../../../.gitbook/assets/14%20%283%29.png)
 
 * Font color – allows to set up the font color of the numbers which are displayed inside of the clusters.
 * Color scheme – allows setting the coloring style of background inside the cluster. Four color schemes are available:
