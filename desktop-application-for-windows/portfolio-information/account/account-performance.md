@@ -30,17 +30,26 @@ All information in the ‘Performance Data’ tab is divided into three followin
 
 The table consists of 4 columns:
 
-·         Variables – in this column, user can find the names of the parameters.
-
-·         Total – in this column, user can find parameters for Short and Long trades.
-
-·         Long – in this column, user can find parameters for Long trades.
-
-·         Short – in this column, user can find parameters for Short trades.
+* Variables – in this column, user can find the names of the parameters.
+* Total – in this column, user can find parameters for Short and Long trades.
+*  Long – in this column, user can find parameters for Long trades.
+* Short – in this column, user can find parameters for Short trades.
 
 Let’s consider all the tabs in details.
 
 The first section is **Cumulative P/L**. Here users can see all the information on their trading results and capital. In the ‘Total’ tab, the value of all settled and unsettled P/L account operations is displayed. Operation values can also be viewed separately divided by operation type \(‘Long’ and ‘Short’ tabs\).
 
 Cumulative P\L :
+
+*  Profit factor – indicator of profitability showing what average profit in relation to loss is. Calculated as:
+
+Profit factor = \(avr\_TP \* %TP\)/\(avr\_SL \* %SL\), where:
+
+avr\_TP – size of the average profitable trade \(in ccy\);
+
+%TP – probability of the profitable trade receiving;
+
+avr\_SL – size of the average losing trade \(in ccy\); avr\_SL is always taken modulo.
+
+%SL – probability of the losing trade receiving.
 
