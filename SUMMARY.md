@@ -50,4 +50,5 @@
     * [Working orders](desktop-application-for-windows/portfolio-management/working-orders.md)
     * [Orders history](desktop-application-for-windows/portfolio-management/orders-history.md)
     * [Filled orders](desktop-application-for-windows/portfolio-management/filled-orders.md)
+    * [Saved orders](desktop-application-for-windows/portfolio-management/saved-orders.md)
 
