@@ -64,4 +64,5 @@
     * [Reports](desktop-application-for-windows/portfolio-information/reports.md)
   * [Informative panels](desktop-application-for-windows/informative-panels.md)
   * [Help](desktop-application-for-windows/help.md)
+  * [Trading ideas](desktop-application-for-windows/trading-ideas.md)
 
