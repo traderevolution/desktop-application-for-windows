@@ -35,4 +35,5 @@
         * [Time & Sales analysis](desktop-application-for-windows/analysis-tools/chart/volume-analysis/time-and-sales-analysis.md)
         * [VWAP](desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap.md)
   * [Grid](desktop-application-for-windows/grid.md)
+  * [Watchlist](desktop-application-for-windows/watchlist.md)
 
