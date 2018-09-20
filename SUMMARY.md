@@ -48,4 +48,5 @@
     * [Option master](desktop-application-for-windows/trading-panels/option-master.md)
   * [Portfolio management](desktop-application-for-windows/portfolio-management/README.md)
     * [Working orders](desktop-application-for-windows/portfolio-management/working-orders.md)
+    * [Orders history](desktop-application-for-windows/portfolio-management/orders-history.md)
 
