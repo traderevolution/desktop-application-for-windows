@@ -8,7 +8,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 ![](../../.gitbook/assets/3%20%282%29.png)
 
-![](../../.gitbook/assets/4%20%281%29.png)
+![](../../.gitbook/assets/4%20%282%29.png)
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 

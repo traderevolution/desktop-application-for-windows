@@ -53,3 +53,71 @@ avr\_SL – size of the average losing trade \(in ccy\); avr\_SL is always taken
 
 %SL – probability of the losing trade receiving.
 
+* Fee = \(Fee/Start capital\)\*100%
+*  Expected payoff – mathematical expectation of win. This parameter to be calculated statistically represents average profit/loss factor of one trade. Calculation formula:
+
+Expected payoff = \(avr\_TP \* %TP\) – \(avr\_SL \* %SL\), where
+
+avr\_TP – size of the average profitable trade \(in ccy\);
+
+%TP – probability of the profitable trade receiving;
+
+avr\_SL – size of the average losing trade \(in ccy\); avr\_SL is always taken modulo.
+
+%SL – probability of the losing trade receiving.
+
+* Recovery factor – is a ratio of the net profit to the maximum drawdown. Calculation formula:
+
+Recovery factor = Net profit / Max DD, where
+
+Max DD – module of the maximum drawdown \(in ccy\);
+
+Net profit – trading result for the analyzed period.
+
+* Sharpe Ratio – is a ratio of the expected payoff to the standard deviation. Calculation formula:
+
+Sharpe Ratio = Expected payoff/STD, where
+
+STD – standard deviation of the trading results;
+
+STD = SQRT\(1/\(n-1\) \* SUM\(xi-avr\_x\)^2\)
+
+* Win/Loss Ratio   – is a ratio of the probability of the profitable trade receiving to the probability of the losing trade receiving. Calculation formula: Win/Loss ratio =%TP/%SL
+*  Equity linearity factor – shows the dispersion degree of the balance chart relative to its regression line. Calculation algorithm:
+
+  1\) Calculate the linear regression on the cumulative array of points of the balance \(equity\).
+
+  Ŷ = a + b\*x
+
+![](../../../.gitbook/assets/3%20%284%29.png)
+
+2\) Calculate the standard deviation \(SD\):
+
+![](../../../.gitbook/assets/4%20%281%29.png)
+
+3\) Plot +1SD and -1SD from obtained regression line.
+
+       4\) Calculate the percentage of points that went beyond the boundaries of standard deviation:
+
+ Equity linearity factor = \(Number of points that are below and above the SD lines/Total number  of points\) \* 100%
+
+ The closer the factor to 100%, the more linear the balance chart.
+
+Trades population:
+
+·         Trades Loss – shows total loss by all losing trades for period.
+
+·         Trades Win – shows total profit by all winning trades for period.
+
+·         Average Loss – displays the average P/L value for one trade, and separately average loss for losing trades.
+
+·         Average Win – displays the average P/L value for one trade, and separately average win for winning trades.
+
+·         Max. consecutive Loss – shows the longest series of losses in a row among the total number of trades, and their value in the money.
+
+·         Max. consecutive Win – shows the longest series of wins in a row among the total number of trades, and their value in the money.
+
+·         Largest Loss – displays the largest profit loss of one trade for the selected period.
+
+·         Largest Win – displays the largest profit win of one trade for the selected period.
+

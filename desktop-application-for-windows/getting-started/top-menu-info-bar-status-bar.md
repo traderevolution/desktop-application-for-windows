@@ -31,7 +31,7 @@ It looks as the following:
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../.gitbook/assets/4%20%287%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../.gitbook/assets/4%20%288%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
