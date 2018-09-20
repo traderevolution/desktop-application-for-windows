@@ -46,4 +46,5 @@
     * [Scalper](desktop-application-for-windows/trading-panels/scalper.md)
     * [Visual trading](desktop-application-for-windows/trading-panels/visual-trading.md)
     * [Option master](desktop-application-for-windows/trading-panels/option-master.md)
+  * [Portfolio management](desktop-application-for-windows/portfolio-management.md)
 
