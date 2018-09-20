@@ -66,7 +66,7 @@ Then select colors for marking rows \(font and background colors\) and choose co
 
 You can see the example of rows marking by conditions below:
 
-![](../../.gitbook/assets/11%20%282%29.png)
+![](../../.gitbook/assets/11%20%283%29.png)
 
 **Alerts Tab** allows creating alerts settings for each panel.
 
