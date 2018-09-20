@@ -53,4 +53,8 @@
     * [Saved orders](desktop-application-for-windows/portfolio-management/saved-orders.md)
     * [Positions](desktop-application-for-windows/portfolio-management/positions.md)
     * [Synthetic instruments](desktop-application-for-windows/portfolio-management/synthetic-instruments.md)
+    * [Assets](desktop-application-for-windows/portfolio-management/assets.md)
+  * [Portfolio information](desktop-application-for-windows/portfolio-information/README.md)
+    * [Account](desktop-application-for-windows/portfolio-information/account/README.md)
+      * [Accounts](desktop-application-for-windows/portfolio-information/account/accounts.md)
 
