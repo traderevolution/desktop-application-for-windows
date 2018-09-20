@@ -40,4 +40,5 @@
   * [Technical indicators](desktop-application-for-windows/technical-indicators.md)
   * [Trading panels](desktop-application-for-windows/trading-panels/README.md)
     * [Order entry](desktop-application-for-windows/trading-panels/order-entry.md)
+    * [Super DOM](desktop-application-for-windows/trading-panels/super-dom.md)
 

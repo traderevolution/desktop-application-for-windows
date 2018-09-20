@@ -35,7 +35,7 @@ Chart settings include thirteen sections to set up:
 
 ![](../../../.gitbook/assets/30%20%281%29.png)
 
-![](../../../.gitbook/assets/31.png)
+![](../../../.gitbook/assets/31%20%281%29.png)
 
 * Scale type - allows selecting type of the scale price and start price for the chart: Absolute, Relative and Logarithmic.
   * Absolute - displays the price scale in the absolute units.
@@ -70,7 +70,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 #### **Visual trading**
 
-![](../../../.gitbook/assets/32.png)
+![](../../../.gitbook/assets/32%20%281%29.png)
 
 * Open positions - allows displaying opened positions on chart and setting up style of lines.
 * Working orders - allows displaying working orders on the chart and setting up the style of lines.
@@ -79,7 +79,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 #### **Chart Order entry**
 
-![](../../../.gitbook/assets/33.png)
+![](../../../.gitbook/assets/33%20%281%29.png)
 
 This section allows choosing buttons and hot buttons that will be displayed on the Order entry panel.
 
