@@ -12,7 +12,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
-![](../../.gitbook/assets/5%20%286%29.png)
+![](../../.gitbook/assets/5%20%287%29.png)
 
 Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 

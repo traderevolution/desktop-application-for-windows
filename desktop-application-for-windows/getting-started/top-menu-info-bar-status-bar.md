@@ -35,7 +35,7 @@ The control![](../../.gitbook/assets/4%20%288%29.png)opens a list of elements' 
 
 * Account details – opens the 'Customize account details' menu:
 
-![](../../.gitbook/assets/5%20%281%29.png)
+![](../../.gitbook/assets/5%20%282%29.png)
 
 This menu contains an account lookup for users having more than one account.
 
@@ -46,7 +46,7 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 * Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
 *  Clocks – shows a list of clocks:
 
-![](../../.gitbook/assets/6%20%286%29.png)
+![](../../.gitbook/assets/6%20%287%29.png)
 
 Check needed clock\(s\) to be displayed in the 'Info bar'.
 
@@ -56,8 +56,8 @@ To remove more than one element, hold the key 'Ctrl', select as much elements as
   
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
-* ![](../../.gitbook/assets/8%20%285%29.png)– click to collapse each tree's entity;
-* ![](../../.gitbook/assets/9%20%284%29.png)– click to expand each tree's entity.
+* ![](../../.gitbook/assets/8%20%286%29.png)– click to collapse each tree's entity;
+* ![](../../.gitbook/assets/9%20%285%29.png)– click to expand each tree's entity.
 
 The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
 
