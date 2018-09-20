@@ -1,10 +1,10 @@
 # Object manager
 
-Object manager tool is used to manage drawings, indicators and overlays more effectively and quickly. This panel consists of three tabs which have similar options: Indicators, Drawings and Overlays. In order to open Object manager panel, click on the appropriate button![](../../../.gitbook/assets/42.png)at the chart toolbar or select "Object manager" option from the context menu.
+Object manager tool is used to manage drawings, indicators and overlays more effectively and quickly. This panel consists of three tabs which have similar options: Indicators, Drawings and Overlays. In order to open Object manager panel, click on the appropriate button![](../../../.gitbook/assets/42%20%281%29.png)at the chart toolbar or select "Object manager" option from the context menu.
 
 ### **Indicators**
 
-![](../../../.gitbook/assets/43.png)
+![](../../../.gitbook/assets/43%20%281%29.png)
 
 * Name – shows full name of the indicator.
 * Window – shows type of the window for displaying: Main or Sub.
@@ -14,7 +14,7 @@ Object manager tool is used to manage drawings, indicators and overlays more eff
 
 ### **Drawings**
 
-![](../../../.gitbook/assets/44.png)
+![](../../../.gitbook/assets/44%20%281%29.png)
 
 * Name – shows full name of the drawing.
 * Window – shows type of the window for displaying: Main or Sub.

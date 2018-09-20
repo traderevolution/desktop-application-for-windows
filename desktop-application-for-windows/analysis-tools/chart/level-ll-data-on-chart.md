@@ -31,7 +31,7 @@ Custom - in this mode, the user indicates the maximum value by himself.
 * Font, Font color – allows to choose font style.
 * Show volume markers – the default state of the checkbox is false, when this checkbox is activated, controls 'Font', 'Color', 'Area' are activated. This setting enables to display the volume markers on the Y axis. These markers show the current volume value at each level of Market depth. 
 
-![](../../../.gitbook/assets/38.png)
+![](../../../.gitbook/assets/38%20%281%29.png)
 
 The field is depicted in proportion to the maximum value.
 
@@ -49,14 +49,14 @@ In the settings there is a combobox 'Coloring scheme' with two states - 'Histogr
 
  The example of Gradient coloring scheme is shown on the first screenshot.​
 
-![](../../../.gitbook/assets/40.png)
+![](../../../.gitbook/assets/40%20%281%29.png)
 
 * Limit orders - сolorpickers, default values for Buy limit - blue, for Sell limit - red.
 * New limit order - the coloring occurs when the volume changes one time at this level, for example, if at the level of 2000 there is a volume of 200 lots and if at some time at this level the volume changes to 202 - at this moment coloring New limit order should occur. Default values for New buy limit - another shade of blue, New sell limit - another shade of red.
 
 The example of Histogram coloring scheme is shown below:​
 
-![](../../../.gitbook/assets/41.png)
+![](../../../.gitbook/assets/41%20%281%29.png)
 
 
 
