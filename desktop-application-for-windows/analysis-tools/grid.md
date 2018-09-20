@@ -2,7 +2,7 @@
 
 The Grid panel allows user to open a set of Charts in one panel and move this set to another monitor as a separate panel.
 
-![](../../.gitbook/assets/12%20%281%29.png)
+![](../../.gitbook/assets/12%20%282%29.png)
 
 Double click on the header of a cell in order to maximize it to the size of Grid panel, or use the corresponding button![](../../.gitbook/assets/13.png)for the same action. 
 

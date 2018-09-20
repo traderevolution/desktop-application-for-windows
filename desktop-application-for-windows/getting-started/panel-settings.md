@@ -87,7 +87,7 @@ Or you can choose the following options from the **More actions** menu:
 
 Each table panel in the terminal \(Positions, Orders, Time & Sales, etc.\) has the function 'Export' in the Context menu:
 
-![](../../.gitbook/assets/12.png)
+![](../../.gitbook/assets/12%20%281%29.png)
 
 All information from table panels can be exported to Excel or CSV files.
 
