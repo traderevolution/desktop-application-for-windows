@@ -4,11 +4,11 @@
 
 ![](../../.gitbook/assets/4%20%283%29.png)
 
-To create a new order, click on the button![](../../.gitbook/assets/5%20%289%29.png)or open context menu -&gt; Add order…
+To create a new order, click on the button![](../../.gitbook/assets/5%20%2810%29.png)or open context menu -&gt; Add order…
 
 The following Order entry window with standard order parameters will be opened:
 
-![](../../.gitbook/assets/6%20%283%29.png)
+![](../../.gitbook/assets/6%20%284%29.png)
 
 The following columns are available in the panel:
 

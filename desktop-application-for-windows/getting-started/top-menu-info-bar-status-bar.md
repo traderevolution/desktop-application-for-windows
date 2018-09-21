@@ -20,7 +20,7 @@ It looks as the following:
 
 ![](../../.gitbook/assets/1%20%285%29.png)
 
-You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../.gitbook/assets/2%20%284%29.png).
+You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../.gitbook/assets/2%20%285%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
@@ -31,7 +31,7 @@ It looks as the following:
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../.gitbook/assets/4%20%288%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../.gitbook/assets/4%20%289%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
@@ -46,7 +46,7 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 * Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
 *  Clocks – shows a list of clocks:
 
-![](../../.gitbook/assets/6%20%287%29.png)
+![](../../.gitbook/assets/6%20%288%29.png)
 
 Check needed clock\(s\) to be displayed in the 'Info bar'.
 

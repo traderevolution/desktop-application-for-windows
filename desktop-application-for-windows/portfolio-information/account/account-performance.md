@@ -8,7 +8,7 @@ Account performance panel offers the feature of exporting all statistics and cha
 
 Account performance panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
-![](../../../.gitbook/assets/2%20%289%29.png)
+![](../../../.gitbook/assets/2%20%2811%29.png)
 
 At the top right corner of the panel, you can find ‘Account link’ button and ‘Menu’ button.
 
@@ -89,7 +89,7 @@ STD = SQRT\(1/\(n-1\) \* SUM\(xi-avr\_x\)^2\)
 
   Ŷ = a + b\*x
 
-![](../../../.gitbook/assets/3%20%284%29.png)
+![](../../../.gitbook/assets/3%20%285%29.png)
 
 2\) Calculate the standard deviation \(SD\):
 
@@ -146,7 +146,7 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
 Cumulative P/L chart allows users to view changes of their balances and P/L graphically. Cumulative P/L chart in the **Operations** mode displays how a user’s balance was changed depending on the trade operations performed within the selected period. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the button ![](../../../.gitbook/assets/5%20%281%29.png).
 
-![](../../../.gitbook/assets/6%20%285%29.png)
+![](../../../.gitbook/assets/6%20%286%29.png)
 
 Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../.gitbook/assets/7%20%285%29.png)to select the corresponding modes.
 
