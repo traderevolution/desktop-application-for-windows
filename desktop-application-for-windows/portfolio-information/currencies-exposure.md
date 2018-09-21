@@ -18,7 +18,7 @@ Amount \(Net qty.\) = Sum of all positions \(Buy/Sell\) by base & counter curren
 Base currency: 
 
 Buy: Pos. amount \* Lot size  
- Sell: - Pos. amount \* Lot size
+Sell: - Pos. amount \* Lot size
 
 Counter currency:  
  Buy: - Pos. amount \* Lot size \* Pos. open price  
