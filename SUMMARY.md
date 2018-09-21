@@ -63,7 +63,7 @@
     * [Currencies exposure](desktop-application-for-windows/portfolio-information/currencies-exposure.md)
     * [Reports](desktop-application-for-windows/portfolio-information/reports.md)
   * [Informative panels](desktop-application-for-windows/informative-panels.md)
-  * [Help](desktop-application-for-windows/help.md)
+  * [More](desktop-application-for-windows/help.md)
   * [Trading ideas](desktop-application-for-windows/trading-ideas.md)
   * [MAM system](desktop-application-for-windows/mam-system.md)
 
