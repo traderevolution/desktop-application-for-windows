@@ -22,15 +22,13 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ![](../../.gitbook/assets/3%20%283%29.png)
 
-Click on lookup to select symbol:
-
 ![](../../.gitbook/assets/4%20%285%29.png)
 
 2\) Click on the button![](../../.gitbook/assets/2%20%288%29.png)and choose the option how to add the synthetic instrument.
 
 ![](../../.gitbook/assets/5%20%283%29.png)
 
-* From lookup – the same option as for previous;
+* From lookup – the symbol can be selected from the lookup; 
 * From lists of symbols – symbols can be added from previously created lists in the panel Watchlist.
 
 3\) Next edit the coefficient of the symbol in the Coefficient column. Click on coefficient to change it. If the coefficient is a positive value, the symbol will be bought when the synthetic instrument is traded. Likewise, if the coefficient is a negative value, the symbol will be sold.
