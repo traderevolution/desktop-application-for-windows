@@ -8,7 +8,7 @@ To create a MAM group, open the MAM panel and click Create group.
 
 ![](../../.gitbook/assets/6%20%287%29.png)
 
-Now, enter a group name and choose an Allocation type. Click button in column "Remove" to delete the group from the list.
+Now, enter a group name and choose an Allocation type. Click on the button in column "Remove" to delete the group from the list.
 
 ![](../../.gitbook/assets/7%20%286%29.png)
 
