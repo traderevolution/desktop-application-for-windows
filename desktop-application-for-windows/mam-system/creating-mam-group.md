@@ -27,7 +27,7 @@ To create a MAM group, open the MAM panel and click Create group.
 
 * Remove – the button which is used to delete selected MAM group.
 
-The group is now created and accounts can be added to it. To add an account, click Add account. To delete an account, click button in "Remove" column.
+The group is now created and accounts can be added to it. To add an account, click Add account. To delete an account, click on the button in "Remove" column.
 
 ![](../../.gitbook/assets/8%20%283%29.png)
 
