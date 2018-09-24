@@ -32,7 +32,7 @@ The following buttons of the tab allow the following actions:
 
 * Add underlier – opens ‘Order entry’ panel.
 * Cancel all - cancels all 'test on paper' orders;
-* Place all - places all 'test on paper' orders.
+* Place selected - places selected 'test on paper' orders.
 
 SL/TP for orders
 
