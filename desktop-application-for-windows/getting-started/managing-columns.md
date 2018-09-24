@@ -38,7 +38,7 @@ Filtering of text columns allows to find the selected symbol in 1 click:
 
 Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
 
-![](../../.gitbook/assets/7%20%286%29.png)
+![](../../.gitbook/assets/7%20%288%29.png)
 
 
 

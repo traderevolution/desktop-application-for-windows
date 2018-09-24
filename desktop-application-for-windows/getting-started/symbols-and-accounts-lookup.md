@@ -33,7 +33,7 @@ Note: you can search for symbols and filter them by their localized names if the
 
 If there is no localized name for an instrument for the current interface language, the server instrument name and description are displayed.
 
-The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%283%29.png)next to the account scroll down menu.
+The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%284%29.png)next to the account scroll down menu.
 
 ![](../../.gitbook/assets/8%20%281%29.png)
 
