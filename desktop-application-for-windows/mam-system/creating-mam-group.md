@@ -2,7 +2,7 @@
 
 The MAM panel can be found by navigating to Tools -&gt; MAM. This panel gives indicative information on both groups and linked accounts. The panel also features a built-in Order entry panel for quick trading. The MAM panel can be linked to other panels. The MAM panel can be closed after use without saving - all changes are saved automatically.
 
-**Creating a MAM group**
+### **Creating a MAM group**
 
 To create a MAM group, open the MAM panel and click Create group.
 
