@@ -4,7 +4,7 @@ The option chain tab shows detailed information about specific option contract a
 
 ![](../../../.gitbook/assets/opt-chain1.png)
 
-Option chain tab uses the coloring method “By difference”. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
+In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
 
 Check the needed option contracts in order to make them accessible for the trading in the Option chain tab.
 
