@@ -6,7 +6,7 @@ To begin a MAM group, a money manager must firstly have client accounts linked t
 
 MAM groups may have an unlimited quantity of accounts. Trading within the MAM panel is fully functional and supports Stop loss, Take profit, and order modifying. Positions can be partially closed as well.
 
-Account statistics are available for the prelinked accounts.
+Account statistics is available for the prelinked accounts.
 
 ### Allocation methods
 
