@@ -20,7 +20,7 @@ Note: if any columns are not supported by RSS feed that fields will be empty.
 
 In order to view the news content, open context menu and select “View news story” or simply double-click on the news row, or just click the link in the corresponding column, after that selected news will be opened in the browser.
 
-**RSS feeds selection**
+### **RSS feeds selection**
 
 User can choose RSS feeds for receiving the news from the list of available.
 
@@ -28,7 +28,9 @@ User can choose RSS feeds for receiving the news from the list of available.
 
 Simply check/uncheck the needed feeds from the list or select all. After selection the user will receive fresh news only from the chosen RSS feeds, but previous news from other feeds won’t be removed from the panel.
 
-**Adding/Editing the RSS feed** To add a new RSS feed, go to the RSS panel - &gt; click on the "Settings" button![](../../.gitbook/assets/settings.png), or to General settings -&gt; RSS. RSS settings allow adding a new feed or editing the existing one.
+### **Adding/Editing the RSS feed** 
+
+To add a new RSS feed, go to the RSS panel - &gt; click on the "Settings" button![](../../.gitbook/assets/settings.png), or to General settings -&gt; RSS. RSS settings allow adding a new feed or editing the existing one.
 
 ![](../../.gitbook/assets/rss-settings.png)
 
