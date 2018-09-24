@@ -116,14 +116,15 @@ Trades population:
 
 Drawdowns:
 
-* Maximal drawdown – is the highest difference between one of local upper extremums of the balance chart and the following lower extremums.
+*  Maximal drawdown – is the highest difference between one of local upper extremums of the balance chart and the following lower extremums.
 
         Maximal drawdown, % = \(Maximal drawdown ÷ Peak Balance value\) \* 100%
 
-* Absolute drawdown – is the difference between the current capital and current local upper extremum.
+*  Absolute drawdown – is the difference between the current capital and current local upper extremum.
+* Average drawdown – is the arithmetic average of all drawdowns over a given time period.
 * Average drawdown, % – is the ratio of the sum of the drawdowns expressed as a percentageto the total number of drawdowns.
 
-        Average drawdown, % = Sum \(DD1,% +…+DDn,%\)/N
+       Average drawdown, % = Sum \(DD1,% +…+DDn,%\)/N
 
 ### **Performance Charts**
 
