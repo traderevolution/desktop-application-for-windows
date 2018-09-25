@@ -48,6 +48,7 @@
     * [Option master](desktop-application-for-windows/trading-panels/option-master/README.md)
       * [Overview](desktop-application-for-windows/trading-panels/option-master/overview.md)
       * [Option chain](desktop-application-for-windows/trading-panels/option-master/option-chain.md)
+      * [Analyzer](desktop-application-for-windows/trading-panels/option-master/analyzer.md)
       * [Volatility lab](desktop-application-for-windows/trading-panels/option-master/volatility-lab.md)
   * [Portfolio management](desktop-application-for-windows/portfolio-management/README.md)
     * [Working orders](desktop-application-for-windows/portfolio-management/working-orders.md)
