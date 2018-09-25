@@ -6,6 +6,10 @@ Volatility lab tab is used for graphic analysis before starting to trade options
 
 This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
 
+![](../../../.gitbook/assets/new-lab-main-screen-copy.png)
+
+See the blue chart for "Volatility lab" plotted according to actual market data and the red one for Vanna-Volga implied volatilities model on the chart below:
+
 **Vanna-Volga implied volatilies model calculation algorithm**
 
 This model is plotted for selected option series and gets the following elemental parameters:
