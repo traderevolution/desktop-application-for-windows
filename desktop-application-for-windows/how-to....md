@@ -59,8 +59,9 @@ You can manage risks by setting trailing stop in 2 ways:
 
 #### **8. How to import indicators?**
 
-* Click on the ‘Indicators’ button at the bottom of Indicators lookup;
-* Read more about indicators here: _Technical indicators._
+Click on the ‘Indicators’ button at the bottom of Indicators lookup.
+
+![](../.gitbook/assets/indicators.png)
 
 #### **9. How to show filled orders on the chart?**
 
