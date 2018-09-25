@@ -47,25 +47,25 @@ In order to hide the Chart settings menu, press the button![](../../../.gitbook/
 
 ![](../../../.gitbook/assets/visible.png)
 
-* Pressing![](../../../.gitbook/assets/th.png)  allows to define graph’s thickness \(from 1 to 10 px\), and pressing![](../../../.gitbook/assets/1y.png)calls the dialog window for graph’s color selection:
+* Pressing![](../../../.gitbook/assets/th%20%281%29.png)  allows to define graph’s thickness \(from 1 to 10 px\), and pressing![](../../../.gitbook/assets/1y.png)calls the dialog window for graph’s color selection:
 
 ![](../../../.gitbook/assets/select.png)
 
-Marking the optionas checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
+Marking the option![](../../../.gitbook/assets/vv.png)as checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
 
- This graph can also get its individual parameters via thickness and color selection \(,\). 
+ This graph can also get its individual parameters via thickness and color selection \(![](../../../.gitbook/assets/th.png),![](../../../.gitbook/assets/d.png)\). 
 
-* The drop-down list of the Option series section allows selecting an appropriate series for Vanna-Volga implied volatilities model:.
+* The drop-down list of the Option series section allows selecting an appropriate series for Vanna-Volga implied volatilities model:![](../../../.gitbook/assets/screenshot_4.png).
 
 Be attentive to choose the same series for Vanna-Volga implied volatilities model as for “Volatility lab” graph plotted according to actual market data.
 
-#### Chart scaling
+### Chart scaling
 
- The chart view can be manipulated with the buttons, located in the buttom-right corner of the chart field: 
+ The chart view can be manipulated with the buttons![](../../../.gitbook/assets/screenshot_5.png), located in the buttom-right corner of the chart field: 
 
-* Pressing the button  allows to zoom out of any random area of the chart;
-*  Pressing the button  allows to zoom in to any random area of the chart;
-*  Pressing the button  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
+* Pressing the button![](../../../.gitbook/assets/screenshot_12.png)allows to zoom out of any random area of the chart;
+*  Pressing the button![](../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart;
+*  Pressing the button![](../../../.gitbook/assets/+.png)  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
 
 The chart view can be also manipulated with some additional options:
 
