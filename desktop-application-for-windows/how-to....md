@@ -2,7 +2,9 @@
 
 #### **1. How to reset my password?**
 
-Reset your password following the recommendations from the ‘Changing password’ section: _Getting started -&gt; Installation and updates_
+Reset your password following the recommendations from the ‘Changing password’ section: 
+
+[https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates)
 
 #### **2. How to find the ID of the order / position?**
 
