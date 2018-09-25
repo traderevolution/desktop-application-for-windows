@@ -41,7 +41,7 @@ Right click by the auxiliary axis and choose data series to display as overlay o
 
 Only one data series can be selected. "What if" scenario is not applied to the data series located on the auxiliary axes. Double click in the chart area or by X axis in order to enable Auto scale mode for both axes simultaneously.
 
-**Probability calculation algorithm**
+### **Probability calculation algorithm**
 
 **Single mode**
 
