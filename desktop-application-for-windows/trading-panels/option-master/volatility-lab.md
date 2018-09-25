@@ -37,15 +37,21 @@ In the Chart settings menu you can choose the Side, Visible series and Volatilit
 
 ![](../../../.gitbook/assets/screenshot_2%20%282%29.png)
 
-In order to hide the Chart settings menu, press the button, this will result into the chart’s maximization.
+In order to hide the Chart settings menu, press the button![](../../../.gitbook/assets/screenshot_3.png), this will result into the chart’s maximization.
 
-* The drop-down list in the Side section allows selecting an option side \(strikes\) on which the "Volatility lab" will be plotted. Available strikes are Calls and Puts:
+* The drop-down list in the Side section allows selecting an option side \(strikes\) on which the "Volatility lab" will be plotted. Available strikes are Calls, Puts, Calls&Puts:
+
+![](../../../.gitbook/assets/settings-volat.png)
 
 * The section Visible series allows selecting series for "Volatility lab". Mark series as checked to get one or more "Volatility lab" graphs plotted on the chart:
 
-Pressingallows to define graph’s thickness \(from 1 to 10 px\), and pressingcalls the dialog window for graph’s color selection:
+![](../../../.gitbook/assets/visible.png)
 
-Marking the optionas checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
+* Pressing![](../../../.gitbook/assets/th.png)  allows to define graph’s thickness \(from 1 to 10 px\), and pressing![](../../../.gitbook/assets/1y.png)calls the dialog window for graph’s color selection:
+
+![](../../../.gitbook/assets/select.png)
+
+Marking the optionas checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
 
  This graph can also get its individual parameters via thickness and color selection \(,\). 
 
