@@ -93,7 +93,9 @@ If Overnight margin available &lt; 0, user will get a message "You don’t have 
 ### RSS
 
 Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.  
-Read more about RSS panel here: [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
+Read more about RSS panel here: 
+
+[https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
 
 ![](../../.gitbook/assets/11f.png)
 
