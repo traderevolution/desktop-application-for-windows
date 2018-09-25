@@ -69,10 +69,10 @@ Marking the option![](../../../.gitbook/assets/vv.png)as checked in the Volatili
 
 The chart view can be also manipulated with some additional options:
 
-* Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot  of any chart;
-*  Clicking + holding + moving the cursor on a random area of the coordinate plane- allows to focus the chart view on this area of the coordinate plane;
+* Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot![](../../../.gitbook/assets/dd.png)of any chart;
+*  Clicking + holding + moving the cursor on a random area of the coordinate plane![](../../../.gitbook/assets/screenshot_14.png)- allows to focus the chart view on this area of the coordinate plane;
 * Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right \(X\) or up/down \(Y\) on this area on the X or Y axis;
 * Clicking + scrolling on any area on the X or Y axis - allows to zoom in to and zoom out of this area:
 
-
+![](../../../.gitbook/assets/xy.png)
 
