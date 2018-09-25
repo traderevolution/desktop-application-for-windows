@@ -21,7 +21,7 @@ Analyzer tab has the general view as follows:
 
 Probability calculation:
 
-* Probability calculation mode – this setting allows choosing the calculation type of probability at a certain price movement of the underlier, the following values are available here:  
+* Probability calculation mode – this setting allows choosing the calculation type of probability at a certain price movement of the underlier, the following values are available here:
   * None – calculation of probabilities is missing.
   * Single – allows calculating the probability of the underlier price change till the specified level set by the user in the form of a vertical line;
   * OR – allows calculating the conditional probability of occurrence of any event P1 or P2 designated by the user on the chart in the form of vertical lines;
