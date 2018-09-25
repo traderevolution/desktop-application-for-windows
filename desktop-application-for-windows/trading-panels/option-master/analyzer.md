@@ -33,6 +33,8 @@ Probability calculation:
 
 Option analyzer chart has a possibility to display additional data \("greeks"\) in the form of **overlays**.
 
+![](../../../.gitbook/assets/gamma.png)
+
 Analyzer chart has two axes: main \(right\) and auxiliary \(left\). Not only auxiliary data series \("greeks"\), but the same data as on the main axis can be displayed on the left axis. If both axes contain the same data, for example, PL, then only one data series will be displayed on both axes; there is no overlay in such case. Auxiliary axis supports Auto/Manual chart mode.
 
 Right click by the auxiliary axis and choose data series to display as overlay on the auxiliary axis. Available data series: PL, Delta, Gamma, Vega, Theta.
