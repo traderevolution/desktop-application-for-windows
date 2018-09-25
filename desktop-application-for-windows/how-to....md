@@ -74,7 +74,9 @@ Click on the ‘Import’ button at the bottom of Indicators lookup.
 
 * Click on the button ‘Analysis tools’ button to open the list of analysis tools and choose VWAP;
 * VWAP can be enabled in such panels as Chart, Market depth, Scalper, Matrix, Order entry;
-* Read more about VWAP here: _Analysis tools -&gt; Volume analysis -&gt; VWAP._
+* Read more about VWAP here: 
+
+[https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
 
 #### **11. Where is the volume at price?**
 
