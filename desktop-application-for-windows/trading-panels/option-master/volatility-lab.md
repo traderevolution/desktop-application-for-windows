@@ -2,6 +2,8 @@
 
 Volatility lab tab is used for graphic analysis before starting to trade options:
 
+![](../../../.gitbook/assets/1%20%286%29.png)
+
 This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
 
 **Vanna-Volga implied volatilies model calculation algorithm**
@@ -19,8 +21,8 @@ M = Domestick rate/100 - Foreign rate/100;
 
 * ATM strike – is a strike, value of which is the closest to a Current last price value;
 * ATM IV – an arithmetic mean of ATM Call and Put strikes IV;
-* D Call strike – is a Call strike, Delta absolute value of which is the closest to a Delta value in the settings;
-*   D Call IV - D Call strike IV;
+* D Call strike – is a Call strike, Delta absolute value of which is the closest to a Delta value in the settings![](../../../.gitbook/assets/screenshot_1%20%282%29.png); 
+* D Call IV - D Call strike IV;
 * D Put strike - is a Put strike, Delta absolute value of which is the closest to a Delta value in the settings;
 * D Put IV - D Put strike IV;
 * Strikes array of selected option series.
@@ -32,6 +34,8 @@ M = Domestick rate/100 - Foreign rate/100;
 ### **Chart settings menu**
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
+
+![](../../../.gitbook/assets/screenshot_2%20%282%29.png)
 
 In order to hide the Chart settings menu, press the button, this will result into the chart’s maximization.
 

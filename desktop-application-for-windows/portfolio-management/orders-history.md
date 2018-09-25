@@ -4,7 +4,7 @@
 
 To open Order history panel, select Terminal -&gt; Order history:
 
-![](../../.gitbook/assets/1%20%288%29.png)
+![](../../.gitbook/assets/1%20%289%29.png)
 
 The following columns are available in the panel:
 
