@@ -25,7 +25,7 @@ The Colors sub-menu allows configuring the color scheme for tables:
 
 ![](../../.gitbook/assets/3%20%287%29.png)
 
-####  **Displaying and hiding columns**
+#### **Displaying and hiding columns**
 
 The Columns box on the left lists the columns available in the panel. The columns with the blue checkbox are currently visible. To display or hide a column, check or uncheck an appropriate box and click apply.
 
