@@ -71,7 +71,9 @@ Repeat the whole procedure Simulation examples times.
 
 Probability = Positive results/Simulation examples \* 100
 
-**OR mode**
+![](../../../.gitbook/assets/probability.png)
+
+**OR mode**
 
 This mode is similar to Single mode, but instead of one selector for editing, there are two available selectors. When specifying the range for analysis, the following rule should be applied:
 
