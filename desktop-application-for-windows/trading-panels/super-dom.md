@@ -86,3 +86,95 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 ![](../../.gitbook/assets/sup.png)
 
+**Super DOM settings**
+
+Super DOM settings have 2 tabs, each of them consists of several parts:
+
+![](../../.gitbook/assets/view.png)
+
+**View**
+
+![](../../.gitbook/assets/view2.png)
+
+Base settings:
+
+* Font – allows to choose the style and size of the font;
+* Grid – color of the vertical grid in the Market depth section;
+* Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
+* Full-size cells – allows extending the bars;
+* Autocenter – activates auto centering function;
+* Autocenter type – allows choosing autocenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
+* Compress spread – allows skipping empty levels between the best Bid and best Ask;
+* Show day high/low – allows showing high/low levels for one day;
+* Settlement price – allows displaying settlement price on the chart and choosing the style of its line.
+* Previous settlement price – allows displaying previous settlement price on the chart and choosing the style of its line.
+* Cancellation priority – allows setting the priority for canceling orders in group \(FIFO, LIFO, Max volume\);
+* Replacing priority – allows setting replacing priority \(FIFO, LIFO, Max volume\);
+* Show toolbar – allows showing the toolbar.
+
+![](../../.gitbook/assets/d1.png)
+
+Check/uncheck the needed hot buttons in order to display them in the Quick OE section of the Super DOM panel:
+
+* Buy Market/Sell Market;
+* Sell Bid/Buy Ask;
+* Buy Bid/Sell Ask;
+* Close;
+* Reverse;
+* Cancel buy;
+* Cancel sell;
+* Cancel all.
+
+**Colors**
+
+Table colors:
+
+Grid – color of the vertical grid in the Market depth section;
+
+Table – color of the table filling.
+
+Level1 colors:
+
+Color settings for Best ask and Best bid rows.
+
+Extension:
+
+Color settings for maximal and minimal price markers, settlement price, previous settlement price.
+
+Mouse trading:
+
+Hover – color and line types settings when sliding the cursor through each price level.
+
+![](../../.gitbook/assets/d5.png)
+
+Position bar:
+
+Buy/Sell color settings – change colors in the Position bar \(Price and QTY\), when positions are Long/Short;
+
+Profit/Loss color settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
+
+Size bars colors:                
+
+Size coloring scheme – allows selecting the coloring scheme of volume indicators. The following options are available: Relative bar by volume, Relative bar by max volume.
+
+Max volume – allows choosing the maximal volume. The field is active when ‘Size coloring scheme’ is ‘Relative bar by max volume’.
+
+Asks/Bids size bars – color settings for filling the volumes by Ask and Bid.
+
+![](../../.gitbook/assets/d61.png)
+
+### **Super DOM hotkeys**
+
+The list of hotkeys to set for the Super DOM panel is available in the General settings - &gt; Hotkeys - &gt; Super DOM.
+
+The Super DOM hotkeys have the following functions:
+
+*  Cancel last order on selected instrument – allows cancelling the last order on the selected instrument**.**
+* Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
+* Cancel Buy order\(s\) closest to the last price – allows cancelling Buy order\(s\) closest to the last price.
+* Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
+* Mouse trading – activates trading using mouse.
+* Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
+* Autocenter – allows autocentering Bid/Ask while scrolling the panel.
+* Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.
+
