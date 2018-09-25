@@ -99,7 +99,10 @@ You have several ways how to view the volume by price:
 
 You have 2 options how to do this:
 
-* Open grid panel: _Analysis tools -&gt; Grid;_
+* Open grid panel: 
+
+[https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
+
 * Open 2 charts: _Getting started -&gt; Arranging panels._
 
 #### **14. How to color brokerages in Market depth?**
