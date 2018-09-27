@@ -150,7 +150,7 @@ This panel consists of 3 logical blocks:
 * Portfolio + Analyzed paper positions – displays margin requirement changing in the case of adding "paper" positions to the portfolio.
 * Portfolio greeks – shows total "greeks" value by current portfolio.
 
-Greeks – are the coefficients which used for the characteristics of option cost \(premium\) sensitivity to the changing of various values:Delta, Gamma, Vega and Theta.
+Greeks – are the coefficients which used for the characteristics of option cost \(premium\) sensitivity to the changing of various values: Delta, Gamma, Vega and Theta.
 
 * Delta – is the first derivative of the option price by the underlier price; shows how option price will be changed in points, if the underlier price changes by 1 point.
 * Gamma – is the second derivative of the option price by the underlier price; shows the rapidity of the option delta change.

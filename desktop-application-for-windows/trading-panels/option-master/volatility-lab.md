@@ -33,7 +33,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
   These parameters are used in array’s model values IV calculation for selected option series.
 
-  The calculated series are reflected on the Volatility smile chart.
+  The calculated series are reflected on the Volatility lab chart.
 
 ### **Chart settings menu**
 
