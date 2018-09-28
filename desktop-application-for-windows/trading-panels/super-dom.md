@@ -98,8 +98,8 @@ Super DOM settings have 2 tabs, each of them consists of several parts:
 
 Base settings:
 
-* Font – allows to choose the style and size of the font;
-* Grid – color of the vertical grid in the Market depth section;
+* Font – allows to choose the size of the font;
+* Grid – allows activating and setting up grid. The folllowing options are available: Vertical, Horizontal, Vertical & horizontal, None.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
 * Autocenter – activates auto centering function;
