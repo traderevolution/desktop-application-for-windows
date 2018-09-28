@@ -1,6 +1,6 @@
 # News
 
-News panel lists the latest news available from the broker and other news sources which user is subscribed to. To open new News panel, select Tools -&gt; News.
+News panel lists the latest news available from the broker and other news sources which user is subscribed to. To open News panel, select Tools -&gt; News.
 
 ![](../../.gitbook/assets/news-links.png)
 
