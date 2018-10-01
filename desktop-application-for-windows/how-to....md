@@ -35,13 +35,11 @@ OCO order combines Stop order with Limit order. You can set prices for both of t
 
 #### **5. How does trailing stop work?**
 
-You can manage risks by setting trailing stop in 2 ways:
-
-* Choose ‘Trailing stop’ from the drop-down menu of ‘Order type’ in the Order entry panel;
+* To place Trailing stop order, choose ‘Trailing stop’ from the drop-down menu of ‘Order type’ in the Order entry panel;
 
 ![](https://lh3.googleusercontent.com/vH88-BVwyxsf4O5nDnBOfYtYlQhqYwV7R-B9A0fALso6rv81GaDB6gdA-dH-4fMMOP2F52HOK8QUPzQLlZHnHLjmtnlrWlEXfzSGmAWeso9whQK2fwd8EJJ5GE_7C-6g1pEnTjhB)
 
-* Open Order entry panel. Put your mouse cursor on the SL icon without clicking on it and then choose TSL to change Stop Loss order into Trailing Stop![](https://lh6.googleusercontent.com/Bk8aTOxOW_t24Q3qk4n6JbU4bNNGGCA7xlKgA28KxFUeIQJrHUkQNFsjby8Fc8ImPF-abBz6P7Z9A-ylyeGR6R3bLlAe_PoJ9PEEnMdkKid3o04w9NNF1LQtMsT8a-K2wkPBb371).
+* To place Closing Trailing stop order instead of Stop loss, open Order entry panel. Put your mouse cursor on the SL icon without clicking on it and then choose TSL![](https://lh6.googleusercontent.com/Bk8aTOxOW_t24Q3qk4n6JbU4bNNGGCA7xlKgA28KxFUeIQJrHUkQNFsjby8Fc8ImPF-abBz6P7Z9A-ylyeGR6R3bLlAe_PoJ9PEEnMdkKid3o04w9NNF1LQtMsT8a-K2wkPBb371).
 
 #### **6. How to add a price alert?**
 
