@@ -107,8 +107,8 @@ Trades population:
 
 * Trades Loss – shows total loss by all losing trades for period.
 * Trades Win – shows total profit by all winning trades for period.
-* Average Loss – displays the average P/L value for one trade, and separately average loss for losing trades.
-* Average Win – displays the average P/L value for one trade, and separately average win for winning trades.
+* Average Loss – displays the average P/L value for losing trades.
+* Average Win – displays the average P/L value for winning trades.
 * Max. consecutive Loss – shows the longest series of losses in a row among the total number of trades, and their value in the money.
 * Max. consecutive Win – shows the longest series of wins in a row among the total number of trades, and their value in the money.
 * Largest Loss – displays the largest profit loss of one trade for the selected period.
