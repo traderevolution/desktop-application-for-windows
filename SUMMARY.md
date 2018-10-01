@@ -70,10 +70,10 @@
     * [RSS](desktop-application-for-windows/informative-panels/rss.md)
     * [News](desktop-application-for-windows/informative-panels/news.md)
     * [Economic calendar](desktop-application-for-windows/informative-panels/economic-calendar.md)
-  * [More](desktop-application-for-windows/help.md)
   * [Trading ideas](desktop-application-for-windows/trading-ideas.md)
   * [MAM system](desktop-application-for-windows/mam-system/README.md)
     * [MAM basics](desktop-application-for-windows/mam-system/mam-basics.md)
     * [Creating MAM group](desktop-application-for-windows/mam-system/creating-mam-group.md)
     * [Trading in MAM](desktop-application-for-windows/mam-system/trading-in-mam.md)
+* [More](help.md)
 
