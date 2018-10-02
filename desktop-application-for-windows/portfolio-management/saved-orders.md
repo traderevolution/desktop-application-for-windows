@@ -8,7 +8,7 @@
 
 The following Order entry window with standard order parameters will be opened:
 
-![](../../.gitbook/assets/6%20%284%29.png)
+![](../../.gitbook/assets/saved-orders.png)
 
 The following columns are available in the panel:
 
