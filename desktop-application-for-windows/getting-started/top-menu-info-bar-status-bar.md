@@ -69,6 +69,8 @@ The button 'Cancel' allows to quit this menu without applying the arrangement to
 
 The status bar, located at the bottom of the screen, makes it possible to "stream" information such as news and many others. The status bar can be customized to show only information that user needs.
 
+![](../../.gitbook/assets/status-bar.png)
+
 The status bar displays \(from left to right\):
 
 * Workspace\(s\) – shows a particular configuration of panels, toolbars, charts and/or table layouts that makes up trading environment.
