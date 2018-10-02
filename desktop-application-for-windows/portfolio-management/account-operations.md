@@ -4,7 +4,7 @@
 
 To withdraw from an account choose Account -&gt;Withdrawal. Withdrawing effectively blocks funds from being used in the platform.
 
-![](../../../.gitbook/assets/12.png)
+![](../../.gitbook/assets/12.png)
 
 Select account name and Withdrawal or Remaining amount. The confirmation message about blocking withdrawal amount will appear.
 
@@ -18,7 +18,7 @@ Transfer is available only for users who have multiple accounts.
 
 For transferring funds between accounts, choose Account -&gt; Transfer.
 
-![](../../../.gitbook/assets/13%20%282%29.png)
+![](../../.gitbook/assets/13%20%282%29.png)
 
 Select Source account \(From account\) and Target account \(To account\). Select transfer amount in the field ‘Amount’. Press Transfer for the transaction.
 
