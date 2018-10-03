@@ -20,7 +20,7 @@ Info bar can be enabled or hidden via the tab General in General settings.
 
 It looks as the following:
 
-![](../../.gitbook/assets/1%20%285%29.png)
+![](../../.gitbook/assets/1%20%286%29.png)
 
 You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../.gitbook/assets/2%20%285%29.png).
 

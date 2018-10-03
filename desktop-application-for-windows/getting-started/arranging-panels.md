@@ -1,6 +1,6 @@
 # Arranging panels
 
-User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button![](../../.gitbook/assets/1%20%284%29.png)at the status bar and blank workspace will appear. Then open the panels which will be used in Trading terminal and arrange them as described below.
+User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button![](../../.gitbook/assets/1%20%285%29.png)at the status bar and blank workspace will appear. Then open the panels which will be used in Trading terminal and arrange them as described below.
 
 ### Attaching and detaching panels
 
