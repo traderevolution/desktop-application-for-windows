@@ -1,12 +1,12 @@
-# Account performance
+# Account statistics
 
-Account performance panel is a tool for traders that provides detailed information on the selected accounts. This panel contains a massive array of trading statistics, various P/L charts, data about trade population and drawdowns. Statistics can be shown for operations against various accounts and time periods from 1 day to years chosen in the top section of the Performance panel. It is also possible to set a custom range for statistics displaying.
+Account statistics panel is a tool for traders that provides detailed information on the selected accounts. This panel contains a massive array of trading statistics, various P/L charts, data about trade population and drawdowns. Statistics can be shown for operations against various accounts and time periods from 1 day to years chosen in the top section of the Performance panel. It is also possible to set a custom range for statistics displaying.
 
-Account performance panel offers the feature of exporting all statistics and charts to HTML format as a report. To take advantage of this option use the 'Export to HTML' button located on the top right corner of the panel. The report is generated for the selected accounts over the chosen period considering values displayed in the corresponding tabs.
+Account statistics panel offers the feature of exporting all statistics and charts to HTML format as a report. To take advantage of this option use the 'Export to HTML' button located on the top right corner of the panel. The report is generated for the selected accounts over the chosen period considering values displayed in the corresponding tabs.
 
 ![](../../../.gitbook/assets/1%20%289%29.png)
 
-Account performance panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
+Account statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
 ![](../../../.gitbook/assets/2%20%2812%29.png)
 
