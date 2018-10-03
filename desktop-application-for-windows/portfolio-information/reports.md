@@ -14,9 +14,9 @@ Users may choose to generate reports by user or by user group. For a user it is 
 
 Shows the detailed information on settled and unsettled account operations: Transfer, Withdrawal.
 
-**Account performance report**
+**Account statistics report** 
 
-Shows the detailed information on account performance
+Account statistics report is used for Account statistics panel. It shows Profit/Loss for the certain period of time as well as all Account statistics data
 
 **Account statement report**
 
