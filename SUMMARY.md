@@ -62,7 +62,7 @@
   * [Portfolio information](desktop-application-for-windows/portfolio-information/README.md)
     * [Account](desktop-application-for-windows/portfolio-information/account/README.md)
       * [Accounts](desktop-application-for-windows/portfolio-information/account/accounts.md)
-      * [Account statistics](desktop-application-for-windows/portfolio-information/account/account-performance.md)
+      * [Account statistics](desktop-application-for-windows/portfolio-information/account/account-statistics.md)
     * [Positions balance](desktop-application-for-windows/portfolio-information/positions-balance.md)
     * [Currencies exposure](desktop-application-for-windows/portfolio-information/currencies-exposure.md)
     * [Reports](desktop-application-for-windows/portfolio-information/reports.md)
