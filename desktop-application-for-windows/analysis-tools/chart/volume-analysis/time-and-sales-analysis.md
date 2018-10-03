@@ -2,9 +2,9 @@
 
 This functionality allows analyzing tick history by each bar or by price range selected on the chart. Selected bar or price range should not exceed one day, otherwise – tick history will not be loaded. 
 
-Time & Sales can be opened from the Analysis tools menu by clicking on the button ![](../../../../.gitbook/assets/5%20%286%29.png)or through Context menu -&gt; Analysis tools -&gt; T&S.
+Time & Sales can be opened from the Analysis tools menu by clicking on the button ![](../../../../.gitbook/assets/5%20%287%29.png)or through Context menu -&gt; Analysis tools -&gt; T&S.
 
-![](../../../../.gitbook/assets/6%20%2812%29.png)
+![](../../../../.gitbook/assets/6%20%2814%29.png)
 
 **Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 

@@ -4,7 +4,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **General**
 
-![](../../.gitbook/assets/2f.png)
+![](../../.gitbook/assets/1%20%287%29.png)
 
 * Language - specifies a default language of a user interface. To set up language, select it from the list;
 * Info bar - allows displaying Info bar;
@@ -14,7 +14,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **View**
 
-![](../../.gitbook/assets/3f.png)
+![](../../.gitbook/assets/2%20%289%29.png)
 
 * Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units;
@@ -25,7 +25,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **Trading defaults**
 
-![](../../.gitbook/assets/4f.png)
+![](../../.gitbook/assets/3%20%287%29.png)
 
 * Account – specifies an account used by default, available for a multi-account user;
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;
@@ -55,7 +55,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### Confirmations
 
-![](../../.gitbook/assets/7f.png)
+![](../../.gitbook/assets/4%20%289%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 
@@ -68,7 +68,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Warnings**
 
-![](../../.gitbook/assets/8f.png)
+![](../../.gitbook/assets/5%20%281%29.png)
 
 * Warn if wrong order – if checked, you get a warning message in case of placing order with incorrect parameters;
 * Warn if today's volume exceeds - allows to select today volume level at which the system will display a warning message;
@@ -97,5 +97,5 @@ Read more about RSS panel here:
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
 
-![](../../.gitbook/assets/11f.png)
+![](../../.gitbook/assets/6.png)
 

@@ -10,7 +10,7 @@ To create new Synthetic instruments, select Tools -&gt; Synthetic instruments.
 
 After clicking on the Synthetic instruments icon from the Tools menu, the following window will be shown:
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![](../../.gitbook/assets/1%20%2811%29.png)
 
 New Synthetic instruments can now be created. Click on the button![](../../.gitbook/assets/2%20%281%29.png).
 
@@ -26,7 +26,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 2\) Click on the button![](../../.gitbook/assets/2%20%288%29.png)and choose the option how to add the synthetic instrument.
 
-![](../../.gitbook/assets/5%20%283%29.png)
+![](../../.gitbook/assets/5%20%284%29.png)
 
 * From lookup – the symbol can be selected from the lookup; 
 * From lists of symbols – symbols can be added from previously created lists in the panel Watchlist.
@@ -37,7 +37,7 @@ To delete symbol, simply right click on it and select Remove symbol or click the
 
 When created, the Synthetic instruments will be available in the list of symbols and can be utilized similar to any other symbol. Synthetic instruments can be added to a Chart, traded in Order entry, or even backtested as a whole.
 
-![](../../.gitbook/assets/6%20%283%29.png)
+![](../../.gitbook/assets/6%20%285%29.png)
 
 
 
