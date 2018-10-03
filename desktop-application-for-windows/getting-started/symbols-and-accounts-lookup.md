@@ -25,7 +25,7 @@ For easy management of the lookup, it has three buttons and link located in the 
 * Expand types - allows showing exchanges, symbol types and symbols in the lookup tree.
 * 'Show additional info' icon - shows short information about the selected symbol.
 
-![](../../.gitbook/assets/6%20%284%29.png)
+![](../../.gitbook/assets/6%20%285%29.png)
 
 All symbols are grouped according to categories: Equities, Forex, Futures, etc. The Symbols lookup window displays information as follows: exchange, symbol type and icon, symbol group, symbol, contract or strike price \(for Futures and Options\).
 
