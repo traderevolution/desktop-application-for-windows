@@ -48,7 +48,7 @@ OCO order combines Stop order with Limit order. You can set prices for both of t
 1. Choose ‘Table alerts’ from the context menu of the chosen panel;
 2. Set conditions by which you will receive an alert and actions which will be executed while receiving an alert.
 
-![](https://lh5.googleusercontent.com/Zf5KNFki1ygZJ42yKxN4jbtRqqcb7DCRwdIspw6GQknHhSAyZqFhnRaHAXYqHWBj2E3iIACUXoK3geYsQHPvG0RqTlSYp98CRj_abQtQEY8cUIUsVUoep7AGVav5baAwTe5DKDOu)
+![](../.gitbook/assets/alerts-with-cond.png)
 
 #### **7. How to disaggregate the Market depth?**
 
