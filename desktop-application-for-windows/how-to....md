@@ -39,7 +39,7 @@ OCO order combines Stop order with Limit order. You can set prices for both of t
 
 ![](https://lh3.googleusercontent.com/vH88-BVwyxsf4O5nDnBOfYtYlQhqYwV7R-B9A0fALso6rv81GaDB6gdA-dH-4fMMOP2F52HOK8QUPzQLlZHnHLjmtnlrWlEXfzSGmAWeso9whQK2fwd8EJJ5GE_7C-6g1pEnTjhB)
 
-* To place Closing Trailing stop order instead of Stop loss, open Order entry panel. Put your mouse cursor on the SL icon without clicking on it and then choose TSL![](https://lh6.googleusercontent.com/Bk8aTOxOW_t24Q3qk4n6JbU4bNNGGCA7xlKgA28KxFUeIQJrHUkQNFsjby8Fc8ImPF-abBz6P7Z9A-ylyeGR6R3bLlAe_PoJ9PEEnMdkKid3o04w9NNF1LQtMsT8a-K2wkPBb371).
+* To place Closing Trailing stop order instead of Stop loss, open Order entry panel. Put your mouse cursor on the SL icon without clicking on it and then choose TSL![](https://lh6.googleusercontent.com/Bk8aTOxOW_t24Q3qk4n6JbU4bNNGGCA7xlKgA28KxFUeIQJrHUkQNFsjby8Fc8ImPF-abBz6P7Z9A-ylyeGR6R3bLlAe_PoJ9PEEnMdkKid3o04w9NNF1LQtMsT8a-K2wkPBb371). You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way.
 
 #### **6. How to add a price alert?**
 
