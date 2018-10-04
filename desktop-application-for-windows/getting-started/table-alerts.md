@@ -2,7 +2,7 @@
 
 Table alerts are available in the Settings -&gt; Alerts. Also alerts tab can be opened through context menu -&gt; Table alerts.
 
-![](../../.gitbook/assets/alerts.png)
+![](../../.gitbook/assets/posit-alerts.png)
 
 Click on the button![](../../.gitbook/assets/1+-copy.png)to add new alert. Its title can be changed directly from the title cell. Use the checkbox![](../../.gitbook/assets/box.png)to activate or deactivate an alert. Alert can also be removed with button![](../../.gitbook/assets/undefined.png).
 
