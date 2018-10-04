@@ -4,7 +4,7 @@ The Option master panel shows detailed information about options, allows to anal
 
 To open a new Option master panel go to Terminal - &gt; Option master.
 
-![](../../../.gitbook/assets/opt-master-overview.png)
+![](../../../.gitbook/assets/shrift.jpg)
 
 **Level 1 symbol data:**
 
