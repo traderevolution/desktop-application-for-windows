@@ -4,7 +4,7 @@
 
 To change the width of a column, simply move the mouse over the column border in the header row to see the cursor change to a double-sided arrow. Then click and drag the border to resize the column.
 
-![](../../.gitbook/assets/1%20%281%29.png)
+![](../../.gitbook/assets/managing-columns.jpg)
 
 To autosize a column, simply move the mouse over the column border in the header row and double click the mouse when the pointer changes to a double-sided arrow.
 
@@ -38,7 +38,7 @@ Filtering of text columns allows to find the selected symbol in 1 click:
 
 Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
 
-![](../../.gitbook/assets/7%20%288%29.png)
+![](../../.gitbook/assets/sorting-icon.jpg)
 
 
 
