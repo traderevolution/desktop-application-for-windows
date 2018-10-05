@@ -44,7 +44,7 @@ For each symbol, the following information is available:
 * Settings - opens settings window.
 * Comment - allows user to add some useful information about trading symbol, to describe the market situation and potential trading possibilities. Click on the comment row in order to open a dialog window for adding, editing and saving the comments:
 
-![](../../.gitbook/assets/comment.png)
+![](../../.gitbook/assets/watchlist-comment.png)
 
 ### **Symbols lists creation** 
 
