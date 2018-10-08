@@ -40,7 +40,7 @@ Point of control \(POC\) – row with the largest number of letters – in fact,
 
 3. Marker – POC line is allocated by the marker \(special symbol, for example &gt;\).
 
-![](../../../.gitbook/assets/18.png)
+![](../../../.gitbook/assets/profile-chart.jpg)
 
 * Point of control style – allows to specify style of the selected POC type, available for "Point of control=Line" only;
 * Value area – specifies the type of VA plotting.
