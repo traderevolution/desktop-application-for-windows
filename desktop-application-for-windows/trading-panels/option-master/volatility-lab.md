@@ -78,5 +78,5 @@ The chart view can be also manipulated with some additional options:
 * Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right \(X\) or up/down \(Y\) on this area on the X or Y axis;
 * Clicking + scrolling on any area on the X or Y axis - allows to zoom in to and zoom out of this area:
 
-![](../../../.gitbook/assets/x-y.jpg)
+![](../../../.gitbook/assets/x-y%20%281%29.jpg)
 
