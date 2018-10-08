@@ -56,7 +56,7 @@ Calculation method - allows to choose the calculation method of Total price valu
 
 **Coloring rows tab** allows selecting different color settings for rows on base of different conditions.
 
-![](../../.gitbook/assets/colors.png)
+![](../../.gitbook/assets/colors%20%281%29.png)
 
 Click on the button![](../../.gitbook/assets/5%20%2811%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2811%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%289%29.png).
 
