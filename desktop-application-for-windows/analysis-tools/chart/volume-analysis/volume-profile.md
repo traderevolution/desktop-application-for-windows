@@ -87,7 +87,7 @@ This tool allows plotting custom profiles by selected area of the chart.
 When activating the button for plotting the profile, a crosshair transfers to the selection mode of the data area for further analysis.
 
   
-Selection of the area for plotting: click on the button ![](../../../../.gitbook/assets/61%20%281%29.png)=&gt; click the chart to set up the first border for plotting area selection =&gt; click the chart to set up the second border for plotting area selection:
+Selection of the area for plotting: click on the button![](../../../../.gitbook/assets/volume-profile.jpg)=&gt; click the chart to set up the first border for plotting area selection =&gt; click the chart to set up the second border for plotting area selection:
 
 ![](../../../../.gitbook/assets/62%20%281%29.png)
 
