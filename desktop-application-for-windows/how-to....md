@@ -17,7 +17,7 @@ Reset your password following the recommendations from the ‘Changing password�
 * Select the position to be closed from the Positions panel. Right-click and select ‘Close position’;
 * User can also do a double left click on the position for the same operation. The ‘Close position’ dialog window will appear. Select ‘Quantity to close’ to execute a partial close of the position;
 
-![](https://lh4.googleusercontent.com/rqS3l1uaOtKb52i_Yo-5qyhLkTG6y-W9gJJ_wtp0bpvmRtvllSZsFfjbQpGx_DPG-aBbO1B9R5bxIJEWhaT1iFa71Xe_ukB04RhvL_wRKk7iEer60qwg6ovpgOuDk6iWoZCr5IPA)
+![](../.gitbook/assets/partial-close.jpg)
 
 * Or place an order with the opposite side by the chosen instrument.
 
@@ -27,7 +27,7 @@ OCO order combines Stop order with Limit order. You can set prices for both of t
 
 * You can place it selecting OCO order type in Order entry panel;
 
-![](https://lh4.googleusercontent.com/NfJ29ESwT1ZaMIAgjUaYCGTNSvF-T93PKjfFQwIsYWYnonwHC3xIrZeA9cvx8Mu8xCb5okhDWJJb5QFept7zqi3YyzaBOvzuKBe9wXzZw91Z-S45wgDuBDJYoYsI8axDQgnrcjnZ)
+![](../.gitbook/assets/oco.jpg)
 
 * Visual trading is another way to place OCO order directly on a chart.
 
@@ -37,7 +37,7 @@ OCO order combines Stop order with Limit order. You can set prices for both of t
 
 * To place Trailing stop order, choose ‘Trailing stop’ from the drop-down menu of ‘Order type’ in the Order entry panel;
 
-![](https://lh3.googleusercontent.com/vH88-BVwyxsf4O5nDnBOfYtYlQhqYwV7R-B9A0fALso6rv81GaDB6gdA-dH-4fMMOP2F52HOK8QUPzQLlZHnHLjmtnlrWlEXfzSGmAWeso9whQK2fwd8EJJ5GE_7C-6g1pEnTjhB)
+![](../.gitbook/assets/trailing-stop.jpg)
 
 * To place Closing Trailing stop order instead of Stop loss, open Order entry panel. Put your mouse cursor on the SL icon without clicking on it and then choose TSL![](https://lh6.googleusercontent.com/Bk8aTOxOW_t24Q3qk4n6JbU4bNNGGCA7xlKgA28KxFUeIQJrHUkQNFsjby8Fc8ImPF-abBz6P7Z9A-ylyeGR6R3bLlAe_PoJ9PEEnMdkKid3o04w9NNF1LQtMsT8a-K2wkPBb371). You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way.
 
@@ -55,20 +55,20 @@ OCO order combines Stop order with Limit order. You can set prices for both of t
 1. Open Market depth settings;
 2. In the tab ‘View’, choose the option ‘By order’ from the drop-down menu of the control ‘View by’ and apply changes.  
 
-![](https://lh4.googleusercontent.com/icvy1MAjMZpjBhcG2azVM-1SGZvTX5vf8Hhg7Cc2VSY2a3m2vbxWyu4Wbf1kRbULnrXHmhQrwA-Ci4EHc1VpgPtYnyAR8H4LCWR1ff1tTm9QxU7xXKm3_jlArHW90LF4oFKrJhFS)
+![](../.gitbook/assets/market-depth.jpg)
 
 #### **8. How to import indicators?**
 
 Click on the ‘Import’ button at the bottom of Indicators lookup.
 
-![](../.gitbook/assets/indicators.png)
+![](../.gitbook/assets/import.jpg)
 
 #### **9. How to show filled orders on the chart?**
 
 1. Select the tab ‘Visual trading’ in the Chart settings;
 2. Check filled orders to make it visible on a chart.
 
-![](https://lh5.googleusercontent.com/3b77sHSJPC310Hs8neUCcj3tciS2GeVm_Sq_2bv4PMrzG_3VivpebP0Psaktl_w3IJ3zLwX44UvuvUg6adxwan1GZvrM6BLyyQSP_UCJlqT1_ffT7z159GBjHpoGUpdim2qS4JGL)
+![](../.gitbook/assets/visual-trading.jpg)
 
 #### **10. How to enable VWAP?**
 
@@ -91,7 +91,7 @@ You have several ways how to view the volume by price:
 * Right click on the column names of the Watchlist panel to select ‘Indicative auction price’ from the menu;
 * The column with such a name will appear in the Watchlist.
 
-![](https://lh6.googleusercontent.com/8wN25OFVcloSyT4mqR3zhAJPKym5tHFzK8QgBHgcSZTLC5qfxyo0wB-1gY0bQ-nO_w974mTtRUzldZEz0xcwxpSSDmKXMSBhuQU0PMWlJaUBaO4TCPYin4cwAaKI4QruoOuLxH64)
+![](../.gitbook/assets/watchlist.jpg)
 
 ![](https://lh3.googleusercontent.com/CJPwdO9HmzewtURjifG9vPc92tDHESY4VoU7dISyyOaTdSdYjJNbxTh-l2L_NK9HUkUk_DgmtZsoEvbvvL6-G_BOK_ti4ZuVJQDhNQljwgr4Y6TIMhhN3SqNvkkmRBS8jYd9slvx)
 
@@ -115,7 +115,7 @@ You have 2 options how to do this:
 1. Open the context menu of the chart panel;
 2. Select ‘View’ -&gt; ‘Previous close’.
 
-![](https://lh5.googleusercontent.com/1nF1M9G-My7Y_O_4iSbx0HI79AJPgYFMsRrKGHHlIFGYoBdBALnisAM7JgMXqB2Qb7jP8mHD5HRx2J6-LHZGxb3jC0Bhp5EJJVO-53lB7LEDHpGMGp1Zy7SsacoLnyBSR-LiY0fU)
+![](../.gitbook/assets/prev.-close.jpg)
 
 #### **16. How to put a chart inside of Scalper?**
 
@@ -131,7 +131,7 @@ You have 2 options how to do this:
 3. Enable the ‘Synchronize’ checkbox;
 4. Click on the button ‘Export’.
 
-![](https://lh4.googleusercontent.com/cQQk_ZpCj4xvddRfK4pPe9LzPSbhYst2ZB_MeXWxQuKweVwQAv-MbkiYKyz8Gby1r6I9rgh7mtgCF7z-jcCKiqqFI1Mw_yAGlYk2aUX2rDQAusC9yRSI5ai2WY6GLG3kiu5UHku6)
+![](../.gitbook/assets/export.jpg)
 
 #### **18. How to view aggressor balance?**
 
