@@ -12,7 +12,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
-![](../../.gitbook/assets/5%20%289%29.png)
+![](../../.gitbook/assets/5%20%2810%29.png)
 
 Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 
@@ -25,7 +25,7 @@ For easy management of the lookup, it has three buttons and link located in the 
 * Expand types - allows showing exchanges, symbol types and symbols in the lookup tree.
 * 'Show additional info' icon - shows short information about the selected symbol.
 
-![](../../.gitbook/assets/6%20%285%29.png)
+![](../../.gitbook/assets/6%20%286%29.png)
 
 All symbols are grouped according to categories: Equities, Forex, Futures, etc. The Symbols lookup window displays information as follows: exchange, symbol type and icon, symbol group, symbol, contract or strike price \(for Futures and Options\).
 
@@ -33,7 +33,7 @@ Note: you can search for symbols and filter them by their localized names if the
 
 If there is no localized name for an instrument for the current interface language, the server instrument name and description are displayed.
 
-The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%284%29.png)next to the account scroll down menu.
+The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%285%29.png)next to the account scroll down menu.
 
 ![](../../.gitbook/assets/8%20%281%29.png)
 

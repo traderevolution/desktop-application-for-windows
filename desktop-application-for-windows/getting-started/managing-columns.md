@@ -30,9 +30,9 @@ Move cursor over the column header and click on Filter button![](../../.gitbook/
 
 Filtering of text columns allows to find the selected symbol in 1 click:
 
-![](../../.gitbook/assets/5%20%285%29.png)
+![](../../.gitbook/assets/5%20%286%29.png)
 
-![](../../.gitbook/assets/6%20%282%29.png)
+![](../../.gitbook/assets/6%20%283%29.png)
 
 ### Sorting
 
