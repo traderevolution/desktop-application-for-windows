@@ -26,13 +26,13 @@ The following types are available:
 * System – allows showing all problems with connection to server.
 * Trading – allows showing all trades operations. The following color schemes are used for trade logs:
 
-- white text – for all unconfirmed requests.
+       - white text – for all unconfirmed requests.
 
-- green text – for created orders.
+       - green text – for created orders.
 
-- red text – for removed orders.
+       - red text – for removed orders.
 
-- yellow rows filling – for filled orders.
+       - yellow rows filling – for filled orders.
 
 * Updater – allows showing all information about system updates.
 
