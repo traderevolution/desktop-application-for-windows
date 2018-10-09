@@ -70,6 +70,7 @@
     * [RSS](desktop-application-for-windows/informative-panels/rss.md)
     * [News](desktop-application-for-windows/informative-panels/news.md)
     * [Economic calendar](desktop-application-for-windows/informative-panels/economic-calendar.md)
+    * [Event log](desktop-application-for-windows/informative-panels/event-log.md)
   * [Trading ideas](desktop-application-for-windows/trading-ideas.md)
   * [MAM system](desktop-application-for-windows/mam-system/README.md)
     * [MAM basics](desktop-application-for-windows/mam-system/mam-basics.md)
