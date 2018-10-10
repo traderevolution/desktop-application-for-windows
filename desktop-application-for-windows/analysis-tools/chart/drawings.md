@@ -90,7 +90,7 @@ However, different sections' combinations are available for different drawings.
 
 ![](../../../.gitbook/assets/21.png)
 
-Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: Terminal -&gt; Chart -&gt; Aggregation -&gt; Aggregation types overview\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
+Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
 
 ![](../../../.gitbook/assets/22.png)
 
