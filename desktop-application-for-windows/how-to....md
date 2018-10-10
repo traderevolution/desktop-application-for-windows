@@ -133,21 +133,14 @@ You have 2 options how to do this:
 
 ![](../.gitbook/assets/export.jpg)
 
-#### **18. How to view aggressor balance?**
-
-* Open Aggressor Balance Beta panel in the terminal;
-* You will have an opportunity to see the aggressor balance in form of data table, diagram and chart.
-
-![](https://lh3.googleusercontent.com/uAiXQepXtGwbL6kk9LBMZXyYl3iqk30hVhrnERDhp1dqwlth9Ll-8Vlqn1yrCNFKzUTVD0wWnaPFz50QEeJOt882osaK6xSmr1qUKXhvTLGtStYpvgS-iLuDjl1bpiViufZLjF4P)
-
-#### **19. How to show time to next bar?**
+#### **18. How to show time to next bar?**
 
 1. Right click on the Chart panel;
 2. Select ‘View’ tab;
 3. Choose the section ‘Time to next bar’;
 4. Check ‘Visible’.
 
-#### **20. How to close opposite positions mutually?**
+#### **19. How to close opposite positions mutually?**
 
 * Any number of opposite positions by the same symbol and account can be closed at once;
 * Select the positions to close in the Positions panel. To select multiple entries, hold down Ctrl key and click each entry. To select a range of entries, hold down the Shift key and click on the first and last entries in the range;
@@ -156,7 +149,7 @@ You have 2 options how to do this:
 
 ![](https://lh6.googleusercontent.com/VPooOEguHb72crEZ23r9Aomfro3gPxAzSaiRZGqcYpl8g1atl8zg13Z1LXwNnB1G7wS0StNFR5yST2_8LSZ8VY7lDbFY-jDVLMVvMIFSIh73lLzp1MWTe6u46vWOISC76ee4Uhkv)
 
-#### **21. How to modify a pending order?**
+#### **20. How to modify a pending order?**
 
 1. Right-click on a pending order in the Working orders panel and select ‘Modify order’;
 2. Use the editable boxes to change quantity, order price, time in force, and the OCO order. To specify a new order price, use the Price field; the Current price field shows the market price. To update the Open price, click on the button ![](https://lh6.googleusercontent.com/jcjxIzlu77BSDSdZj5HX2Y_m_PCc8ZOrdJSD6qa4wJ_7nwFCADOPv74YxZR4zZacDQIztFLI47VD0_HpZLlFP_yCGs7bgAaTJEZ4wN8LaFVUw0XS34u1_3zS2IIrEU3rpnGzZ5Gy);
