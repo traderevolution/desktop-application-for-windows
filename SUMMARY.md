@@ -37,6 +37,7 @@
     * [Grid](desktop-application-for-windows/analysis-tools/grid.md)
     * [Watchlist](desktop-application-for-windows/analysis-tools/watchlist.md)
     * [Time & Sales](desktop-application-for-windows/analysis-tools/time-and-sales.md)
+    * [Forward curve](desktop-application-for-windows/analysis-tools/forward-curve.md)
   * [Technical indicators](desktop-application-for-windows/technical-indicators.md)
   * [Trading panels](desktop-application-for-windows/trading-panels/README.md)
     * [Order entry](desktop-application-for-windows/trading-panels/order-entry.md)
