@@ -11,7 +11,7 @@ Available columns:
 * Event – title of event.
 * Details – the text of event message is shown in the tooltip of the ‘Details’ icon.
 
-![](../../.gitbook/assets/3%20%2814%29.png)
+![](../../.gitbook/assets/3%20%2815%29.png)
 
 Click on this icon to open a deal ticket.
 
@@ -36,7 +36,7 @@ The following types are available:
 
 * Updater – allows showing all information about system updates.
 
-To clear the Event log table, call the context menu with right-clicking anywhere on the table and select Clear:![](../../.gitbook/assets/7%20%282%29.png).
+To clear the Event log table, call the context menu with right-clicking anywhere on the table and select Clear:![](../../.gitbook/assets/7%20%283%29.png).
 
 This option doesn't delete data, this is just for clearing a current Event log panel view.
 

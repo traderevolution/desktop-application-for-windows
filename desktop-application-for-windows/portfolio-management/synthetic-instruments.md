@@ -26,7 +26,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 2\) Click on the button![](../../.gitbook/assets/2%20%288%29.png)and choose the option how to add the synthetic instrument.
 
-![](../../.gitbook/assets/5%20%285%29.png)
+![](../../.gitbook/assets/5%20%286%29.png)
 
 * From lookup – the symbol can be selected from the lookup; 
 * From lists of symbols – symbols can be added from previously created lists in the panel Watchlist.

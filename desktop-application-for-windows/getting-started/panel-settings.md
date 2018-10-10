@@ -58,7 +58,7 @@ Calculation method - allows to choose the calculation method of Total price valu
 
 ![](../../.gitbook/assets/colors%20%281%29.png)
 
-Click on the button![](../../.gitbook/assets/5%20%2812%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2812%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%2810%29.png).
+Click on the button![](../../.gitbook/assets/5%20%2813%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2812%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%2811%29.png).
 
 Select one Color scheme and use the button![](../../.gitbook/assets/8%20%282%29.png)to add new conditions. For each condition you must select a column type, type of comparison and value to compare.
 
@@ -66,7 +66,7 @@ Then select colors for marking rows \(font and background colors\) and choose co
 
 You can see the example of rows marking by conditions below:
 
-![](../../.gitbook/assets/11%20%283%29.png)
+![](../../.gitbook/assets/11%20%284%29.png)
 
 **Alerts Tab** allows creating alerts settings for each panel.
 
@@ -87,13 +87,13 @@ Or you can choose the following options from the **More actions** menu:
 
 Each table panel in the terminal \(Positions, Orders, Time & Sales, etc.\) has the function 'Export' in the Context menu:
 
-![](../../.gitbook/assets/12%20%281%29.png)
+![](../../.gitbook/assets/12%20%282%29.png)
 
 All information from table panels can be exported to Excel or CSV files.
 
 In the Export window choose a needed file format from the list:
 
-![](../../.gitbook/assets/13%20%281%29.png)
+![](../../.gitbook/assets/13%20%282%29.png)
 
 Set path for file saving, choose needed columns for exporting \(activate the 'Check all' function in order to select all columns\) and click on the button 'Export':
 

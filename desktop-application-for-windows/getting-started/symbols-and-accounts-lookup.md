@@ -12,7 +12,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
-![](../../.gitbook/assets/5%20%2810%29.png)
+![](../../.gitbook/assets/5%20%2811%29.png)
 
 Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 
@@ -33,7 +33,7 @@ Note: you can search for symbols and filter them by their localized names if the
 
 If there is no localized name for an instrument for the current interface language, the server instrument name and description are displayed.
 
-The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%285%29.png)next to the account scroll down menu.
+The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%286%29.png)next to the account scroll down menu.
 
 ![](../../.gitbook/assets/8%20%281%29.png)
 

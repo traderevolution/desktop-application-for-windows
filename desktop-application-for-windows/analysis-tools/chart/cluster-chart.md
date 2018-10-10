@@ -26,11 +26,11 @@ Cluster chart fits for analysis on any timeframe for any style of the trading: s
   * Trades – each cluster row contains the number of trades which took place on a certain price level;
   * Custom pair – in the case, when this setting is chosen, each cluster row will contain two parameters simultaneously, divided by sign “x”. For example, Volume & Trades. Fields “Parameter \#1” and “Parameter \#2” are only available for Custom pair mode. In this mode, user can specify random pair of parameters by choosing the corresponding data in the combo boxes.
 
-![](../../../.gitbook/assets/12%20%283%29.png)
+![](../../../.gitbook/assets/12%20%284%29.png)
 
 ### Cluster chart settings
 
-![](../../../.gitbook/assets/13%20%283%29.png)
+![](../../../.gitbook/assets/13%20%284%29.png)
 
 * Value filter – if checked, it is necessary to plot only those clusters, total data \(volume, delta, etc.\) of which meets the condition specified in the fields ‘Operator’ and ‘Filter value’.
 * Highlight maximum – allows allocating the maximum value in the cluster. If several values are maximal at the same time, they will be both highlighted.
