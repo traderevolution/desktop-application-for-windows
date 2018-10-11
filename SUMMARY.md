@@ -82,4 +82,5 @@
   * [Phone](mobile-applications/phone/README.md)
     * [Android](mobile-applications/phone/android/README.md)
       * [Getting started](mobile-applications/phone/android/getting-started.md)
+      * [Settings](mobile-applications/phone/android/settings.md)
 
