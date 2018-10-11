@@ -2,9 +2,9 @@
 
 A user can access the ‘Settings’ tab from the application’s ‘More’ menu in order to manage 'Defaults', 'Confirmations', 'Environment', 'Chart settings'.
 
-![](../../../.gitbook/assets/defaults.png)
-
 ### Defaults
+
+![](../../../.gitbook/assets/defaults.png)
 
 In 'Defaults' settings section you can adjust the following:
 
