@@ -80,5 +80,6 @@
   * [More](desktop-application-for-windows/help.md)
 * [Mobile applications](mobile-applications/README.md)
   * [Phone](mobile-applications/phone/README.md)
-    * [Android](mobile-applications/phone/android.md)
+    * [Android](mobile-applications/phone/android/README.md)
+      * [Getting started](mobile-applications/phone/android/getting-started.md)
 
