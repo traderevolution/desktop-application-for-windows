@@ -26,7 +26,11 @@ In case you have the 'Additional verification' set up by your administrator, aft
 
 ![](../../../.gitbook/assets/sms-fa-copy.png)
 
-There are three types of 'Additional verification', you can have one of them:
+
+
+![](../../../.gitbook/assets/sms-fa-copy-2.png)
+
+There are three types of 'Additional verification', you can have one of them:
 
 * SMS one-time pass;
 * E-mail one-time pass;
