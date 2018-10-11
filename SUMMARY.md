@@ -79,5 +79,6 @@
     * [Trading in MAM](desktop-application-for-windows/mam-system/trading-in-mam.md)
   * [More](desktop-application-for-windows/help.md)
 * [Mobile applications](mobile-applications/README.md)
-  * [Phone](mobile-applications/phone.md)
+  * [Phone](mobile-applications/phone/README.md)
+    * [Android](mobile-applications/phone/android.md)
 
