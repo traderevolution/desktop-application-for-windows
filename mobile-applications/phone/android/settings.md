@@ -4,7 +4,9 @@ A user can access the ‘Settings’ tab from the application’s ‘More’ men
 
 ![](../../../.gitbook/assets/defaults.png)
 
-In **Defaults** settings section you can adjust the following:
+### Defaults
+
+In 'Defaults' settings section you can adjust the following:
 
 * Order quantity – displays amount of lots for opening an order;
 * TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, GTD, FOK;
@@ -13,7 +15,7 @@ A user can access the ‘Settings’ tab from the application’s ‘More’ men
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points.
 
-**Confirmations**
+### **Confirmations**
 
 ![](../../../.gitbook/assets/confirm.png)
 
@@ -26,7 +28,7 @@ A user can access the ‘Settings’ tab from the application’s ‘More’ men
 * Position modifying;
 * Position closing.
 
-**Environment**
+### **Environment**
 
 ![](../../../.gitbook/assets/environment.png)
 
@@ -37,7 +39,7 @@ A user can access the ‘Settings’ tab from the application’s ‘More’ men
 * Enable sounds – this option shows if sounds are enabled or not;
 * Warn if trading halt – if checked, user receives notifications about trading halt by symbol.
 
-**Chart settings**
+### **Chart settings**
 
 ![](../../../.gitbook/assets/chart-settings.png)
 
