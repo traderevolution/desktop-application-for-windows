@@ -38,7 +38,7 @@ Open the chart to see the added indicators.
 
 ### **Drawing tools** 
 
-Select the needed drawing tool from the Drawings menu and place it manually on the chart.
+Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
 ![](../../../.gitbook/assets/9%20%284%29.png)
 
