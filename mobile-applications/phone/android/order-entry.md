@@ -1,6 +1,6 @@
 # Order entry
 
-The Order entry screen enables user to send orders. The Order entry button![](../../../.gitbook/assets/oe-button-copy.png)is located at the top right corner of the Chart screen. Also it is accessible from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
+The Order entry screen enables user to send orders. The Order entry button ![](../../../.gitbook/assets/oe-button-small.png) is located at the top right corner of the Chart screen. Also it is accessible from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
 
                                                  ![](../../../.gitbook/assets/watchlist-symbol-swipe-copy%20%281%29.png) 
 
@@ -8,7 +8,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 
 ![](../../../.gitbook/assets/order-entry.png)
 
-**Order type:**
+### **Order type:**
 
 * Market order guarantees execution at a market price.
 * Limit order is placed with a brokerage to buy or sell a set number of shares at a specified price or better.
@@ -16,7 +16,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 * Stop limit order will be executed at a specified price \(or better\) after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy \(or sell\) at the limit price or better.
 * "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders.
 
-**TIF:**
+### **TIF:**
 
 * Day order, as the name implies, is valid for the current trading day.
 * GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled.
@@ -24,7 +24,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 * FOK \(Fill or kill\) – requires to execute the entire transaction immediately and completely or not to execute it at all.
 * GTD \(Good till date\) allows input date until which the order will be cancelled if not executed.
 
-**Closing orders:**
+### **Closing orders:**
 
 * Stop loss;
 * Trailing;
