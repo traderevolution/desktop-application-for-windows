@@ -84,4 +84,5 @@
       * [Settings](mobile-applications/phone/android/settings.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
+      * [Chart](mobile-applications/phone/android/chart.md)
 
