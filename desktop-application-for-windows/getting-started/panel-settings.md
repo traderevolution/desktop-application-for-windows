@@ -11,7 +11,7 @@
 * Grid – allows showing grid between columns and rows \(you can select the following options: Vertical, Horizontal, Vertical & horizontal, None\);
 * Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length;
 * Auto re-sorting – allows auto re-sorting a table after any changes;
-* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../.gitbook/assets/2%20%2813%29.png). 
+* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../.gitbook/assets/2%20%2814%29.png). 
 * Show toolbar – allows showing panel toolbar.
 
 ####  **Colors**
@@ -58,7 +58,7 @@ Calculation method - allows to choose the calculation method of Total price valu
 
 ![](../../.gitbook/assets/colors%20%281%29.png)
 
-Click on the button![](../../.gitbook/assets/5%20%2813%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2812%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%2811%29.png).
+Click on the button![](../../.gitbook/assets/5%20%2814%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2813%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%2812%29.png).
 
 Select one Color scheme and use the button![](../../.gitbook/assets/8%20%282%29.png)to add new conditions. For each condition you must select a column type, type of comparison and value to compare.
 
@@ -66,7 +66,7 @@ Then select colors for marking rows \(font and background colors\) and choose co
 
 You can see the example of rows marking by conditions below:
 
-![](../../.gitbook/assets/11%20%284%29.png)
+![](../../.gitbook/assets/11%20%285%29.png)
 
 **Alerts Tab** allows creating alerts settings for each panel.
 

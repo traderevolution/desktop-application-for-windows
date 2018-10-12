@@ -31,7 +31,7 @@ To show/hide elements on Chart, right click anywhere within the chart, select Vi
 
 To zoom in and out in the Chart panel users can use the scroll button on their mouse or simply drag the chart border in the Timeline panel using the scroll:
 
-![](../../../.gitbook/assets/2%20%284%29.png)
+![](../../../.gitbook/assets/2%20%285%29.png)
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar.
 
@@ -83,11 +83,11 @@ Right clicking on the timeline shows the panel with additional options:
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 * Show extended sessions - this option displays all quotes received on pre-session, main session and post-session. The timeframes for sessions should be set in the Backoffice for each symbol.
 
-![](../../../.gitbook/assets/5%20%2810%29.png)
+![](../../../.gitbook/assets/5%20%2811%29.png)
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
-![](../../../.gitbook/assets/6%20%2815%29.png)
+![](../../../.gitbook/assets/6%20%2816%29.png)
 
 
 
