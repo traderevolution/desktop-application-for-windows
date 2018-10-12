@@ -83,4 +83,5 @@
       * [Getting started](mobile-applications/phone/android/getting-started.md)
       * [Settings](mobile-applications/phone/android/settings.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
+      * [Event log](mobile-applications/phone/android/event-log.md)
 
