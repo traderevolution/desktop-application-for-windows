@@ -1,6 +1,6 @@
 # Order entry
 
-The Order entry screen enables user to send orders. The Order entry button ![](../../../.gitbook/assets/oe-button-small.png) is located at the top right corner of the Chart screen. Also it is accessible from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
+The Order entry screen enables user to send orders. The Order entry button![](../../../.gitbook/assets/oe-button-big.png)is located at the top right corner of the Chart screen. Also it is accessible from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
 
                                                  ![](../../../.gitbook/assets/watchlist-symbol-swipe-copy%20%281%29.png) 
 
