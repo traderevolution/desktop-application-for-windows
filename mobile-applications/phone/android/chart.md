@@ -24,13 +24,13 @@ Indicators – allows to choose the needed indicator for technical analysis.
 
 Drawings – opens the drawing tools toolbar.
 
-**Indicators**
+### **Indicators**
 
 In order to add a new indicator, choose the indicator category \(Channels, Moving averages, Oscilators etc.\) and tap the indicator name from the Indicators screen.
 
 ![](../../../.gitbook/assets/5%20%285%29.png)
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/6-copy.png). Tap the button ‘x’ located near indicator’s name to remove indicator from this section.
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button ![](../../../.gitbook/assets/6-copy.png). Tap the button ‘x’ located near indicator’s name to remove indicator from this section.
 
 ![](../../../.gitbook/assets/7%20%287%29.png)
 
@@ -38,7 +38,7 @@ Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/8%20%287%29.png)
 
-**Drawing tools** 
+### **Drawing tools** 
 
 Select the needed drawing tool from the Drawings menu and place it manually on the chart.
 
