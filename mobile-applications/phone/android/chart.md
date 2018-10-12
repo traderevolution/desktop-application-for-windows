@@ -24,7 +24,7 @@ Tap on the button![](../../../.gitbook/assets/3-copy.png)to open Chart toolbar.
 
 ### **Indicators**
 
-In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscilators etc.\) and tap the indicator name from the Indicators screen.
+In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the indicator name from the Indicators screen.
 
 ![](../../../.gitbook/assets/5%20%285%29.png)
 
