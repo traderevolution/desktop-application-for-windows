@@ -2,9 +2,9 @@
 
 Saved orders is a panel where several orders can be created and stored, then placed individually or together with just one click. To open a Saved orders panel, select Terminal -&gt; Saved orders.
 
-![](../../.gitbook/assets/4%20%285%29.png)
+![](../../.gitbook/assets/4%20%286%29.png)
 
-To create a new order, click on the button![](../../.gitbook/assets/5%20%2816%29.png)or open context menu -&gt; Add order…
+To create a new order, click on the button![](../../.gitbook/assets/5%20%2817%29.png)or open context menu -&gt; Add order…
 
 The following Order entry window with standard order parameters will be opened:
 
@@ -40,7 +40,7 @@ The following columns are available in the panel:
 
 All changeable values can be set directly from rows with created orders. To provide this - only one click on changeable value. For example, select order type:
 
-![](../../.gitbook/assets/7%20%288%29.png)
+![](../../.gitbook/assets/7%20%289%29.png)
 
 To submit a group of orders, click on the "Place active" button.
 

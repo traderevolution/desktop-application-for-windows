@@ -6,11 +6,11 @@ The MAM panel can be found by navigating to Tools -&gt; MAM. This panel gives in
 
 To create a MAM group, open the MAM panel and click Create group.
 
-![](../../.gitbook/assets/6%20%2812%29.png)
+![](../../.gitbook/assets/6%20%2813%29.png)
 
 Now, enter a group name and choose an Allocation type. Click on the button in column "Remove" to delete the group from the list.
 
-![](../../.gitbook/assets/7%20%289%29.png)
+![](../../.gitbook/assets/7%20%2810%29.png)
 
 The following columns are available in the Groups section:
 
@@ -66,7 +66,7 @@ After trade funds = Available funds – Impact on portfolio - Fee
 
 Now the accounts have been successfully added to the MAM group and the money manager can select accounts to trade with. There are several options available when accounts are added. Now the money manager can perform trades.
 
-![](../../.gitbook/assets/5%20%2813%29.png)
+![](../../.gitbook/assets/5%20%2814%29.png)
 
 
 

@@ -22,7 +22,7 @@ User can rearrange columns in tables by moving them to new locations. Click on a
 
 ### Filtering
 
-Move cursor over the column header and click on Filter button![](../../.gitbook/assets/3%20%2811%29.png)to choose the filter criteria in opened window:
+Move cursor over the column header and click on Filter button![](../../.gitbook/assets/3%20%2812%29.png)to choose the filter criteria in opened window:
 
 ![](../../.gitbook/assets/filter.png)
 
@@ -30,7 +30,7 @@ Move cursor over the column header and click on Filter button![](../../.gitbook/
 
 Filtering of text columns allows to find the selected symbol in 1 click:
 
-![](../../.gitbook/assets/5%20%288%29.png)
+![](../../.gitbook/assets/5%20%289%29.png)
 
 ![](../../.gitbook/assets/6%20%283%29.png)
 
