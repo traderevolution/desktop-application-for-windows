@@ -20,19 +20,19 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
 ![](../../../.gitbook/assets/3%20%286%29.png)
 
-**Symbol lookup** 
+### **Symbol lookup** 
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4-copy.png)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
 ![](../../../.gitbook/assets/5%20%282%29.png)
 
-**Watchlist Filter** 
+### **Watchlist Filter** 
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6-copy%20%282%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
 ![](../../../.gitbook/assets/7%20%287%29.png)
 
-**Symbol menu**
+### **Symbol menu**
 
 Swipe left the symbol name to open the Symbol menu toolbar.                                                                                                                                                                                                                             ![](../../../.gitbook/assets/8%20%284%29.png)
 
@@ -41,7 +41,7 @@ Swipe left the symbol name to open the Symbol menu toolbar.                     
 * Order Entry – opens the Order entry screen for the selected symbol.
 * Remove – allows removing the Symbol from the Watchlist.
 
-**Symbol info**
+### **Symbol info**
 
 ![](../../../.gitbook/assets/9%20%281%29.png)
 
@@ -124,8 +124,7 @@ The rebates value can be set for the fee types such as 'Fill per lot', 'Fill vol
 
 Information about settings for all trade sessions:
 
-·         Before market;
-
+* Before market;
 * Pre-market;
 * Main;
 * Post-market;
