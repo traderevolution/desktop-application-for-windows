@@ -38,7 +38,7 @@ Additional columns for Filled orders and Orders history sections:
 * Cross price – constant cross rate for the currency pair.
 * Price – shows price for Market and Limit orders, and Limit price for Stop limit orders.
 
- Filled orders and Orders history sections can be viewed by selected date range, available values here are: from login, daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/3%20%2811%29.png).
+ Filled orders and Orders history sections can be viewed by selected date range, available values here are: from login, daily, two days to date, week to date, month to date. To choose the date range, tap the button ![](../../../.gitbook/assets/3-copy%20%281%29.png) .
 
 ![](../../../.gitbook/assets/4%20%284%29.png)
 
