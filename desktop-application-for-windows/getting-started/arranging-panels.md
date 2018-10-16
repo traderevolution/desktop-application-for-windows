@@ -43,7 +43,7 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 Each link is identified by a color:
 
-![](../../.gitbook/assets/9%20%285%29.png)
+![](../../.gitbook/assets/9%20%286%29.png)
 
 ### **Setting up links**
 

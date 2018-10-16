@@ -40,7 +40,7 @@ Open the chart to see the added indicators.
 
 Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
-![](../../../.gitbook/assets/9%20%284%29.png)
+![](../../../.gitbook/assets/9%20%285%29.png)
 
 ### **Order entry** 
 

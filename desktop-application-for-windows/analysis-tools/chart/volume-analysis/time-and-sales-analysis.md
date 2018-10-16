@@ -19,7 +19,7 @@ Time & Sales functionality can be set in the following way:
 * Keep range – if checked, the position of renderer \(two vertical lines used to specify the range\) in the 'Price range' mode will be saved relative to the axis X when switching the timeframe or changing the trading symbol. This setting is enabled only if 'Price range' mode is selected.
 * Panel position – specifies position of the T&S table relatively to the chart area: right or left.
 
-![](../../../../.gitbook/assets/9%20%281%29.png)
+![](../../../../.gitbook/assets/9%20%282%29.png)
 
 Time & Sales table chronologically shows all trades for a symbol by selected period. The following parameters are shown in the T&S table:
 
