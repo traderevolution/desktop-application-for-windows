@@ -48,7 +48,7 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 * Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
 *  Clocks – shows a list of clocks:
 
-![](../../.gitbook/assets/6%20%2816%29.png)
+![](../../.gitbook/assets/6%20%2817%29.png)
 
 Check needed clock\(s\) to be displayed in the 'Info bar'.
 

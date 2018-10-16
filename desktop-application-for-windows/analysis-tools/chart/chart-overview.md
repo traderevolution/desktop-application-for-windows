@@ -87,7 +87,7 @@ Right clicking on the timeline shows the panel with additional options:
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
-![](../../../.gitbook/assets/6%20%2817%29.png)
+![](../../../.gitbook/assets/6%20%2818%29.png)
 
 
 

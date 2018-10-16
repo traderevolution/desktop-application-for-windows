@@ -28,7 +28,7 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 ![](../../../.gitbook/assets/5%20%285%29.png)
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button ![](../../../.gitbook/assets/6-copy.png). Tap the button ‘x’ located near indicator’s name to remove indicator from this section.
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button ![](../../../.gitbook/assets/6-copy%20%281%29.png). Tap the button ‘x’ located near indicator’s name to remove indicator from this section.
 
 ![](../../../.gitbook/assets/7%20%288%29.png)
 
