@@ -29,7 +29,7 @@ To create a MAM group, open the MAM panel and click Create group.
 
 The group is now created and accounts can be added to it. To add an account, click Add account. To delete an account, click on the button in "Remove" column.
 
-![](../../.gitbook/assets/8%20%285%29.png)
+![](../../.gitbook/assets/8%20%286%29.png)
 
 Clicking Add accounts will open an Accounts lookup panel, which can be used to select prelinked accounts. The money manager will only see accounts which are linked to his User ID. Select the desired accounts and click OK.
 

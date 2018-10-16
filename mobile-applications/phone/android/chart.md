@@ -34,7 +34,7 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 Open the chart to see the added indicators.
 
-![](../../../.gitbook/assets/8%20%289%29.png)
+![](../../../.gitbook/assets/8%20%2810%29.png)
 
 ### **Drawing tools** 
 

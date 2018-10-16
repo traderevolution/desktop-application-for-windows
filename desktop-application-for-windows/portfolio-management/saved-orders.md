@@ -46,7 +46,7 @@ All changeable values can be set directly from rows with created orders. To prov
 
 Even if user has one saved orders list the following menu will appear on header of the panel:
 
-![](../../.gitbook/assets/8%20%288%29.png)
+![](../../.gitbook/assets/8%20%289%29.png)
 
 Lists can be edited or removed from this menu.
 
