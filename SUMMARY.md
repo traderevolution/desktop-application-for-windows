@@ -86,4 +86,5 @@
       * [Event log](mobile-applications/phone/android/event-log.md)
       * [Chart](mobile-applications/phone/android/chart.md)
       * [Orders](mobile-applications/phone/android/orders.md)
+      * [Watchlist](mobile-applications/phone/android/watchlist.md)
 
