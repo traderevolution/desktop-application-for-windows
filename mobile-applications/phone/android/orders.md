@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists of orders:
 
-![](../../../.gitbook/assets/1%20%2813%29.png)
+![](../../../.gitbook/assets/1%20%2814%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -42,7 +42,7 @@ Additional columns for Filled orders and Orders history sections:
 
 ![](../../../.gitbook/assets/4%20%284%29.png)
 
-![](../../../.gitbook/assets/5%20%286%29.png)
+![](../../../.gitbook/assets/5%20%287%29.png)
 
 In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/6%20%288%29.png)located at the top right corner of the Working orders screen.
 

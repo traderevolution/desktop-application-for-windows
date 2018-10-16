@@ -1,6 +1,6 @@
 # Symbols & Accounts lookup
 
-The Symbols lookup panel shows all symbols which are available through the broker. The Symbols lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../.gitbook/assets/1%20%284%29.png)next to the symbol scroll down menu.
+The Symbols lookup panel shows all symbols which are available through the broker. The Symbols lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../.gitbook/assets/1%20%285%29.png)next to the symbol scroll down menu.
 
 ![](../../.gitbook/assets/2%20%288%29.png)
 
@@ -12,7 +12,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
-![](../../.gitbook/assets/5%20%2813%29.png)
+![](../../.gitbook/assets/5%20%2814%29.png)
 
 Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 
@@ -33,9 +33,9 @@ Note: you can search for symbols and filter them by their localized names if the
 
 If there is no localized name for an instrument for the current interface language, the server instrument name and description are displayed.
 
-The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%287%29.png)next to the account scroll down menu.
+The Accounts lookup displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/7%20%288%29.png)next to the account scroll down menu.
 
-![](../../.gitbook/assets/8%20%281%29.png)
+![](../../.gitbook/assets/8%20%282%29.png)
 
 All Accounts are sorted on base of "User group -&gt; User" hierarchy. User can hide any accounts which belong to specific User or User group.
 

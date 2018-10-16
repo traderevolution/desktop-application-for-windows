@@ -4,7 +4,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **General**
 
-![](../../.gitbook/assets/1%20%289%29.png)
+![](../../.gitbook/assets/1%20%2810%29.png)
 
 * Language - specifies a default language of a user interface. To set up language, select it from the list;
 * Info bar - allows displaying Info bar;
@@ -25,7 +25,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **Trading defaults**
 
-![](../../.gitbook/assets/3%20%287%29.png)
+![](../../.gitbook/assets/3%20%288%29.png)
 
 * Account – specifies an account used by default, available for a multi-account user;
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;
@@ -55,7 +55,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### Confirmations
 
-![](../../.gitbook/assets/4%20%2813%29.png)
+![](../../.gitbook/assets/4%20%2814%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 

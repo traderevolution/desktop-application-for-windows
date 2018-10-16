@@ -24,11 +24,11 @@ During session, several workspaces can be loaded and kept open simultaneously. A
 
 New blank \(without any panels\) Workspace can be created by clicking on the button![](../../.gitbook/assets/3%20%284%29.png). 
 
-Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../.gitbook/assets/4%20%2810%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
+Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../.gitbook/assets/4%20%2811%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
 
 ### Workspace manager
 
-Click on the button![](../../.gitbook/assets/5%20%2810%29.png)which is located inside of the workspace tab![](../../.gitbook/assets/6%20%2811%29.png) to open workspace manager. It allows you to clone or rename the chosen workspace:
+Click on the button![](../../.gitbook/assets/5%20%2811%29.png)which is located inside of the workspace tab![](../../.gitbook/assets/6%20%2811%29.png) to open workspace manager. It allows you to clone or rename the chosen workspace:
 
 * Clone - allows creating the same workspace as current;
 * Rename - allows changing title of current workspace.
