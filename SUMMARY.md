@@ -87,4 +87,5 @@
       * [Chart](mobile-applications/phone/android/chart.md)
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
+      * [Positions](mobile-applications/phone/android/positions.md)
 
