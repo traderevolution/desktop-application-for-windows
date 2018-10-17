@@ -2,7 +2,7 @@
 
 The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%289%29.png)
+![](../../../.gitbook/assets/1%20%2810%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the aggregation.
 
@@ -14,7 +14,7 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap on the button![](../../../.gitbook/assets/3-copy.png)to open Chart toolbar.
 
-![](../../../.gitbook/assets/4%20%2816%29.png)
+![](../../../.gitbook/assets/4%20%2818%29.png)
 
 The Chart toolbar consists of 3 buttons:
 

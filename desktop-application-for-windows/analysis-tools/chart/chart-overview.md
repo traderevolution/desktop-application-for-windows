@@ -73,7 +73,7 @@ Working with right mouse button, user can get the following information:
 
 In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../.gitbook/assets/4%20%2815%29.png)
+![](../../../.gitbook/assets/4%20%2817%29.png)
 
 #### **Additional options**
 
