@@ -4,7 +4,7 @@
 
 This section describes the Chart panel and its functions.
 
-![](../../../.gitbook/assets/chart-overview-new-drawings.jpg)
+![](../../../.gitbook/assets/chart-overview.jpg)
 
 * Symbols lookup – the field for selecting the symbols displayed in the chart.
 * Accounts lookup – the field for selecting the accounts for visual trading.
