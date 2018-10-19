@@ -18,7 +18,7 @@ There are three main methods of scalping:
 * User can trade immediately after opening the panel. Since the most liquid and volatile instruments always have activity and trades on such instruments can be made almost every second.
 * The result of the trade has already been known for a couple of tens of seconds, etc.
 
-![](../../.gitbook/assets/first-with-textboxes-copy.png)
+![](../../.gitbook/assets/scalper%20%281%29.jpg)
 
 The Scalper panel allows traders to view and to trade Level II quotes, to use overlay and impulse indicators for analysis and to view Time & Sales chart – all in one panel.
 
