@@ -8,7 +8,7 @@ Account statistics panel offers the feature of exporting all statistics and char
 
 Account statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
-![](../../../.gitbook/assets/group-10-copy.jpg)
+![](../../../.gitbook/assets/account-statistics.jpg)
 
 At the top right corner of the panel, you can find ‘Account link’ button and ‘Menu’ button.
 
