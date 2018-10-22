@@ -57,7 +57,7 @@ To link two or more panels together:
 
 To unlink a panel from a group, click the panel's link icon and select None.
 
-![](../../.gitbook/assets/linking-white.jpg)
+![](../../.gitbook/assets/linking-panels.jpg)
 
 Panels have Yellow links for symbol link and Red - for account on the current example.
 
