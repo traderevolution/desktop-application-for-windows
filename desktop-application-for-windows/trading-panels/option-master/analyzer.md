@@ -4,7 +4,7 @@ Analyzer tab is used for graphic analysis before starting to trade options.
 
 Analyzer tab has the general view as follows:
 
-![](../../../.gitbook/assets/analyzer.jpg)
+![](../../../.gitbook/assets/analyzer%20%281%29.jpg)
 
 The main purpose of this tab is to describe graphically the portfolio of positions \(Test on paper tab\), and also to model changing of impact factors on portfolio.
 
