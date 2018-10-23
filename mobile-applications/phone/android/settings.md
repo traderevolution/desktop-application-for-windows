@@ -34,7 +34,7 @@ In 'Defaults' settings section you can adjust the following:
 
 In 'Environment' section you can adjust the following: 
 
-* Receive notifications – if checked, user will receive trading notifications. The notification icon looks as follows:![](../../../.gitbook/assets/notification-copy.png);
+* Receive notifications – if checked, user will receive trading notifications. The notification icon looks as follows:![](../../../.gitbook/assets/info.jpg);
 * Vibrate for notifications – if checked, the device will vibrate when notification comes;
 * Enable sounds – this option shows if sounds are enabled or not;
 * Warn if trading halt – if checked, user receives notifications about trading halt by symbol.
