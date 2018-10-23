@@ -19,11 +19,9 @@ Note: to recover the application password, tap ‘Forgot’ option in the ‘Pas
   
 To recover the password:
 
-·         enter Login ID in the Login field;
-
-·         enter email in the Email field;
-
-·         click Recover to receive an email with a recovery key. Then enter this key to the field.
+* enter Login ID in the Login field;
+* enter email in the Email field;
+* click Recover to receive an email with a recovery key. Then enter this key to the field.
 
 _\*Recommended iOS version 9 or higher_
 
