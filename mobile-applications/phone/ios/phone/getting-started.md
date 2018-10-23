@@ -25,3 +25,5 @@ To recover the password:
 
 ·         click Recover to receive an email with a recovery key. Then enter this key to the field.
 
+_\*Recommended iOS version 9 or higher_
+
