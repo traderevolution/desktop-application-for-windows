@@ -11,7 +11,7 @@
 * Grid – allows showing grid between columns and rows \(you can select the following options: Vertical, Horizontal, Vertical & horizontal, None\);
 * Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length;
 * Auto re-sorting – allows auto re-sorting a table after any changes;
-* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../.gitbook/assets/2%20%2815%29.png). 
+* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../.gitbook/assets/2%20%2816%29.png). 
 * Show toolbar – allows showing panel toolbar.
 
 ####  **Colors**
@@ -23,7 +23,7 @@ The Colors sub-menu allows configuring the color scheme for tables:
 
  **Columns tab** allows changing columns settings.
 
-![](../../.gitbook/assets/3%20%289%29.png)
+![](../../.gitbook/assets/3%20%2810%29.png)
 
 #### **Displaying and hiding columns**
 
