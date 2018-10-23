@@ -39,13 +39,13 @@ Additional columns for Filled orders and Orders history sections:
 * Cross price – constant cross rate for the currency pair.
 * Price – shows price for Market and Limit orders, and Limit price for Stop limit orders.
 
- Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/3-copy-2.png).
+ Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar.jpg).
 
 ![](../../../.gitbook/assets/4%20%284%29.png)
 
 ![](../../../.gitbook/assets/5%20%287%29.png)
 
-In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/6%20%288%29.png)located at the top right corner of the Working orders screen.
+In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete.jpg)located at the top right corner of the Working orders screen.
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
