@@ -9,9 +9,7 @@ The Market depth screen allows users to view and trade Level II quotes. It is ac
 * Price - buy or sell price from the highest Bid and the lowest Ask to lower Bid and higher Ask.
 * Size - the volume being offered to purchase at a specified Bid price or to sell at specified Ask price.
 
-**Coloring method:**
-
-The Size histogram is divided into 2 sections – Bid and Ask. The best Bid and best ask prices are located at the top of the histogram. Volumes are located opposite to the corresponding prices.
+The best Bid and best ask prices are located at the top of the histogram. Volumes are located opposite to the corresponding prices.
 
 To open Order entry screen, swipe up Position bar or tap the Order entry button![](../../../.gitbook/assets/2%20%2814%29.png)at the top right corner of the Market depth screen. Also you can open the Order entry screen by tapping the Bid/Ask row. The chosen BID/ASK price is placed as a limit price in OE automatically.
 
