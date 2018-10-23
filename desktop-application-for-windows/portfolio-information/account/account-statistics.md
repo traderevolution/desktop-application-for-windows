@@ -4,7 +4,7 @@ Account statistics panel is a tool for traders that provides detailed informatio
 
 Account statistics panel offers the feature of exporting all statistics and charts to HTML format as a report. To take advantage of this option use the 'Export to HTML' button located on the top right corner of the panel. The report is generated for the selected accounts over the chosen period considering values displayed in the corresponding tabs.
 
-![](../../../.gitbook/assets/1%20%284%29.png)
+![](../../../.gitbook/assets/1%20%285%29.png)
 
 Account statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 

@@ -2,7 +2,7 @@
 
 The Market depth screen allows users to view and trade Level II quotes. It is accessible only from the Symbol menu in the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%2820%29.png)
+![](../../../.gitbook/assets/1%20%2821%29.png)
 
 The main quote section consists of the following columns:
 
