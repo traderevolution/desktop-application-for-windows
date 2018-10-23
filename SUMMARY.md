@@ -89,4 +89,6 @@
       * [Event log](mobile-applications/phone/android/event-log.md)
       * [Positions](mobile-applications/phone/android/positions.md)
       * [Market depth](mobile-applications/phone/android/market-depth.md)
+    * [iOS](mobile-applications/phone/ios/README.md)
+      * [Phone](mobile-applications/phone/ios/phone.md)
 
