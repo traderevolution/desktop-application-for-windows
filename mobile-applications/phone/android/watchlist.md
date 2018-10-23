@@ -28,7 +28,7 @@ In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add.j
 
 ### **Watchlist Filter** 
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6-copy%20%282%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
 ![](../../../.gitbook/assets/7%20%287%29.png)
 
