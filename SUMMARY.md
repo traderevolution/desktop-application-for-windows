@@ -90,5 +90,6 @@
       * [Positions](mobile-applications/phone/android/positions.md)
       * [Market depth](mobile-applications/phone/android/market-depth.md)
     * [iOS](mobile-applications/phone/ios/README.md)
-      * [Phone](mobile-applications/phone/ios/phone.md)
+      * [Phone](mobile-applications/phone/ios/phone/README.md)
+        * [Getting started](mobile-applications/phone/ios/phone/getting-started.md)
 
