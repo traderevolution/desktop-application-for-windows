@@ -92,4 +92,5 @@
     * [iOS](mobile-applications/phone/ios/README.md)
       * [Phone](mobile-applications/phone/ios/phone/README.md)
         * [Getting started](mobile-applications/phone/ios/phone/getting-started.md)
+        * [Settings](mobile-applications/phone/ios/phone/settings.md)
 

@@ -18,9 +18,9 @@ Note: to recover the application password, tap ‘Forgot’ option in the ‘Pas
 
 To recover the password:
 
-* enter Login ID in the Login field;
-* enter email in the Email field;
-* click Recover to receive an email with a recovery key. Then enter this key to the field.
+* enter Login ID in the 'Login' field;
+* enter email in the 'Email' field;
+* tap 'Recover' to receive an email with a recovery key. Then enter this key to the field.
 
 In case you have the 'Additional verification' set up by your administrator, after tapping the button 'Log in' the following dialog window appears:
 
