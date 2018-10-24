@@ -6,7 +6,7 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask. Also there are Sell and Buy buttons for trading.
 
-![](../../../.gitbook/assets/order-entry.png)
+![](../../../.gitbook/assets/oe-account.png)
 
 ### **Order type:**
 
