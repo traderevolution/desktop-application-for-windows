@@ -94,4 +94,5 @@
         * [Getting started](mobile-applications/phone/ios/phone/getting-started.md)
         * [Settings](mobile-applications/phone/ios/phone/settings.md)
         * [Order entry](mobile-applications/phone/ios/phone/order-entry.md)
+        * [Positions](mobile-applications/phone/ios/phone/positions.md)
 
