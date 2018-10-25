@@ -12,19 +12,19 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
 ![](../../../../.gitbook/assets/2%20%284%29.png)
 
-**Symbol lookup** 
+### **Symbol lookup** 
 
 In order to open Symbol lookup, tap the button![](../../../../.gitbook/assets/add.jpg)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
 ![](../../../../.gitbook/assets/4%20%285%29.png)
 
-**Watchlist Filter** 
+### **Watchlist Filter** 
 
 In order to filter the list of displayed symbols tap the button![](../../../../.gitbook/assets/filter.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
 ![](../../../../.gitbook/assets/5%20%2815%29.png)
 
-**Symbol menu**
+### **Symbol menu**
 
 Swipe left the symbol name to open the Symbol menu toolbar. 
 
