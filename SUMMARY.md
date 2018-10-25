@@ -97,4 +97,5 @@
         * [Positions](mobile-applications/phone/ios/phone/positions.md)
         * [Watchlist](mobile-applications/phone/ios/phone/watchlist.md)
         * [Chart](mobile-applications/phone/ios/phone/chart.md)
+        * [Market depth](mobile-applications/phone/ios/phone/market-depth.md)
 
