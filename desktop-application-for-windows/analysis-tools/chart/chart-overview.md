@@ -31,7 +31,7 @@ To show/hide elements on Chart, right click anywhere within the chart, select Vi
 
 To zoom in and out in the Chart panel users can use the scroll button on their mouse or simply drag the chart border in the Timeline panel using the scroll:
 
-![](../../../.gitbook/assets/2%20%286%29.png)
+![](../../../.gitbook/assets/2%20%287%29.png)
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar.
 
@@ -73,7 +73,7 @@ Working with right mouse button, user can get the following information:
 
 In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../.gitbook/assets/4%20%2817%29.png)
+![](../../../.gitbook/assets/4%20%2818%29.png)
 
 #### **Additional options**
 
@@ -87,7 +87,7 @@ Right clicking on the timeline shows the panel with additional options:
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
-![](../../../.gitbook/assets/6%20%2819%29.png)
+![](../../../.gitbook/assets/6%20%2820%29.png)
 
 
 

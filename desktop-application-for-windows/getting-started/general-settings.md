@@ -4,7 +4,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **General**
 
-![](../../.gitbook/assets/1%20%2812%29.png)
+![](../../.gitbook/assets/1%20%2813%29.png)
 
 * Language - specifies a default language of a user interface. To set up language, select it from the list;
 * Info bar - allows displaying Info bar;
@@ -14,7 +14,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **View**
 
-![](../../.gitbook/assets/2%20%2813%29.png)
+![](../../.gitbook/assets/2%20%2814%29.png)
 
 * Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units;
@@ -55,7 +55,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### Confirmations
 
-![](../../.gitbook/assets/4%20%2815%29.png)
+![](../../.gitbook/assets/4%20%2816%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 

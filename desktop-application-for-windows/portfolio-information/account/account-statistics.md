@@ -149,13 +149,13 @@ Cumulative P/L chart allows users to view changes of their balances and P/L grap
 
 ![](../../../.gitbook/assets/3%20%2811%29.png)
 
-Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../.gitbook/assets/7%20%2812%29.png)to select the corresponding modes.
+Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../.gitbook/assets/7%20%2813%29.png)to select the corresponding modes.
 
 Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type \(Operations, Hours, Days, etc.\). Volume is displayed in lots.
 
 ### **Aggregate P/L Chart**
 
-![](../../../.gitbook/assets/4%20%289%29.png)
+![](../../../.gitbook/assets/4%20%2810%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
@@ -163,7 +163,7 @@ Aggregation interval – allows aggregating P/L chart by the needed periods: by 
 
 ### **Trades Population Chart**
 
-![](../../../.gitbook/assets/5%20%2817%29.png)
+![](../../../.gitbook/assets/5%20%2818%29.png)
 
 **Trades population** consists of two charts:
 
