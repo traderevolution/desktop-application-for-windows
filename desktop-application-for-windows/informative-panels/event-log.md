@@ -36,7 +36,7 @@ The following types are available:
 
 * Updater – allows showing all information about system updates.
 
-To clear the Event log table, call the context menu with right-clicking anywhere on the table and select Clear:![](../../.gitbook/assets/7%20%283%29.png).
+To clear the Event log table, call the context menu with right-clicking anywhere on the table and select Clear:![](../../.gitbook/assets/7%20%284%29.png).
 
 This option doesn't delete data, this is just for clearing a current Event log panel view.
 

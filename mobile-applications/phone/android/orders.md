@@ -49,7 +49,7 @@ Additional columns for Filled orders and Orders history sections:
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/7%20%286%29.png)
+![](../../../.gitbook/assets/7%20%287%29.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 

@@ -14,7 +14,7 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap on the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/4%20%2819%29.png)
+![](../../../.gitbook/assets/4%20%2821%29.png)
 
 The Chart toolbar consists of 3 buttons:
 
@@ -30,7 +30,7 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify.jpg). Tap the button ‘x’ located near indicator’s name to remove indicator from this section.
 
-![](../../../.gitbook/assets/7%20%289%29.png)
+![](../../../.gitbook/assets/7%20%2810%29.png)
 
 Open the chart to see the added indicators.
 

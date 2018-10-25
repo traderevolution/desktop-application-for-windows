@@ -6,11 +6,11 @@ The MAM panel can be found by navigating to Tools -&gt; MAM. This panel gives in
 
 To create a MAM group, open the MAM panel and click Create group.
 
-![](../../.gitbook/assets/6%20%2815%29.png)
+![](../../.gitbook/assets/6%20%2816%29.png)
 
 Now, enter a group name and choose an Allocation type. Click on the button in column "Remove" to delete the group from the list.
 
-![](../../.gitbook/assets/7%20%2811%29.png)
+![](../../.gitbook/assets/7%20%2812%29.png)
 
 The following columns are available in the Groups section:
 

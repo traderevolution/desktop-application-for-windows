@@ -28,7 +28,7 @@ New blank \(without any panels\) Workspace can be created by clicking on the but
 
 ### Workspace manager
 
-Click on the button![](../../.gitbook/assets/5%20%2811%29.png)which is located inside of the workspace tab![](../../.gitbook/assets/6%20%2811%29.png) to open workspace manager. It allows you to clone or rename the chosen workspace:
+Click on the button![](../../.gitbook/assets/5%20%2811%29.png)which is located inside of the workspace tab![](../../.gitbook/assets/6%20%2812%29.png) to open workspace manager. It allows you to clone or rename the chosen workspace:
 
 * Clone - allows creating the same workspace as current;
 * Rename - allows changing title of current workspace.

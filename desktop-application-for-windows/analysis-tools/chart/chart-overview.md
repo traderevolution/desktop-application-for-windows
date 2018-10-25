@@ -73,7 +73,7 @@ Working with right mouse button, user can get the following information:
 
 In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../.gitbook/assets/4%20%2818%29.png)
+![](../../../.gitbook/assets/4%20%2820%29.png)
 
 #### **Additional options**
 
@@ -87,7 +87,7 @@ Right clicking on the timeline shows the panel with additional options:
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
-![](../../../.gitbook/assets/6%20%2820%29.png)
+![](../../../.gitbook/assets/6%20%2821%29.png)
 
 
 

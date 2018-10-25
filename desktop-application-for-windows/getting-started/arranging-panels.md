@@ -36,9 +36,9 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 ### Linking panels
 
-One of the advantages of the Desktop terminal is linking panels. Currently two types of link are available on the header of each panel![](../../.gitbook/assets/6%20%2822%29.png):
+One of the advantages of the Desktop terminal is linking panels. Currently two types of link are available on the header of each panel![](../../.gitbook/assets/6%20%2823%29.png):
 
-* **Symbol link**![](../../.gitbook/assets/7%20%285%29.png)–   when panels are linked, selecting in symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist.
+* **Symbol link**![](../../.gitbook/assets/7%20%286%29.png)–   when panels are linked, selecting in symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist.
 * **Account link**![](../../.gitbook/assets/8%20%2813%29.png)–   available for panels which use accounts. When panels are linked, selecting an account in one of the panels synchronizes other panels in the group to display information relevant to that account. For example, when Market depth panel linked to a FX cell panel. Account selected in Market depth panel will be used for trading through FX cell.
 
 Each link is identified by a color:

@@ -13,7 +13,7 @@ To choose the type of aggregation for a chart, click on the Time frame button lo
 * Cluster – displays value of the specific parameter \(Volume, Delta, Trades, etc.\) by each price level. One cluster corresponds to one bar.
 * Profile – displays each bar in the form of “market profile”. The base for building the profile is typical time bars or tick bars which instead of general candle are displayed as a column of letters of the Latin alphabet.
 
-![](../../../.gitbook/assets/7.png)
+![](../../../.gitbook/assets/7%20%281%29.png)
 
 User can simply choose predefined aggregation type from the set of saved states, click on it and it'll be immediately applied to the chart or set a new one by clicking on the "Edit" link where user can interactively customize and streamline different types of the chart representation. In the timeframe editor users can adjust each value in each group by adding new items or editing the existing ones. In order to add a new aggregation type, click on "+" button and specify all the necessary parameters for this type:
 

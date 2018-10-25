@@ -32,7 +32,7 @@ Filtering of text columns allows to find the selected symbol in 1 click:
 
 ![](../../.gitbook/assets/5%20%2810%29.png)
 
-![](../../.gitbook/assets/6%20%283%29.png)
+![](../../.gitbook/assets/6%20%284%29.png)
 
 ### Sorting
 
