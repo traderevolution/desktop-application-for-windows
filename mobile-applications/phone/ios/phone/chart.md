@@ -10,7 +10,7 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 ![](../../../../.gitbook/assets/2%20%2819%29.png)
 
-**Chart toolbar** 
+### **Chart toolbar** 
 
 Tap on the button![](../../../../.gitbook/assets/3.jpg)to open Chart toolbar.
 
@@ -36,13 +36,13 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 ![](../../../../.gitbook/assets/6%20%282%29.png)
 
-**Drawing tools**
+### **Drawing tools**
 
 Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
 ![](../../../../.gitbook/assets/7.png)
 
-**Order entry**
+### **Order entry**
 
  The Order entry screen enables user to send orders. The Order entry icon![](../../../../.gitbook/assets/8.jpg)is located at the top right corner of the Chart screen.
 
