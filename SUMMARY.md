@@ -95,4 +95,5 @@
         * [Settings](mobile-applications/phone/ios/phone/settings.md)
         * [Order entry](mobile-applications/phone/ios/phone/order-entry.md)
         * [Positions](mobile-applications/phone/ios/phone/positions.md)
+        * [Watchlist](mobile-applications/phone/ios/phone/watchlist.md)
 
