@@ -10,7 +10,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 * Change – the price deviation from the current day's opening price.
 * Change, % – the price deviation from current day's opening price in a percentage.
 
-![](../../../../.gitbook/assets/2%20%284%29.png)
+![](../../../../.gitbook/assets/2%20%285%29.png)
 
 ### **Symbol lookup** 
 
