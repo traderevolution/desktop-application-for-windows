@@ -16,8 +16,6 @@ Buy orders are displayed in the list with blue arrow, sell orders – with red. 
 * MAM group ID – unique number of orders group. It is applicable if orders are created in MAM Group.
 * Stop loss – stop loss price set for the order.
 * Take profit – take profit price set for the order.
-* Qty. filled – executed quantity of the order when only part of the order was executed.
-* Qty. remaining – difference between quantity and executed quantity when only part of the order was executed.
 * Bound to – ID of the order which another order is bound to; if the former is executed, system will cancel the latter.
 * Account – login name of the account that opened the order.
 
