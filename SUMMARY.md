@@ -99,4 +99,5 @@
         * [Chart](mobile-applications/phone/ios/phone/chart.md)
         * [Market depth](mobile-applications/phone/ios/phone/market-depth.md)
         * [Orders](mobile-applications/phone/ios/phone/orders.md)
+        * [Event log](mobile-applications/phone/ios/phone/event-log.md)
 
