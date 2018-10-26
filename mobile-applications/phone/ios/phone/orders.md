@@ -41,5 +41,7 @@ Additional columns for Filled orders and Orders history sections:
 
 In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
 
+In order to modify active order, tap the ‘Modify’ button. User can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
+
 In order to cancel the order, tap the 'Cancel' button.
 
