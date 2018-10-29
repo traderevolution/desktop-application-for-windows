@@ -2,7 +2,7 @@
 
 You can access the ‘Settings’ screen from the application's ‘More’ menu in order to manipulate by 'Defaults', 'Confirmations', 'Chart settings':
 
-**Defaults**
+### **Defaults**
 
 In ‘Defaults’ settings section you can adjust the following:
 
@@ -28,12 +28,9 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ### **Chart**
 
- ‘Chart settings’ section allows to specify the following options to be visible on the chart:
+‘Chart settings’ section allows to specify the following options to be visible on the chart:
 
 ![](../../../../.gitbook/assets/4.PNG)
-
-  
-
 
 * Chart style: Candle, Line, Area;
 * Show orders – mark as checked to visualize all sent orders;
