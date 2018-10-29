@@ -102,4 +102,5 @@
         * [Event log](mobile-applications/phone/ios/phone/event-log.md)
       * [Tablets](mobile-applications/phone/ios/tablets/README.md)
         * [Getting started](mobile-applications/phone/ios/tablets/getting-started.md)
+        * [Settings](mobile-applications/phone/ios/tablets/settings.md)
 
