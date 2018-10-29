@@ -7,7 +7,6 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 In the Watchlist you can find information by traded symbols:
 
 * Last price – the last trade price.
-* Change – the price deviation from the current day's opening price.
 * Change, % – the price deviation from current day's opening price in a percentage.
 
  In order to get full symbol information and open the chart, tap the Symbol name. 
