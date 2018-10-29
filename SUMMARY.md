@@ -83,6 +83,7 @@
       * [Getting started](mobile-applications/phone/android/getting-started.md)
       * [Settings](mobile-applications/phone/android/settings.md)
       * [Watchlist](mobile-applications/phone/android/watchlist.md)
+      * [Symbol info](mobile-applications/phone/android/symbol-info.md)
       * [Chart](mobile-applications/phone/android/chart.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Orders](mobile-applications/phone/android/orders.md)
