@@ -100,4 +100,5 @@
         * [Positions](mobile-applications/phone/ios/phone/positions.md)
         * [Market depth](mobile-applications/phone/ios/phone/market-depth.md)
         * [Event log](mobile-applications/phone/ios/phone/event-log.md)
+      * [Tablets](mobile-applications/phone/ios/tablets.md)
 
