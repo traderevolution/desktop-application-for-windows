@@ -10,7 +10,7 @@ Every time starting the application for Desktop, the Update manager checks for u
 
 When an update is available, the update icon will appear at the top of the terminal:
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 The icon remains visible until a user update the terminal to the latest version. To install new version, click on the update icon.
 
@@ -30,7 +30,7 @@ Any version of the application that you install, after removing the application 
 
 The first time running the application for Desktop there will be a default connection set up, so user can simply enter the login and password to connect.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ### **Changing password**
 
@@ -50,7 +50,7 @@ To recover the password:
 
 2. After login to the application for Desktop:
 
-To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../.gitbook/assets/image%20%281%29.png):
+To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../.gitbook/assets/image%20%282%29.png):
 
 Change password - allows changing the password which is entered to login into the terminal.
 
@@ -58,7 +58,7 @@ Change password - allows changing the password which is entered to login into th
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 To change the password:
 
