@@ -95,6 +95,7 @@
         * [Getting started](mobile-applications/phone/ios/phone/getting-started.md)
         * [Settings](mobile-applications/phone/ios/phone/settings.md)
         * [Watchlist](mobile-applications/phone/ios/phone/watchlist.md)
+        * [Symbol info](mobile-applications/phone/ios/phone/symbol-info.md)
         * [Chart](mobile-applications/phone/ios/phone/chart.md)
         * [Order entry](mobile-applications/phone/ios/phone/order-entry.md)
         * [Orders](mobile-applications/phone/ios/phone/orders.md)
