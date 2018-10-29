@@ -10,7 +10,11 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 * Change – the price deviation from the current day's opening price.
 * Change, % – the price deviation from current day's opening price in a percentage.
 
- In order to get full symbol information and open the chart, tap the Symbol name. Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
+ In order to get full symbol information and open the chart, tap the Symbol name. 
+
+![](../../../.gitbook/assets/chart.png)
+
+Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
 
 * Volume – the total amount traded today.
 * Open – the day's open price.
@@ -18,7 +22,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 * Low – the day's lowest price.
 * Previous close – the previous day's close price.
 
-![](../../../.gitbook/assets/3%20%287%29.png)
+![](../../../.gitbook/assets/info-window.png)
 
 ### **Symbol lookup** 
 
