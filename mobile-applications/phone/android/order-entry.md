@@ -8,8 +8,6 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 
 ![](../../../.gitbook/assets/oe-day-new.png)
 
-![](../../../.gitbook/assets/oe-day-new2.png)
-
 ### **Order type:**
 
 * Market order guarantees execution at a market price.
@@ -33,4 +31,6 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 * Take profit.
 
 Note: SL offset and TR offset cannot be checked together.
+
+![](../../../.gitbook/assets/oe-day-new2.png)
 
