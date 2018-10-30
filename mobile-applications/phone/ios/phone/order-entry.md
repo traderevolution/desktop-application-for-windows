@@ -32,7 +32,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 * SL/TP price – allows to set Stop loss and Take profit prices.
 * Trailing SL offset – allows entering the order trailing stop price.
 
-Note: SL offset and TR offset cannot be checked together.
+Note: SL price and Trailing SL offset cannot be checked together.
 
 After setting all the parameters, tap the button 'Send order'.
 
