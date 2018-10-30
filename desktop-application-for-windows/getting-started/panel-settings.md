@@ -1,6 +1,6 @@
 # Panel settings
 
- The menu Settings can be opened through the Context menu, right click anywhere and select Settings. See an example of the settings dialog window below:
+The menu Settings can be opened through the Context menu, right click anywhere and select Settings. See an example of the settings dialog window below:
 
 ![](../../.gitbook/assets/1.png)
 

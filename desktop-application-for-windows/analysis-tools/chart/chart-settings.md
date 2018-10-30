@@ -1,7 +1,6 @@
 # Chart settings
 
-  
-Chart settings include thirteen sections to set up: 
+Chart settings include thirteen sections to set up: 
 
 #### **Data style**
 
