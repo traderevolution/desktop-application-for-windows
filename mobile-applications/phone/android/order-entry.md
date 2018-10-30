@@ -4,11 +4,13 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 
                                                         ![](../../../.gitbook/assets/watchlist-symbol-swipe-copy%20%281%29.png) 
 
-In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask. Also there are Sell and Buy buttons for trading.
+In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask. Slide the button to choose Buy or Sell side and after setting all the parameters, tap the button ‘Send order’.
 
-![](../../../.gitbook/assets/oe-account.png)
+![](../../../.gitbook/assets/oe-day-new.png)
 
-### **Order type:**
+![](../../../.gitbook/assets/oe-day-new2.png)
+
+### **Order type:**
 
 * Market order guarantees execution at a market price.
 * Limit order is placed with a brokerage to buy or sell a set number of shares at a specified price or better.
