@@ -1,10 +1,10 @@
 # Symbol info
 
- To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchlist screen.
+To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchlist screen.
 
                                                         ![](../../../../.gitbook/assets/symbol-menu-ios.png) 
 
-The following information is available:
+The following information by the symbol is available:
 
 ![](../../../../.gitbook/assets/symbol-info-screen2.png)
 

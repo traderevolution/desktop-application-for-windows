@@ -4,7 +4,7 @@ To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchli
 
                                                         ![](../../../.gitbook/assets/symbol-menu.png) 
 
-The following information is available:
+The following information by the symbol is available:
 
 ![](../../../.gitbook/assets/9%20%281%29.png)
 
