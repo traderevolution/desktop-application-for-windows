@@ -15,6 +15,8 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 
 **Order type:**
 
+ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Trailing stop:
+
 1. Market order guarantees execution at a market price.
 2. Limit order is placed with a brokerage to buy or sell a set number of shares at a specified price or better.
 3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit.

@@ -12,7 +12,10 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 * Symbol – the symbol available for the trade;
 * Side – allows to activate Buy or Sell side;
 * Quantity – an amount of lots in which an order is placed. Tap the value in order to edit it;
-* Order type – defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop:
+
+**Order type:**
+
+Order type defines the type of the order – Market, Limit, Stop, Stop limit, Trailing stop:
 
 1. Market order guarantees execution at a market price.
 2. Limit order is placed with a brokerage to buy or sell a set number of shares at a specified price or better.
@@ -20,7 +23,9 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 4. Stop limit order will be executed at a specified price \(or better\) after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy \(or sell\) at the limit price or better.
 5. "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders.
 
-* TIF \(Time-in-force\) – allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
+**TIF:**
+
+TIF \(Time-in-force\) – allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
 
 1. Day order, as the name implies, is valid for the current trading day.
 2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled.
