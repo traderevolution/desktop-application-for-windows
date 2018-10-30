@@ -19,7 +19,7 @@ Order entry panel is where market or pending orders can be placed. To open the O
 5. OCO \(One-Cancels-the-Other\) is an order stipulating that if one part of the order is executed, then the other part is automatically canceled;
 6. "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders;
 
-* TIF - Time-in-force option which allows traders to be more specific about time parameters in which an order is activated. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
+* TIF - Time-in-force option which allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
 
 1. A Day order, as the name implies, is valid for the current trading day;
 2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled or the contract expires;
