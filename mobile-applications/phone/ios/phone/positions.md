@@ -8,7 +8,7 @@ The Positions screen displays all opened positions. Every new opened position ap
 
 In order to get full information about a symbol, tap a symbol's name.
 
-![](../../../../.gitbook/assets/2%20%282%29.PNG)
+![](../../../../.gitbook/assets/2%20%283%29.PNG)
 
 * Fee – shows the total commission amount taken for a position;
 * Date/time – shows date and time when a position was opened;
