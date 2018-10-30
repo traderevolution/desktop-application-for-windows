@@ -7,12 +7,9 @@ Order entry panel is where market or pending orders can be placed. To open the O
 This panel contains the following settings:
 
 * Account - the account used for an order creation;
-* Power of attorney - indicates whether the user is a power of attorney of the account owner;
 * Symbol - the symbol available for the trade;
 * Side - allows to activate Buy or Sell side;
-
- Quantity – an amount of lots in which an order is placed. The button![](../../.gitbook/assets/27.png)near this fiel  allows to select among default values for Quantity from the drop-down list. The item Edit calls the Types manager panel, allowing to edit the default values;
-
+* Quantity – an amount of lots in which an order is placed. The button![](../../.gitbook/assets/27.png)near this fiel  allows to select among default values for Quantity from the drop-down list. The item Edit calls the Types manager panel, allowing to edit the default values;
 * Order type - defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop, OCO:
 
 1. Market order is an order to buy or sell a security at the best available price immediately;
@@ -49,7 +46,7 @@ Note: if the user performs actions on the position or modifies the order from on
 
 You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. Put your mouse on the SL button without clicking on it and then choose TSL to change Stop Loss order into Trailing Stop![](../../.gitbook/assets/28%20%281%29.png).
 
- Order entry panel has two additional sections which display important information: VWAP and Margin. VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
+Order entry panel has two additional sections which display important information: VWAP and Margin. VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
 
 ![](../../.gitbook/assets/29%20%281%29.png)
 
