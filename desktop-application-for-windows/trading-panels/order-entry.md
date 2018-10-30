@@ -81,5 +81,7 @@ P/L per Tick - no information for Index.
 
 **Fees** part shows commission for a trade:
 
-Total fee – shows the commission total on the trade. It is displayed depending upon commission plan settings on the Server. Information of the Margin section can be updated by clicking on the button![](../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+Total fee – shows the commission total on the trade. It is displayed depending upon commission plan settings on the Server. 
+
+Information of the Margin section can be updated by clicking on the button![](../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
