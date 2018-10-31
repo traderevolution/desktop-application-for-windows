@@ -6,7 +6,7 @@
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../../.gitbook/assets/3.PNG)
+![](../../../.gitbook/assets/3.PNG)
 
 * Order quantity – displays amount of lots for opening an order;
 * TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, FOK, GTD;
@@ -30,7 +30,7 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ‘Chart settings’ section allows to specify the following options to be visible on the chart:
 
-![](../../../../.gitbook/assets/4.PNG)
+![](../../../.gitbook/assets/4.PNG)
 
 * Chart style: Candle, Line, Area;
 * Show orders – mark as checked to visualize all sent orders;

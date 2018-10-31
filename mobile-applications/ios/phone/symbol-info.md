@@ -2,11 +2,11 @@
 
 To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchlist screen.
 
-                                                        ![](../../../../.gitbook/assets/symbol-menu-ios.png) 
+                                                        ![](../../../.gitbook/assets/symbol-menu-ios.png) 
 
 The following information by the symbol is available:
 
-![](../../../../.gitbook/assets/symbol-info-screen2.png)
+![](../../../.gitbook/assets/symbol-info-screen2.png)
 
 1\) General:
 

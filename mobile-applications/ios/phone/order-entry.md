@@ -1,12 +1,12 @@
 # Order entry
 
-The Order entry screen enables user to send orders. The Order entry button![](../../../../.gitbook/assets/oe%20%285%29.jpg)is located on the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
+The Order entry screen enables user to send orders. The Order entry button![](../../../.gitbook/assets/oe%20%285%29.jpg)is located on the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
 
-                                                        ![](../../../../.gitbook/assets/10%20%281%29.PNG) 
+                                                        ![](../../../.gitbook/assets/10%20%281%29.PNG) 
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask. 
 
-![](../../../../.gitbook/assets/1.PNG)
+![](../../../.gitbook/assets/1.PNG)
 
 * Account – the account used for an order creation;
 * Symbol – the symbol available for the trade;
@@ -40,5 +40,5 @@ Note: SL price and Trailing SL offset cannot be checked together.
 
 After setting all the parameters, tap the button 'Send order'.
 
-![](../../../../.gitbook/assets/2.PNG)
+![](../../../.gitbook/assets/2.PNG)
 

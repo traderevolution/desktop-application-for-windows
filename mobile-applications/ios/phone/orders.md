@@ -29,17 +29,17 @@ Additional columns for Filled orders and Orders history sections:
 * Rebates – shows amount of money that was returned/paid for filling this order, which added/removed liquidity.
 * Trade volume – shows total volume of the trade.
 * Cross price – constant cross rate for the currency pair.
-* Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../../.gitbook/assets/calendar%20%281%29.jpg).
+* Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
 
-![](../../../../.gitbook/assets/1%20%289%29.png)
+![](../../../.gitbook/assets/1%20%289%29.png)
 
-![](../../../../.gitbook/assets/2%20%284%29.png)
+![](../../../.gitbook/assets/2%20%284%29.png)
 
 In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../../.gitbook/assets/with-price.png)
+![](../../../.gitbook/assets/with-price.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
