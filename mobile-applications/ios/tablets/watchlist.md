@@ -19,19 +19,19 @@ In order to get full symbol information and open the chart, tap the Symbol name.
 
 ![](../../../.gitbook/assets/3%20%282%29.png)
 
-**Symbol lookup** 
+### **Symbol lookup** 
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
 ![](../../../.gitbook/assets/5.png)
 
-**Watchlist Filter** 
+### **Watchlist Filter** 
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
 ![](../../../.gitbook/assets/7%20%283%29.png)
 
-**Symbol menu**
+### **Symbol menu**
 
 Swipe left the symbol name to open the Symbol menu toolbar.
 
