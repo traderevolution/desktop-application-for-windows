@@ -105,4 +105,5 @@
     * [Tablets](mobile-applications/ios/tablets/README.md)
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
       * [Settings](mobile-applications/ios/tablets/settings.md)
+      * [Watchlist](mobile-applications/ios/tablets/watchlist.md)
 
