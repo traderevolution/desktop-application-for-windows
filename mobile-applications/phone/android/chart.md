@@ -2,7 +2,7 @@
 
 The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%2814%29.png)
+![](../../../.gitbook/assets/1%20%2815%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
 
@@ -26,15 +26,15 @@ Tap on the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
 In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the indicator name from the Indicators screen.
 
-![](../../../.gitbook/assets/5%20%286%29.png)
+![](../../../.gitbook/assets/5%20%287%29.png)
 
 It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify.jpg). Tap the button ‘x’ located near indicator’s name to remove indicator from this section.
 
-![](../../../.gitbook/assets/7%20%2810%29.png)
+![](../../../.gitbook/assets/7%20%2811%29.png)
 
 Open the chart to see the added indicators.
 
-![](../../../.gitbook/assets/8%20%2810%29.png)
+![](../../../.gitbook/assets/8%20%2812%29.png)
 
 ### **Drawing tools** 
 

@@ -4,7 +4,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **General**
 
-![](../../.gitbook/assets/1%20%2815%29.png)
+![](../../.gitbook/assets/1%20%2816%29.png)
 
 * Language - specifies a default language of a user interface. To set up language, select it from the list;
 * Info bar - allows displaying Info bar;
@@ -25,7 +25,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **Trading defaults**
 
-![](../../.gitbook/assets/3%20%289%29.png)
+![](../../.gitbook/assets/3%20%2810%29.png)
 
 * Account – specifies an account used by default, available for a multi-account user;
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;
@@ -68,7 +68,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Warnings**
 
-![](../../.gitbook/assets/5%20%281%29.png)
+![](../../.gitbook/assets/5%20%282%29.png)
 
 * Warn if wrong order – if checked, you get a warning message in case of placing order with incorrect parameters;
 * Warn if today's volume exceeds - allows to select today volume level at which the system will display a warning message;

@@ -10,7 +10,7 @@ To create a MAM group, open the MAM panel and click Create group.
 
 Now, enter a group name and choose an Allocation type. Click on the button in column "Remove" to delete the group from the list.
 
-![](../../.gitbook/assets/7%20%2812%29.png)
+![](../../.gitbook/assets/7%20%2813%29.png)
 
 The following columns are available in the Groups section:
 
@@ -29,7 +29,7 @@ To create a MAM group, open the MAM panel and click Create group.
 
 The group is now created and accounts can be added to it. To add an account, click Add account. To delete an account, click on the button in "Remove" column.
 
-![](../../.gitbook/assets/8%20%286%29.png)
+![](../../.gitbook/assets/8%20%287%29.png)
 
 Clicking Add accounts will open an Accounts lookup panel, which can be used to select prelinked accounts. The money manager will only see accounts which are linked to his User ID. Select the desired accounts and click OK.
 
@@ -66,7 +66,7 @@ After trade funds = Available funds – Impact on portfolio - Fee
 
 Now the accounts have been successfully added to the MAM group and the money manager can select accounts to trade with. There are several options available when accounts are added. Now the money manager can perform trades.
 
-![](../../.gitbook/assets/5%20%2816%29.png)
+![](../../.gitbook/assets/5%20%2817%29.png)
 
 
 

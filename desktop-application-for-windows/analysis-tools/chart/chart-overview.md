@@ -83,7 +83,7 @@ Right clicking on the timeline shows the panel with additional options:
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 * Show extended sessions - this option displays all quotes received on pre-session, main session and post-session. The timeframes for sessions should be set in the Backoffice for each symbol.
 
-![](../../../.gitbook/assets/5%20%2813%29.png)
+![](../../../.gitbook/assets/5%20%2814%29.png)
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 

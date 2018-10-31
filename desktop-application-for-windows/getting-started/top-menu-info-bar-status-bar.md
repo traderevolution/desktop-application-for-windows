@@ -20,7 +20,7 @@ Info bar can be enabled or hidden via the tab General in General settings.
 
 It looks as the following:
 
-![](../../.gitbook/assets/1%20%2812%29.png)
+![](../../.gitbook/assets/1%20%2813%29.png)
 
 You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../.gitbook/assets/2%20%289%29.png).
 
@@ -37,7 +37,7 @@ The control![](../../.gitbook/assets/4%20%2822%29.png)opens a list of elements'
 
 * Account details – opens the 'Customize account details' menu:
 
-![](../../.gitbook/assets/5%20%284%29.png)
+![](../../.gitbook/assets/5%20%285%29.png)
 
 This menu contains an account lookup for users having more than one account.
 
@@ -52,13 +52,13 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 
 Check needed clock\(s\) to be displayed in the 'Info bar'.
 
-All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../.gitbook/assets/7%20%283%29.png).
+All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../.gitbook/assets/7%20%284%29.png).
 
 To remove more than one element, hold the key 'Ctrl', select as much elements as you need, right-click anywhere on the highlighted area and select 'Delete'.  
   
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
-* ![](../../.gitbook/assets/8%20%2812%29.png)– click to collapse each tree's entity;
+* ![](../../.gitbook/assets/8%20%2814%29.png)– click to collapse each tree's entity;
 * ![](../../.gitbook/assets/9%20%288%29.png)– click to expand each tree's entity.
 
 The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
