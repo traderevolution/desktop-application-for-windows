@@ -25,7 +25,7 @@ Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info wind
 
 ### **Symbol lookup** 
 
-In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%281%29.jpg)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
+In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%282%29.jpg)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
 ![](../../../.gitbook/assets/5%20%283%29.png)
 

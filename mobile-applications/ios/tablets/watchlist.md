@@ -17,11 +17,9 @@ In order to get full symbol information and open the chart, tap the Symbol name.
 * Low – the day's lowest price.
 * Previous close – the previous day's close price.
 
-![](../../../.gitbook/assets/3%20%282%29.png)
-
 ### **Symbol lookup** 
 
-In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
+In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
 ![](../../../.gitbook/assets/5.png)
 
