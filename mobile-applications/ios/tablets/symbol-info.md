@@ -2,7 +2,7 @@
 
 To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchlist screen.
 
-                                                     ![](../../../.gitbook/assets/img_1512.PNG) 
+                                                        ![](../../../.gitbook/assets/img_1512.PNG) 
 
 The following information by the symbol is available:
 

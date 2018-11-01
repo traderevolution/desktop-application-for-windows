@@ -41,8 +41,8 @@ The following information by the symbol is available:
 * Allow short positions – this parameter shows if it is allowed or not to open short positions by a given instrument. Available for Equities and ETF \(Exchange traded fund\);
 * High limit – maximum limit price which is set for pending orders, any price higher than the High limit is rejected. Available for Futures CFDs, Futures, Equities, Indices, Crypto and ETF \(Exchange traded fund\);
 * Low limit – minimum limit price which is set for pending orders, any price lower than the Low limit is rejected. Available for Futures CFDs, Futures, Equities, Indices, Crypto and ETF \(Exchange traded fund\);
-* Delivery status - status of asset delivery.
-* Next holiday – the name of the next holiday and its date.
+* Delivery status - status of asset delivery;
+* Next holiday – the name of the next holiday and its date;
 * Trading blocked on session – shows whether trading is blocked on the current session.
 
 3\) Margin requirements:
@@ -68,7 +68,7 @@ The fee value for the fee types such as 'Fill per lot', 'Fill volume, %', 'Per f
 * Per phone transaction – a trader pays fee for each transaction which was made by Phone dealer;
 * VAT – a trader pays VAT from each fee operation;
 * Fill volume \(Buy/Sell/Short/Open/Close\), % – fee calculated on base of the volume of each trade;
-* Fill volume \(Buy/Sell/Open/Close\) with min p/d, % – commission from a volume, which ensures a day minimum in case of partial filling of an order.
+* Fill volume \(Buy/Sell/Open/Close\) with min p/d, % – commission from a volume, which ensures a day minimum in case of partial filling of an order;
 * Order volume % \(Buy/Sell/Open/Close\) – a trader pays fee per each part of order volume that was filled;
 * Long swap – shows the swap value applied to overnight long positions of an instrument;
 * Short swap – shows the swap value applied to overnight short positions of an instrument;
