@@ -106,4 +106,5 @@
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
       * [Settings](mobile-applications/ios/tablets/settings.md)
       * [Watchlist](mobile-applications/ios/tablets/watchlist.md)
+      * [Symbol info](mobile-applications/ios/tablets/symbol-info.md)
 
