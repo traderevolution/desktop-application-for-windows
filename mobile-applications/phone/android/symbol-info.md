@@ -29,6 +29,8 @@ The following information by the symbol is available:
 2\) Trading info:
 
 * Symbol status – the instrument trading status, available values: Open, Closed. With the symbol status set to Closed, the instrument trading is blocked;
+* Allowed operations – New, Modification, Cancel;
+* Allowed order types – Market, Limit, Stop, Stop limit, Trailing stop;
 * Current session – information on the current trading session period for the instrument;
 * Quoting currency – information about currency in which quote is calculated;
 * Lot size – amount of base asset for one lot;
