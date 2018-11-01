@@ -107,5 +107,6 @@
       * [Settings](mobile-applications/ios/tablets/settings.md)
       * [Watchlist](mobile-applications/ios/tablets/watchlist.md)
       * [Symbol info](mobile-applications/ios/tablets/symbol-info.md)
+      * [Chart](mobile-applications/ios/tablets/chart.md)
       * [Order entry](mobile-applications/ios/tablets/order-entry.md)
 
