@@ -12,7 +12,7 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 ### **Chart toolbar** 
 
-Tap on the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
+Tap the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
 ![](../../../.gitbook/assets/4%20%2821%29.png)
 
