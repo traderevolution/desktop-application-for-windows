@@ -45,7 +45,7 @@ Additional columns for Filled orders and Orders history sections:
 
 ![](../../../.gitbook/assets/5%20%288%29.png)
 
-In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete%20%281%29.jpg)located at the top right corner of the Working orders screen.
+In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete%20%282%29.jpg)located at the top right corner of the Working orders screen.
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
