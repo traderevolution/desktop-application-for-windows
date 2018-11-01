@@ -8,7 +8,7 @@ The Chart is the most important tool for active trading and market analyzing.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart by this symbol.
 
-**Chart toolbar** 
+### **Chart toolbar** 
 
 Tap the button![](../../../.gitbook/assets/2%20%281%29.jpg)to open Chart toolbar.
 
@@ -34,15 +34,15 @@ Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/9%20%288%29.png)
 
-**Drawing tools**
+### **Drawing tools**
 
 Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
 ![](../../../.gitbook/assets/10%20%287%29.png)
 
-**Order entry**
+### **Order entry**
 
- The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/11%20%281%29.jpg)is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/11%20%281%29.jpg)is located at the top right corner of the Chart screen.
 
 Read more information about Order entry screen here:
 
