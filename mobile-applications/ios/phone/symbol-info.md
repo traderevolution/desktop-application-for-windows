@@ -6,7 +6,7 @@ To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchli
 
 The following information by the symbol is available:
 
-![](../../../.gitbook/assets/symbol-info-screen2.png)
+![](../../../.gitbook/assets/symbol-info-coma.png)
 
 1\) General:
 
