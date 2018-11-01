@@ -22,7 +22,31 @@ Tap the button![](../../../.gitbook/assets/2%20%281%29.jpg)to open Chart toolba
 
 ### **Indicators**
 
- In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button   near the indicator name at the list of available Indicators.
+ In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button +  near the indicator name at the list of available Indicators.
+
+![](../../../.gitbook/assets/5%20%2816%29.png)
+
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify.jpg). tap the button x located near indicator’s name to remove indicator from this section.   
+
+![](../../../.gitbook/assets/8%20%286%29.png)
+
+Open the chart to see the added indicators.
+
+![](../../../.gitbook/assets/9%20%288%29.png)
+
+**Drawing tools**
+
+Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
+
+![](../../../.gitbook/assets/10%20%287%29.png)
+
+**Order entry**
+
+ The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/11%20%281%29.jpg)is located at the top right corner of the Chart screen.
+
+Read more information about Order entry screen here:
+
+[https://guide.traderevolution.com/project/~/edit/drafts/-LQF2-IO5CxLN3t2JknT/mobile-applications/ios/tablets/order-entry](https://guide.traderevolution.com/project/~/edit/drafts/-LQF2-IO5CxLN3t2JknT/mobile-applications/ios/tablets/order-entry)
 
 
 

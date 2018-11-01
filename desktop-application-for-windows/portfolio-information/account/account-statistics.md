@@ -163,7 +163,7 @@ Aggregation interval – allows aggregating P/L chart by the needed periods: by 
 
 ### **Trades Population Chart**
 
-![](../../../.gitbook/assets/5%20%2819%29.png)
+![](../../../.gitbook/assets/5%20%2820%29.png)
 
 **Trades population** consists of two charts:
 

@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/4%20%289%29.png)
 
-To create a new order, click on the button![](../../.gitbook/assets/5%20%2821%29.png)or open context menu -&gt; Add order…
+To create a new order, click on the button![](../../.gitbook/assets/5%20%2822%29.png)or open context menu -&gt; Add order…
 
 The following Order entry window with standard order parameters will be opened:
 
@@ -46,7 +46,7 @@ All changeable values can be set directly from rows with created orders. To prov
 
 Even if user has one saved orders list the following menu will appear on header of the panel:
 
-![](../../.gitbook/assets/8%20%2811%29.png)
+![](../../.gitbook/assets/8%20%2812%29.png)
 
 Lists can be edited or removed from this menu.
 
