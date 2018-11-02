@@ -4,7 +4,7 @@ The Chart is the most important tool for active trading and market analyzing.
 
 ![](../../../.gitbook/assets/1%20%2819%29.png)
 
-In the Watchlist in the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
+In the ‘Indices’ section of the Watchlist swipe left or right the chart to change the symbol and choose the timeframe.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart by this symbol.
 
