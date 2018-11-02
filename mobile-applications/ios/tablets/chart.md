@@ -44,6 +44,8 @@ Select the needed drawing tool from the 'Drawing' menu and place it manually on 
 
 The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/11%20%281%29.jpg)is located at the top right corner of the Chart screen.
 
+Orders are displayed on the chart with the quantity value inside of the order marker, the color of order marker for Buy orders is blue, for Sell orders – red.
+
 Read more information about Order entry screen here:
 
 [https://guide.traderevolution.com/project/~/edit/drafts/-LQF2-IO5CxLN3t2JknT/mobile-applications/ios/tablets/order-entry](https://guide.traderevolution.com/project/~/edit/drafts/-LQF2-IO5CxLN3t2JknT/mobile-applications/ios/tablets/order-entry)
