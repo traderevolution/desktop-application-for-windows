@@ -23,7 +23,7 @@ In order to modify a position, tap the 'Modify' button and the following screen 
 
 ![](../../../.gitbook/assets/2%20%281%29.PNG)
 
-Here you can modify stop loss, take profit or trailing stop.
+Here you can modify Stop loss price, Take profit price or Trailing stop offset.
 
 In order to close a position, tap the button 'Close'.
 
