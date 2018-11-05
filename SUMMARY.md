@@ -110,4 +110,5 @@
       * [Chart](mobile-applications/ios/tablets/chart.md)
       * [Order entry](mobile-applications/ios/tablets/order-entry.md)
       * [Positions](mobile-applications/ios/tablets/positions.md)
+      * [Event log](mobile-applications/ios/tablets/event-log.md)
 
