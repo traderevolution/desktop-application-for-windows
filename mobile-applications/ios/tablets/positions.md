@@ -1,6 +1,6 @@
 # Positions
 
-The Positions screen displays all opened positions. Every new opened position appears in this screen immediately.
+The Positions screen is accessible through the Main menu of the platform. It displays all opened positions. Every new opened position appears in this screen immediately.
 
 ![](../../../.gitbook/assets/1%20%282%29.PNG)
 
