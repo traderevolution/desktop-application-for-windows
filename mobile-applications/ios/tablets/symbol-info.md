@@ -1,8 +1,8 @@
 # Symbol info
 
-The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user need to open the Watchlist and swipe left the selected instrument. Then tap the button 'Info' in the Symbol menu.
+The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument. Then tap the button 'Info' in the Symbol menu.
 
-                                                        ![](../../../.gitbook/assets/img_1512.PNG) 
+                                                          ![](../../../.gitbook/assets/img_1512.PNG) 
 
 The following information by the symbol is available:
 
