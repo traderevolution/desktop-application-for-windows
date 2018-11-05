@@ -4,7 +4,7 @@ The Symbol info screen allows displaying all information about the selected symb
 
                                                           ![](../../../.gitbook/assets/img_1512.PNG) 
 
-The following information by the symbol is available:
+Information by the symbol is divided into the following groups:
 
 ![](../../../.gitbook/assets/symbol-info-ipad-copy.png)
 
