@@ -111,5 +111,6 @@
       * [Order entry](mobile-applications/ios/tablets/order-entry.md)
       * [Orders](mobile-applications/ios/tablets/orders.md)
       * [Positions](mobile-applications/ios/tablets/positions.md)
+      * [Market depth](mobile-applications/ios/tablets/market-depth.md)
       * [Event log](mobile-applications/ios/tablets/event-log.md)
 
