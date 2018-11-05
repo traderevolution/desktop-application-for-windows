@@ -17,7 +17,7 @@ In order to get full information about a symbol, tap a symbol's name.
 * MAM group ID – unique number of positions group. It is applicable if positions are opened in MAM group;
 * Account – login name of an account that opened a position.
 
-In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions screen.
+In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions list.
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
