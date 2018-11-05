@@ -101,6 +101,7 @@
       * [Orders](mobile-applications/ios/phone/orders.md)
       * [Positions](mobile-applications/ios/phone/positions.md)
       * [Market depth](mobile-applications/ios/phone/market-depth.md)
+      * [Market depth](mobile-applications/ios/phone/market-depth-1.md)
       * [Event log](mobile-applications/ios/phone/event-log.md)
     * [Tablets](mobile-applications/ios/tablets/README.md)
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
@@ -109,6 +110,7 @@
       * [Symbol info](mobile-applications/ios/tablets/symbol-info.md)
       * [Chart](mobile-applications/ios/tablets/chart.md)
       * [Order entry](mobile-applications/ios/tablets/order-entry.md)
+      * [Orders](mobile-applications/ios/tablets/orders.md)
       * [Positions](mobile-applications/ios/tablets/positions.md)
       * [Event log](mobile-applications/ios/tablets/event-log.md)
 

@@ -1,10 +1,10 @@
 # Symbol info
 
-To open the Symbol info, tap the button 'Info' in the Symbol menu at the Watchlist screen.
+ The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
 
                                                         ![](../../../.gitbook/assets/symbol-menu-ios.png) 
 
-The following information by the symbol is available:
+ Information by the symbol is divided into the following groups:
 
 ![](../../../.gitbook/assets/symbol-info-coma.png)
 
