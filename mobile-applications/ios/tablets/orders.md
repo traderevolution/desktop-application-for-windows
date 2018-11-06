@@ -23,7 +23,7 @@ Each section consists of the cards list with short information about the orders:
 * Bound to – ID of the order which another order is bound to; if the former is executed, system will cancel the latter.
 * Account – login name of the account that opened the order.
 
-Additional columns for Filled orders and Orders history sections:
+Additional columns for Filled orders section:
 
 * Trade ID – unique number of the trade.
 * Exposure – quantity recalculated in account currency.
