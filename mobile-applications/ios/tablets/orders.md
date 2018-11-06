@@ -17,10 +17,8 @@ Each section consists of the cards list with short information about the orders:
 * Stop price – stop price for special Stop and Trailing stop orders.
 * TIF – the order's time in force.
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
-* MAM group ID – unique number of orders group. It is applicable if orders are created in MAM Group.
 * Stop loss – stop loss price set for the order.
 * Take profit – take profit price set for the order.
-* Qty. filled – executed quantity of the order when only part of the order was executed.
 * Qty. remaining – difference between quantity and executed quantity when only part of the order was executed.
 * Bound to – ID of the order which another order is bound to; if the former is executed, system will cancel the latter.
 * Account – login name of the account that opened the order.
