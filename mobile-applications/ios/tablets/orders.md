@@ -1,6 +1,6 @@
 # Orders
 
-The Orders screen allows to view three lists of orders:
+The Orders screen can be accessed through the Main menu of the platform. It allows to view three lists of orders:
 
 ![](../../../.gitbook/assets/for-the-article.jpg)
 
