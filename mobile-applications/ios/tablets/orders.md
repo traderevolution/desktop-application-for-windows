@@ -10,7 +10,7 @@ The Orders screen can be accessed through the Main menu of the platform. It allo
 
 Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
-Each section consists of the cards list with short information about the orders: quantity, open price, order status and date/time, for Filled orders – Order type, date/time when the order was filled and Net P/L. In order to get full information about the symbol on which the order was created, tap the symbol name.
+Each section consists of the cards list with short information about the orders: quantity, open price, for Filled orders – Order type, Net P/L, Bought or Sold. In order to get full information about the symbol on which the order was created, tap the symbol name.
 
 * Date/Time – date and time when the order was placed \(executed, filled, modified, or cancelled\).
 * Current price – market price obtainable from broker.
