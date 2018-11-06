@@ -30,9 +30,7 @@ Additional columns for Filled orders and Orders history sections:
 * Fee – shows commission connected with the trade.
 * Bought – if Side = Buy, then this column shows the value of Price \* Lot size \* Qty in base currency; if Side = Sell, then this column shows the value of Price \* Lot size \* Qty in quoting currency.
 * Sold – if Side = Sell, then this column shows the value of Price \* Lot size \* Qty in base currency; if Side = Buy, then this column shows the value of Price \* Lot size \* Qty in quoting currency.
-* Rebates – shows amount of money that was returned/paid for filling this order, which added/removed liquidity.
 * Trade volume – shows total volume of the trade.
-* Cross price – constant cross rate for the currency pair.
 * Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%282%29.jpg).
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
