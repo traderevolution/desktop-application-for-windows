@@ -41,7 +41,7 @@ In 'Defaults' settings section you can adjust the following:
 
 ### **Chart settings**
 
-![](../../../.gitbook/assets/chart-settings.png)
+![](../../../.gitbook/assets/settings-without-language.png)
 
 'Chart' settings section allows to specify the following options to be visible on the chart:
 
@@ -51,7 +51,8 @@ In 'Defaults' settings section you can adjust the following:
 * Fit orders/positions – if checked, orders/positions will be visible on the Chart that automatically scales;
 * Aggregation type – allows to select representation type of data on the chart \(e.g. 1 Bar = 1 minute\);
 * Volume – if checked, traded volume bars are shown on the chart.
-* Language – allows to choose the language of the application.
+
+
 
 
 
