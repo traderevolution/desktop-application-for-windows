@@ -34,7 +34,7 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ![](../../../.gitbook/assets/set3.png)
 
-* Chart style: Candle, Line, Area;
+* Chart style: Candle, Line, Bar, Dots, Dotted line, Histogram;
 * Show orders – mark as checked to visualize all sent orders;
 * Show positions – mark as checked to visualize all opened positions;
 * Fit orders/positions – if checked, orders/positions will be visible on the Chart that automatically scales;
