@@ -11,7 +11,7 @@ Available columns:
 * Event – title of event.
 * Details – the text of event message is shown in the tooltip of the ‘Details’ icon.
 
-![](../../.gitbook/assets/3%20%2823%29.png)
+![](../../.gitbook/assets/3%20%2824%29.png)
 
 Click on this icon to open a deal ticket.
 

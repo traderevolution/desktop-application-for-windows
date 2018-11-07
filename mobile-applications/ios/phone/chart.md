@@ -14,7 +14,7 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap the button![](../../../.gitbook/assets/3.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/3%20%2824%29.png)
+![](../../../.gitbook/assets/3%20%2825%29.png)
 
 The Chart toolbar consists of 3 buttons:
 
