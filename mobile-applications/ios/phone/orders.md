@@ -33,7 +33,7 @@ Additional columns for Filled orders section:
 
 ![](../../../.gitbook/assets/1%20%289%29.png)
 
-![](../../../.gitbook/assets/2%20%284%29.png)
+![](../../../.gitbook/assets/2%20%285%29.png)
 
 In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
 
