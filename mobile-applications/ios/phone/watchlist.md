@@ -6,7 +6,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
 In the Watchlist you can find information by traded symbols:
 
-* Last price – the last trade price.
+* Last price – the last trade price;
 * Change, % – the price deviation from current day's opening price in a percentage.
 
 ![](../../../.gitbook/assets/2%20%286%29.png)
@@ -29,9 +29,9 @@ Swipe left the symbol name to open the Symbol menu toolbar.
 
                                                         ![](../../../.gitbook/assets/6%20%2819%29.png) 
 
-* Info – opens the Symbol info with full information about the symbol.
-* Market depth – opens the level 2 quotes for the selected symbol.
-* Order Entry – opens the Order entry screen for the selected symbol.
+* Info – opens the Symbol info with full information about the symbol;
+* Market depth – opens the level 2 quotes for the selected symbol;
+* Order Entry – opens the Order entry screen for the selected symbol;
 * Remove – allows removing the Symbol from the Watchlist.
 
 ### \*\*\*\*
