@@ -91,6 +91,7 @@
       * [Market depth](mobile-applications/phone/android/market-depth.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
     * [Tablets](mobile-applications/phone/tablets/README.md)
+      * [Getting started](mobile-applications/phone/tablets/getting-started.md)
       * [Settings](mobile-applications/phone/tablets/settings.md)
   * [iOS](mobile-applications/ios/README.md)
     * [Phone](mobile-applications/ios/phone/README.md)
