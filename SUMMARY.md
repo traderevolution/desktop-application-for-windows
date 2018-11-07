@@ -94,6 +94,7 @@
       * [Getting started](mobile-applications/phone/tablets/getting-started.md)
       * [Settings](mobile-applications/phone/tablets/settings.md)
       * [Watchlist](mobile-applications/phone/tablets/watchlist.md)
+      * [Symbol info](mobile-applications/phone/tablets/symbol-info.md)
   * [iOS](mobile-applications/ios/README.md)
     * [Phone](mobile-applications/ios/phone/README.md)
       * [Getting started](mobile-applications/ios/phone/getting-started.md)
