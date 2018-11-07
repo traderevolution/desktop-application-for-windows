@@ -6,15 +6,17 @@
 
 In the Watchlist you can find information by traded symbols:
 
-* Last price – the last trade price.
-* Change, % – the price deviation from current day's opening price in a percentage. In order to get full symbol information and open the chart, tap the Symbol name. Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)  at the top right corner of the Chart to open the Info window:
+* Last price – the last trade price;
+* Change, % – the price deviation from current day's opening price in a percentage. In order to get full symbol information and open the chart, tap the Symbol name. 
+
+Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top right corner of the Chart to open the Info window:
 
 ![](../../../.gitbook/assets/second.png)
 
-* Volume – the total amount traded today.
-* Open – the day's open price.
-* High – the day's highest price.
-* Low – the day's lowest price.
+* Volume – the total amount traded today;
+* Open – the day's open price;
+* High – the day's highest price;
+* Low – the day's lowest price;
 * Previous close – the previous day's close price.
 
 ### **Symbol lookup** 
