@@ -90,7 +90,7 @@
       * [Positions](mobile-applications/phone/android/positions.md)
       * [Market depth](mobile-applications/phone/android/market-depth.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
-  * [Tablets](mobile-applications/tablets.md)
+    * [Tablets](mobile-applications/phone/tablets.md)
   * [iOS](mobile-applications/ios/README.md)
     * [Phone](mobile-applications/ios/phone/README.md)
       * [Getting started](mobile-applications/ios/phone/getting-started.md)
