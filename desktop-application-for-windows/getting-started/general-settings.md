@@ -14,7 +14,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **View**
 
-![](../../.gitbook/assets/2%20%2817%29.png)
+![](../../.gitbook/assets/2%20%2818%29.png)
 
 * Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units;

@@ -8,7 +8,7 @@ The Positions screen displays all opened positions. Every new opened position ap
 
 In order to get full information about a symbol, tap a symbol's name.
 
-![](../../../.gitbook/assets/2%20%2825%29.png)
+![](../../../.gitbook/assets/2%20%2826%29.png)
 
 * Fee – shows the total commission amount taken for a position;
 * Date/time – shows date and time when a position was opened;
@@ -23,7 +23,7 @@ In addition, you can close all positions by tapping the button ‘Close all’ l
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
-![](../../../.gitbook/assets/3%20%2817%29.png)
+![](../../../.gitbook/assets/3%20%2818%29.png)
 
 Here you can modify stop loss, take profit or trailing stop.
 
