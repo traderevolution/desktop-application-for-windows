@@ -36,11 +36,13 @@ Open the chart to see the added indicators.
 
 Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
-![](../../../.gitbook/assets/oe-new%20%281%29.png)
+![](../../../.gitbook/assets/screenshot_2018-11-07-14-28-37%20%281%29.png)
 
 ### **Order entry**
 
  The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/oe%20%285%29.jpg)is located at the top right corner of the Chart screen.
+
+![](../../../.gitbook/assets/smallest-chart.png)
 
 Orders are displayed on the chart with the quantity value inside of the order marker, the color of order marker for Buy orders is blue, for Sell orders – red.
 
