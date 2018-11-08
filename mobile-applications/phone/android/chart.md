@@ -2,13 +2,13 @@
 
 The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%2816%29.png)
+![](../../../.gitbook/assets/1%20%2817%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%283%29.png)
+![](../../../.gitbook/assets/2%20%284%29.png)
 
 ### **Chart toolbar** 
 
