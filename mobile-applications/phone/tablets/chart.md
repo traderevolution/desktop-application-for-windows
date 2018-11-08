@@ -44,5 +44,7 @@ Select the needed drawing tool from the 'Drawing' menu and place it manually on 
 
 Orders are displayed on the chart with the quantity value inside of the order marker, the color of order marker for Buy orders is blue, for Sell orders – red.
 
+Read more information about Order entry screen here:
 
+[https://guide.traderevolution.com/project/~/edit/drafts/-LQmnGx9Ljqyl1xN\_-Z4/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/~/edit/drafts/-LQmnGx9Ljqyl1xN_-Z4/mobile-applications/phone/tablets/order-entry)
 
