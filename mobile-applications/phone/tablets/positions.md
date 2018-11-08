@@ -17,8 +17,6 @@ In order to get full information about a symbol, tap a symbol's name.
 * Open price – price at which the position was opened;
 * Account – login name of an account that opened a position.
 
-In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions list.
-
 In order to modify a position, tap the 'Modify' button.
 
 Here you can modify Stop loss price, Take profit price or Trailing stop offset.
