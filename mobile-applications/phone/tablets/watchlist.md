@@ -35,7 +35,7 @@ In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%2
 
 Swipe left the symbol name to open the Symbol menu toolbar.
 
-                                                    ![](../../../.gitbook/assets/4-copy%20%282%29.png) 
+                                                    ![](../../../.gitbook/assets/4-copy%20%283%29.png) 
 
 * Info – opens the Symbol info with full information about the symbol;
 * Market depth – opens the level 2 quotes for the selected symbol;

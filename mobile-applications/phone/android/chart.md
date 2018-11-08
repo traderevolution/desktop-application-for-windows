@@ -44,7 +44,7 @@ Select the needed drawing tool from the 'Drawing' menu and place it manually on 
 
 ### **Order entry** 
 
-The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/oe%20%283%29.jpg)is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/oe%20%284%29.jpg)is located at the top right corner of the Chart screen.
 
 ![](../../../.gitbook/assets/11%20%283%29.png)
 
