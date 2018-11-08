@@ -98,6 +98,7 @@
       * [Chart](mobile-applications/phone/tablets/chart.md)
       * [Order entry](mobile-applications/phone/tablets/order-entry.md)
       * [Positions](mobile-applications/phone/tablets/positions.md)
+      * [Market depth](mobile-applications/phone/tablets/market-depth.md)
   * [iOS](mobile-applications/ios/README.md)
     * [Phone](mobile-applications/ios/phone/README.md)
       * [Getting started](mobile-applications/ios/phone/getting-started.md)
