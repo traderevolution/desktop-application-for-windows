@@ -24,11 +24,11 @@ Tap the button![](../../../.gitbook/assets/3.jpg)to open Chart toolbar.
 
 ### **Indicators**
 
-In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the indicator name from the Indicators screen.
+In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add.%20%281%29.jpg)near the indicator name at the list of available Indicators.
 
 ![](../../../.gitbook/assets/4%20%2817%29.png)
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/4%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete.%20%281%29.jpg)located near indicator’s name to remove indicator from this section. 
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/4%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete.%20%282%29.jpg)located near indicator’s name to remove indicator from this section. 
 
 ![](../../../.gitbook/assets/5%20%2821%29.png)
 
