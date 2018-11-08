@@ -22,7 +22,7 @@ Note: to recover the application password, tap ‘Forgot’ option in the ‘Pas
 
 In case you have the 'Additional verification' set up by your administrator, after tapping the button 'Log in' the following dialog window appears:                                                          
 
-                                                               ![](../../../.gitbook/assets/2fa.png) 
+                                                               ![](../../../.gitbook/assets/2fa-copy.png) 
 
 There are three types of 'Additional verification', you can have one of them:
 
