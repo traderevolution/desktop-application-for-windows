@@ -28,6 +28,8 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete.%20%283%29.jpg)located near indicator’s name to remove indicator from this section. 
 
+![](../../../.gitbook/assets/ind.png)
+
 Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/screenshot_2018-11-07-14-26-38.png)
