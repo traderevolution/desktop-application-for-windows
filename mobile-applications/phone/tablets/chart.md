@@ -36,7 +36,7 @@ Open the chart to see the added indicators.
 
 Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
-![](../../../.gitbook/assets/screenshot_2018-11-07-14-28-37.png)
+![](../../../.gitbook/assets/oe-new%20%281%29.png)
 
 ### **Order entry**
 
