@@ -23,7 +23,7 @@ Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%283%29.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/2%20%2810%29.png)
+![](../../../.gitbook/assets/2%20%2811%29.png)
 
 ### **Watchlist Filter**
 

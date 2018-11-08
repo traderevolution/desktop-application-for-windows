@@ -2,7 +2,7 @@
 
 The Positions screen is accessible through the Main menu of the platform. It displays all opened positions. Every new opened position appears in this screen immediately.
 
-![](../../../.gitbook/assets/2%20%2823%29.png)
+![](../../../.gitbook/assets/2%20%2824%29.png)
 
 The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
 
