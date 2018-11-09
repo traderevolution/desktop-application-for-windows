@@ -29,7 +29,9 @@ Additional columns for Filled orders section:
 * Bought – if Side = Buy, then this column shows the value of Price \* Lot size \* Qty in base currency; if Side = Sell, then this column shows the value of Price \* Lot size \* Qty in quoting currency.
 * Sold – if Side = Sell, then this column shows the value of Price \* Lot size \* Qty in base currency; if Side = Buy, then this column shows the value of Price \* Lot size \* Qty in quoting currency.
 * Trade volume – shows total volume of the trade.
-* Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
+* Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. 
+
+Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
 
 ![](../../../.gitbook/assets/1%20%2810%29.png)
 
