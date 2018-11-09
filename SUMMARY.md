@@ -97,6 +97,7 @@
       * [Symbol info](mobile-applications/phone/tablets/symbol-info.md)
       * [Chart](mobile-applications/phone/tablets/chart.md)
       * [Order entry](mobile-applications/phone/tablets/order-entry.md)
+      * [Orders](mobile-applications/phone/tablets/orders.md)
       * [Positions](mobile-applications/phone/tablets/positions.md)
       * [Market depth](mobile-applications/phone/tablets/market-depth.md)
       * [Event log](mobile-applications/phone/tablets/event-log.md)
