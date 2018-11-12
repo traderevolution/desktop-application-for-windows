@@ -77,6 +77,5 @@ The status bar displays \(from left to right\):
 * Trading notifications – notifications about changes in the terminal and server. Appears when deal ticket comes, then notification disappears.
 * Event log – shows a log of all events that occurred during work sessions.
 * Lock trading – disables making all trading operations. After pressing the button, the notification in the center of the screen and the warning signs appear and it shows that trading is locked.
-
- Date/Time – the current time or date; or both date and time.
+* Date/Time – the current time or date; or both date and time.
 
