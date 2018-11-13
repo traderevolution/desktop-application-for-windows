@@ -1,4 +1,4 @@
-# Logging in
+# Installation and updates
 
 The login screen of the application for Mac looks as the following:
 
@@ -61,7 +61,9 @@ When changing the password the user may have some problems, at which the followi
 
 Click 'Log in' to open the application.
 
-\*Minimal system requirements for application for Mac:
+ _\* Minimal system requirements for application for Mac:_
 
-macOS version 10.11.
+_macOS version 10.11._
+
+
 
