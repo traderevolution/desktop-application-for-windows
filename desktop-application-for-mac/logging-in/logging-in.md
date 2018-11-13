@@ -24,7 +24,7 @@ If user forgot his password and needs to log in, simply click on the "Forgot pas
 * enter email in the Email field;
 * click Recover to receive an email with a recovery key. Then enter this key to the field.
 
-2. After login to the application for Mac: To open the ‘Change password’ / ’Change trading password’ window, select it in the Account menu![](../../.gitbook/assets/3%20%287%29.png):
+2. After login to the application for Mac: To open the ‘Change password’ / ’Change trading password’ window, select it in the Account menu![](../../.gitbook/assets/account.png):
 
 ![](../../.gitbook/assets/4t.png)
 
