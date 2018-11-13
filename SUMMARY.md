@@ -124,6 +124,6 @@
       * [Positions](mobile-applications/ios/tablets/positions.md)
       * [Market depth](mobile-applications/ios/tablets/market-depth.md)
       * [Event log](mobile-applications/ios/tablets/event-log.md)
-* [Desktop application for Mac](desktop-application-for-mac.md)
-* [Logging in](logging-in.md)
+* [Desktop application for Mac](desktop-application-for-mac/README.md)
+  * [Getting started](desktop-application-for-mac/logging-in.md)
 
