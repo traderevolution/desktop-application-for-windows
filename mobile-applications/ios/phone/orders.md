@@ -33,7 +33,7 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
 
-![](../../../.gitbook/assets/1%20%2810%29.png)
+![](../../../.gitbook/assets/1%20%2811%29.png)
 
 ![](../../../.gitbook/assets/2%20%287%29.png)
 
