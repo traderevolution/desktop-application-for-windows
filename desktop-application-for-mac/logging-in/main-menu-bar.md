@@ -2,7 +2,7 @@
 
 The tab 'TraderEvolution' contains such items, as:
 
-* Preferences… – opens the general ‘Settings’ menu;
+* Preferences… – opens the general ‘Preferences’ menu;
 * Connections – opens the login screen for connecting using a different user and/or connection;
 * Hide TraderEvolution – allows to hide the whole TraderEvolution Mac window;
 
