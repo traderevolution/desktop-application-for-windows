@@ -2,7 +2,7 @@
 
 ### **Withdrawal**
 
-To withdraw from an account choose Account -&gt;Withdrawal. Withdrawing effectively blocks funds from being used in the platform.
+To withdraw from an account choose Account -&gt; Withdrawal. Withdrawing effectively blocks funds from being used in the platform.
 
 ![](../../.gitbook/assets/12%20%281%29.png)
 
