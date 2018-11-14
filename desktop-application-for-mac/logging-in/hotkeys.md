@@ -34,3 +34,65 @@ Cancel all orders immediately – allows cancelling all orders immediately.
 
 Close all positions immediately – allows closing all positions immediately.
 
+### **Market depth**
+
+Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity. Other actions are not available.
+
+Cancel last order on selected instrument – allows cancelling the last order on the selected instrument.
+
+Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
+
+Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel.
+
+Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel.
+
+Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+
+Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+
+Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+
+Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+
+Buy Market with amount equal to existed position – allows to open a position with parameters equal to the existed position with Buy side.
+
+Sell Market with amount equal to existed position – allows to open a position with parameters equal to the existed position with Sell side.
+
+Sell Ask – allows selling Ask according to your preset parameters.
+
+Buy Bid – allows buying Bid according to your preset parameters.
+
+Prepare LMT order – allows activating the field for entering the value of LMT order.
+
+### **Positions**
+
+Close positions – allows closing chosen positions.
+
+Modify position – allows modifying a chosen position.
+
+### **Watchlist**
+
+Remove symbol – allows removing a symbol.
+
+Add symbol – allows adding a symbol.
+
+### **Working orders**
+
+Cancel order – allows cancelling an order.
+
+Modify order – allows modifying an order.
+
+Change to Market – allows changing to Market.
+
+### **Matrix**
+
+Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
+
+Cancel last order on selected instrument – allows cancelling last order on the selected instrument.
+
+Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+
+Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+
+Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
+
