@@ -17,7 +17,7 @@ To open Order entry screen, tap the Order entry button![](../../../.gitbook/asse
 
  Read more about the Order entry screen here:
 
-[https://guide.traderevolution.com/project/~/edit/drafts/-LQnl08JmnGpsm6WZ\_ti/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/~/edit/drafts/-LQnl08JmnGpsm6WZ_ti/mobile-applications/phone/tablets/order-entry)
+[https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry)
 
                   
 
