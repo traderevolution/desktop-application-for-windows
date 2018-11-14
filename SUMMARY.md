@@ -129,4 +129,5 @@
     * [Installation and updates](desktop-application-for-mac/logging-in/logging-in.md)
     * [Main menu bar](desktop-application-for-mac/logging-in/main-menu-bar.md)
     * [TraderEvolution Preferences](desktop-application-for-mac/logging-in/traderevolution-preferences.md)
+    * [Hotkeys](desktop-application-for-mac/logging-in/hotkeys.md)
 
