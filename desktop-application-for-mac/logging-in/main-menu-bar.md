@@ -2,7 +2,6 @@
 
 The tab 'TraderEvolution' contains such items, as:
 
-* About TraderEvolution – allows to view such information about application for Mac, as its Version, Date of build;
 * Preferences… – opens the general ‘Settings’ menu;
 * Connections – opens the login screen for connecting using a different user and/or connection;
 * Hide TraderEvolution – allows to hide the whole TraderEvolution Mac window;
