@@ -50,5 +50,5 @@ Select the needed drawing tool from the 'Drawing' menu and place it manually on 
 
 Read more information about Order entry screen here:
 
-[https://guide.traderevolution.com/project/~/edit/drafts/-LPeeiB02FHKmE5KNOSz/mobile-applications/phone/ios/phone/order-entry](https://guide.traderevolution.com/project/~/edit/drafts/-LPeeiB02FHKmE5KNOSz/mobile-applications/phone/ios/phone/order-entry)
+[https://guide.traderevolution.com/project/mobile-applications/ios/phone/order-entry](https://guide.traderevolution.com/project/mobile-applications/ios/phone/order-entry)
 

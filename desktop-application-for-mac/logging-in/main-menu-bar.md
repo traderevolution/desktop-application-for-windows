@@ -36,7 +36,7 @@ The 'Terminal' tab contains the following items:
 
 Selecting an item opens a corresponding panel or window.
 
-The 'Window' tab allows for standard manipulations with the Mac application window:
+The 'Window' tab allows for standard manipulations with the application window:
 
 * Minimize;
 * Zoom;
@@ -44,8 +44,8 @@ The 'Window' tab allows for standard manipulations with the Mac application wind
 
 The 'More' tab allows performing the following:
 
-* Search – allows to look up through the whole Mac application for a desired element;
+* Search – allows to look up through the whole application for a desired element;
 * Home Page – access to TraderEvolution Global LTD website;
-* Open Data Folder – opens the folder containing Mac application data;
+* Open Data Folder – opens the folder containing application data;
 * About – allows to open About current version screen.
 
