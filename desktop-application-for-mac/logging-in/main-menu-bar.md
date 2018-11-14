@@ -45,7 +45,7 @@ The 'Window' tab allows for standard manipulations with the Mac application wind
 The 'More' tab allows performing the following:
 
 * Search – allows to look up through the whole Mac application for a desired element;
-* Home Page – opens the Mac application 'Home Page';
+* Home Page – access to TraderEvolution Global LTD website;
 * Open Data Folder – opens the folder containing Mac application data;
-* About – access to TraderEvolution Global LTD website.
+* About – allows to open About current version screen.
 
