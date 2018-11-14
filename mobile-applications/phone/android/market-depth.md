@@ -19,5 +19,5 @@ To open Order entry screen, swipe up Position bar or tap the Order entry button!
 
 Read more about the Order entry screen here:
 
-[https://guide.traderevolution.com/project/~/edit/drafts/-LPV8erl8kc5YPjEIcGR/mobile-applications/phone/android/order-entry](https://guide.traderevolution.com/project/~/edit/drafts/-LPV8erl8kc5YPjEIcGR/mobile-applications/phone/android/order-entry)
+[https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry)
 
