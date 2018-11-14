@@ -2,7 +2,7 @@
 
 The login screen of the application for Mac looks as the following:
 
-![](../../.gitbook/assets/1%20%2822%29.png)
+![](../../.gitbook/assets/1%20%2820%29.png)
 
 To open the application with your account, enter your Login and Password.
 
@@ -16,7 +16,7 @@ Passwords can be changed anytime by using the following methods:
 
 If user forgot his password and needs to log in, simply click on the "Forgot password" button on the main login screen.
 
-![](../../.gitbook/assets/2%20%2830%29.png)
+![](../../.gitbook/assets/2%20%2828%29.png)
 
 To recover the password:
 
@@ -26,11 +26,11 @@ If user forgot his password and needs to log in, simply click on the "Forgot pas
 
 2. After login to the application for Mac: To open the ‘Change password’ / ’Change trading password’ window, select it in the Account menu![](../../.gitbook/assets/account.png):
 
-![](../../.gitbook/assets/4t.png)
+![](../../.gitbook/assets/3%20%282%29.png)
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../.gitbook/assets/5%20%2823%29.png)
+![](../../.gitbook/assets/4%20%282%29.png)
 
 To change the password:
 

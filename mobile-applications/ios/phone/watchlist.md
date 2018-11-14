@@ -15,7 +15,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%281%29.jpg)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/4%20%285%29.png)
+![](../../../.gitbook/assets/4%20%286%29.png)
 
 ### **Watchlist Filter** 
 

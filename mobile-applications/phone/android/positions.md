@@ -23,13 +23,13 @@ In addition, you can close all positions by tapping the button ‘Close all’ l
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
-![](../../../.gitbook/assets/3%20%2820%29.png)
+![](../../../.gitbook/assets/3%20%2821%29.png)
 
 Here you can modify stop loss, take profit or trailing stop.
 
 In order to close a position, tap the button 'Close', and the following intuitive screen allowing a partial position closing will be opened:   
 
-                                                         ![](../../../.gitbook/assets/4%20%2820%29.png) 
+                                                         ![](../../../.gitbook/assets/4%20%2821%29.png) 
 
 The field 'Qty. to close' allows to indicate some quantity of lots to close. This option is active, when it is allowed on the server-side with broker's settings. Also, the 'Position closing' confirmation must be activated in the ‘Settings’ menu.
 
