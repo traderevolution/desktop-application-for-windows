@@ -34,7 +34,7 @@ Cancel all orders immediately – allows cancelling all orders immediately.
 
 Close all positions immediately – allows closing all positions immediately.
 
-CLX all – allows closing all positions and orders immediately. 
+CLX all – allows closing all positions and cancel all orders immediately. 
 
 ### Chart
 
