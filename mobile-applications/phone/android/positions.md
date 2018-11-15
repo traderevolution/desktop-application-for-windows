@@ -23,7 +23,7 @@ In addition, you can close all positions by tapping the button ‘Close all’ l
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
-![](../../../.gitbook/assets/3%20%2821%29.png)
+![](../../../.gitbook/assets/3%20%2822%29.png)
 
 Here you can modify stop loss, take profit or trailing stop.
 
