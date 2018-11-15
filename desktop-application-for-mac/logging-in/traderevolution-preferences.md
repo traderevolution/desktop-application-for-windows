@@ -1,6 +1,6 @@
 # TraderEvolution Preferences
 
-To open the 'TraderEvolution Preferences' menu, click on the button![](../../.gitbook/assets/preferensec.png)located at the Top menu of the platform.
+To open the 'TraderEvolution Preferences' menu, click on the button![](../../.gitbook/assets/1%20%2832%29.png)located at the Top menu of the platform.
 
 This menu contains such sections, as:
 

@@ -34,6 +34,40 @@ Cancel all orders immediately – allows cancelling all orders immediately.
 
 Close all positions immediately – allows closing all positions immediately.
 
+CLX all – allows closing all positions and orders immediately. 
+
+### Chart
+
+Activate chart trading – allows activating visual trading.
+
+Activate full screen mode – allows displaying the chart in the full screen mode.
+
+Auto/Manual scaling – allows choosing Auto or Manual modes of scaling.
+
+Change chart style – allows changing style of the symbol price movements: candle, line, bar, dots, etc.
+
+Clear chart – allows clearing the chart.
+
+Show volume – shows the volume profile on the chart.
+
+Show crosshair – shows the crosshair.
+
+Zoom in – allows zooming in the chart.
+
+Zoom out – allows zooming out the chart.
+
+Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
+
+Cancel last order on selected instrument – allows cancelling the last order on the selected instrument.
+
+Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
+
+Cancel Buy order\(s\) closest to the last price – allows cancelling Buy order\(s\) closest to the last price.
+
+Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
+
+Set period \(Tick, 1 m, 5 m, 15 m, 30 m, 1 H, 4 H, 1 D, 1 W, 1 Month, 1 Y\) – allows specifying the timeframe.
+
 ### **Market depth**
 
 Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity. Other actions are not available.
