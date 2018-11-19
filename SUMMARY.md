@@ -128,9 +128,10 @@
   * [Getting started](desktop-application-for-mac/logging-in/README.md)
     * [Installation and updates](desktop-application-for-mac/logging-in/logging-in.md)
     * [Main menu bar](desktop-application-for-mac/logging-in/main-menu-bar.md)
-    * [TraderEvolution Preferences](desktop-application-for-mac/logging-in/traderevolution-preferences.md)
+    * [Preferences](desktop-application-for-mac/logging-in/traderevolution-preferences.md)
     * [Hotkeys](desktop-application-for-mac/logging-in/hotkeys.md)
     * [Symbols & Accounts lookup](desktop-application-for-mac/logging-in/symbols-and-accounts-lookup.md)
     * [Arranging panels](desktop-application-for-mac/logging-in/arranging-panels.md)
     * [Managing columns](desktop-application-for-mac/logging-in/managing-columns.md)
+    * [Top menu and Status bar](desktop-application-for-mac/logging-in/top-menu-and-status-bar.md)
 
