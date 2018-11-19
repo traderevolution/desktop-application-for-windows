@@ -9,7 +9,7 @@
 * More: access to TraderEvolution Global website, log file, private log file, data folder, About current version screen.
 * Account: access to account information, Account statistics, Withdrawal, Reports, Change password, Change trading password.
 * Help: access to TraderEvolution Guide.
-* Settings: access to general settings of the terminal. Read more about this section here: Desktop application for Windows -&gt; General settings.
+* Settings: access to general settings of the terminal. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings)
 * Log in: evokes login screen.
 * Connection status: shows the status of connection to the server.
 * Ping information: shows the response time of the server \(ms\) to which the client is connected.
