@@ -131,4 +131,5 @@
     * [TraderEvolution Preferences](desktop-application-for-mac/logging-in/traderevolution-preferences.md)
     * [Hotkeys](desktop-application-for-mac/logging-in/hotkeys.md)
     * [Symbols & Accounts lookup](desktop-application-for-mac/logging-in/symbols-and-accounts-lookup.md)
+    * [Arranging panels](desktop-application-for-mac/logging-in/arranging-panels.md)
 
