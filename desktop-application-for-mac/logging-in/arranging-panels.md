@@ -7,9 +7,9 @@ There are two main location types for all panels:
 * Attached – panel is located in some place of workspace.
 * Detached – panel is located separately and can be used independently of any workspace. Each panel has default location. 
 
-Some panels are attached by default, others are detached. Default settings created on base of target usage. To change the location click on the control ![](../../.gitbook/assets/attach.png) which is available in the header of each panel. The following options can be available in the header of the panel:
+Some panels are attached by default, others are detached. Default settings created on base of target usage. To change the location click on the control![](../../.gitbook/assets/attach.png) which is available in the header of each panel. The following options can be available in the header of the panel:
 
-* Attach – allows attaching panel. After clicking panel will attach to default place. Then user can move it to any place of the workspace. After taking header of the panel the following buttons appear:
+* Attach – allows attaching panel. After clicking panel will attach to default place. Then user can move it to any place of the workspace. After taking header of the panel the following buttons appear: 
 
 ![](../../.gitbook/assets/cross.png)
 
