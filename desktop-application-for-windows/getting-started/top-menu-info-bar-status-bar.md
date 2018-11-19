@@ -7,7 +7,7 @@
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * Tools: Strategy manager, Synthetic instruments, Aggressor Balance Beta, Trading ideas, News, RSS, Economic calendar.
 * More: access to TraderEvolution Global website, log file, private log file, data folder, About current version screen.
-* Account: access to account information, Account statistics, Withdrawal, Reports, Change password, Change trading password.
+* Account: access to account information, Account statistics, Withdrawal, Transfer, Reports, Change password, Change trading password.
 * Help: access to TraderEvolution Guide.
 * Settings: access to general settings of the terminal. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings)
 * Log in: evokes login screen.
