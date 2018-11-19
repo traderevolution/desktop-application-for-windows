@@ -13,6 +13,12 @@ Some panels are attached by default, others are detached. Default settings creat
 
 ![](../../.gitbook/assets/cross.png)
 
+* Detach – allows detaching panel.
+* On top![](../../.gitbook/assets/maximize.png)– allows seeing the panel on top of all others. Applicable only for detached panels.
+* Duplicate panel – allows duplicating the chosen panel. The option is available from the context menu of the chosen panel.
+* Show toolbar – allows showing toolbar of the chosen panel. Right-click on the header of the panel to enable this option.
+* Clicking on the button![](../../.gitbook/assets/fulscreen.png)  allows opening attached panel in fullscreen mode. Available only for Chart.
+
 Drag the panel into the button to preview it's next position.
 
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.

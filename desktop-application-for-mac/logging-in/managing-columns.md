@@ -14,6 +14,8 @@ Right-clicking on any column header displays a list of columns that are availabl
 
 To display a column just place a checkmark by the desired column title. To hide a column, select the undesired column title in the list to remove the checkmark.
 
+![](../../.gitbook/assets/proportions.png)
+
 ### **Reordering columns**
 
 User can rearrange columns in tables by moving them to new locations. Click on a column header and drag the column to the desired location in the table.
