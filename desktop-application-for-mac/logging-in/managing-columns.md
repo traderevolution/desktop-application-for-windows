@@ -6,6 +6,8 @@ To change the width of a column, simply move the mouse over the column border in
 
 To autosize a column, simply move the mouse over the column border in the header row and double click the mouse when the pointer changes to a double-sided arrow.
 
+![](../../.gitbook/assets/screen-shot-2018-11-19-at-12.42.34-pm.png)
+
 ### **Displaying columns**
 
 Right-clicking on any column header displays a list of columns that are available in the panel. Only columns that are checked will be visible.
@@ -18,7 +20,9 @@ User can rearrange columns in tables by moving them to new locations. Click on a
 
 ### Filtering
 
-Open the context menu of the panel and click on the 'Filtering' option to choose the filter criteria in opened window.
+Open the context menu of the panel and click on the![](../../.gitbook/assets/screen-shot-2018-11-19-at-1.42.40-pm.png)option to choose the filter criteria in opened window.
+
+![](../../.gitbook/assets/screen-shot-2018-11-19-at-1.13.33-pm.png)
 
 Note: filter criteria can be different for each column.
 
