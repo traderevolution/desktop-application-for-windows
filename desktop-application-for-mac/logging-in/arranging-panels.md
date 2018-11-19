@@ -28,11 +28,11 @@ This adjustment is available via the buttons, located on panels' headers:
 
 Clicking these buttons opens the following menu allowing to identify a link by a color:
 
-![](../../.gitbook/assets/symbol-link%20%281%29.png)
+![](../../.gitbook/assets/symbol-link-big.png)
 
-![](../../.gitbook/assets/account.png)
+![](../../.gitbook/assets/account-big.png)
 
-Adjusting the same linking color for different panels links these panels to each other by a Symbol and/or an Account link.
+Adjusting the same linking color for different panels links these panels to each other by a Symbol and/or an Account link.
 
 ![](../../.gitbook/assets/new-linking-drawing.png)
 
