@@ -8,8 +8,6 @@ This menu contains such sections, as:
 
 ![](../../.gitbook/assets/1%20%2817%29.png)
 
-![](../../.gitbook/assets/1%20%2823%29.png)
-
 * Allow automatic login – if checked, Mac application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, Mac application will try to reconnect to the server after losing connection.
 * View:
