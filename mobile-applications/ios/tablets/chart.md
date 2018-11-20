@@ -2,7 +2,7 @@
 
 The Chart is the most important tool for active trading and market analyzing. The Chart screen can be accessed from the main menu of the application through the Watchlist screen, and also from Orders and Positions screens.
 
-![](../../../.gitbook/assets/1%20%2827%29.png)
+![](../../../.gitbook/assets/1%20%2829%29.png)
 
 In the ‘Indices’ section of the Watchlist swipe left or right the chart to change the symbol and choose the timeframe.
 
@@ -12,7 +12,7 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap the button![](../../../.gitbook/assets/2%20%281%29.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/3%20%2820%29.png)
+![](../../../.gitbook/assets/3%20%2821%29.png)
 
 The Chart toolbar consists of 3 buttons:
 
@@ -24,7 +24,7 @@ Tap the button![](../../../.gitbook/assets/2%20%281%29.jpg)to open Chart toolba
 
  In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add1.jpg)near the indicator name at the list of available Indicators.
 
-![](../../../.gitbook/assets/5%20%2817%29.png)
+![](../../../.gitbook/assets/5%20%2818%29.png)
 
 It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify.jpg). Tap the button![](../../../.gitbook/assets/delete.jpg)located near indicator’s name to remove indicator from this section.   
 

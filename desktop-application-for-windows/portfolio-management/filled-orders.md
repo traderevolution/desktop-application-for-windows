@@ -2,11 +2,11 @@
 
 Filled orders panel displays trading history. To open the Filled orders panel select Terminal -&gt; Filled orders.
 
-![](../../.gitbook/assets/2%20%2818%29.png)
+![](../../.gitbook/assets/2%20%2819%29.png)
 
  User can select time period for which he wants to see trades. 
 
-Click on![](../../.gitbook/assets/3%20%2811%29.png)and choose the time filters.
+Click on![](../../.gitbook/assets/3%20%2812%29.png)and choose the time filters.
 
 The following columns are available in the panel:
 
