@@ -15,8 +15,6 @@
 
 ![](../../.gitbook/assets/status-bar%20%281%29.png)
 
-![](../../.gitbook/assets/status-bar1.png)
-
 The status bar, located at the bottom of the screen, makes it possible to "stream" information such as news and many others. The status bar can be customized to show only information that user needs.
 
 The status bar displays \(from left to right\):
