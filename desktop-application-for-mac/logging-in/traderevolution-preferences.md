@@ -1,6 +1,6 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../.gitbook/assets/1%20%2833%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../.gitbook/assets/1%20%2834%29.png)located at the Top menu of the platform.
 
 This menu contains such sections, as:
 
