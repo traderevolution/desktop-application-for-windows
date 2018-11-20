@@ -2,6 +2,8 @@
 
 ### Top menu
 
+![](../../.gitbook/assets/top-menu.png)
+
 *  Account: access to account information, Reports, Change password, Change trading password.
 * Help: access to TraderEvolution Guide. 
 * Preferences: access to general preferences of the terminal. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/traderevolution-preferences](https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/traderevolution-preferences)
@@ -10,6 +12,8 @@
 * Ping information: shows the response time of the server \(ms\) to which the client is connected.
 
 ### **Status bar**
+
+![](../../.gitbook/assets/status-bar%20%281%29.png)
 
 The status bar, located at the bottom of the screen, makes it possible to "stream" information such as news and many others. The status bar can be customized to show only information that user needs.
 
