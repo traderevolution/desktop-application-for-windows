@@ -135,4 +135,5 @@
     * [Managing columns](desktop-application-for-mac/logging-in/managing-columns.md)
     * [Top menu and Status bar](desktop-application-for-mac/logging-in/top-menu-and-status-bar.md)
     * [Panel preferences](desktop-application-for-mac/logging-in/panel-preferences.md)
+  * [Technical indicators](desktop-application-for-mac/technical-indicators.md)
 
