@@ -134,4 +134,5 @@
     * [Arranging panels](desktop-application-for-mac/logging-in/arranging-panels.md)
     * [Managing columns](desktop-application-for-mac/logging-in/managing-columns.md)
     * [Top menu and Status bar](desktop-application-for-mac/logging-in/top-menu-and-status-bar.md)
+* [Panel preferences](panel-preferences.md)
 
