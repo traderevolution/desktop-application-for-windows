@@ -53,7 +53,7 @@ Three types of the price scale are available: Absolute, Relative and Logarithmic
 * Relative - displays the price scale in the relative units, where as a starting point can be used: first point of the screen visibility, point of the day opening, and starting point of the history.
 * Logarithmic - logarithmic scale representation, where as a starting point can be used the same points as for relative scale.
 
-![](../../../.gitbook/assets/3.png)
+![](../../../.gitbook/assets/3%20%281%29.png)
 
 If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
 

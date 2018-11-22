@@ -23,7 +23,7 @@ The Colors sub-menu allows configuring the color scheme for tables:
 
  **Columns tab** allows changing columns settings.
 
-![](../../.gitbook/assets/3%20%2814%29.png)
+![](../../.gitbook/assets/3%20%2815%29.png)
 
 #### **Displaying and hiding columns**
 

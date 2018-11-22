@@ -6,7 +6,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 The Symbols lookup contains two drop-down lists with exchanges and symbols grouped according to their types, which are used on the server and available to the user. All symbols are shown in the default sequence. To filter the Symbols lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
-![](../../.gitbook/assets/3%20%284%29.png)
+![](../../.gitbook/assets/3%20%285%29.png)
 
 ![](../../.gitbook/assets/4%20%283%29.png)
 
