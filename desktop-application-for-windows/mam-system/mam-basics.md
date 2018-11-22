@@ -57,7 +57,7 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Proportional by equity</td>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/4 (4).png" alt/>
+          <img src="../../.gitbook/assets/4 (5).png" alt/>
         </p>
         <p>Equity i - the equity of the subaccount;</p>
         <p>∑Equity - the sum of equity of all subaccounts.</p>

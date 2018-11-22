@@ -17,7 +17,7 @@ There are two main location types for all panels:
 
 Drag the panel into the button to preview it's next position.
 
-![](../../.gitbook/assets/4%20%2812%29.png)
+![](../../.gitbook/assets/4%20%2813%29.png)
 
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.
 

@@ -30,7 +30,7 @@ To recover the password:
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../.gitbook/assets/4%20%2826%29.png)
+![](../../.gitbook/assets/4%20%2827%29.png)
 
 To change the password:
 
