@@ -33,7 +33,7 @@ In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%2
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter%20%281%29.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
-![](../../../.gitbook/assets/7%20%2810%29.png)
+![](../../../.gitbook/assets/7%20%2811%29.png)
 
 ### **Symbol menu**
 

@@ -27,7 +27,7 @@ In order to filter the list of displayed symbols tap the button![](../../../.git
 
 Swipe left the symbol name to open the Symbol menu toolbar. 
 
-                                                        ![](../../../.gitbook/assets/6%20%2820%29.png) 
+                                                        ![](../../../.gitbook/assets/6%20%2821%29.png) 
 
 * Info – opens the Symbol info with full information about the symbol;
 * Market depth – opens the level 2 quotes for the selected symbol;

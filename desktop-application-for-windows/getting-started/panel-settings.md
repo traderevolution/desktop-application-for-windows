@@ -58,7 +58,7 @@ Calculation method - allows to choose the calculation method of Total price valu
 
 ![](../../.gitbook/assets/colors%20%281%29.png)
 
-Click on the button![](../../.gitbook/assets/5%20%2821%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2818%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%2818%29.png).
+Click on the button![](../../.gitbook/assets/5%20%2821%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../.gitbook/assets/6%20%2819%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../.gitbook/assets/7%20%2819%29.png).
 
 Select one Color scheme and use the button![](../../.gitbook/assets/8%20%283%29.png)to add new conditions. For each condition you must select a column type, type of comparison and value to compare.
 
