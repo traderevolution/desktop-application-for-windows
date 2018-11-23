@@ -50,5 +50,12 @@ Adjusting the same linking color for different panels links these panels to each
 
 ![](../../.gitbook/assets/new-linking-drawing.png)
 
+### Searching elements
 
+All table panels in the application have a quick searching function. Traders can search for the needed items using:
+
+* hot button combination "Cmd + F";
+* "Search…" menu item by selecting it from the Context menu.
+
+  After evoking a search by one of the methods listed above, the following lookup will be activated![](../../.gitbook/assets/search-add.png), where users can type symbol\(s\), number\(s\), a word or a part of it in order to find it in the table. To close the search lookup, click on the button![](../../.gitbook/assets/cross-add.png).
 
