@@ -6,7 +6,7 @@ To change the width of a column, simply move the mouse over the column border in
 
 To autosize a column, simply move the mouse over the column border in the header row and double click the mouse when the pointer changes to a double-sided arrow.
 
-![](../../.gitbook/assets/bigger.png)
+![](../../.gitbook/assets/resizing-columns.png)
 
 ### **Displaying columns**
 
