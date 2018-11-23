@@ -2,9 +2,9 @@
 
 The main menu bar of the application for Mac looks as the following:
 
-![](../../.gitbook/assets/main-menu-bar-add.png)
+![](../../.gitbook/assets/menu-new.png)
 
-The tab 'TraderEvolution' contains such items as:
+The tab 'TraderEvolution' contains such items as:
 
 * Preferences… – opens the general ‘Preferences’ menu;
 * Connections – opens the login screen for connecting using a different user and/or connection;

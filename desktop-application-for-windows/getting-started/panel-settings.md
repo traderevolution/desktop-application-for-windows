@@ -52,7 +52,7 @@ The Column category lists the following settings:
 
 Show total - if checked, the total price value is shown.
 
-Calculation method - allows to choose the calculation method of Total price value \(Sum, Average, Count, Absolute sum\).
+Calculation method - allows to choose the calculation method of Total value \(Sum, Average, Count, Absolute sum\).
 
 **Coloring rows tab** allows selecting different color settings for rows on base of different conditions.
 

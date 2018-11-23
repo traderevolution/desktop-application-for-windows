@@ -136,4 +136,6 @@
     * [Top menu and Status bar](desktop-application-for-mac/logging-in/top-menu-and-status-bar.md)
     * [Panel preferences](desktop-application-for-mac/logging-in/panel-preferences.md)
   * [Technical indicators](desktop-application-for-mac/technical-indicators.md)
+  * [Analysis tools](desktop-application-for-mac/analysis-tools/README.md)
+    * [Context menu](desktop-application-for-mac/analysis-tools/context-menu.md)
 
