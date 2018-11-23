@@ -25,7 +25,7 @@ Attached panels can be arranged into tabbed areas where one or more panels are c
 * Duplicate panel – allows duplicating the chosen panel. The option is available from the context menu of the chosen panel.
 * Clicking on the button![](../../.gitbook/assets/fulscreen.png)  allows opening the panel in the fullscreen mode. Available only for Chart.
 * Show toolbar – allows showing the toolbar of the chosen panel. Right-click on the header of the panel to to view this option.
-* ![](../../.gitbook/assets/close-and-open.png)– the standard set of buttons, allowing to close, minimize a window and enable a fullscreen mode respectively.
+* ![](../../.gitbook/assets/close-and-open-copy.png)– the standard set of buttons, allowing to close, minimize a window and enable a fullscreen mode respectively.
 
 ### Creating tabbed areas
 
