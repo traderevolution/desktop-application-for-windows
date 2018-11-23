@@ -6,9 +6,7 @@ To change the width of a column, simply move the mouse over the column border in
 
 To autosize a column, simply move the mouse over the column border in the header row and double click the mouse when the pointer changes to a double-sided arrow.
 
-![](../../.gitbook/assets/resizing-columns.png)
-
-![](../../.gitbook/assets/group-116.png)
+![](../../.gitbook/assets/for-paint.png)
 
 ### **Displaying columns**
 
@@ -16,7 +14,7 @@ Right-clicking on any column header displays a list of columns that are availabl
 
 To display a column just place a checkmark by the desired column title. To hide a column, select the undesired column title in the list to remove the checkmark.
 
-![](../../.gitbook/assets/proportions.png)
+![](../../.gitbook/assets/displaying-columns.png)
 
 ### **Reordering columns**
 
@@ -35,4 +33,6 @@ Filtering of text columns allows to find the selected symbol in 1 click.
 ### Sorting
 
 Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
+
+![](../../.gitbook/assets/sorting-icon.png)
 
