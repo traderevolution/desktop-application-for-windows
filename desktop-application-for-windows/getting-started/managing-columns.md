@@ -10,11 +10,9 @@ To change the width of a column, simply move the mouse over the column border in
 
 ### **Displaying columns** 
 
-Right-clicking on any column header displays a list of columns that are available in the panel. Only columns that are checked will be visible.
+Right-clicking on any column header displays a list of columns that are available in the panel. Only columns that are checked will be visible. To display a column just place a checkmark by the desired column title. 
 
 ![](../../.gitbook/assets/managing-columns1.png)
-
-To display a column just place a checkmark by the desired column title. To hide a column, select the undesired column title in the list to remove the checkmark.
 
 ### **Reordering columns**
 
