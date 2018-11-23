@@ -8,8 +8,6 @@ To change the width of a column, simply move the mouse over the column border in
 
 ![](../../.gitbook/assets/resizing-columns.png)
 
-![](../../.gitbook/assets/group-115.png)
-
 ### **Displaying columns**
 
 Right-clicking on any column header displays a list of columns that are available in the panel. Only columns that are checked will be visible.
