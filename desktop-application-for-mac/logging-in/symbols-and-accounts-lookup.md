@@ -24,16 +24,16 @@ Select 'All' in the drop-down exchange and types lists in order to cancel the fi
 
 If symbol name in the symbol lookup window is entered from the keyboard, then all symbol groups containing symbols with matches in their names are expanded.
 
-For easy management of the lookup, it has three buttons and link located in the bottom of the tab:
+For easy management of the lookup, it has the following buttons located at the bottom of the screen:
 
 *  ![](../../.gitbook/assets/1%20%2836%29.png)Collapse all – allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
 * ![](../../.gitbook/assets/2%20%2810%29.png) Expand exchanges – allows showing exchanges and symbol types in the lookup tree.
 *  ![](../../.gitbook/assets/3%20%2820%29.png) Expand types – allows showing exchanges, symbol types and symbols in the lookup tree.
 * ![](../../.gitbook/assets/5%20%286%29.png) 'Show additional info' icon – shows short information about the selected symbol.
 
-![](../../.gitbook/assets/with-info.png)
+![](../../.gitbook/assets/1-symbol-new-copy.png)
 
-All symbols are grouped according to categories: Equities, Forex, Futures, etc. The Symbols lookup window displays information as follows: exchange, symbol type and icon, symbol group, symbol, contract or strike price \(for Futures and Options\).
+All symbols are grouped according to categories: Equities, Forex, Futures, etc. The Symbols lookup window displays information as follows: exchange, symbol type and icon, symbol group, symbol, contract or strike price \(for Futures and Options\).
 
 Note: you can search for symbols and filter them by their localized names if they were assigned localized names in one or several supported languages on the server. To do that you need to select the corresponding language for the application user interface and enter the localized name of the sought instrument/instruments in this language. With that, for all the symbols in the lookup, their localized names and descriptions \(if there are any\) will be displayed as names and descriptions accordingly when the corresponding interface language is selected. The same principle applies to the display of instrument names in Chart, Market depth, Order entry, Matrix, Super DOM \(depth of market\), Scalper, Symbol info, Aggressor balance, Saved orders panels as well as Positions, Working orders, Orders history, Filled orders, Positions balance panels.
 
