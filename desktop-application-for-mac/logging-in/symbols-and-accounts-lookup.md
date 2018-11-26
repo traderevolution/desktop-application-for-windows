@@ -6,11 +6,11 @@ TraderEvolution has two kinds of lookups, an 'Account lookup' and a 'Symbol look
 
 The Symbols lookup contains two drop-down lists with exchanges and symbols grouped according to their types, which are used on the server and available to the user. All symbols are shown in the default sequence. To filter the Symbols lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
-![](../../.gitbook/assets/all-exchanges_116_22.png)– combobox allows to select by checking needed exchange\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
+![](../../.gitbook/assets/all-exchanges_116_22.png)– combo box allows to select by checking needed exchange\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
 
 ![](../../.gitbook/assets/short-list-exchanges_196_292.png)
 
-![](../../.gitbook/assets/all-types_116_22.png)– combobox allows to select by checking needed symbol type\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
+![](../../.gitbook/assets/all-types_116_22.png)– combo box allows to select by checking needed symbol type\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
 
 ![](../../.gitbook/assets/short-list-types-196_202.png)
 
