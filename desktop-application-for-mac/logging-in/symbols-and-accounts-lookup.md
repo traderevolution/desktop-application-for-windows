@@ -20,7 +20,7 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 ![](../../.gitbook/assets/search-add-copy.png)– search window allows to find a needed symbol quickly. Enter a symbol's name and double-click on a displayed needed symbol to select it from filtered results.
 
-After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
+After selecting the needed value and filtering the items all symbol tabs which don't match the filter will be hidden from the list.
 
 ![](../../.gitbook/assets/part-of-symbol-lookup_421_207.png)
 
