@@ -8,17 +8,13 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 ![](../../.gitbook/assets/symbol-lookup-copy.jpg)
 
-The Symbols lookup contains two drop-down lists with exchanges and symbols grouped according to their types, which are used on the server and available to the user. All symbols are shown in the default sequence. To filter the Symbols lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
-
-![](../../.gitbook/assets/all-exchanges_116_22.png)– combo box allows to select the needed exchange\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
+The Symbols lookup contains two drop-down lists with exchanges![](../../.gitbook/assets/all-exchanges_116_22.png)and symbols grouped according to their types, which are used on the server and available to the user![](../../.gitbook/assets/all-types_116_22.png). All symbols are shown in the default sequence. To filter the Symbols lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
 ![](../../.gitbook/assets/short-list-exchanges_196_292.png)
 
-![](../../.gitbook/assets/all-types_116_22.png)– combo box allows to select the needed symbol type\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
-
 ![](../../.gitbook/assets/short-list-types-196_202.png)
 
-![](../../.gitbook/assets/search-add-copy.png)– search window allows to find a needed symbol quickly. Enter a symbol's name and double-click on a displayed needed symbol to select it from filtered results.
+Search window![](../../.gitbook/assets/search-add-copy.png)allows to find a needed symbol quickly. Enter a symbol's name and double-click on a displayed needed symbol to select it from filtered results.
 
 After selecting the needed value and filtering the items all symbol tabs which don't match the filter will be hidden from the list.
 
