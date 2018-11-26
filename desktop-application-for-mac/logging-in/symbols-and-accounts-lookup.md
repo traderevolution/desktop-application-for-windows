@@ -1,6 +1,10 @@
 # Symbols & Accounts lookup
 
-In the platform there are two kinds of lookups – 'Account lookup' and 'Symbol lookup' which are helpful in filtering panels' data. The Symbols lookup panel shows all symbols which are available through the broker. The Symbols lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../.gitbook/assets/artboard1.png)next to the symbol scroll down menu.
+In the platform there are two kinds of lookups – 'Account lookup' and 'Symbol lookup' which are helpful in filtering panels' data. 
+
+### Symbols lookup
+
+The Symbols lookup panel shows all symbols which are available through the broker. The Symbols lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../.gitbook/assets/artboard1.png)next to the symbol scroll down menu.
 
 ![](../../.gitbook/assets/symbol-lookup-copy.jpg)
 
@@ -38,6 +42,8 @@ All symbols are grouped according to categories: Equities, Forex, Futures, etc. 
 Note: you can search for symbols and filter them by their localized names if they were assigned localized names in one or several supported languages on the server. To do that you need to select the corresponding language for the application user interface and enter the localized name of the sought instrument\(s\) in this language. With that, for all the symbols in the lookup, their localized names and descriptions \(if there are any\) will be displayed as names and descriptions accordingly when the corresponding interface language is selected. The same principle applies to the display of instrument names in Chart, Market depth, Order entry, Matrix, Super DOM \(depth of market\), Scalper, Symbol info, Aggressor balance, Saved orders panels as well as Positions, Working orders, Orders history, Filled orders, Positions balance panels.
 
 If there is no localized name for an instrument for the current interface language, the server instrument name and description are displayed. 
+
+### Accounts lookup
 
 The Accounts lookup is available only for multi-account users. It displays all accounts available for the user. The Accounts lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/artboard1%20%281%29.png)next to the account scroll down menu.
 
