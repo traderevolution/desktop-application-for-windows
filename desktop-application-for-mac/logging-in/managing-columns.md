@@ -2,7 +2,7 @@
 
 ### **Resizing columns**
 
-To change the width of a column, simply move the mouse over the column border in the header row to see the cursor change to a double-sided arrow. Then click and drag the border to resize the column.
+To change the width of a column, hover the mouse cursor on a column border in the header row. The cursor will change its view to a double-sided arrow. Then click and drag the border to the left/right to resize the column.
 
 ![](../../.gitbook/assets/for-paint.png)
 
