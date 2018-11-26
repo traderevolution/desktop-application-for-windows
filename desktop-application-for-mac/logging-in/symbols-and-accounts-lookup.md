@@ -14,9 +14,9 @@ The Symbols lookup panel shows all symbols which are available through the broke
 
 ![](../../.gitbook/assets/short-list-types-196_202.png)
 
-Search window![](../../.gitbook/assets/search-add-copy.png)allows to find a needed symbol quickly. Enter a symbol's name and double-click on a displayed needed symbol to select it from filtered results.
+After selecting the needed value and filtering the items all symbol tabs which don't match the filter will be hidden from the list.
 
-After selecting the needed value and filtering the items all symbol tabs which don't match the filter will be hidden from the list.
+Search window![](../../.gitbook/assets/search-add-copy.png)allows to find a needed symbol quickly. Enter a symbol's name and double-click on a displayed needed symbol to select it from filtered results.
 
 ![](../../.gitbook/assets/part-of-symbol-lookup_421_207.png)
 
