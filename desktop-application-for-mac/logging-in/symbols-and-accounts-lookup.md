@@ -6,15 +6,15 @@ TraderEvolution has two kinds of lookups, an 'Account lookup' and a 'Symbol look
 
 The Symbols lookup contains two drop-down lists with exchanges and symbols grouped according to their types, which are used on the server and available to the user. All symbols are shown in the default sequence. To filter the Symbols lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
-![](../../.gitbook/assets/all-exchanges_116_22.png)- combobox allows to select by checking needed exchange\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
+![](../../.gitbook/assets/all-exchanges_116_22.png)– combobox allows to select by checking needed exchange\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
 
 ![](../../.gitbook/assets/short-list-exchanges_196_292.png)
 
-![](../../.gitbook/assets/all-types_116_22.png)- combobox allows to select by checking needed symbol type\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
+![](../../.gitbook/assets/all-types_116_22.png)– combobox allows to select by checking needed symbol type\(s\) from a drop-down list to be displayed in the 'Symbol lookup' window;
 
 ![](../../.gitbook/assets/short-list-types-196_202.png)
 
-![](../../.gitbook/assets/search-window-2-_200.png)- search window allows to find a needed symbol quickly. Enter a symbol's name and double-click a displayed needed symbol to select it from filtered results.
+![](../../.gitbook/assets/search-add-copy.png)– search window allows to find a needed symbol quickly. Enter a symbol's name and double-click a displayed needed symbol to select it from filtered results.
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
@@ -26,10 +26,10 @@ If symbol name in the symbol lookup window is entered from the keyboard, then al
 
 For easy management of the lookup, it has three buttons and link located in the bottom of the tab:
 
-*  ![](../../.gitbook/assets/1%20%2836%29.png)Collapse all - allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
-* ![](../../.gitbook/assets/2%20%2810%29.png) Expand exchanges - allows showing exchanges and symbol types in the lookup tree.
-*  ![](../../.gitbook/assets/3%20%2820%29.png) Expand types - allows showing exchanges, symbol types and symbols in the lookup tree.
-* ![](../../.gitbook/assets/5%20%286%29.png) 'Show additional info' icon - shows short information about the selected symbol.
+*  ![](../../.gitbook/assets/1%20%2836%29.png)Collapse all – allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
+* ![](../../.gitbook/assets/2%20%2810%29.png) Expand exchanges – allows showing exchanges and symbol types in the lookup tree.
+*  ![](../../.gitbook/assets/3%20%2820%29.png) Expand types – allows showing exchanges, symbol types and symbols in the lookup tree.
+* ![](../../.gitbook/assets/5%20%286%29.png) 'Show additional info' icon – shows short information about the selected symbol.
 
 ![](../../.gitbook/assets/with-info.png)
 
