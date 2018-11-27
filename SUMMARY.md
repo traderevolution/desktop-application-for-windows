@@ -14,7 +14,7 @@
     * [Top menu, Info bar, Status bar](desktop-application-for-windows/getting-started/top-menu-info-bar-status-bar.md)
     * [Panel settings](desktop-application-for-windows/getting-started/panel-settings.md)
     * [Table alerts](desktop-application-for-windows/getting-started/table-alerts.md)
-    * [Symbols & Accounts lookup](desktop-application-for-windows/getting-started/symbols-and-accounts-lookup.md)
+    * [Symbol & Account lookups](desktop-application-for-windows/getting-started/symbols-and-accounts-lookup.md)
   * [Analysis tools](desktop-application-for-windows/analysis-tools/README.md)
     * [Chart](desktop-application-for-windows/analysis-tools/chart/README.md)
       * [Chart overview](desktop-application-for-windows/analysis-tools/chart/chart-overview.md)
@@ -138,5 +138,6 @@
   * [Technical indicators](desktop-application-for-mac/technical-indicators.md)
   * [Analysis tools](desktop-application-for-mac/analysis-tools/README.md)
     * [Chart](desktop-application-for-mac/analysis-tools/chart/README.md)
+      * [Chart overview](desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
       * [Context menu](desktop-application-for-mac/analysis-tools/chart/context-menu.md)
 
