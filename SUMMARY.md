@@ -140,4 +140,5 @@
     * [Chart](desktop-application-for-mac/analysis-tools/chart/README.md)
       * [Chart overview](desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
       * [Context menu](desktop-application-for-mac/analysis-tools/chart/context-menu.md)
+      * [Chart Preferences](desktop-application-for-mac/analysis-tools/chart/chart-preferences.md)
 
