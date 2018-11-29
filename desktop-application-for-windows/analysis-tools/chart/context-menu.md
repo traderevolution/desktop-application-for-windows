@@ -11,7 +11,7 @@ The following options are available in the Context menu:
 * Aggregation types – evokes window with custom aggregation type settings in order to choose the needed type or edit some settings.
 * Data type – sets the type of source for quotes:
 
-1. Default by symbol \(Bid\) – chart will be built by symbol \(Bid\) values by default.
+1. Default by symbol – chart will be built by symbol values by default.
 2. Bid – chart will be built by Bid values.
 3. Last – if this type is chosen, chart is based on the prices of trades.
 4. Ask – chart will be built by Ask values.

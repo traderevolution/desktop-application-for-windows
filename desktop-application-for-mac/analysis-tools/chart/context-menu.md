@@ -12,7 +12,7 @@ The following options are available in the Context menu:
 * Indicators – evokes the Scripts lookup for easy indicator selection and allow to remove the chosen indicators.
 * Data type – sets the type of source for quotes:
 
-1.      Default by symbol \(Bid\) – chart will be built by symbol \(Bid\) values by default.
+1.      Default by symbol – chart will be built by symbol values by default.
 
 2.      Bid – chart will be built by Bid values.
 
