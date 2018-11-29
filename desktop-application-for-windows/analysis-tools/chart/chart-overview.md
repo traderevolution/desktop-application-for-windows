@@ -6,7 +6,7 @@ This section describes the Chart panel and its functions.
 
 ![](../../../.gitbook/assets/chart-overview.jpg)
 
-* Symbols lookup – the field for selecting the symbols displayed in the chart.
+* Symbols lookup – the field for selecting the symbols displayed on the chart.
 * Accounts lookup – the field for selecting the accounts for visual trading.
 * Overlays – the button for adding one chart of the symbol on the other in order to observe symbol correlations.
 * Aggregation – the menu for selecting the desired aggregation type.
