@@ -6,12 +6,12 @@ This section describes the Chart panel and its functions.
 
 ![](../../../.gitbook/assets/chart-overview.jpg)
 
-* Symbols lookup – the field for selecting the symbols displayed on the chart.
-* Accounts lookup – the field for selecting the accounts for visual trading.
+* Symbol lookup – the field for selection of the symbol displayed on the chart.
+* Account lookup – the field for selection of the account for visual trading.
 * Overlays – the button for adding one chart of the symbol on the other in order to observe symbol correlations.
-* Aggregation – the menu for selecting the desired aggregation type.
+* Aggregation – the menu for selection of the desired aggregation type.
 * Chart style – allows choosing style of the symbol price movements: candle, line, bar, dots, etc.
-* Time period – the button for selecting desired time period, etc.
+* Time period – the button for selection of the desired time period, etc.
 * Drawing tools – the menu with drawing tools.
 * Analysis tools – the menu with tools for analysis: price and bar statistics, volume profile and bars.
 * Indicators – the menu with indicators.

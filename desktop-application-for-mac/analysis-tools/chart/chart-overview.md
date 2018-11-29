@@ -51,3 +51,15 @@ Chart trading – allows to activate the chart’s Order entry panel.
 * Scroll – a tool for chart history scrolling;
 * Zoom control buttons – allow to zoom out of \(-\), in to \(+\) the chart and to activate manual scaling of the chart by an allocated area.
 
+### **Right information button**
+
+Working with right mouse button, user can get the following information:
+
+* Bars – the number of bars between two selected points.
+* ∆Time – time past between two selected points.
+* ∆Price – price difference between two selected points at each end of the line.
+* Ticks – price difference shown in ticks between two selected points.
+* Profit – shows how much a trader could earn if the price has gone up/down from point 1 to point 2. In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
+
+![](../../../.gitbook/assets/right-button.png)
+
