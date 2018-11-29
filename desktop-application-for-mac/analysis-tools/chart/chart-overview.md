@@ -61,5 +61,7 @@ Working with right mouse button, user can get the following information:
 * Ticks – price difference shown in ticks between two selected points.
 * Profit – shows how much a trader could earn if the price has gone up/down from point 1 to point 2. In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../.gitbook/assets/right-button.png)
+![](../../../.gitbook/assets/right-button-small.png)
+
+
 
