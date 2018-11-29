@@ -8,9 +8,9 @@ The panel is available through the main menu of the platform. Open the ‘Termin
 
 ### Chart parameters
 
-* Symbol lookup – a field for selecting a symbol to be displayed on the chart;
-* Account lookup – a field for selecting an account for visual trading;
-* Aggregation – a menu for selecting a desired aggregation type \(Tick, Time, Renko\);
+* Symbol lookup – a field for selection of a symbol to be displayed on the chart;
+* Account lookup – a field for selection of an account for visual trading;
+* Aggregation – a menu for selection of a desired aggregation type \(Tick, Time, Renko\);
 *  Chart style – allows to select a displaying style of symbol price movements. The following styles are available:
 
   * Line;
