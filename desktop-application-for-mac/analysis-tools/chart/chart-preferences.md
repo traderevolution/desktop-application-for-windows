@@ -54,7 +54,7 @@ Zoom:
 
 * Scale – allows to choose the type of scaling: Auto or Manual;
 * Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
-* Fit settlement prices – if checked, all settlement prices will be fit into chart scaling.
+* Fit settlement prices – if checked, the settlement price will be fit into chart scaling.
 
 Time separators:
 
