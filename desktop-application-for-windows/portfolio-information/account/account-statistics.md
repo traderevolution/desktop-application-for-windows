@@ -155,7 +155,7 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ### **Aggregate P/L Chart**
 
-![](../../../.gitbook/assets/4%20%2812%29.png)
+![](../../../.gitbook/assets/4%20%2813%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
@@ -163,7 +163,7 @@ Aggregation interval – allows aggregating P/L chart by the needed periods: by 
 
 ### **Trades Population Chart**
 
-![](../../../.gitbook/assets/5%20%2823%29.png)
+![](../../../.gitbook/assets/5%20%2824%29.png)
 
 **Trades population** consists of two charts:
 

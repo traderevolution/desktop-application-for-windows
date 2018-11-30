@@ -48,7 +48,7 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ### **Trading defaults:**
 
-![](../../.gitbook/assets/5%20%2822%29.png)
+![](../../.gitbook/assets/5%20%2823%29.png)
 
 * Account – allows to select a default account for trading;
 * Symbol – allows to select a default instrument for trading;

@@ -19,7 +19,7 @@ The following parameters are available in the Bar statistics section:
 
 Right clicking on the bar statistics header evokes its context menu, where you can enable/disable the visibility of some rows with parameters:
 
-![](../../../../.gitbook/assets/4%20%2818%29.png)
+![](../../../../.gitbook/assets/4%20%2819%29.png)
 
 * Trades – the number of trades by each bar for a specified period of time;
 * Volume – total volume by each bar for a specified period of time;
