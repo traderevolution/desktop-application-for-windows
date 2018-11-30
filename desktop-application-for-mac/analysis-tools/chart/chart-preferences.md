@@ -114,10 +114,7 @@ If checked, the following hot buttons will be shown in built-in Order entry:
 ![](../../../.gitbook/assets/6%20%2827%29.png)
 
 * Info window mode – allows to set up the style of displaying the Info window. You can select from the following Info window modes: Separate Window, Attached To Cursor, Hidden.
-* Activate short mode – if checked, the Info window fields' names will be displayed in a short mode on the chart:
-
-![](../../../.gitbook/assets/new-info-window-short-mode.png)
-
+* Activate short mode – if checked, the Info window fields' names will be displayed in a short mode on the chart: ![](../../../.gitbook/assets/new-info-window-short-mode%20%281%29.png) 
 * Colors – allows to choose the Info window's font and background colors.
 
 Fields – this section allows to select fields for displaying information in the 'Info window'. The following fields are available, mark the needed ones as checked:
