@@ -146,7 +146,7 @@ The style of a font can be selected.
 
 This panel consists of 3 logical blocks:
 
-* Current portfolio – displays total margin requirement by portfolio of actually existing positions; margin requirement is calculated using PTRM \(Protrader-risk module\).
+* Current portfolio – displays total margin requirement by portfolio of actually existing positions.
 * Portfolio + Analyzed paper positions – displays margin requirement changing in the case of adding "paper" positions to the portfolio.
 * Portfolio greeks – shows total "greeks" value by current portfolio.
 
