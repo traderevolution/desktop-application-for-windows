@@ -65,7 +65,7 @@ Remove all – removes all drawings from the chart.
 
 In order to place a tool:
 
-* Open Context menu and select Drawing tools -&gt; \[desired tool\] or click an appropriate icon on the Drawing toolbar;
+* Open Context menu and select Drawing tools -&gt; \[desired tool\] or click on an appropriate icon in the Drawing toolbar;
 * If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), you can choose these points using "Snap to candle" option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
 
 Note: freehand is the default setting when selecting a tool from the Drawing toolbar and "Snap to candle" is disabled.
