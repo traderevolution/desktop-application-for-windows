@@ -77,8 +77,8 @@ Each drawing tool has its Context menu. Right click on the initial point of the 
 ![](../../../.gitbook/assets/20.png)
 
 * Settings – used for specifying tool’s appearance and settings;
-* Remove selected – deletes selected tools;
-* Lock location – locks selected drawings.
+* Remove selected – deletes selected tool;
+* Lock location – locks selected drawing.
 
 Drawing's Settings menu contains different sections depending on drawings' types. In general, the following sections are available in the Settings menu: Appearance, Points, Visibility.
 
