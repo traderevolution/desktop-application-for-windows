@@ -61,7 +61,7 @@ Drawing's Preferences menu contains different sections depending on drawings' ty
 
 ![](../../../.gitbook/assets/rectangle2small.png)
 
-For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal, the additional section is are available in Preferences menu:
+For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal, the additional section is available in Preferences menu:
 
 * Fibonacci – allows to add, delete Fibonacci levels and edit their values.
 
