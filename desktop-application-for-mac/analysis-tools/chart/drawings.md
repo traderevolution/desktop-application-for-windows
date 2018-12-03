@@ -48,3 +48,24 @@ In order to place a tool:
 
 Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu![](../../../.gitbook/assets/context-menu-small%20%281%29.png). 
 
+* Preferences – used for specifying tool’s appearance and preferences;
+* Remove – deletes selected tool.
+
+Drawing's Preferences menu contains different sections depending on drawings' types. In general, the following sections are available in the Preferences menu: 
+
+* Appearance – allows to set up view parameters of a drawing;
+
+![](../../../.gitbook/assets/rectangle1small.png)
+
+* Points – allow to indicate coordinates for every point which must be specified for a drawing. Coordinates indication is realized via values of the fields Time and Price.
+
+![](../../../.gitbook/assets/rectangle2small.png)
+
+For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal, the additional section is are available in Preferences menu:
+
+* Fibonacci – allows to add, delete Fibonacci levels and edit their values.
+
+![](../../../.gitbook/assets/fibonacci-small.png)
+
+
+
