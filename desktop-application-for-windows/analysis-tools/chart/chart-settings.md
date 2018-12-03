@@ -80,7 +80,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 ![](../../../.gitbook/assets/33%20%281%29.png)
 
-This section allows choosing buttons and hot buttons that will be displayed on the Order entry panel.
+This section allows choosing buttons and hot buttons which will be displayed in built-in Order entry.
 
 #### **Info window**
 
