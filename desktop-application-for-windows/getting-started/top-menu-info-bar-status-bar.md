@@ -5,7 +5,7 @@
 ![](../../.gitbook/assets/top-menyu.png)
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
-* Tools: Strategy manager, Synthetic instruments, Aggressor Balance Beta, Trading ideas, News, RSS, Economic calendar.
+* Tools: Strategy manager, MAM, Synthetic instruments, Aggressor Balance Beta, Trading ideas, News, RSS, Economic calendar.
 * More: access to TraderEvolution Global website, log file, private log file, data folder, About current version screen.
 * Account: access to account information, Account statistics, Withdrawal, Transfer, Reports, Change password, Change trading password.
 * Help: access to TraderEvolution Guide.
