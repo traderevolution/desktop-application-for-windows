@@ -31,7 +31,6 @@ Here user can select an instrument that underlies the option which user is going
 
 ![](../../../.gitbook/assets/opt-chain-opt.png)
 
-* Option chain type – allows selecting type of Option chain: Classic or Standard. 
 * Strikes aggregation style – allows selecting style of strikes count from the drop-down list. There are two available styles:
   * From ATM strike – strikes are counted from the ATM strike, this is the default style of strikes aggregation;
   * Custom underlier price – allows choosing custom underlier price.

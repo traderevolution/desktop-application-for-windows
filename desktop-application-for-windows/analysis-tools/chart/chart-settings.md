@@ -86,7 +86,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 ![](../../../.gitbook/assets/34.png)
 
-This section allows setting up contents of the Info window and style of its displaying. You can select from the following Info Window Modes: Separate Window , Attached To Cursor, Hidden.
+This section allows setting up contents of the Info window and style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden.
 
 Other settings sections \(Volume bars, Price statistics, etc.\) are described in the articles located in the 'Analysis tools' documentation section.
 
