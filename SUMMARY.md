@@ -142,4 +142,5 @@
       * [Chart Preferences](desktop-application-for-mac/analysis-tools/chart/chart-preferences.md)
       * [Drawings](desktop-application-for-mac/analysis-tools/chart/drawings.md)
       * [Context menu](desktop-application-for-mac/analysis-tools/chart/context-menu.md)
+    * [Watchlist](desktop-application-for-mac/analysis-tools/watchlist.md)
 
