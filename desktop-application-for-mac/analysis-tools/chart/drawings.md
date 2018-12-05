@@ -67,7 +67,7 @@ Drawing's Preferences menu contains different sections depending on drawings' ty
 
 * Fibonacci – allows to add, delete Fibonacci levels and edit their values.
 
-![](../../../.gitbook/assets/fibonacci-small.png)
+![](../../../.gitbook/assets/fibonacci-2.png)
 
 
 
