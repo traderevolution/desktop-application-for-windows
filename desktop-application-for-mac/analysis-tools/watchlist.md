@@ -36,3 +36,29 @@ To open the 'Watchlist' panel, select 'Terminal -&gt; Watchlist':
 * Previous settlement price – shows value of the previous day settlement price;
 * Preferences – opens Preferences window.
 
+### **Symbols lists creation** 
+
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, press on the button![](../../.gitbook/assets/button%20%281%29.png), located on the top left corner of the panel’s toolbar. Select the needed symbols from the "Symbols lookup" window. By finishing symbols selection, press "Add". From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
+
+![](../../.gitbook/assets/lists-for-doc.png)
+
+### **Customizing the Watchlist**
+
+​Right clicking within the Watchlist panel evokes its context menu. From this menu a user can:
+
+* edit symbols lists: add new symbols, remove the needed symbol\(s\) or clear all symbols at once;
+* switch among existing symbols lists;
+* group symbols by: lot size, expiration date, symbol type;
+* duplicate the Watchlist panel;
+* open search lookup.
+
+**Symbol Info**
+
+ Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/info1%20%281%29.png)of a certain symbol in the Watchlist. 
+
+![](../../.gitbook/assets/symbol-info-small.png)
+
+All information is divided into 5 groups. Each group can be hidden by one click on a group header.
+
+
+
