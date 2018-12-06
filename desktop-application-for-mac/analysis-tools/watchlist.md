@@ -38,7 +38,7 @@ To open the 'Watchlist' panel, select 'Terminal -&gt; Watchlist':
 
 ### **Symbols lists creation** 
 
-The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, press on the button![](../../.gitbook/assets/button%20%281%29.png), located on the top left corner of the panel’s toolbar. Select the needed symbols from the "Symbols lookup" window. By finishing symbols selection, press "Add". From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, press on the button![](../../.gitbook/assets/button-small.png), located on the top left corner of the panel’s toolbar. Select the needed symbols from the "Symbols lookup" window. By finishing symbols selection, press "Add". From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
 
 ![](../../.gitbook/assets/lists-for-doc.png)
 
