@@ -71,7 +71,7 @@ Symbol Info panel allows displaying settings information for a selected symbol. 
 
 ![](../../.gitbook/assets/w1.png)
 
-All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/2v.png).
+All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/2v.png).
 
 The following information is available in each group:
 

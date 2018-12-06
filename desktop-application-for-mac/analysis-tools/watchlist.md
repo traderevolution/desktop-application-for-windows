@@ -4,6 +4,8 @@ The 'Watchlist' panel displays real-time market data for each symbol available t
 
 To open the 'Watchlist' panel, select 'Terminal -&gt; Watchlist':
 
+![](../../.gitbook/assets/new-w.png)
+
 For each symbol, the following information is available:
 
 * Symbol – selected symbol;
@@ -58,7 +60,7 @@ The Watchlist panel enables user to create custom sets of symbols lists. In orde
 
 ![](../../.gitbook/assets/symbol-info-small.png)
 
-All information is divided into 5 groups. Each group can be hidden by one click on a group header.
+All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/mac-buttons.png). 
 
 The following information is available in each group:
 
