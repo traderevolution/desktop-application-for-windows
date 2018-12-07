@@ -27,19 +27,6 @@ This panel contains the following settings:
 4. FOK \(Fill or kill\) requires to execute the entire transaction immediately and completely or not to execute it at all;
 5. GTD \(Good till date\) order will be cancelled on specified date if not executed or until the contract expires;
 
-* Received by - drop-down menu that determines the way the user issued a command on the order processing. The following values are available for selection in the list:
-
-1. Voice - the command for processing the order was issued via a phone call;
-2. Symphony - the command for processing the order was issued via the Symphony platform;
-3. Email - the command for processing the order was issued in an email;
-4. Bloomberg - the command for processing the order was issued via the Bloomberg Messenger;
-5. Result of option expiry - the command for processing the order originated from an option expiration;
-6. Option Exercise - the command for processing the order originated from an option exercise;
-7. Reuters messenger - the command for processing the order was issued via the Reuters messenger;
-8. OE - admin performs operations on the order.
-
-Note: if the user performs actions on the position or modifies the order from one of the menus, in which this parameter is available the "Received by" value is automatically switched to "OE".
-
 * Stop price \(for the "Stop order" type\) - allows entering the order stop price;
 * Limit price \(available together with Stop price for the "Stop order" and "OCO" order types; also available for the "Limit order" type\) - allows entering the order limit price;
 * Tr. stop offset - \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
