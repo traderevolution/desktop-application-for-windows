@@ -58,5 +58,5 @@ The Colors tab allows configuring the color scheme for tables:
 Use the following options to manage the adjustments:
 
 * ![](../../.gitbook/assets/set-as-default.png)  – allows to set all current 'Preferences' menu adjustments as default ones;
-* ![](../../.gitbook/assets/reset.png)  – allows to reset all the 'Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../.gitbook/assets/reset%20%281%29.png)  – allows to reset all the 'Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
