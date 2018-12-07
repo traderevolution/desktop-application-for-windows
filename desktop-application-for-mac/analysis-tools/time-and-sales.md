@@ -92,7 +92,9 @@ Allows to select background and text colors for:
   * Below Bid;
   * Between Spread.
 
- The 'Time & Sales' menu contains the following control buttons:
+### Managing adjustments 
+
+The 'Time & Sales' menu contains the following control buttons:
 
 * ![](../../.gitbook/assets/set.png)  – allows to set all current 'Time & Sales' menu adjustments as default ones; 
 * ![](../../.gitbook/assets/reset.png)  – allows to reset all the 'Time & Sales' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which have been stored into the system with clicking the button 'Set As Default'. 
