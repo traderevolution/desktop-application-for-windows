@@ -10,6 +10,8 @@ The Time & Sales panel chronologically shows all trades for a symbol at the real
 
 Information about a chosen symbol starts streaming upon opening the panel.
 
+![](../../.gitbook/assets/new-ts.png)
+
 The context menu of the table's header allows to adjust visibility of the panel's columns.
 
 For each trade, the following data stored into columns is available:
