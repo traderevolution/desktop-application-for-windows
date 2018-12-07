@@ -10,7 +10,7 @@ This panel contains the following settings:
 * Symbol – the symbol available for the trade;
 * Side – allows to activate Buy or Sell side;
 * Quantity – an amount of lots in which an order is placed;
-* Order type - defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop, OCO:
+* Order type – defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop, OCO:
 
 1. Market order is an order to buy or sell a security at the best available price immediately;
 2. Limit order is placed to buy or sell a security at specified price or better;
