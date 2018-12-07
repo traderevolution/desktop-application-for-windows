@@ -30,7 +30,7 @@ Any version of the application that you install, after removing the application 
 
 The first time running the application for Desktop there will be a default connection set up, so user can simply enter the login and password to connect.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/login-screen.png)
 
 ### **Changing password**
 

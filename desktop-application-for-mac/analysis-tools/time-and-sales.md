@@ -48,7 +48,7 @@ This Preferences menu contains such sections, as View, Columns, Colors.
 
 This section allows to adjust the following:
 
-* Grid – allows to choose the type of a Grid: Vertical, Horizontal, Vetrical & horizontal, None;
+* Grid – allows activating and setting up grid. Vertical, Horizontal, Vetrical & horizontal, None;
 * Time format – a time mode displaying on the panel, you can select one of these: HH:mm:ss, HH:mm:ss:ms;
 * Size in – a form of volume displaying, you can select one of these:
   * General preferences – taken from general preferences;
