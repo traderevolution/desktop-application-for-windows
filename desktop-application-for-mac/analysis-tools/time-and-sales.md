@@ -98,6 +98,6 @@ Allows to select background and text colors for:
 
 The 'Time & Sales Preferences' menu contains the following buttons to manage adjustments:
 
-* ![](../../.gitbook/assets/set.png)  – allows to set all current 'Time & Sales Preferences' menu adjustments as default ones; 
+* ![](../../.gitbook/assets/set%20%281%29.png)  – allows to set all current 'Time & Sales Preferences' menu adjustments as default ones; 
 * ![](../../.gitbook/assets/reset.png)  – allows to reset all the 'Time & Sales Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'. 
 

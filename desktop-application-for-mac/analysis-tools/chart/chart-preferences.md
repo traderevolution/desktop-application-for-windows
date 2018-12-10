@@ -138,7 +138,7 @@ Fields – this section allows to select fields for displaying information in th
 The 'Chart Preferences' menu contains the following buttons to manage adjustments:
 
 * ![](../../../.gitbook/assets/set-as-default%20%282%29.png)–   allows to set all current 'Chart Preferences' menu adjustments as default ones;
-* ![](../../../.gitbook/assets/reset%20%282%29.png)–   allows to reset all the 'Chart Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../../.gitbook/assets/reset%20%283%29.png)–   allows to reset all the 'Chart Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
    ****
 
