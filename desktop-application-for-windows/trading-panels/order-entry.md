@@ -23,7 +23,7 @@ Order entry panel is where market or pending orders can be placed. To open the O
 
 1. A Day order, as the name implies, is valid for the current trading day;
 2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled or the contract expires;
-3. IOC \(Immediate or cancel \) requires the whole or part of the order to be executed immediately after it has been brought to the market;
+3. IOC \(Immediate or cancel\) requires the whole or part of the order to be executed immediately after it has been brought to the market;
 4. FOK \(Fill or kill\) requires to execute the entire transaction immediately and completely or not to execute it at all;
 5. GTD \(Good till date\) order will be cancelled on specified date if not executed or until the contract expires;
 

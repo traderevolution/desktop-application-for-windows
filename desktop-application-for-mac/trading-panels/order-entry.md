@@ -29,9 +29,46 @@ This panel contains the following settings:
 
 * Stop price \(for the "Stop order" type\) - allows entering the order stop price;
 * Limit price \(available together with Stop price for the "Stop order" and "OCO" order types; also available for the "Limit order" type\) - allows entering the order limit price;
-* Tr. stop offset - \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
+* Tr. stop offset \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
+* SL/TP price - allows to set Stop loss and Take profit prices.
 
- You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. Put your mouse on the SL button without clicking on it and then choose TSL to change Stop Loss order into Trailing Stop![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-LMpjUYyxanons5p9eZ3%2F-LMpl3H8DUXp_MuSZFLn%2F28.png?alt=media&token=244c1883-f26b-45c1-9b94-9bef3597498a).
+It is always possible to manage risks by setting trailing stop on the order with the left clicking a special button![](../../.gitbook/assets/grey.png)located near Stop loss. The blue color of the button![](../../.gitbook/assets/blue.png)indicates that the trailing stop is activated.
 
-Order entry panel has two additional sections which display important information: VWAP and Margin. VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
+Order entry panel has two additional sections which display important information: VWAP and Margin. 
+
+* VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
+* Margin section - allows displaying Margin section in the Order entry panel.
+
+The **Margin** section is divided on two parts: Risks and Fees.
+
+Risks details section shows all values in account currency:
+
+* Balance - an account's balance;
+* Available funds – amount of funds for placing new orders;
+* Margin available – available margin for trading;
+* Initial margin – minimum account balance required to open the position;
+* Maintenance margin – minimum account balance required to keep this position open;
+* Impact on portfolio – shows impact of the order fill on available funds considering all other positions/orders;
+* After trade funds – shows value of available funds remaining after filling the order:
+
+After trade funds = Available funds + Impact on portfolio - Fee;
+
+* Blocked for stocks – amount of funds debited from the balance in the case of trading with symbols with Stocks pre-paid margin type;
+* Spread initial loss – shows initial loss on the spread:
+
+Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
+
+* P/L per Tick - displays data for Symbols:
+
+ P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
+
+P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
+
+P/L per Tick - no information for Index.
+
+**Fees** part shows commission for a trade:
+
+Total fee – shows the commission total on the trade. It is displayed depending upon commission plan settings on the Server.
+
+Information of the Margin section can be updated by clicking on the button![](../../.gitbook/assets/oe-time.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
