@@ -10,7 +10,7 @@ This panel consists of the following sections:
 
 * Level I - only Level I quotes.
 
- You can customize this section via the context menu -&gt; Customize![](../../.gitbook/assets/customize%20%281%29.png):
+ You can customize this section via the context menu -&gt;![](../../.gitbook/assets/smallest.png):
 
 ![](../../.gitbook/assets/customize1.png)
 
@@ -22,7 +22,7 @@ Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previ
 
 * Position bar - short information about opened positions \(average price, quantity, current profit and loss\): 
 
-![](../../.gitbook/assets/position-bar.png)
+![](../../.gitbook/assets/position-bar-smallest.png)
 
 P/L value is displayed in currency or in ticks depending on what option you choose in the P/L context menu preferences:
 
