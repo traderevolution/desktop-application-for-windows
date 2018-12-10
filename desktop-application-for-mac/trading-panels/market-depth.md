@@ -64,9 +64,7 @@ The detail quote section is displayed as a table with the columns which can be m
 * Size – a volume being offered to purchase at a specified Bid price or to sell at a specified Ask price;
 * Source – ECN or exchange, where orders are set. This field is similar to MPID, but it has another representation on the server. Is unavailable when 'Aggregate size' is active in the 'Market depth Preferences';
 * MPID \(market participant ID\) – ECN or exchange, where orders are set;
-* Sequence – an order number of a particular current price;
 * Total size – the aggregated traded volume;
-* Volume – the number of lots that are traded on market during a given period;
 * VWAP – prices of order executions including slippage effect that will take place depending on order quantity;
 * Counter CCY value – a value of Ask/Bid size recalculated in the quoting currency, Price \* Ask/Bid size;
 * Counter CCY Total value – a value of total Ask/Bid size recalculated in the quoting currency, Price \* Total Ask/Bid size;
@@ -130,6 +128,6 @@ The following settings can be selected:
 
 The 'Market depth Preferences' menu contains the following buttons to manage adjustments:
 
-* ![](../../.gitbook/assets/set.png)–   allows to set all current 'Market depth' menu adjustments as default ones;
-* ![](../../.gitbook/assets/reset%20%281%29.png)–   allows to reset all the ‘Market depth’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../.gitbook/assets/set.png)–   allows to set all current 'Market depth Preferences' menu adjustments as default ones;
+* ![](../../.gitbook/assets/reset%20%281%29.png)–   allows to reset all the ‘Market depth Preferences’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
