@@ -49,7 +49,7 @@ c\) If positions are multidirectional, then qty. cell is not colored;
 d\) If there are no positions, qty. cell will not be colored and qty. value will have an empty value \( '---' \).
 
 * 'Order entry' is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). An order entry mode can be adjusted in the 'Market depth Preferences -&gt; View'. An 'Order entry' bar allows you to adjust the following: quantity, type and TIF of an order, limit and stop price;
-* Detail quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows a total volume at each price level. On the left side are bid volumes and on the right one – ask volumes.
+* Detailed quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows a total volume at each price level. On the left side are bid volumes and on the right one – ask volumes.
 
 The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose panel's elements to be visible, open 'context menu -&gt; View':
 
@@ -57,7 +57,7 @@ The detailed quote section is the main part of the Market depth panel, and all o
 
 In the detailed quote section, offers with equal prices are grouped by the same color. There are five available color groups. Quotes with best prices are placed on the top and regrouped each time when a new quote comes.
 
-The detail quote section is displayed as a table with the columns which can be made visible via the context menu of the table's header:
+The detailed quote section is displayed as a table with the columns which can be made visible via the context menu of the table's header:
 
 * Time – time of offer;
 * Price – a buy or sell price from the highest Bid and the lowest Ask to lower Bids and higher Asks;
@@ -115,7 +115,7 @@ This section allows to adjust the coloring scheme for 'Market depth':
 
 **Tab order**
 
-The following settings can be selected:
+The following items can be selected in order to be displayed in the panel:
 
 * Account lookup;
 * Instrument lookup;
