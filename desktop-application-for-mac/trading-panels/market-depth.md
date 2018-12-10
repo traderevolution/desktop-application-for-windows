@@ -22,7 +22,7 @@ Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previ
 
 * Position bar - short information about opened positions \(average price, quantity, current profit and loss\): 
 
-![](../../.gitbook/assets/position-bar-smallest.png)
+![](../../.gitbook/assets/position-bar-new.png)
 
 P/L value is displayed in currency or in ticks depending on what option you choose in the P/L context menu preferences:
 
