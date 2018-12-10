@@ -22,11 +22,9 @@ Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previ
 
 * Position bar - short information about opened positions \(average price, quantity, current profit and loss\): 
 
-![](../../.gitbook/assets/position-bar-new.png)
+![](../../.gitbook/assets/position-bar-blue.png)
 
-P/L value is displayed in currency or in ticks depending on what option you choose in the P/L context menu preferences:
-
-Position bar has extended functionality for Multiple position mode:
+Position bar has extended functionality for Multiple position mode:
 
 When clicking the Price value, you can select of two options: Average open price or Break-even.
 
@@ -80,7 +78,7 @@ The detail quote section is displayed as a table with the columns which can be m
     * General preferences \(lots\) – in case the checkbox 'Display quantity in lots' in ‘General Preferences... -&gt; View' is enabled;
     * General preferences \(real size\) – in case the checkbox 'Display quantity in lots' in ‘General Preferences... -&gt; View' is disabled;
   * Lots – will be displayed in lots;
-  * Real size - will be displayed in real value.
+  * Real size – will be displayed in real value.
 * Size precision – if checked, you can set up precision of the volume displaying;
 * Show own working orders – if active, all pending orders \(Limit/Stop\) are shown in the Market depth panel with color, otherwise – orders won’t be displayed. To set the coloring scheme for displaying Limit/Stop orders in Market depth panel, go to 'Context menu - &gt; Preferences - &gt; Colors - &gt; Own working orders';
 * Aggregate size - if active, size will be aggregated by the following criteria: Price, Side, MPID. Related to 'Size' and 'Bid / Ask' columns;
