@@ -97,9 +97,9 @@ The 'Watchlist Preferences' menu contains the following control buttons for mana
 * ![](../../.gitbook/assets/set.png)–   allows to set all current ‘Watchlist Preferences' menu adjustments as default ones;
 * ![](../../.gitbook/assets/reset%20%284%29.png)–   allows to reset all the ‘Watchlist Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which have been stored into the system by clicking on the button 'Set As Default'.
 
-### **Symbol Info**
+### **Symbol info**
 
- Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/info1%20%281%29.png)of a certain symbol in the Watchlist. 
+Symbol info panel displays information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/info1%20%281%29.png)of a certain symbol in the Watchlist. 
 
 ![](../../.gitbook/assets/symbol-info-small.png)
 
