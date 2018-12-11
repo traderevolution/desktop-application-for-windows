@@ -54,7 +54,42 @@ The Watchlist panel enables user to create custom sets of symbols lists. In orde
 * duplicate the Watchlist panel;
 * open search lookup.
 
-**Symbol Info**
+### **Watchlist Preferences**
+
+The 'Watchlist Preferences' menu contains such sections, as View, Columns, Colors.
+
+**View**
+
+* Grid – allows activating and setting up grid. The following types of grid are available: Vertical, Horizontal, Vetrical & horizontal, None;
+* Allow auto-resorting data – allows auto re-sorting a table after any changes;
+* Display totals – allows showing total values for the columns;
+* Show toolbar – if active, the toolbar is displayed in the panel.
+
+**Columns**
+
+This section allows to set up visibility of columns in the panel and to adjust the following columns' parameters: Column: Alignment, Background and Text colors.
+
+**Colors**
+
+This section allows to adjust the coloring scheme for Watchlist's table.
+
+You can set up Background and Text colors for the following Watchlist table's elements:
+
+* Table \(background color\);
+* Grid \(background color\);
+* Columns header row;
+* Row;
+* Alternative row;
+* Selected row;
+* Right selected row \(background color\);
+* Totals row.
+
+The 'Watchlist Preferences' menu contains the following control buttons for managing adjustments:
+
+* ![](../../.gitbook/assets/set.png)–   allows to set all current ‘Watchlist Preferences' menu adjustments as default ones;
+* ![](../../.gitbook/assets/reset%20%284%29.png)–   allows to reset all the ‘Watchlist Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which have been stored into the system by clicking on the button 'Set As Default'.
+
+### **Symbol Info**
 
  Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/info1%20%281%29.png)of a certain symbol in the Watchlist. 
 
@@ -190,38 +225,5 @@ Information about settings for all trade sessions:
 
 In order to make the needed columns or rows with parameters visible in the Symbol info panel, go to Context menu - &gt; Settings - &gt; Columns or Rows - &gt; and simply check them in the list.
 
-### **Watchlist Preferences**
-
-The 'Watchlist Preferences' menu contains such sections, as View, Columns, Colors.
-
-**View**
-
-* Grid – allows activating and setting up grid. The following types of grid are available: Vertical, Horizontal, Vetrical & horizontal, None;
-* Allow auto-resorting data – allows auto re-sorting a table after any changes;
-* Display totals – allows showing total values for the columns;
-* Show toolbar – if active, the toolbar is displayed in the panel.
-
-**Columns**
-
-This section allows to set up visibility of columns in the panel and to adjust the following columns' parameters: Column: Alignment, Background and Text colors.
-
-**Colors**
-
-This section allows to adjust the coloring scheme for Watchlist's table.
-
-You can set up Background and Text colors for the following Watchlist table's elements:
-
-* Table \(background color\);
-* Grid \(background color\);
-* Columns header row;
-* Row;
-* Alternative row;
-* Selected row;
-* Right selected row \(background color\);
-* Totals row.
-
-The 'Watchlist Preferences' menu contains the following control buttons for managing adjustments:
-
-* ![](../../.gitbook/assets/set.png)–   allows to set all current ‘Watchlist Preferences' menu adjustments as default ones;
-* ![](../../.gitbook/assets/reset%20%284%29.png)–   allows to reset all the ‘Watchlist Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which have been stored into the system by clicking on the button 'Set As Default'.
+### 
 
