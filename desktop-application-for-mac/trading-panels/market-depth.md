@@ -6,6 +6,12 @@ To open a new 'Market depth' panel, go to 'Terminal -&gt; Market depth'.
 
 ![](../../.gitbook/assets/market1.png)
 
+### Toolbar
+
+Under the panel's header there is Toolbar.
+
+The Toolbar includes Symbol and Account lookups. Right-click on the panel header in order to evoke the option ‘Show toolbar’. Check the option to show toolbar or uncheck to hide it.
+
 ### **'Market depth' parameters**
 
 This panel consists of the following sections:

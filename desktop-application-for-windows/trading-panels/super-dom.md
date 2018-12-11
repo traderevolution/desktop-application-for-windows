@@ -72,7 +72,7 @@ On the right side of the Super DOM panel there is a built-in Order entry panel. 
 
 Click on Buy Market or Sell Market to Buy/Sell at market price.
 
-**Mouse trading** – allows trading using mouse \(when the corresponding button is activated on the top of the panel\). Clicking on the Buy column allows placing Buy orders, on the Sell column – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" \(can be changed in General settings - &gt; Hotkeys - &gt; Matrix\).
+**Mouse trading** – allows trading using mouse \(when the corresponding button is activated on the top of the panel\). Clicking on the Buy column allows placing Buy orders, on the Sell column – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" \(can be changed in General settings   -&gt; Hotkeys -&gt; Super DOM\).
 
 Mouse trading rules:
 
@@ -165,7 +165,7 @@ Asks/Bids size bars – color settings for filling the volumes by Ask and Bid.
 
 ### **Super DOM hotkeys**
 
-The list of hotkeys to set for the Super DOM panel is available in the General settings - &gt; Hotkeys - &gt; Super DOM.
+The list of hotkeys to set for the Super DOM panel is available in the General settings -&gt; Hotkeys -&gt; Super DOM.
 
 The Super DOM hotkeys have the following functions:
 
