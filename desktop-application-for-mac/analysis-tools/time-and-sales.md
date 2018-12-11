@@ -58,11 +58,11 @@ This section allows to adjust the following:
   * Real size – will be displayed in real value.
 * Size precision – if checked, you can set up precision of volume displaying;
 * Aggregate size – if unchecked, the column 'Bid x Ask size' displays volumes according to a given MPID, and the columns Bid and Ask display the best corresponding prices; if checked, the column Size displays all trades with the same 'Price + Side + MPID' as a cumulative sum, and the column 'Bid x Ask size' displays a cumulative sum of volumes from all liquidity providers proposing the best prices at a current moment;
-* Show toolbar – if active, the Symbol lookup is displayed on the panel.
+* Show toolbar – if active, the Symbol lookup is displayed in the panel.
 
 **Columns**
 
-This section allows to select columns to be displayed on the panel and to adjust the following columns' parameters: Column: Alignment, Background and Text colors.
+This section allows to select columns to be displayed in the panel and to adjust the following columns' parameters: Column: Alignment, Background and Text colors.
 
 **Colors**
 
