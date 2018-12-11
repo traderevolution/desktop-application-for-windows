@@ -62,10 +62,7 @@ This section allows to adjust the following:
 
 **Columns**
 
-This section allows to select columns to be displayed on the panel and to adjust the following columns' parameters:
-
-* Header: Header text, Alignment;
-* Column: Alignment, Background and Text colors.
+This section allows to select columns to be displayed on the panel and to adjust the following columns' parameters: Column: Alignment, Background and Text colors.
 
 **Colors**
 
