@@ -95,7 +95,7 @@ The 'Watchlist Preferences' menu contains the following control buttons for mana
 
 ![](../../.gitbook/assets/symbol-info-small.png)
 
-All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/mac-buttons-small.png). 
+All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following symbols appear in a header of a group when it is hidden or opened![](../../.gitbook/assets/mac-buttons-small.png). 
 
 The following information is available in each group:
 
