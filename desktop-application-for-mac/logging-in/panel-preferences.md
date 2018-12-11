@@ -7,7 +7,8 @@ The menu Preferences can be opened through the Context menu, right click anywher
 ### **View**
 
 * Grid – allows showing grid between columns and rows \(you can select the following options: Vertical, Horizontal, Vertical & horizontal, None\);
-* Allow auto-resorting data – allows auto re-sorting a table after any changes; Display totals – allows showing total amount for columns. Be attentive to mark the "Show total" option   as checked as well for selected columns in the Columns tab![](../../.gitbook/assets/show-totals.png);
+* Allow auto-resorting data – allows auto re-sorting a table after any changes; 
+* Display totals – allows showing total amount for columns. Be attentive to mark the "Show total" option   as checked as well for selected columns in the Columns tab![](../../.gitbook/assets/show-totals.png);
 * Show toolbar – allows showing panel toolbar.
 
 ### **Columns** 
