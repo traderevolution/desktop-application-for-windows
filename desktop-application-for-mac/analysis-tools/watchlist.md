@@ -48,7 +48,7 @@ The Watchlist panel enables a user to create custom sets of symbols lists. In or
 
 ### Symbol lookup
 
-The 'Symbol lookup' window in the 'Watchlist' panel has its own peculiarities.
+The 'Symbol lookup' window in the Watchlist panel has its own peculiarities.
 
 Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist allows a multi-selection. In case you need to select several symbols, which are located one under another, just slide the mouse cursor up or down to select by highlighting several symbols. In case needed symbols are not located one under another, hold the key 'Command' and click each needed symbol to select it by highlighting. After finishing symbols selection, click on the button 'Add'.
 
@@ -122,7 +122,7 @@ The following information is available in each group:
 * Settlement date – date when delivery has to take place. Available for Options and Futures;
 * Close-out deadline – date when positions will be closed by a specific symbol. Available for Futures and Options;
 
-For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for 'Symbol info panel':
+For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
  Contract month;
 
@@ -212,7 +212,7 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 
-'Symbol info' panel displays these fee types depending upon comission plan settings on the Server.
+Symbol info panel displays these fee types depending upon comission plan settings on the Server.
 
         Rebates:
 
