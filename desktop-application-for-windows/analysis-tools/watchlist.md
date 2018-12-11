@@ -48,7 +48,7 @@ For each symbol, the following information is available:
 
 ### **Symbols lists creation** 
 
-The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, press on the button![](../../.gitbook/assets/++.png), located on the top left corner of the panel’s toolbar. Select the needed symbols from the "Symbols lookup" window. By finishing symbols selection, press "Add". From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list. 
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../.gitbook/assets/++.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list. 
 
 ![](../../.gitbook/assets/symbol.png)
 

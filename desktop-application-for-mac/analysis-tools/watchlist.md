@@ -6,7 +6,9 @@ To open the 'Watchlist' panel, select 'Terminal -&gt; Watchlist':
 
 ![](../../.gitbook/assets/new-w.png)
 
-For each symbol, the following information is available:
+### Columns
+
+The context menu of the Watchlist table's header allows to adjust visibility of its columns. To open this context menu, right-click on the table's header which is located under the panel's toolbar. For each symbol, the following information is available:
 
 * Symbol – selected symbol;
 * Last – the last trade price;
@@ -40,11 +42,17 @@ To open the 'Watchlist' panel, select 'Terminal -&gt; Watchlist':
 
 ### **Symbols lists creation** 
 
-The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, press on the button![](../../.gitbook/assets/button-small.png), located on the top left corner of the panel’s toolbar. Select the needed symbols from the "Symbols lookup" window. By finishing symbols selection, press "Add". From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
+The Watchlist panel enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../.gitbook/assets/button-small.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
 
 ![](../../.gitbook/assets/lists-for-doc.png)
 
-### **Customizing the Watchlist**
+### Symbol lookup
+
+The 'Symbol lookup' window in the 'Watchlist' panel has its own peculiarities.
+
+Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist allows a multi-selection. In case you need to select several symbols, which are located one under another, just slide the mouse cursor up or down to select by highlighting several symbols. In case needed symbols are not located one under another, hold the key 'Command' and click each needed symbol to select it by highlighting. After finishing symbols selection, click on the button 'Add'.
+
+### **Customizing the Watchlist**
 
 ​Right clicking within the Watchlist panel evokes its context menu. From this menu a user can:
 
