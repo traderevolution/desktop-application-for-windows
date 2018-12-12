@@ -199,5 +199,5 @@ Information about settings for all trade sessions:
 * Post-market;
 * After market.
 
-In order to make the needed columns or rows with parameters visible in the Symbol info panel, go to Context menu - &gt; Settings - &gt; Columns or Rows - &gt; and simply check them in the list.
+In order to make the needed columns or rows with parameters visible in the Symbol info panel, go to Context menu -&gt; Settings -&gt; Columns -&gt; and simply check them in the list.
 

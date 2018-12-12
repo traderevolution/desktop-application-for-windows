@@ -1,8 +1,8 @@
 # Watchlist
 
-The 'Watchlist' panel displays real-time market data for each symbol available through a broker.
+The Watchlist panel displays real-time market data for each symbol available through a broker.
 
-To open the 'Watchlist' panel, select 'Terminal -&gt; Watchlist':
+To open the Watchlist panel, select 'Terminal -&gt; Watchlist':
 
 ![](../../.gitbook/assets/new-w.png)
 

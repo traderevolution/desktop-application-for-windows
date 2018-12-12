@@ -1,8 +1,8 @@
 # Market depth
 
-The 'Market depth' panel allows to view and trade Level II quotes.
+The Market depth panel allows to view and trade Level II quotes.
 
-To open a new 'Market depth' panel, go to 'Terminal -&gt; Market depth'.
+To open a new Market depth panel, go to 'Terminal -&gt; Market depth'.
 
 ![](../../.gitbook/assets/market1.png)
 
@@ -12,7 +12,7 @@ Under the panel's header there is Toolbar.
 
 The Toolbar includes Symbol and Account lookups. Right-click on the panel header in order to evoke the option ‘Show toolbar’. Check the option to show toolbar or uncheck to hide it.
 
-### **'Market depth' parameters**
+### **Market depth parameters**
 
 This panel consists of the following sections:
 
