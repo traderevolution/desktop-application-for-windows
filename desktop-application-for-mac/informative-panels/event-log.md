@@ -24,7 +24,7 @@ Event log displays information via the following columns:
 
 ### Context menu
 
-To call the Event log panel's context menu, right-click any row of the panel's table.
+To call the Event log panel's context menu, right-click on any row of the panel's table.
 
 The context menu allows the following options:
 
