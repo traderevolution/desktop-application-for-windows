@@ -58,7 +58,7 @@ If order is buy, then its icon is blue; and if order is sell, then its icon is r
 
  To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.34.png)to the desirable price.
 
-To start modifying another parameters, make a left click on the order marker. The following buttons will appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%281%29.png). To cancel order, click on the button x.
+To start modifying another parameters, make a left click on the order marker. The following buttons will appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%281%29.png). To cancel order, click on the button![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14-copy.png).
 
 
 
