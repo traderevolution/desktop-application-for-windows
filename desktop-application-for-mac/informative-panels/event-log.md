@@ -18,7 +18,7 @@ Event log displays information via the following columns:
 * Type – type of event;
 * Date/Time – date and time of an event;
 * Event – title of an event;
-* Details – click on ‘Details’ icon to open a deal ticket. If there is no message and deal ticket for event, then the ‘Details’ icon isn’t shown.
+* Details – click on ‘Details’ icon to open a deal ticket. 
 
 ![](../../.gitbook/assets/deal-ticket.png)
 
