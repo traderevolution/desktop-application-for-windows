@@ -69,6 +69,5 @@ If you need to set SL/TP to the order/position, make a left click on the order/p
 
 ![](../../.gitbook/assets/sl-tp.png)
 
-  
-SL/TP prices have the same buttons set as an order has. There is a possibility to make the SL order Trailing stop by pressing the 'Hook' button![](../../.gitbook/assets/new-2.png)located in the SL menu.
+SL/TP prices have the same buttons set as an order has. There is a possibility to make the SL order Trailing stop by pressing the 'Hook' button![](../../.gitbook/assets/new-2-2%20%281%29.png)located in the SL menu.
 
