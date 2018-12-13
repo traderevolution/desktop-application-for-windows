@@ -2,6 +2,8 @@
 
 A user can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart.
 
+![](../../.gitbook/assets/visual-tr-mac.png)
+
 ### **The built-in Order entry panel** 
 
 In order to start visual trading, click on the 'Chart trading' button![](../../.gitbook/assets/screen-shot-2018-12-12-at-1.48.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
@@ -10,11 +12,13 @@ In order to start visual trading, click on the 'Chart trading' button![](../../.
 
 The Order entry panel consists of the following items:
 
-1.    Quantity - the order quantity;
+1.  Quantity - the order quantity;
 
-2.    SL - for specifying Stop Loss parameters;
+2.  TIF - for specifying Time-in-force parameter. The following TIFs are available: Day, GTC, IOC, FOK, GTD.
 
-3.    TP - for specifying Take Profit parameters.
+3.  SL - for specifying Stop Loss parameters;
+
+4.  TP - for specifying Take Profit parameters.
 
 Hot buttons for one-click trading are the following:
 
@@ -36,11 +40,10 @@ To start chart trading, follow these steps:
 
 1. Оpen the built-in Order entry panel;
 2. Click the 'Mouse trading' button![](../../.gitbook/assets/screen-shot-2018-12-12-at-1.56.png)   to enable the chart trading;
-3. Select type of an order to be placed: single or OCO.
 
-   You can enable chart trading by pressing and holding the Ctrl key as well.
+You can enable chart trading by pressing and holding the Ctrl key as well.
 
-   If the cursor is higher than the current price, you can send:
+If the cursor is higher than the current price, you can send:
 
 * Buy Stop order – by left click;
 * Sell Limit order – by right click.
