@@ -59,15 +59,15 @@ If order is buy, then its icon is blue; and if order is sell, then its icon is r
 
 ### Order modifying
 
- To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.34.png)to the desirable price.
+ To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/order-marker.png)to the desirable price.
 
-To start modifying another parameters, make a left click on the order marker. The following buttons will appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%281%29.png). To cancel order, click on the button![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14-copy.png).
+If you need to set SL/TP to the order/position, make a left click on the order/position marker. After that, SL/TP markers appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%282%29.png). 
 
-### Stop loss and Take profit
-
-If you need to set SL/TP to the order/position, make a left click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
+ Drag and Drop SL/TP prices to modify them:
 
 ![](../../.gitbook/assets/sl-tp.png)
 
-SL/TP prices have the same buttons set as an order has. There is a possibility to make the SL order Trailing stop by pressing the 'Hook' button![](../../.gitbook/assets/new-2-2%20%281%29.png)located in the SL menu.
+There is a possibility to make the SL order Trailing stop by pressing the 'Hook' button![](../../.gitbook/assets/tsl.png)located in the SL menu.
+
+To cancel order, click on the button![](../../.gitbook/assets/close.png).
 

@@ -148,6 +148,7 @@
     * [Order entry](desktop-application-for-mac/trading-panels/order-entry.md)
     * [Market depth](desktop-application-for-mac/trading-panels/market-depth.md)
     * [Visual trading](desktop-application-for-mac/trading-panels/visual-trading.md)
+  * [Portfolio management](desktop-application-for-mac/portfolio-management.md)
   * [Informative panels](desktop-application-for-mac/informative-panels/README.md)
     * [Event log](desktop-application-for-mac/informative-panels/event-log.md)
 
