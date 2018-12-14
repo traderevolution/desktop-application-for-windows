@@ -69,7 +69,7 @@ The 'Watchlist Preferences' menu contains such sections, as View, Columns, Color
 **View**
 
 * Grid – allows activating and setting up grid. The following types of grid are available: Vertical, Horizontal, Vetrical & horizontal, None;
-* Allow auto-resorting data – allows auto re-sorting a table after any changes;
+* Allow auto-resorting data – allows auto-resorting a table after any changes;
 * Display totals – allows showing total values for the columns;
 * Show toolbar – if active, the toolbar is displayed in the panel.
 
