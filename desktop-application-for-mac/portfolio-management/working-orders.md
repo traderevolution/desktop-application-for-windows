@@ -38,6 +38,12 @@ Right-click on the table's column name in order to open the menu of available co
 
 Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Preferences -&gt; Columns\).
 
+This context menu also contains the following options:
+
+* Filtering – allows filtering the data in the panel’s table;
+* Reset to factory defaults – allows to reset the adjustments to the factory defaults;
+* Preferences – opens the ‘Working orders Preferences’ dialog box.
+
 ### **Buttons toolbar**
 
 The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel.
