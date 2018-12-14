@@ -11,7 +11,7 @@ The following columns are available in the panel:
 * Account – a login name of an account that opened an order;
 * Symbol – a symbol for which an order was created;
 * Side – a trade type \(Buy or Sell\);
-* Event – an event identifier. The following values are available: Executed, Created, Modified, Canceled;
+* Event – an event identifier. The following values are available: Executed, Created, Modified, Rejected;
 * Type – an order type;
 * Price – an order price which a trade took place at;
 * Quantity – a filled amount of an order, in lots or in currency units, depending on what is selected in the settings dialog box;
