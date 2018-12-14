@@ -75,7 +75,7 @@ The 'Watchlist Preferences' menu contains such sections, as View, Columns, Color
 
 **Columns**
 
-This section allows to set up visibility of columns in the panel and to adjust the following columns' parameters: Column: Alignment, Background and Text colors.
+This section allows to set up visibility of columns in the panel and to adjust the following columns' parameters: Alignment, Background and Text colors.
 
 **Colors**
 
