@@ -25,7 +25,7 @@ The following columns are available in the panel:
 * SL price – stop loss price set for the order.
 * TP price – take profit price set for the order.
 * Bound to \(OCO\) – ID of the order which another order is bound to; if the former is executed, system will cancel the latter.
-* Symb. type – market category of the instrument \(CFD, spot, stocks, etc.\).
+* Symbol type – market category of the instrument \(CFD, spot, stocks, etc.\).
 * Login – user login.
 * Symbol description – comments to the instrument.
 * Exchange – indicates whether the instrument has a stock exchange or off-exchange type;
