@@ -6,7 +6,7 @@ To open a new Working orders panel, select Terminal -&gt; Working orders.
 
 ![](../../.gitbook/assets/w-orders.png)
 
-The following columns are available in the panel:
+Right-click on the table's column name in order to open the menu of available columns:
 
 * Symbol – name of the instrument to be traded;
 * Side – type of the trade to be performed \(Buy or Sell\);
