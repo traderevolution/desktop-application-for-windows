@@ -68,7 +68,7 @@ The following actions can be performed via the Context menu:
 * View – allows to show total values and to show toolbar.
 * Search – allows to show/hide a search lookup in the panel.
 * Cancel – allows cancelling all selected orders, all orders by selected symbol, all orders by selected account, all orders.
-*  Set hotkeys – allows to open the ‘Working orders’ tab in ‘Hotkeys Preferences’ dialog window;
+*  Set hotkeys – allows to open the ‘Working orders’ tab in ‘Hotkeys Preferences’;
 * Group by – allows to group orders by:
 
   -       Account;
