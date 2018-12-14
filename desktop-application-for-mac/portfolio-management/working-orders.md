@@ -36,7 +36,7 @@ The following columns are available in the panel:
 * Strike price – price of option contract performance.
 * Exp. date – date of contract expiration.
 
-Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Settings-&gt;Columns\).
+Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Settings -&gt; Columns\).
 
 ### **Buttons toolbar**
 
