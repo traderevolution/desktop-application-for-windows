@@ -96,5 +96,40 @@ The following actions can be performed via the Context menu:
 * ​Duplicate panel – allows to duplicate a panel;
 * Preferences – allows to open 'Working orders Preferences'.
 
+### **Working orders Preferences**
+
+The 'Working orders Preferences' menu contains such sections, as View, Columns, Colors.
+
+**View**
+
+* Grid – allows activating and setting up grid. The following types of grid are available: Vertical, Horizontal, Vetrical & horizontal, None;
+* Allow auto-resorting data – allows auto-resorting a table after any changes;
+* Display totals – allows showing total values for the columns;
+* Show toolbar – if active, the toolbar is displayed in the panel.
+
+**Columns**
+
+This section allows to set up visibility of columns in the panel and to adjust the following columns' parameters: Alignment, Colors.
+
+**Colors**
+
+This section allows to adjust the coloring scheme for 'Working orders' table.
+
+You can set up Background and Text colors for the following elements of 'Working orders':
+
+* Table \(background color\);
+* Grid \(background color\);
+* Columns header row;
+* Row;
+* Alternative row;
+* Selected row;
+* Right selected row \(background color\);
+* Totals row.
+
+The 'Working orders Preferences' menu contains the following control buttons for managing adjustments:
+
+* ![](../../.gitbook/assets/set%20%281%29.png)  – allows to set all current 'Working orders Preferences' menu adjustments as default ones;
+* ![](../../.gitbook/assets/reset%20%285%29.png)  – allows to reset all the Working orders Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+
 
 

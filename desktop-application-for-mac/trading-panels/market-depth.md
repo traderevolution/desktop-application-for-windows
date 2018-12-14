@@ -134,6 +134,6 @@ The following items can be selected in order to be displayed in the panel:
 
 The 'Market depth Preferences' menu contains the following buttons to manage adjustments:
 
-* ![](../../.gitbook/assets/set%20%281%29.png)–   allows to set all current 'Market depth Preferences' menu adjustments as default ones;
+* ![](../../.gitbook/assets/set%20%282%29.png)–   allows to set all current 'Market depth Preferences' menu adjustments as default ones;
 * ![](../../.gitbook/assets/reset%20%281%29.png)–   allows to reset all the ‘Market depth Preferences’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
