@@ -84,7 +84,7 @@ For Short position: Position value = Position exposure – P/L.
 * Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date.
 * Close – allows to close a position.
 
-The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Positions Preferences' menu.
+The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Positions Preferences' dialog box.
 
 ### Context menu
 
