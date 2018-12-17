@@ -4,13 +4,13 @@ Positions panel lists all currently opened positions. When a new position is ope
 
 To open the Positions panel, select 'Terminal -&gt; Positions':
 
-![](../../.gitbook/assets/1p.png)
+![](../../.gitbook/assets/11p.png)
 
-### **Buttons toolbar**
+### **Buttons toolbar**
 
 The Positions' toolbar can be opened via ‘Context menu -&gt; View -&gt; Show toolbar’. It contains the following buttons which can be activated via toolbar’s context menu:
 
-![](../../.gitbook/assets/2p.png)
+![](../../.gitbook/assets/21p-small.png)
 
 * Close all – closes all opened positions;
 * Close negative – closes positions with negative P/L;
