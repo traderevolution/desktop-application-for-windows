@@ -59,12 +59,12 @@ Cross price is applied in case when account currency doesn't correspond to Betti
 
 Net P/L = Gross P/L - Fee.
 
-* P/L, offset - profit/loss in points;
-* Quantity - amount of a position in lots;
-* Side - a position's side depending upon a trade's side, can be Long or Short;
-* Expiration date - a date of a contract's expiration;
-* Strike price - a price of an option contract's performance;
-* Position exposure - an exposure for a position measured in account's currency. Calculated on base of open price:
+* P/L, offset – profit/loss in points;
+* Quantity – amount of a position in lots;
+* Side – a position's side depending upon a trade's side, can be Long or Short;
+* Expiration date – a date of a contract's expiration;
+* Strike price – a price of an option contract's performance;
+* Position exposure – an exposure for a position measured in account's currency. Calculated on base of open price:
 
 Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – for Forex;
 
@@ -78,10 +78,10 @@ For Long position: Position value = Position exposure + P/L;
 
 For Short position: Position value = Position exposure – P/L.
 
-* SL price - a Stop loss price set for a position;
-* TP price - a Take profit price set for a position;
-* SL, value - a Stop loss sum in account's currency which trader risks by each symbol in case 'Stop loss' triggers. Also, SL sum by all positions is displayed in Totals on the bottom of the panel, in order you could know how much it is possible to lose;
-* Swaps - amounts collected/paid out by a broker when a position is rolled over to a new value date.
+* SL price – a Stop loss price set for a position;
+* TP price – a Take profit price set for a position;
+* SL, value – a Stop loss sum in account's currency which trader risks by each symbol in case 'Stop loss' triggers. Also, SL sum by all positions is displayed in Totals on the bottom of the panel, in order you could know how much it is possible to lose;
+* Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date.
 * Close – allows to close a position.
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Positions Preferences' menu.
@@ -108,7 +108,7 @@ The Positions' context menu includes the following options:
   * Reverse position \[\#\#\#\] – reverses a selected position;
   * Reverse by \[...\] for \[...\] – reverses positions by selected symbol and account;
   * Reverse all positions – reverses all positions.
-* View - allows to show/hide the row showing the total values for columns and to show toolbar of the panel;
+* View – allows to show/hide the row showing the total values for columns and to show toolbar of the panel;
 * Search – allows to show/hide a search lookup;
 * Set hotkeys – allows to open the ‘Positions’ tab in ‘Hotkeys Preferences’;
 * Group by – allows to select a column to group the panel's view by:
