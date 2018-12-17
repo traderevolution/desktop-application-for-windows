@@ -27,7 +27,7 @@ The Positions' toolbar can be opened via ‘Context menu -&gt; View -&gt; Show t
 
 ### Columns
 
-Under the 'Positions' Toolbar there is a table. The context menu of this table's header allows to adjust visibility of its columns. To open this context menu, right-click on the table's header.
+Under the 'Positions' toolbar there is a table. The context menu of this table's header allows to adjust visibility of its columns. To open this context menu, right-click on the table's header.
 
 Positions panel displays information about all currently opened positions via the following columns:
 
@@ -84,11 +84,11 @@ For Short position: Position value = Position exposure – P/L.
 * Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date.
 * Close – allows to close a position.
 
-The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Positions Preferences' dialog box.
+The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Positions Preferences' window.
 
 ### Context menu
 
-To open the 'Position' panel's context menu, right-click on any clean space under its table's header.
+To open the Position panel's context menu, right-click on any clean space under its table's header.
 
 The Positions' context menu includes the following options:
 
