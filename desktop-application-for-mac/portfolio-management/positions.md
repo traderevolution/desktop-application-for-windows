@@ -31,17 +31,17 @@ Under the 'Positions' Toolbar there is a table. The context menu of this table's
 
 Positions panel displays information about all currently opened positions via the following columns:
 
-* Account - a name of a user's account, who opened a position;
-* Login - a login of a user, who opened a position;
-* Symbol - a symbol's name with which a position is opened;
-* Symbol description - relevant information about a symbol;
-* Symbol type - a symbol's type;
-* Position ID - an ID of an opened position;
-* Date/Time - time and date of a position's opening in the following format: m/d/y, h/m/s;
-* Current price - a market price obtained from a broker;
-* Open price - a price which a position was opened with;
-* Fee - a total commission amount taken for a position;
-* Gross P/L - profit/loss in account's currency, calculated on base of a price difference:
+* Account – a name of a user's account, who opened a position;
+* Login – a login of a user, who opened a position;
+* Symbol – a symbol's name with which a position is opened;
+* Symbol description – relevant information about a symbol;
+* Symbol type – a symbol's type;
+* Position ID – an ID of an opened position;
+* Date/Time – time and date of a position's opening in the following format: m/d/y, h/m/s;
+* Current price – a market price obtained from a broker;
+* Open price – a price which a position was opened with;
+* Fee – a total commission amount taken for a position;
+* Gross P/L – profit/loss in account's currency, calculated on base of a price difference:
 
 For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\);
 
