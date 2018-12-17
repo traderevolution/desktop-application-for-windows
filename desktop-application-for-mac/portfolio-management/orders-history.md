@@ -8,9 +8,7 @@ To open Order history panel, select ‘Terminal -&gt; Order history’:
 
 ### Columns
 
-There is a table under the panel's toolbar.
-
-Right-clicking on the 'Orders history' table's header calls the context menu with column names. Checking or unchecking these columns allows to show or hide them in the table.
+There is a table under the panel's toolbar. Right-clicking on the 'Orders history' table's header calls the context menu with column names. Checking or unchecking these columns allows to show or hide them in the table.
 
 The following columns are available in the panel:
 
