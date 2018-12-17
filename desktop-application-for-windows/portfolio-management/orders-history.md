@@ -8,7 +8,7 @@ To open Order history panel, select Terminal -&gt; Order history:
 
 The following columns are available in the panel:
 
-* Account – a login name of an account that opened an order;
+* Account – an account's name of a user who created an order;
 * Symbol – a symbol for which an order was created;
 * Side – a trade type \(Buy or Sell\);
 * Event – an event identifier. The following values are available: Executed, Created, Modified, Rejected;
