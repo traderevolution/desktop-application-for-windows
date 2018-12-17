@@ -14,33 +14,20 @@ Right-clicking on the 'Orders history' table's header calls the context menu wit
 
 The following columns are available in the panel:
 
-·         Account – an account's name of a user who created an order;
-
-·         Symbol – a symbol for which an order was created;
-
-·         Side – a trade type \(Buy or Sell\);
-
-·         Event – an event identifier. The following values are available: Executed, Created, Modified, Rejected;
-
-·         Type – an order type;
-
-·         Price – an order price which a trade took place at;
-
-·         Quantity – a filled amount of an order, in lots or in currency units, depending on what is selected in the Preferences dialog box;
-
-·         Order ID – an order's unique identifier. If a position is opened based on an order, this position will have the same number;
-
-·         Date/Time – an order's placement date and time;
-
-·         TIF – an order's time in force;
-
-·         Stop price – stop price for a special stop order;
-
-·         Login – a user's login;
-
-·         Symbol type – a symbol's market category \(CFD, Spot, Stocks, etc.\);
-
-·         Bought
+* Account – an account's name of a user who created an order;
+* Symbol – a symbol for which an order was created;
+* Side – a trade type \(Buy or Sell\);
+* Event – an event identifier. The following values are available: Executed, Created, Modified, Rejected;
+* Type – an order type;
+* Price – an order price which a trade took place at;
+* Quantity – a filled amount of an order, in lots or in currency units, depending on what is selected in the Preferences dialog box;
+* Order ID – an order's unique identifier. If a position is opened based on an order, this position will have the same number;
+* Date/Time – an order's placement date and time;
+* TIF – an order's time in force;
+* Stop price – stop price for a special stop order;
+* Login – a user's login;
+* Symbol type – a symbol's market category \(CFD, Spot, Stocks, etc.\);
+* Bought
 
 - In case of Forex:
 
@@ -68,7 +55,7 @@ if 'Side = Buy', then this column shows the value of 'Qty. \* Lot size' – amou
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-·         Sold
+* Sold
 
 - In case of Forex:
 
@@ -96,9 +83,8 @@ if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.'
 
 if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amount of sold assets \(contracts, equities\).
 
-·         Strike price – price of an option contract performance;
-
-·         Expiration date – a contract expiration date.
+* Strike price – price of an option contract performance;
+* Expiration date – a contract expiration date.
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Orders history Preferences' window.
 
