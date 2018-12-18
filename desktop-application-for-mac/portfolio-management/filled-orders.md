@@ -2,7 +2,7 @@
 
 Filled orders panel displays trading history for a specified period. To open the Filled orders panel select ‘Terminal -&gt; Filled orders’.
 
-![](../../.gitbook/assets/filled-orders.png)
+![](../../.gitbook/assets/screen-shot-2018-12-18-at-12.19.png)
 
 ### **Time filter**
 
