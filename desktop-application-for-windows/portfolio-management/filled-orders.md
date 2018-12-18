@@ -12,11 +12,11 @@ The following columns are available in the panel:
 
 * Trade ID – unique number of the trade.
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
-* Symbol – title of the traded instrument.
+* Symbol – name of the traded instrument.
 * Exposure – quantity recalculated in account currency.
 * Order type – type of order.
 * Symbol type – market category of the symbol \(CFD, spot, stocks, etc.\).
-* Account – login name of the account that opened the order.
+* Account – an account's name of a user who created an order.
 * Side – type of trade \(BUY or SELL\).
 * Quantity – amount of the trade.
 * Price – shows price at which the order fills.

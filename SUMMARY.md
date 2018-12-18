@@ -153,6 +153,7 @@
     * [Orders history](desktop-application-for-mac/portfolio-management/orders-history.md)
     * [Filled orders](desktop-application-for-mac/portfolio-management/filled-orders.md)
     * [Positions](desktop-application-for-mac/portfolio-management/positions.md)
+    * [Assets](desktop-application-for-mac/portfolio-management/assets.md)
   * [Informative panels](desktop-application-for-mac/informative-panels/README.md)
     * [Event log](desktop-application-for-mac/informative-panels/event-log.md)
 

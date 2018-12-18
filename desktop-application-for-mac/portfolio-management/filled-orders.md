@@ -9,7 +9,7 @@ Filled orders panel displays trading history for a specified period. To open the
 At the top left corner of the toolbar of the panel there is a combo box ‘Time filter’. It allows to select time period for which a user wants to see filled orders. The following periods are available:
 
 * Daily;
-* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/button%20%283%29.png)appears allowing to change a time range for viewing filled orders.
+* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/1%20%284%29.png)appears allowing to change a time range for viewing filled orders.
 
 ### **Columns**
 
@@ -18,20 +18,20 @@ There is a table under the panel’s toolbar. The table header's context menu al
 The following columns are available in the panel:
 
 * Trade ID – unique number of the trade.
-* Order ID - unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
-* Symbol - title of the traded instrument.
+* Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
+* Symbol – name of the traded instrument.
 * Exposure – quantity recalculated in account currency.
-* Type - type of order.
-* Symbol type - market category of the symbol \(CFD, spot, stocks, etc.\).
-* Account - login name of the account that opened the order.
-* Side - type of trade \(BUY or SELL\).
-* Quantity - amount of the trade.
-* Price - shows price at which the order fills.
-* Execution fee - commission connected with the trade.
-* Gross P/L - total profit/loss of the trade.
-* Net P/L - profit/losses for the symbol including commision.
+* Type – type of order.
+* Symbol type – market category of the symbol \(CFD, spot, stocks, etc.\).
+* Account – an account's name of a user who created an order.
+* Side – type of trade \(BUY or SELL\).
+* Quantity – amount of the trade.
+* Price – shows price at which the order fills.
+* Execution fee – commission connected with the trade.
+* Gross P/L – total profit/loss of the trade.
+* Net P/L – profit/losses for the symbol including commision.
 * Date/Time – date and time when the operation was executed.
-* Login - login of the user.
+* Login – login of the user.
 * Bought
 
 - In case of Forex:
@@ -98,15 +98,15 @@ The same context menu allows to filter data in a table, reset the panel's view t
 
 The context menu of 'Filled orders' includes the following options:
 
-* Search - allows to show/hide a Search lookup in the panel;
-* Show totals - allows to show/hide the row showing the total values for columns;
-* Group by - allows to select a column to group the panel's view by:
+* Search – allows to show/hide a Search lookup in the panel;
+* Show totals – allows to show/hide the row showing the total values for columns;
+* Group by – allows to select a column to group the panel's view by:
   * Account;
   * Date/Time;
   * Side;
   * Symbol:
   * Symbol type;
   * Type.
-* Duplicate panel - allows to make a copy of a current panel;
-* Preferences - opens the 'Filled orders Preferences' menu.
+* Duplicate panel – allows to make a copy of a current panel;
+* Preferences – opens the 'Filled orders Preferences' menu.
 
