@@ -18,9 +18,7 @@ The following columns are available in the panel:
 * Today traded qty – the quantity of the asset which was traded by all instruments for which this asset was pre-selected, but only for Product type=Delivery. The quantity of all Buy trades is counted with ‘+’, the quantity of all Sell trades is counted with ‘-‘.
 * Current qty – current quantity of the asset on the account.
 * Current price – current Last price on the instrument Default symbol.
-* Current value – current asset value available for selling.
-
-Current value = Current qty. \* Current price \* CrossPrice.
+* Current value – current asset value available for selling. Current value = Current qty. \* Current price \* CrossPrice.
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Assets Preferences' window.
 
