@@ -6,7 +6,7 @@ Assets panel contains information about all assets by the chosen account\(-s\). 
 
 ### **Columns**
 
-A user can choose the columns, which have to be displayed by right-click on one of the column names.
+A user can choose the columns, which will be displayed by right-click on one of the column names.
 
 There are the following columns in the table:
 
