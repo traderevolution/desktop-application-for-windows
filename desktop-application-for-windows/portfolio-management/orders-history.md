@@ -1,8 +1,8 @@
 # Orders history
 
-Order history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, removal, and execution of orders.
+Orders history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
 
-To open Order history panel, select Terminal -&gt; Order history:
+To open Orders history panel, select Terminal -&gt; Orders history:
 
 ![](../../.gitbook/assets/assets-2f-lmcqxhh2xadwpujcvxr-2f-lmqlw0asr9rz7ajckmt-2f-lmqmwnlr1cxwmiidxc4-2f1.png)
 

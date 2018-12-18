@@ -11,21 +11,21 @@ Click on![](../../.gitbook/assets/3%20%2813%29.png)and choose the time filters.
 The following columns are available in the panel:
 
 * Trade ID – unique number of the trade.
-* Order ID - unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
-* Symbol - title of the traded instrument.
+* Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
+* Symbol – title of the traded instrument.
 * Exposure – quantity recalculated in account currency.
-* Order type - type of order.
-* Symbol type - market category of the symbol \(CFD, spot, stocks, etc.\).
-* Account - login name of the account that opened the order.
-* Side - type of trade \(BUY or SELL\).
-* Quantity - amount of the trade.
-* Price - shows price at which the order fills.
-* Execution fee - commission connected with the trade.
-* Gross P/L - total profit/loss of the trade.
-* Net P/L - profit/losses for the symbol including commision.
+* Order type – type of order.
+* Symbol type – market category of the symbol \(CFD, spot, stocks, etc.\).
+* Account – login name of the account that opened the order.
+* Side – type of trade \(BUY or SELL\).
+* Quantity – amount of the trade.
+* Price – shows price at which the order fills.
+* Execution fee – commission connected with the trade.
+* Gross P/L – total profit/loss of the trade.
+* Net P/L – profit/losses for the symbol including commision.
 * Time – time when the operation was executed.
-* Date - date when the operation was executed.
-* Login - login of the user.
+* Date – date when the operation was executed.
+* Login – login of the user.
 * Bought
 
 - In case of Forex:

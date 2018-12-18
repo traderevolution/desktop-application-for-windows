@@ -1,8 +1,8 @@
 # Orders history
 
-Order history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, removal, and execution of orders.
+Orders history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
 
-To open Order history panel, select ‘Terminal -&gt; Order history’:
+To open Orders history panel, select ‘Terminal -&gt; Orders history’:
 
 ![](../../.gitbook/assets/orders-history-small.png)
 
@@ -86,7 +86,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Orders history Preferences' window.
 
-**Context menu**
+### **Context menu**
 
 The context menu of 'Orders history' can be evoked by right-clicking anywhere under the 'Orders history' table's header and includes the following options:
 
@@ -103,5 +103,5 @@ The context menu of 'Orders history' can be evoked by right-clicking anywhere un
   * Symbol type;
   * Type.
 * Duplicate panel – allows to make a copy of a current panel;
-* Preferences – opens the window 'Orders history Preferences'.
+* Preferences – opens the 'Orders history Preferences' window.
 
