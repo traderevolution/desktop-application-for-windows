@@ -8,7 +8,7 @@ Assets panel contains information about all assets by the chosen account\(-s\). 
 
 A user can choose the columns, which will be displayed by right-click on one of the column names.
 
-There are the following columns in the table:
+The following columns are available in the panel:
 
 * Asset name – name of the asset, which is set on a server.
 * Default symbol – allows showing the instrument name from the setting ‘Pricing instrument’.
