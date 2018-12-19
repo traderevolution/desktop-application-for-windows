@@ -146,6 +146,7 @@
     * [Time & Sales](desktop-application-for-mac/analysis-tools/time-and-sales.md)
   * [Trading panels](desktop-application-for-mac/trading-panels/README.md)
     * [Order entry](desktop-application-for-mac/trading-panels/order-entry.md)
+    * [Matrix](desktop-application-for-mac/trading-panels/matrix.md)
     * [Market depth](desktop-application-for-mac/trading-panels/market-depth.md)
     * [Visual trading](desktop-application-for-mac/trading-panels/visual-trading.md)
   * [Portfolio management](desktop-application-for-mac/portfolio-management/README.md)
