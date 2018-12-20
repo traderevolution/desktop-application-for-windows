@@ -36,7 +36,7 @@ Day high/low – allows showing current high/low levels.
 
 * Settings – allows opening a settings tab.
 
-The bottom position bar shows the current state of the position: open price, opened position quantity, current profit and loss.
+The bottom position bar shows the current state of the position: open price, open position quantity, current profit and loss.
 
 ![](../../.gitbook/assets/p-bar.png)
 
