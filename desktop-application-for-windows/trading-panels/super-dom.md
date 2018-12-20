@@ -59,7 +59,7 @@ The color of QTY cell depends on the side of the position:
 
 1. If all positions have Side = Long, qty. cell will be colored in blue;
 2. If all positions have Side = Short, qty. cell will be colored in red;
-3. If positions are multidirectional, then qty. cell is not colored;
+3. If positions are multi-directional, then qty. cell is not colored;
 4. If there are no positions, qty. cell will not be colored and qty. value = N/A.
 
 * When trading multi-position symbols, open price of all the positions is calculated as weighted average value;
