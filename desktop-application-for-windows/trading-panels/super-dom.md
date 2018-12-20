@@ -25,8 +25,8 @@ Day high/low – allows showing current high/low levels.
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Autocenter – allows auto centering the panel relatively to spread;
 * Day high/low – allows showing current high/low levels;
-* Settlement price – allows displaying settlement price on the chart.
-* Previous settlement price – allows displaying previous settlement price on the chart.
+* Settlement price – allows displaying settlement price.
+* Previous settlement price – allows displaying previous settlement price.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms appear from the different boundaries of the column ‘Size’. If false, the histograms appear from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
 
