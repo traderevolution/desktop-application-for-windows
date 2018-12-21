@@ -46,7 +46,7 @@ Right-click on the table's column name in order to open the menu of available co
 
 ### **Buttons toolbar**
 
-The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel.
+The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel. To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu.
 
 ![](../../.gitbook/assets/context-menu%20%281%29.png)
 
@@ -62,7 +62,7 @@ The most important functions related to Working orders can be viewed as buttons 
 * Modify order – allows modification of the selected order.
 * Change to Market – changes order type to market for selected orders.
 
-To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu.
+Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
 
 ### **Context menu**
 
