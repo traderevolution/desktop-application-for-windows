@@ -106,8 +106,8 @@ Base settings:
 * Autocenter type – allows choosing autocenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Show day high/low – allows showing high/low levels for one day;
-* Settlement price – allows displaying settlement price on the chart and choosing the style of its line.
-* Previous settlement price – allows displaying previous settlement price on the chart and choosing the style of its line.
+* Settlement price – allows displaying settlement price;
+* Previous settlement price – allows displaying previous settlement price;
 * Cancellation priority – allows setting the priority for canceling orders in group \(FIFO, LIFO, Max volume\);
 * Replacing priority – allows setting replacing priority \(FIFO, LIFO, Max volume\);
 * Show toolbar – allows showing the toolbar.
