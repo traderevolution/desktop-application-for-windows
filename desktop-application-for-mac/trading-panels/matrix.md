@@ -147,7 +147,7 @@ Hover – color and style of the line for sliding the cursor through each price 
 
 Long/Short/Multiple position – coloring settings for the corresponding positions;
 
-Profit/Loss coloring settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
+Profit/Loss coloring settings – colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
 
 _Size bars colors:_
 
