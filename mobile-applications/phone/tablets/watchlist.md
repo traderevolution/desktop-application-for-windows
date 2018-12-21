@@ -23,13 +23,13 @@ Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%283%29.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/2%20%2813%29.png)
+![](../../../.gitbook/assets/2%20%2814%29.png)
 
 ### **Watchlist Filter**
 
  In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter%20%282%29.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
-![](../../../.gitbook/assets/3%20%2821%29.png)
+![](../../../.gitbook/assets/3%20%2822%29.png)
 
 ### **Symbol menu**
 

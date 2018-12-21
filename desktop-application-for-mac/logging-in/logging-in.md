@@ -26,11 +26,11 @@ To recover the password:
 
 2. After login to the application for Mac: To open the ‘Change password’ / ’Change trading password’ window, select it in the Account menu![](../../.gitbook/assets/account%20%282%29.png):
 
-![](../../.gitbook/assets/3%20%2834%29.png)
+![](../../.gitbook/assets/3%20%2836%29.png)
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../.gitbook/assets/4%20%2828%29.png)
+![](../../.gitbook/assets/4%20%2829%29.png)
 
 To change the password:
 

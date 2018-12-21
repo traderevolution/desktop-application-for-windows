@@ -20,20 +20,20 @@ Info bar can be enabled or hidden via the tab General in General settings.
 
 It looks as the following:
 
-![](../../.gitbook/assets/1%20%2820%29.png)
+![](../../.gitbook/assets/1%20%2821%29.png)
 
-You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../.gitbook/assets/2%20%2816%29.png).
+You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../.gitbook/assets/2%20%2817%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
-![](../../.gitbook/assets/3%20%282%29.png)
+![](../../.gitbook/assets/3%20%283%29.png)
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../.gitbook/assets/4%20%2829%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../.gitbook/assets/4%20%2830%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 

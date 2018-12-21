@@ -2,19 +2,19 @@
 
 The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%2823%29.png)
+![](../../../.gitbook/assets/1%20%2824%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%286%29.png)
+![](../../../.gitbook/assets/2%20%287%29.png)
 
 ### **Chart toolbar** 
 
 Tap the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/4%20%2827%29.png)
+![](../../../.gitbook/assets/4%20%2828%29.png)
 
 The Chart toolbar consists of 3 buttons:
 

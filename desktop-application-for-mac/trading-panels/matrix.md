@@ -79,5 +79,81 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 ![](../../.gitbook/assets/orders.png)
 
+### **Matrix Preferences**
 
+‘Matrix Preferences’ dialog box consists of 3 tabs: View, Columns, Colors. 
+
+**View**
+
+![](../../.gitbook/assets/1%20%2816%29.png)
+
+* Font – allows to choose the style of the font;
+* Show position bar – allows showing position bar;
+* Show toolbar – allows showing the toolbar;
+* Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
+* Full-size bars – allows extending the bars;
+* Auto-centring – activates auto-centring function;
+* Compress spread – allows skipping empty levels between the best Bid and best Ask;
+* Show day high/low – allows showing high/low levels for one day;
+* Show last price indicator – allows showing last price indicator;
+* Settlement price – allows displaying settlement price**;**
+* Previous settlement price – allows displaying previous settlement price.
+
+![](../../.gitbook/assets/2%20%283%29.png)
+
+Check/uncheck the needed hot buttons in order to display them in the Quick OE section of the Matrix panel:
+
+* Show close orders \(SL/TP\);
+* Buy/Sell Market;
+* Buy Ask/Sell Bid;
+* Buy Bid/Sell Ask;
+* Close;
+* Reverse;
+* Cancel buy;
+* Cancel sell;
+* Cancel all.
+
+ **** **Columns**
+
+![](../../.gitbook/assets/3%20%2827%29.png)
+
+‘Columns’ tab allows to select colors of the columns located in the panel: Buy, Price, Size, Sell.
+
+**Colors**
+
+![](../../.gitbook/assets/4%20%2826%29.png)
+
+_Table colors:_
+
+Table – color of the table background.
+
+Grid – color of the grid in the Market depth section;
+
+_Level1 colors:_
+
+Color settings for Best Ask/Best Bid rows and Last trade indicator.
+
+_Day high/low:_
+
+Coloring setting for Day high and Day low price cells.
+
+_Mouse trading:_ 
+
+Hover – color and line types settings when sliding the cursor through each price level.
+
+![](../../.gitbook/assets/5%20%2822%29.png)
+
+_Position bar:_
+
+Long/Short/Multiple position – coloring settings for the corresponding positions;
+
+Profit/Loss coloring settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
+
+_Size bars colors:_
+
+Size coloring scheme – allows selecting the coloring scheme of volume indicators. The following options are available: Relative to size, Step to max size.
+
+Max size, lots – allows choosing the maximal size in lots. The field is active when ‘Size coloring scheme’ is ‘Relative to max size’.
+
+Asks/Bids size bars – coloring settings for filling the volumes by Ask and Bid.
 

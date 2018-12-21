@@ -89,7 +89,7 @@ STD = SQRT\(1/\(n-1\) \* SUM\(xi-avr\_x\)^2\)
 
   Ŷ = a + b\*x
 
-![](../../../.gitbook/assets/3%20%288%29.png)
+![](../../../.gitbook/assets/3%20%289%29.png)
 
 2\) Calculate the standard deviation \(SD\):
 
@@ -147,7 +147,7 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
 Cumulative P/L chart allows users to view changes of their balances and P/L graphically. Cumulative P/L chart in the **Operations** mode displays how a user’s balance was changed depending on the trade operations performed within the selected period. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the button ![](../../../.gitbook/assets/5%20%284%29.png).
 
-![](../../../.gitbook/assets/3%20%2816%29.png)
+![](../../../.gitbook/assets/3%20%2817%29.png)
 
 Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../.gitbook/assets/7%20%2817%29.png)to select the corresponding modes.
 
@@ -163,7 +163,7 @@ Aggregation interval – allows aggregating P/L chart by the needed periods: by 
 
 ### **Trades Population Chart**
 
-![](../../../.gitbook/assets/5%20%2824%29.png)
+![](../../../.gitbook/assets/5%20%2825%29.png)
 
 **Trades population** consists of two charts:
 
