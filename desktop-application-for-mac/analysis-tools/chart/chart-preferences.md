@@ -1,8 +1,8 @@
 # Chart Preferences
 
-A user can open ‘Chart Preferences’ menu through the context menu of the Chart.
+A user can open ‘Chart Preferences’ window through the context menu of the Chart.
 
-The ‘Chart Preferences’ menu contains the following sections, stored into the tabs: 
+The ‘Chart Preferences’ window contains the following sections, stored into the tabs: 
 
 ### **Style**
 
@@ -58,9 +58,9 @@ Zoom:
 
 Highlighted prices:
 
-* Show settlement price – allows to show the value of the current settlement price;
-* Settlement price style – allows to choose the style of the 'Settlement price' style;
-* Show previous settlement price – allows to show the value of the previous day settlement price;
+* Show settlement price – allows to show the current settlement price on the chart;
+* Settlement price style – allows to choose the style of the 'Settlement price' line;
+* Show previous settlement price – allows to show the previous day settlement price on the chart;
 * Previous settlement price style – allows to choose the style of the 'Previous settlement price' line.
 
 Time separators:
@@ -93,7 +93,7 @@ The following adjustments are available in this section:
 
 ![](../../../.gitbook/assets/5%20%2819%29.png)
 
-This tab includes the sub-sections allowing particular adjustments of the chart's Order entry.
+This tab includes the sub-sections allowing particular adjustments of the chart's Order entry:
 
 General:
 
@@ -108,13 +108,15 @@ Quick trading – allows to hide/show the following chart order entry elements:
 
 Hot buttons:
 
-If checked, the following hot buttons will be shown in built-in Order entry:
+If checked, the following hot buttons will be shown in the built-in Order entry:
 
 * Close;
 * Reverse;
 * Cancel buy;
 * Cancel sell;
 * Cancel all.
+
+Note: clicking on the hot buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
 
 ### **Info window**
 
@@ -142,10 +144,10 @@ Fields – this section allows to select fields for displaying information in th
 
 ### **Managing adjustments**
 
-The 'Chart Preferences' menu contains the following buttons to manage adjustments:
+The 'Chart Preferences' window contains the following buttons to manage adjustments:
 
-* ![](../../../.gitbook/assets/set-as-default%20%282%29.png)–   allows to set all current 'Chart Preferences' menu adjustments as default ones;
-* ![](../../../.gitbook/assets/reset%20%283%29.png)–   allows to reset all the 'Chart Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../../.gitbook/assets/set-as-default%20%282%29.png)–   allows to set all current 'Chart Preferences' adjustments as default ones;
+* ![](../../../.gitbook/assets/reset%20%283%29.png)–   allows to reset all the 'Chart Preferences' adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
    ****
 
