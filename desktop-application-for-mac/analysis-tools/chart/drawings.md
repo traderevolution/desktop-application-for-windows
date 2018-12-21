@@ -8,9 +8,9 @@ A set of graphical tools is available to assist in price movements analysis. All
 
 Trend tools:
 
-* Horizontal line – places a horizontal line on the chart that can be extended to the left in order to monitor starting points of levels plotting on the chart history \(option "Left ray" in the settings\);
+* Horizontal line – places a horizontal line on the chart that can be extended to the left in order to monitor starting points of levels plotting on the chart history \(option "Left ray" in the 'Preferences'\);
 * Vertical line – places a vertical line on the chart;
-* Line – places a line on the chart that may be extended beyond both sides with an option to show the angle of the trend \(set in the settings\);
+* Line – places a line on the chart that may be extended beyond both sides with an option to show the angle of the trend \(set in the 'Preferences'\);
 * Price channel – places levels on a trend line;
 * Andrew's pitchfork – places Andrew's channel Polygon;
 
