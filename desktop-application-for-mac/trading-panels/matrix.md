@@ -1,6 +1,6 @@
 # Matrix
 
-The Matrix panel allows to view open positions, pending orders, market prices, quantity and P/L. Furthermore, a trader can place an order just in 1 click. 
+The Matrix panel allows to view open positions, pending orders, market prices, quantity and P/L. Furthermore, a trader can place an order just in 1 click using this panel. 
 
 To open the Matrix panel, go to Terminal -&gt; Matrix:
 
