@@ -1,6 +1,6 @@
 # Chart Preferences
 
-A user can open ‘Chart Preferences’ window through the context menu of the Chart.
+A user can open the ‘Chart Preferences’ window through the context menu of the Chart.
 
 The ‘Chart Preferences’ window contains the following sections, stored into the tabs: 
 
