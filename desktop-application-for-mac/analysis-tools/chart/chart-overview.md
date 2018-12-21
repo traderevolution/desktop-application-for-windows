@@ -1,6 +1,6 @@
 # Chart overview
 
-Chart panel allows to view quotes history and analyze market patterns.
+The Chart panel allows to view quotes history and analyze market patterns.
 
 To open the Chart panel, select 'Terminal -&gt; Chart'.
 
