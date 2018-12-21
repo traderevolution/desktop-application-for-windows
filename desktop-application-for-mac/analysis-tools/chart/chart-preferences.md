@@ -56,7 +56,14 @@ Zoom:
 * Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
 * Fit settlement prices – if checked, the settlement prices will be fit into chart scaling.
 
-Time separators:
+Highlighted prices:
+
+* Show settlement price – allows to show the value of current settlement price;
+* Settlement price style – allows to choose the style of the 'Settlement price' style;
+* Show previous settlement price – allows to show the value of the previous day settlement price;
+* Previous settlement price style – allows to choose the style of the 'Previous settlement price' line.
+
+Time separators:
 
 * Show day – if checked, the day-by-day separators are displayed on the chart;
 * Day style – allows to adjust color, shape and thickness of the day-by-day separating lines;
