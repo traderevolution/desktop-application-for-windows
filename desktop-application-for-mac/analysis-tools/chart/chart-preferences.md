@@ -42,7 +42,7 @@ Time to next bar:
 
 ![](../../../.gitbook/assets/3%20%2829%29.png)
 
-This tab includes the sub-sections allowing particular adjustments of the chart.
+This tab includes the sub-sections allowing particular adjustments of the chart:
 
 Grid:
 
