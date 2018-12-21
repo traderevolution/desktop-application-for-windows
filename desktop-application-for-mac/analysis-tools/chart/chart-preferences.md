@@ -10,7 +10,7 @@ The ‘Chart Preferences’ menu contains the following sections, stored into th
 
 This section allows to adjust the following:
 
-* Style – allows to select a displaying style of symbol price movements. The following styles are available: Line, Bar, Candle, Dots, Dotted line, Histogram, Area;
+* Style – allows to select a style of symbol price movements. The following styles are available: Line, Bar, Candle, Dots, Dotted line, Histogram, Area;
 * Data type – allows to select a data acceptance type. The following types are available: Default by symbol, Bid, Last, Ask. The 'Default by symbol' depends upon server preferences;
 * Color schemes for all data types: Body, Border, Wick, Doji. 
 
@@ -75,11 +75,11 @@ Zoom:
 The following adjustments are available in this section:
 
 * Opened positions – if checked, opened positions will be displayed on the chart;
-* Long – allows to adjust displaying style of long positions on the chart;
-* Short – allows to adjust displaying style of short positions on the chart;
+* Long – allows to adjust the style of long positions on the chart;
+* Short – allows to adjust the style of short positions on the chart;
 * Working orders – if checked, working orders will be displayed on the chart;
-* Buy – allows to adjust displaying style of working orders with 'Side=Buy' on the chart;
-* Sell – allows to adjust displaying style of working orders with 'Side=Sell' on the chart;
+* Buy – allows to adjust the style of working orders with 'Side=Buy' on the chart;
+* Sell – allows to adjust the style of working orders with 'Side=Sell' on the chart;
 * Bound positions/orders by left side – allows displaying active positions/orders on the left side of the Chart area. 
 
 ### **Order entry**
