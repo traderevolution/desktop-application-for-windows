@@ -80,7 +80,7 @@ The most important functions related to Positions can be viewed as buttons in th
 
 To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu. The following hot buttons are checked by default: Close all, CLX all, Close negative, Close positive, Close selected and Reverse selected.
 
-Note: these buttons don’t have any confirmation on click, even if confirmations are enabled in the General settings.
+Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 
 ### **Context menu**
 

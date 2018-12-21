@@ -2,7 +2,7 @@
 
 Chart panel allows to view quotes history and analyze market patterns.
 
-Open the ‘Terminal’ menu and click on the ‘Chart’ item.
+To open the Chart panel, select 'Terminal -&gt; Chart'.
 
 ![](../../../.gitbook/assets/test-chart.png)
 
