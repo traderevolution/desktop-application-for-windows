@@ -20,7 +20,7 @@ Day high/low – allows showing current high/low levels.
 
 Right-clicking within the Market depth section evokes the Context menu of the panel.
 
-![](../../.gitbook/assets/menu%20%281%29.png)
+![](../../.gitbook/assets/menu-2.png)
 
 * View – allows to show/hide Position bar and built-in Order entry;
 * Set hotkeys – allows to open the ‘General’ tab in the ‘Hotkeys Preferences’ window;  
