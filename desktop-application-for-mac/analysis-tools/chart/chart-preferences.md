@@ -58,7 +58,7 @@ Zoom:
 
 Highlighted prices:
 
-* Show settlement price – allows to show the value of current settlement price;
+* Show settlement price – allows to show the value of the current settlement price;
 * Settlement price style – allows to choose the style of the 'Settlement price' style;
 * Show previous settlement price – allows to show the value of the previous day settlement price;
 * Previous settlement price style – allows to choose the style of the 'Previous settlement price' line.
