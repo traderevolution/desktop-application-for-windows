@@ -25,7 +25,7 @@ To show/hide elements on Chart, right click anywhere within the chart, select Vi
 
 ### Navigation
 
-Users can zoom in and out on charts, scroll horizontally and vertically, change the bar width, and manually refresh the chart.
+Users can zoom in and out on charts, scroll it horizontally and vertically, change the bar width, and manually refresh the chart.
 
 #### **Time zooming**
 
