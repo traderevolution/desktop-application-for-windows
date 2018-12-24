@@ -29,7 +29,7 @@ To show/hide elements on Chart, right click anywhere within the chart, select Vi
 
 #### **Time zooming**
 
-To zoom in and out in the Chart panel users can use the scroll button on their mouse or simply drag the chart border on the Timeline panel using the scroll:
+To zoom in and out on the Chart panel users can use the scroll button on their mouse or simply drag the chart border on the Timeline panel using the scroll:
 
 ![](../../../.gitbook/assets/2%20%2816%29.png)
 
