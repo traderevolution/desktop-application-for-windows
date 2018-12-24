@@ -50,6 +50,22 @@ To disable trading from the chart with a mouse, click on the 'Mouse trading' but
 * Scroll – a tool for chart history scrolling;
 * Zoom control buttons – allow to zoom out \(-\) and zoom in \(+\) on the chart and to activate manual scaling of the chart by an allocated area.
 
+#### **Price scale zooming**
+
+User can zoom in or out on the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
+
+#### **Scrolling the chart**
+
+To scroll the chart horizontally, just drag the scroll in the Timeline section, or click inside the chart and drag it left or right.
+
+Right-clicking on the Timeline evokes the additional option:
+
+Show separators – this option displays the vertical lines on the chart to separate different days, weeks, months and years.
+
+#### **Refreshing the chart**
+
+Charts refresh automatically. If, however, a user needs to refresh the chart manually, right-click inside of the Chart and select ‘Refresh’. This action will reload the chart data and redraw the chart.
+
 ### **Right information button**
 
 Working with right mouse button, user can get the following information:
