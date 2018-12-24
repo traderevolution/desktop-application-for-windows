@@ -79,7 +79,7 @@ In order to get this information, click right mouse button, hold it and lead the
 
 Right clicking on the timeline shows the panel with additional options:
 
-* Show time periods separators - this option displays the vertical lines on the chart among different days, weeks, months and years.
+* Show time periods separators - this option displays the vertical lines on the chart to separate different days, weeks, months and years.
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 * Show extended sessions - this option displays all quotes received on pre-session, main session and post-session. The timeframes for sessions should be set in the Backoffice for each symbol.
 
