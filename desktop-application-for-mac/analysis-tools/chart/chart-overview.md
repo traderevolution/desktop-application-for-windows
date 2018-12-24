@@ -49,7 +49,7 @@ Chart trading – allows to activate the chart’s Order entry panel.
 ![](../../../.gitbook/assets/oe-small.png)
 
 * Scroll – a tool for chart history scrolling;
-* Zoom control buttons – allow to zoom out of \(-\), in to \(+\) the chart and to activate manual scaling of the chart by an allocated area.
+* Zoom control buttons – allow to zoom out \(-\) and zoom in \(+\) on the chart and to activate manual scaling of the chart by an allocated area.
 
 ### **Right information button**
 
