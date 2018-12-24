@@ -35,11 +35,11 @@ To zoom in and out on the Chart panel users can use the scroll button on their m
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar.
 
-The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
+The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings   -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
 
 #### **Price scale zooming**
 
-User can zoom in or out of the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
+User can zoom in or out on the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
 
 #### **Scrolling the chart**
 
