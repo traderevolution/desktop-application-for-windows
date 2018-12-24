@@ -11,7 +11,7 @@ To open the Chart panel, select 'Terminal -&gt; Chart'.
 * Symbol lookup – a field for selection of a symbol to be displayed on the chart;
 * Account lookup – a field for selection of an account for visual trading;
 * Aggregation – a menu for selection of a desired aggregation type. Available aggregation types: Tick, Time, Renko;
-*  Chart style – allows to select a displaying style of symbol price movements. The following styles are available:
+*  Chart style – allows to select a style of symbol price movements. The following styles are available:
 
   * Line;
   * Bar;
