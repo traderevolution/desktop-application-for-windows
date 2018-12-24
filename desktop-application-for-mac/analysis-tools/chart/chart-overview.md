@@ -24,7 +24,6 @@ To open the Chart panel, select 'Terminal -&gt; Chart'.
 * Drawings – allow activating drawing toolbar on the chart;
 * Indicators – allow to open Indicators lookup window;
 * Mouse trading – allows to activate trading from the chart with a mouse;
-* Visual trading – opens built-in Order entry panel, which enables visual trading.
 
 Clicking on the 'Mouse trading' button turns it blue![](../../../.gitbook/assets/mouse-small.png)and changes the cursor's view to the following:![](../../../.gitbook/assets/mouse-trading-small.png). Pressing and holding the key 'Command' leads to the same result. 
 
@@ -44,7 +43,7 @@ During the Mouse trading, order marker is visible on the chart. If order is buy,
 
 To disable trading from the chart with a mouse, click on the 'Mouse trading' button again, or just stop holding the 'Command' key.
 
-Chart trading – allows to activate the chart’s Order entry panel.
+* Visual trading – opens built-in Order entry panel, which enables visual trading.
 
 ![](../../../.gitbook/assets/oe-small.png)
 
