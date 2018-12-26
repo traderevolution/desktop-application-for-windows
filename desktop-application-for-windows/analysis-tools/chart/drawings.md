@@ -59,16 +59,16 @@ Properties:
 
 * Selection – selects more than one drawing on the chart;
 * Snap to candle – if checked, while price movement, drawing tools automatically sticks to the contour of the candle, centerline of the candle and its wicks;
-* Stay in drawing mode – if this button is disabled, after drawing some tool, the cursor will be reset to the Arrow view, if enabled – will continue to stay in drawing mode of a selected tool.
+* Stay in drawing mode – if this button is disabled, after making a drawing, the cursor will be reset to the arrow view, if enabled – will continue to stay in drawing mode of a selected tool.
 
 Remove all – removes all drawings from the chart.
 
 In order to place a tool:
 
 * Open Context menu and select Drawing tools -&gt; \[desired tool\] or click on an appropriate icon in the Drawing toolbar;
-* If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), you can choose these points using "Snap to candle" option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
+* If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), you can choose these points using 'Snap to candle' option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
 
-Note: freehand is the default setting when selecting a tool from the Drawing toolbar and "Snap to candle" is disabled.
+Note: freehand is the default setting when selecting a tool from the Drawing toolbar and 'Snap to candle' is disabled.
 
 #### Context menu
 
@@ -76,11 +76,11 @@ Each drawing tool has its Context menu. Right click on the initial point of the 
 
 ![](../../../.gitbook/assets/20.png)
 
-* Settings – used for specifying tool’s appearance and settings;
+* Settings – allows to specify tool’s appearance and settings;
 * Remove selected – deletes selected tool;
 * Lock location – locks selected drawing.
 
-Drawing's Settings menu contains different sections depending on drawings' types. In general, the following sections are available in the Settings menu: Appearance, Points, Visibility.
+Drawing's Settings menu contains different sections depending on drawing's type. In general, the following sections are available in the Settings menu: Appearance, Points, Visibility.
 
 However, different sections' combinations are available for different drawings.
 

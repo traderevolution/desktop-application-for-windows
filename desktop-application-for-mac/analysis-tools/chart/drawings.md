@@ -37,7 +37,7 @@ Gann tools:
 Properties:
 
 * Snap to candle – if checked, while price movement, drawing tools automatically sticks to the contour of the candle, centerline of the candle and its wicks;
-* Stay in drawing mode – if this button is disabled, after drawing some tool, the cursor will be reset to the Arrow view, if enabled – will continue to stay in drawing mode of a selected tool.
+* Stay in drawing mode – if this button is disabled, after making a drawing, the cursor will be reset to the arrow view, if enabled – will continue to stay in drawing mode of a selected tool.
 
 In order to place a tool:
 
@@ -50,10 +50,10 @@ In order to place a tool:
 
 Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu![](../../../.gitbook/assets/context-menu-small%20%281%29.png). 
 
-* Preferences – used for specifying tool’s appearance and preferences;
+* Preferences – allows to specify tool’s appearance and preferences;
 * Remove – deletes selected tool.
 
-Drawing's 'Preferences' window contains different sections depending on drawings' types. In general, the following sections are available in the 'Preferences' menu: 
+Drawing's 'Preferences' window contains different sections depending on drawing's type. In general, the following sections are available in the 'Preferences' menu: 
 
 * Appearance – allows to set up view parameters of a drawing;
 
