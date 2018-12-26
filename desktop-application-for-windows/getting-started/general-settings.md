@@ -4,7 +4,7 @@ The General settings menu is used to view and change general properties of the t
 
 ### **General**
 
-![](../../.gitbook/assets/1%20%2825%29.png)
+![](../../.gitbook/assets/1%20%2826%29.png)
 
 * Language - specifies a default language of a user interface. To set up language, select it from the list;
 * Info bar - allows displaying Info bar;
