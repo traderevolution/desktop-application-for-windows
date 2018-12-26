@@ -8,7 +8,7 @@ The following list of graphical tools is currently available:
 
 Trend tools:
 
-* Horizontal line – places a horizontal line on the chart that can be extended to the left in order to monitor starting points of levels plotting on the chart history \(option "Left ray" in the 'Preferences'\);
+* Horizontal line – places a horizontal line on the chart that can be extended to the left in order to monitor starting points of levels plotting on the chart history \(option 'Extend left' in the 'Preferences'\);
 * Vertical line – places a vertical line on the chart;
 * Line – places a line on the chart that may be extended beyond both sides with an option to show the angle of the trend \(set in the 'Preferences'\);
 * Price channel – places levels on a trend line;
