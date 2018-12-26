@@ -12,13 +12,13 @@ In order to start visual trading, click on the 'Chart trading' button![](../../.
 
 The Order entry panel consists of the following items:
 
-1.  Quantity - the order quantity;
+1.  Quantity – the order quantity;
 
-2.  TIF - for specifying Time-in-force parameter. The following TIFs are available: Day, GTC, IOC, FOK, GTD.
+2.  TIF – for specifying Time-in-force parameter. The following TIFs are available: Day, GTC, IOC, FOK, GTD.
 
-3.  SL - for specifying Stop Loss parameters;
+3.  SL – for specifying Stop Loss parameters;
 
-4.  TP - for specifying Take Profit parameters.
+4.  TP – for specifying Take Profit parameters.
 
 Hot buttons for one-click trading are the following:
 
@@ -61,7 +61,7 @@ If order is buy, then its icon is blue; and if order is sell, then its icon is r
 
  To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/order-marker.png)to the desirable price.
 
-If you need to set SL/TP to the order/position, make a left click on the order/position marker. After that, SL/TP markers appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%282%29.png). 
+If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%282%29.png). 
 
  Drag and Drop SL/TP prices to modify them:
 

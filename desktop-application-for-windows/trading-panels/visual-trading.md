@@ -64,7 +64,7 @@ To disable the chart trading, click the 'Mouse trading' button again, or just st
 
 To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/87.png)to the desirable price.
 
-To start modifying another parameters, make a left click on the order marker. The following buttons will appear:
+To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
 ![](../../.gitbook/assets/88.png)
 
@@ -78,7 +78,7 @@ All modifying operations can be made from the Modify window which can be opened 
 
 ### Stop loss and Take profit
 
-If you need to set SL/TP to the order/position, make a left click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
+If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
 ![](../../.gitbook/assets/91.png)
 
