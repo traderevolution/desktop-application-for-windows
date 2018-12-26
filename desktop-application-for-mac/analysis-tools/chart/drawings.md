@@ -36,7 +36,7 @@ Gann tools:
 
 Properties:
 
-* Snap to candle – if checked, while moving drawing tools automatically sticks to the contour of the candle, centerline of the candle and its wicks;
+* Snap to candle – if checked, while price movement, drawing tools automatically sticks to the contour of the candle, centerline of the candle and its wicks;
 * Stay in drawing mode – if this button is disabled, after drawing some tool, the cursor will be reset to the Arrow view, if enabled – will continue to stay in drawing mode of a selected tool.
 
 In order to place a tool:
