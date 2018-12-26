@@ -42,17 +42,15 @@ You can enable chart trading by pressing and holding the Ctrl key as well.
 
 If the cursor is higher than the current price, you can send:
 
-* Buy Stop order – by left click;
-* Sell Limit order – by right click.
+* Buy Stop order – by left-click;
+* Sell Limit order – by right-click.
 
 If the cursor is lower than a current price, you can send:
 
-* Buy Limit order – left click of the mouse;
-* Sell Stop order – right click of the mouse.
+* Buy Limit order – left-click of the mouse;
+* Sell Stop order – right-click of the mouse.
 
-Orders tooltips are always visible while trading:
-
-If order is buy, then its icon is blue; and if order is sell, then its icon is red.
+Orders tooltips are always visible while trading: if order is Buy, then its icon is blue; and if order is Sell, then its icon is red.
 
 When allocating a Stop limit order on the chart, limit price and stop price are shown inside of the order marker.
 

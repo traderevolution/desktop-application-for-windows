@@ -2,7 +2,7 @@
 
 A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
 
-![](../../../.gitbook/assets/19.png)
+![](../../../.gitbook/assets/drawings.png)
 
 The following list of graphical tools is currently available:
 

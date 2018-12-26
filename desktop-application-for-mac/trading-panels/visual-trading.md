@@ -53,13 +53,11 @@ If the cursor is lower than a current price, you can send:
 * Buy Limit order – left-click of the mouse;
 * Sell Stop order – right-click of the mouse.
 
-Orders tooltips are always visible while trading:
-
-If order is buy, then its icon is blue; and if order is sell, then its icon is red.
+Orders tooltips are always visible while trading: if order is Buy, then its icon is blue; and if order is Sell, then its icon is red.
 
 ### Order modifying
 
- To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/order-marker.png)to the desirable price.
+To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/order-marker.png)to the desirable price.
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear:![](../../.gitbook/assets/screen-shot-2018-12-12-at-4.14%20%282%29.png). 
 
