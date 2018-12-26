@@ -70,7 +70,7 @@ To start modifying another parameters, make a left click on the order marker. Th
 
 To cancel order, click on the button![](../../.gitbook/assets/89.png).
 
-Right click on the order marker opens the context menu with various actions which could be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market.  
+Right-clicking on the order marker opens the context menu with various actions which could be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market.  
   
  All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
 
