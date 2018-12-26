@@ -35,7 +35,7 @@ Hot buttons for one-click trading are the following:
 To start chart trading, follow these steps:
 
 1. Оpen the built-in Order entry panel;
-2. Click the 'Mouse trading' button![](../../.gitbook/assets/85.png)   to enable the chart trading;
+2. Click on the 'Mouse trading' button![](../../.gitbook/assets/85.png)   to enable the chart trading;
 3. Select type of an order to be placed: single or OCO.
 
 You can enable chart trading by pressing and holding the Ctrl key as well.
