@@ -17,7 +17,7 @@ Trend tools:
 
 Geometry tools:
 
-* Triangle – adds a simple triangle on the chart;
+* Triangle – places a simple triangle on the chart;
 * Rectangle – places a simple rectangle on the chart;
 * Circle – places a circle on the chart;
 * Ellipse – places an ellipse on the chart;
