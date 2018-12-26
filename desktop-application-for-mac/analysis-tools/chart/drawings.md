@@ -16,7 +16,7 @@ Trend tools:
 
 Geometry tools:
 
-* Triangle – adds a simple triangle on the chart;
+* Triangle – places a simple triangle on the chart;
 * Rectangle – places a simple rectangle on the chart;
 * Polygon – places a polygon figure on the chart;
 
