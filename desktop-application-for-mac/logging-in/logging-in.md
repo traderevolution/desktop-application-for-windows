@@ -2,7 +2,7 @@
 
 The login screen of the application for Mac looks as the following:
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![](../../.gitbook/assets/1%20%2811%29.png)
 
 To open the application with your account, enter your Login and Password.
 

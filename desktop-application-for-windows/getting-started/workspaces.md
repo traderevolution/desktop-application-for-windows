@@ -10,7 +10,7 @@ All your workspaces are located in the Desktop terminal installation directory C
   
 To have quick access to this folder click on the button ‘More’ at the top of the terminal and choose ‘Open data folder’:
 
-![](../../.gitbook/assets/1%20%286%29.png)
+![](../../.gitbook/assets/1%20%287%29.png)
 
 Custom workspaces will automatically save changes when closing the application for Desktop. While working with the terminal every 10 minutes all opened workspace are saved automatically without confirmations.
 
