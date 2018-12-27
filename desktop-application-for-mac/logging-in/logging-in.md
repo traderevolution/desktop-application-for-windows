@@ -1,12 +1,12 @@
 # Installation and updates
 
-The login screen of the application for Mac looks as the following:
+In order to download the application, use the App Store on your Mac. The login screen of the application for Mac looks as the following:
 
 ![](../../.gitbook/assets/1%20%2811%29.png)
 
 To open the application with your account, enter your Login and Password.
 
-Check the 'Save password' if you want the app remembering your login credentials.
+Check the 'Save password' if you want the app to store your login credentials.
 
 ### **Changing password**
 
@@ -60,6 +60,8 @@ When changing the password the user may have some problems, at which the followi
 8.    Incorrect new password: password should contain at least 8 symbols including chars, numbers and special symbols - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
 
 Click 'Log in' to open the application.
+
+In order to update the application, use the App Store on your Mac.
 
  _\* Minimal system requirements for application for Mac:_
 
