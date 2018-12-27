@@ -14,7 +14,7 @@ Passwords can be changed anytime by using the following methods:
 
 1. Before login to the application for Mac:
 
-If user forgot his password and needs to log in, simply click on the "Forgot password" button on the main login screen.
+If a user forgot his password and needs to log in, simply click on the 'Forgot password' button on the main login screen.
 
 ![](../../.gitbook/assets/image-2.png)
 
@@ -22,9 +22,13 @@ To recover the password:
 
 * enter Login ID in the Login field;
 * enter email in the Email field;
-* click Recover to receive an email with a recovery key. Then enter this key to the field.
+* click 'Recover' to receive an email with a recovery key. Then enter this key to the field.
 
-2. After login to the application for Mac: To open the ‘Change password’ / ’Change trading password’ window, select it in the Account menu![](../../.gitbook/assets/account%20%282%29.png):
+2. After login to the application for Mac: 
+
+To open the ‘Change password’ / ’Change trading password’ window, select it in the Account menu![](../../.gitbook/assets/account%20%282%29.png):
+
+Change password - allows changing the password which is entered to login into the terminal.
 
 ![](../../.gitbook/assets/3%20%2836%29.png)
 
@@ -37,11 +41,11 @@ To change the password:
 * enter current password in the Current password field;
 * enter new password in the New password field;
 * re-enter new password in the Confirm new password field;
-* click OK to apply the new password.
+* click 'Save' to apply the new password.
 
 ### **Errors arising when changing the password**
 
-When changing the password the user may have some problems, at which the following error messages will be displayed:
+When changing the password the user may have some problems, and the following error messages will be displayed:
 
 1.    Incorrect current password or login - the message appears if the old password is incorrect or the user does not already exist in the system.
 

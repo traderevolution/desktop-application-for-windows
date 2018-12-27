@@ -69,7 +69,7 @@ To change the password:
 
 **Errors arising when changing the password**
 
-When changing the password the user may have some problems, at which the following error messages will be displayed:
+When changing the password the user may have some problems, and the following error messages will be displayed:
 
 1. Incorrect current password or login - the message appears if the old password is incorrect or the user does not already exist in the system.
 2. Incorrect new password: you cannot use the same password - the message appears if the user enters a new password, which coincides with the old password.

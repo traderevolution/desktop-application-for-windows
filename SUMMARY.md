@@ -126,7 +126,7 @@
       * [Event log](mobile-applications/ios/tablets/event-log.md)
 * [Desktop application for Mac](desktop-application-for-mac/README.md)
   * [Getting started](desktop-application-for-mac/logging-in/README.md)
-    * [Installation and updates](desktop-application-for-mac/logging-in/logging-in.md)
+    * [Installation and updates](desktop-application-for-mac/logging-in/installation-and-updates.md)
     * [Main menu bar](desktop-application-for-mac/logging-in/main-menu-bar.md)
     * [Preferences](desktop-application-for-mac/logging-in/traderevolution-preferences.md)
     * [Hotkeys](desktop-application-for-mac/logging-in/hotkeys.md)

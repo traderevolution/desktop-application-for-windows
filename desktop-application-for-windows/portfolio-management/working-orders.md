@@ -29,7 +29,7 @@ The following columns are available in the panel:
 * Login - user login.
 * Symbol description - comments to the instrument.
 * Exchange - indicates whether the instrument has a stock exchange or off-exchange type;
-* Status - status of the current order. It can have the following values: Created, Part filled, Off market, Cancelling, Modified;
+* Status - status of the current order. It can have the following values: Created, Partially filled, Off market, Cancelling, Modified;
 * SL offset - shows the stop loss order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General settings\);
 * TP offset - shows the take profit order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General settings\);
 * Product type - shows the current trading mode and margin check method of the instrument;
