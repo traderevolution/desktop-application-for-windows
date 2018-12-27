@@ -20,7 +20,7 @@ To uninstall the application, select Start -&gt; Programs -&gt; 'Name of termina
 
 Uninstalling the application won't remove default settings or connections. These data are stored in your profile folder, which is located in one of the following locations, depending on your operation system:
 
-Windows 2000, XP, Server 2003 - Documents and Settings\&lt;UserName&gt;\Application Data\Folder with terminal.
+Windows Server 2016, XP - Documents and Settings\&lt;UserName&gt;\Application Data\Folder with terminal.
 
 Windows Vista, Windows 7, Win 8.1/10 - Users\&lt;UserName&gt;\AppData\Roaming\Folder with terminal.
 
