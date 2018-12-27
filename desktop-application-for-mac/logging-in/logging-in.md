@@ -1,6 +1,6 @@
 # Installation and updates
 
-In order to download the application, use the App Store on your Mac. The login screen of the application for Mac looks as the following:
+In order to download the application, use the App Store on your Mac. The login screen of the application looks as the following:
 
 ![](../../.gitbook/assets/1%20%2811%29.png)
 
