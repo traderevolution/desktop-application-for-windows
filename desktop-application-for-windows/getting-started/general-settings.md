@@ -14,13 +14,12 @@ The General settings menu is used to view and change general properties of the t
 
 ### **View**
 
-![](../../.gitbook/assets/2%20%2823%29.png)
+![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
 * Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units;
 * Abbreviate volumes – if checked, volume values will be abbreviated in all panels. For example: 1000 will be displayed as 1K, and 1000000 – 1M;
 * Reverse buttons order – if checked, trading buttons will be reversed to Sell/Buy pattern;
-* Display quantity in absolute – if checked, quantity for sell orders and short positions with positive values are shown;
 * Tooltips – if checked, all tooltips will be shown in the application; otherwise – will be hidden. This option is true by default.
 
 ### **Trading defaults**

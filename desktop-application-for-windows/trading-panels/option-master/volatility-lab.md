@@ -39,9 +39,9 @@ M = Domestick rate/100 - Foreign rate/100;
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
-![](../../../.gitbook/assets/screenshot_2%20%282%29.png)
+![](../../../.gitbook/assets/screenshot_2%20%283%29.png)
 
-In order to hide the Chart settings menu, press the button![](../../../.gitbook/assets/screenshot_3.png), this will result into the chart’s maximization.
+In order to hide the Chart settings menu, press the button![](../../../.gitbook/assets/screenshot_3%20%281%29.png), this will result into the chart’s maximization.
 
 * The drop-down list in the Side section allows selecting an option side \(strikes\) on which the "Volatility lab" will be plotted. Available strikes are Calls, Puts, Calls&Puts:
 

@@ -8,5 +8,7 @@ All customers can use the auxiliary functions when working with the Desktop term
 * Open data folder – allows opening folder where the application was installed; 
 * About – allows showing service information about current version of the application.
 
-![](../.gitbook/assets/about-screen.png)
+![](../.gitbook/assets/screenshot_3.png)
+
+
 
