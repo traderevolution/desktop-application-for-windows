@@ -157,4 +157,5 @@
     * [Assets](desktop-application-for-mac/portfolio-management/assets.md)
   * [Informative panels](desktop-application-for-mac/informative-panels/README.md)
     * [Event log](desktop-application-for-mac/informative-panels/event-log.md)
+* [Web platform](web-platform.md)
 
