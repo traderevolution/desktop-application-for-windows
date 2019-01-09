@@ -160,4 +160,5 @@
 * [Web platform](web-platform/README.md)
   * [Getting started](web-platform/getting-started/README.md)
     * [Login screen](web-platform/getting-started/login-screen.md)
+    * [General settings](web-platform/getting-started/general-settings.md)
 
