@@ -43,7 +43,7 @@ During the Mouse trading, order marker is visible on the chart. If order is buy,
 
 To disable trading from the chart with a mouse, click on the 'Mouse trading' button again, or just stop holding the 'Command' key.
 
-* Visual trading – opens built-in Order entry panel, which enables visual trading.
+* Chart Order entry – opens built-in Order entry panel.
 
 ![](../../../.gitbook/assets/oe-small.png)
 
