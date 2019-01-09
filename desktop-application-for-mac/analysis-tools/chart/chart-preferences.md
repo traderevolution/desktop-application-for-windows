@@ -23,7 +23,7 @@ The ‘Chart Preferences’ window contains the following sections, stored into 
 General:
 
 * Background color – allows to select chart's background color;
-* Watermark color – allows to select the watermark color;
+* Watermark color – allows to select the watermark color or make it transparent in order to hide it;
 * Display volume bars – allows to show volume bars on the chart;
 * Show drawing mode – allows to activate drawing toolbar on the chart;
 * Show toolbar – when checked, the chart's toolbar is active;
