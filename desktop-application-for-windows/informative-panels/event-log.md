@@ -2,7 +2,7 @@
 
 Event log panel shows a log of all events that occurred during trading sessions. Click on the button![](../../.gitbook/assets/1%20%2831%29.png)in the Status bar to open the Event log panel.
 
-![](../../.gitbook/assets/2%20%2822%29.png)
+![](../../.gitbook/assets/2%20%2823%29.png)
 
 Available columns:
 
@@ -11,7 +11,7 @@ Available columns:
 * Event – title of event.
 * Details – the text of event message is shown in the tooltip of the ‘Details’ icon.
 
-![](../../.gitbook/assets/3%20%2838%29.png)
+![](../../.gitbook/assets/3%20%2839%29.png)
 
 Click on this icon to open a deal ticket.
 
