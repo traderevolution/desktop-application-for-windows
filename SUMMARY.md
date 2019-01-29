@@ -162,4 +162,5 @@
     * [Login screen](web-platform/getting-started/login-screen.md)
     * [General settings](web-platform/getting-started/general-settings.md)
     * [Managing columns](web-platform/getting-started/managing-columns.md)
+    * [Workspaces](web-platform/getting-started/workspaces.md)
 
