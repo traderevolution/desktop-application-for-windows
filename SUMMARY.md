@@ -163,4 +163,5 @@
     * [General settings](web-platform/getting-started/general-settings.md)
     * [Managing columns](web-platform/getting-started/managing-columns.md)
     * [Workspaces](web-platform/getting-started/workspaces.md)
+    * [Arranging panels](web-platform/getting-started/arranging-panels.md)
 
