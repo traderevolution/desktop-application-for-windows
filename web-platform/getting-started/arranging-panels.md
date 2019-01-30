@@ -8,7 +8,7 @@ After taking header of a panel the following buttons appear:
 
 ![](../../.gitbook/assets/screenshot_5.png)
 
-Drag the panel into the button to preview it's next position.
+Drag the panel into one of the buttons to preview it's next position.
 
 ![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
