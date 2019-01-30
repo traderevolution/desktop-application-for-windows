@@ -10,7 +10,7 @@ During session, several workspaces can be loaded and kept open simultaneously. A
 
 ### Getting a Blank Workspace
 
- New blank \(without any panels\) Workspace can be created by clicking on the button![](../../.gitbook/assets/screenshot_1-copy.png).
+ New blank \(without any panels\) workspace can be created by clicking on the button![](../../.gitbook/assets/screenshot_1-copy.png).
 
 ### Workspace manager
 
