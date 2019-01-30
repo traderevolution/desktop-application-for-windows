@@ -20,9 +20,8 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 Two types of linking are available on the header of each panel![](../../.gitbook/assets/screenshot_11.png):
 
-**Symbol link**![](../../.gitbook/assets/screenshot_11-copy.png)– when panels are linked, selecting in symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist.
-
-**Account link**![](../../.gitbook/assets/screenshot_11-copy-2.png)– available for panels which use accounts. When panels are linked, selecting an account in one of the panels synchronizes other panels in the group to display information relevant to that account. For example, when Market depth panel linked to the Order entry panel. Account selected in Market depth panel will be used for trading through the Order entry panel.
+* **Symbol link**![](../../.gitbook/assets/screenshot_11-copy.png)  – when panels are linked, selecting in symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist.
+* **Account link**![](../../.gitbook/assets/screenshot_11-copy-2.png)  – available for panels which use accounts. When panels are linked, selecting an account in one of the panels synchronizes other panels in the group to display information relevant to that account. For example, when Market depth panel linked to the Order entry panel. Account selected in Market depth panel will be used for trading through the Order entry panel.
 
 Each link is identified by a color:
 
