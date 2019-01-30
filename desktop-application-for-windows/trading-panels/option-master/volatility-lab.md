@@ -39,7 +39,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
-![](../../../.gitbook/assets/screenshot_2%20%284%29.png)
+![](../../../.gitbook/assets/screenshot_2%20%285%29.png)
 
 In order to hide the Chart settings menu, press the button![](../../../.gitbook/assets/screenshot_3%20%282%29.png), this will result into the chart’s maximization.
 
@@ -65,7 +65,7 @@ Marking the option![](../../../.gitbook/assets/vv.png)as checked in the Volatili
 
 ### Chart scaling
 
- The chart view can be manipulated with the buttons![](../../../.gitbook/assets/screenshot_5.png), located in the buttom-right corner of the chart field: 
+ The chart view can be manipulated with the buttons![](../../../.gitbook/assets/screenshot_5%20%281%29.png), located in the buttom-right corner of the chart field: 
 
 * Pressing the button![](../../../.gitbook/assets/screenshot_12.png)allows to zoom out of any random area of the chart;
 *  Pressing the button![](../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart;
