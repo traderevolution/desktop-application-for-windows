@@ -16,9 +16,8 @@ During session, several workspaces can be loaded and kept open simultaneously. A
 
 ### Workspace manager
 
- Click on the button![](../../.gitbook/assets/screenshot_2-copy-copy.png)which is located inside of the workspace tab![](../../.gitbook/assets/screenshot_2-copy.png)to open workspace manager. It allows you to clone or rename the chosen workspace:
+Click on the button![](../../.gitbook/assets/screenshot_2-copy-copy.png)which is located inside of the workspace tab![](../../.gitbook/assets/screenshot_2-copy.png)to open workspace manager. It allows you to clone or rename the chosen workspace:
 
-·         Clone - allows creating the same workspace as current;
-
-·         Rename - allows changing title of current workspace.
+* Clone - allows creating the same workspace as current;
+* Rename - allows changing title of current workspace.
 
