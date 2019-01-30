@@ -1,8 +1,6 @@
 # Workspaces
 
-A workspace is a particular configuration of panels, toolbars, charts and/or table layouts that makes up trading environment. The Web platform provides a predefined default workspace and allows to create custom workspaces either by modifying the default settings or by creating a new workspace from scratch.
-
-Custom workspaces will automatically save changes when closing the Web application. While working with the platform every 10 minutes all opened workspace are saved automatically without confirmations.
+A workspace is a particular configuration of panels, toolbars, charts and/or table layouts that makes up trading environment. The Web platform provides a predefined default workspace and allows to create custom workspaces either by modifying the default settings or by creating a new workspace from scratch. Custom workspaces will automatically save changes when closing the Web application. 
 
 ### **Keeping multiple workspaces open** 
 
