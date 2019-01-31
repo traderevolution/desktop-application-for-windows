@@ -37,5 +37,7 @@ To link two or more panels together:
 
 3. Repeat the same procedure for the other panels to be linked, selecting the same color.
 
-To unlink a panel from a group, click the panel's link icon and select None.
+To unlink a panel from a group, click the panel's link icon and select 'None'.
+
+![](../../.gitbook/assets/group-139.png)
 
