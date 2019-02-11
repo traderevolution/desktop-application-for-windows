@@ -33,7 +33,7 @@ It looks as the following:
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../.gitbook/assets/4%20%2830%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../.gitbook/assets/4%20%2831%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
@@ -48,7 +48,7 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 * Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
 *  Clocks – shows a list of clocks:
 
-![](../../.gitbook/assets/6%20%2822%29.png)
+![](../../.gitbook/assets/6%20%2823%29.png)
 
 Check needed clock\(s\) to be displayed in the 'Info bar'.
 
@@ -58,7 +58,7 @@ To remove more than one element, hold the key 'Ctrl', select as much elements as
   
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
-* ![](../../.gitbook/assets/8%20%2815%29.png)– click to collapse each tree's entity;
+* ![](../../.gitbook/assets/8%20%2816%29.png)– click to collapse each tree's entity;
 * ![](../../.gitbook/assets/9%20%289%29.png)– click to expand each tree's entity.
 
 The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.

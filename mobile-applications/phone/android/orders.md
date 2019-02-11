@@ -37,7 +37,7 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar.jpg).
 
-![](../../../.gitbook/assets/4%20%287%29.png)
+![](../../../.gitbook/assets/4%20%288%29.png)
 
 ![](../../../.gitbook/assets/5%20%289%29.png)
 
@@ -45,7 +45,7 @@ Filled orders and Orders history sections can be viewed by selected date range, 
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/7%20%2810%29.png)
+![](../../../.gitbook/assets/7%20%2811%29.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 

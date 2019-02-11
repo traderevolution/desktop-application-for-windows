@@ -17,7 +17,7 @@ There are two main location types for all panels:
 
 Drag the panel into the button to preview it's next position.
 
-![](../../.gitbook/assets/4%20%2814%29.png)
+![](../../.gitbook/assets/4%20%2815%29.png)
 
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.
 
@@ -36,10 +36,10 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 ### Linking panels
 
-One of the advantages of the Desktop terminal is linking panels. Currently two types of link are available on the header of each panel![](../../.gitbook/assets/6%20%2825%29.png):
+One of the advantages of the Desktop terminal is linking panels. Currently two types of link are available on the header of each panel![](../../.gitbook/assets/6%20%2826%29.png):
 
-* **Symbol link**![](../../.gitbook/assets/7%20%289%29.png)–   when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist.
-* **Account link**![](../../.gitbook/assets/8%20%2816%29.png)–   available for panels which use accounts. When panels are linked, selecting an account in one of the panels synchronizes other panels in the group to display information relevant to that account. For example, when Market depth panel is linked to the Order entry panel. Account selected in Market depth panel will be used for trading through the Order entry panel.
+* **Symbol link**![](../../.gitbook/assets/7%20%2810%29.png)–   when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist.
+* **Account link**![](../../.gitbook/assets/8%20%2817%29.png)–   available for panels which use accounts. When panels are linked, selecting an account in one of the panels synchronizes other panels in the group to display information relevant to that account. For example, when Market depth panel is linked to the Order entry panel. Account selected in Market depth panel will be used for trading through the Order entry panel.
 
 Each link is identified by a color:
 

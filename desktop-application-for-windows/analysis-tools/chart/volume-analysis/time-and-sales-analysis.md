@@ -4,7 +4,7 @@
 
 Time & Sales can be opened from the Analysis tools menu by clicking on the button ![](../../../../.gitbook/assets/5%20%2815%29.png)or through Context menu -&gt; Analysis tools -&gt; T&S.
 
-![](../../../../.gitbook/assets/6%20%2826%29.png)
+![](../../../../.gitbook/assets/6%20%2827%29.png)
 
 **Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 

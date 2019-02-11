@@ -48,7 +48,7 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ### **Trading defaults:**
 
-![](../../.gitbook/assets/5%20%2824%29.png)
+![](../../.gitbook/assets/5%20%2825%29.png)
 
 * Account – allows to select a default account for trading;
 * Symbol – allows to select a default instrument for trading;
@@ -93,7 +93,7 @@ The full information about Hotkeys preferences is represented in the article bel
 
 The checkbox allows to enable the option 'Warn if application is closed'.
 
-![](../../.gitbook/assets/7%20%288%29.png)
+![](../../.gitbook/assets/7%20%289%29.png)
 
 
 
