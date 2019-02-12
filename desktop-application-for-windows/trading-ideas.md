@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Trading ideas to user-sub
 
 **New** – ​tab that allows setting all parameters for sending a new Trading idea:
 
-![](../.gitbook/assets/2%20%2831%29.png)
+![](../.gitbook/assets/2%20%2832%29.png)
 
 In order to send a Trading idea, a user-analyst has to specify mandatory order parameters:
 
@@ -43,7 +43,7 @@ After specifying all the parameters of the Trading idea, the user-analyst needs 
 
 ### **User-subscriber** 
 
-User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../.gitbook/assets/1%20%2846%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
+User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../.gitbook/assets/1%20%2847%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
 To receive a Trading idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Trading idea, the notification will appear in the Status bar of the terminal.
 
