@@ -6,7 +6,7 @@ The panel allows to send Trading ideas and subscribe to them, depending on the u
 
 ### **User-analyst**
 
-User-analyst is a user who can create, delete and send Trading ideas to user-subscribers but is not allowed to trade by himself. For the user-analysts the Trading ideas analyst panel is available in the terminal from the ‘Tools’ list in the Top menu. Trading ideas analysts panel contains 2 tabs:
+User-analyst is a user who can create, delete and send Trading ideas to user-subscribers but is not allowed to trade by himself. For the user-analysts the Trading ideas analyst panel is available in the terminal from the ‘Tools’ list in the Top menu. Trading ideas analyst panel contains 2 tabs:
 
 **New** – ​tab that allows setting all parameters for sending a new Trading idea:
 
