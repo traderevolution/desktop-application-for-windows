@@ -53,7 +53,7 @@ To receive a Trading idea and place the order based on this idea, the instrument
 
 ![](../.gitbook/assets/5%20%2820%29.png)
 
-In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity of the idea orders to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Trading idea, user-subscriber is displayed an order placement confirmation dialog box:
+In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity of the idea orders to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Trading idea, an order placement confirmation dialog box is displayed:
 
 ![](../.gitbook/assets/6%20%2814%29.png)
 
