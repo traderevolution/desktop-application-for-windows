@@ -23,7 +23,7 @@ User-analyst is a user who can create, delete and send Trading ideas to user-sub
 * TP price – Take Profit price of the order \(must be higher than the Limit price\);
 * TP offset – field that shows the TP offset value;
 * Current price – field that shows the current symbol price \(if available\);
-* Lifetime – allows specifying the period of the idea lifetime, during which a User subscriber can accept the idea. Format: “hh:mm” \(hours:minutes\). \(min = 00 hours : 01 minutes; max = 24 hours : 00 minutes\);
+* Lifetime – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. Format: “hh:mm” \(hours:minutes\). \(min = 00 hours : 01 minutes; max = 24 hours : 00 minutes\);
 * Title – allows entering a title of the Trading idea. The title cannot contain more than 50 symbols.
 
 The following options are not mandatory:
