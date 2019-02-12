@@ -24,7 +24,7 @@ This menu contains such sections as:
 
 ‘Sounds’ preferences allow to enable/disable System and Trading sounds.
 
-![](../../.gitbook/assets/3%20%2825%29.png)
+![](../../.gitbook/assets/3%20%2826%29.png)
 
 * System
   * Welcome;

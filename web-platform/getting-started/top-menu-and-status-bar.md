@@ -20,7 +20,7 @@
 
 The Status bar, located at the bottom of the platform, makes it possible to "stream" information such as news and many others. The Status bar can be customized to show only information that user needs.
 
-![](../../.gitbook/assets/2%20%2829%29.png)
+![](../../.gitbook/assets/3%20%2821%29.png)
 
 The Status bar displays \(from left to right\):
 

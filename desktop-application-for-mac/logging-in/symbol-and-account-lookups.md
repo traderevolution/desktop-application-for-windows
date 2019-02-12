@@ -28,7 +28,7 @@ For easy management of the lookup, it has the following buttons located at the b
 
 *  ![](../../.gitbook/assets/1%20%2843%29.png)Collapse all – allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
 * ![](../../.gitbook/assets/2%20%2811%29.png) Expand exchanges – allows showing exchanges and symbol types in the lookup tree.
-*  ![](../../.gitbook/assets/3%20%2822%29.png) Expand types – allows showing exchanges, symbol types and symbols in the lookup tree.
+*  ![](../../.gitbook/assets/3%20%2823%29.png) Expand types – allows showing exchanges, symbol types and symbols in the lookup tree.
 * ![](../../.gitbook/assets/5%20%286%29.png) 'Show additional info' icon – shows short information about the selected symbol.
 
 ![](../../.gitbook/assets/1-symbol-new-copy.png)
