@@ -121,7 +121,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 **Colors**
 
-![](../../.gitbook/assets/4%20%2827%29.png)
+![](../../.gitbook/assets/4%20%2828%29.png)
 
 _Table colors:_
 
