@@ -15,7 +15,7 @@
 
 ![](../../.gitbook/assets/status-bar-smaller.png)
 
-The status bar is located at the bottom of the application. It displays \(from left to right\):
+The Status bar is located at the bottom of the application. It displays \(from left to right\):
 
 * Event log – shows a log of all events that occurred during work sessions.
 * Lock trading – disables making all trading operations.

@@ -67,14 +67,14 @@ The button 'Cancel' allows to quit this menu without applying the arrangement to
 
 ### **Status bar**
 
-The status bar, located at the bottom of the screen, makes it possible to "stream" information such as news and many others. The status bar can be customized to show only information that user needs.
+The Status bar, located at the bottom of the screen, makes it possible to "stream" information such as news and many others. The Status bar can be customized to show only information that user needs.
 
 ![](../../.gitbook/assets/status-bar.png)
 
-The status bar displays \(from left to right\):
+The Status bar displays \(from left to right\):
 
 * Workspace\(s\) – shows a particular configuration of panels, toolbars, charts and/or table layouts that makes up trading environment.
-* Trading notifications – notifications about changes in the terminal and server. Appears when deal ticket comes, then notification disappears.
+* Trading notifications – notifications about changes in the terminal and server. A notification appears when a deal ticket comes, then it disappears.
 * Event log – shows a log of all events that occurred during work sessions.
 * Lock trading – disables making all trading operations. After pressing the button, the notification in the center of the screen and the warning signs appear and it shows that trading is locked.
 * Date/Time – the current time or date; or both date and time.

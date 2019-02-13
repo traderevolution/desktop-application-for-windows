@@ -12,15 +12,15 @@ User-analyst is a user who can create, delete and send Trading ideas to user-sub
 
 ![](../.gitbook/assets/2%20%2832%29.png)
 
-In order to send a Trading idea, a user-analyst has to specify mandatory order parameters:
+In order to send a Trading idea, a user-analyst has to specify mandatory order parameters:
 
 * Symbol – allows selecting the instrument that will be used in the Trading idea;
 * Side – allows selecting Trading idea operation side: buy or sell;
 * TIF – dropdown list for selecting the order TIF type \(Day, GTC, IOC, FOK, GTD\);
 * Limit price – field for entering the limit price for the order;
-* SL price – Stop Loss price of the order \(must be lower than the Limit price\);
+* SL price – Stop Loss price of the order;
 * SL offset – field that shows the SL offset value;
-* TP price – Take Profit price of the order \(must be higher than the Limit price\);
+* TP price – Take Profit price of the order;
 * TP offset – field that shows the TP offset value;
 * Current price – field that shows the current symbol price \(if available\);
 * Lifetime – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. Format: “hh:mm” \(hours:minutes\). \(min = 00 hours : 01 minutes; max = 24 hours : 00 minutes\);
@@ -55,9 +55,9 @@ To receive a Trading idea and place the order based on this idea, the instrument
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity of the idea orders to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Trading idea, an order placement confirmation dialog box is displayed:
 
-![](../.gitbook/assets/6%20%2814%29.png)
+![](../.gitbook/assets/6%20%2828%29.png)
 
-Click on the ‘Yes’ button to place an order based on the Trading idea.
+Click on the ‘Yes’ button to place an order based on the Trading idea.
 
  
 

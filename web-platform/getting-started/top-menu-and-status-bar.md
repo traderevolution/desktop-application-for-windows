@@ -8,10 +8,7 @@
 * More: access to TraderEvolution Global website and About current version screen.
 * Account: access to accounts information.
 * Help: access to TraderEvolution Guide.
-* Settings: access to general settings of the Web platform. Read more about this section here:
-
-[https://guide.traderevolution.com/project/web-platform/getting-started/general-settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings)
-
+* Settings: access to general settings of the Web platform. Read more about this section here: [https://guide.traderevolution.com/project/web-platform/getting-started/general-settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings)
 * Log out: allows to log out of the Webstation and evokes login screen.
 * Connection status: shows the status of connection to the server.
 * Ping information: shows the response time of the server \(ms\) to which the application is connected.
