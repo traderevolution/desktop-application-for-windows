@@ -41,6 +41,12 @@ After specifying all the parameters of the Trading idea, the user-analyst needs 
 
 The sent Trading idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
 
+Click on the certain Trading idea to open it. If a user attaches a chart screenshot, it will be displayed in the Trading idea. Press the screenshot to open it in the full-size mode. In the ‘Chart’ tab user can choose the desired timeframe.
+
+After expiration of the Trading idea, it will be removed from the panel. In order to delete the Trading idea, click on the 'Delete' button located next to its lifetime.
+
+![](../.gitbook/assets/screenshot_2%20%285%29.png)
+
 ### **User-subscriber** 
 
 User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../.gitbook/assets/1%20%2847%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
