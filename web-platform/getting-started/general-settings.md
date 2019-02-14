@@ -1,6 +1,6 @@
 # General settings
 
-The General settings menu is used to view and change general properties of the Web application. In order to open it, click on the button![](../../.gitbook/assets/1%20%2827%29.png)at the top menu of the platform.
+The General settings menu is used to view and change general properties of the Web application. In order to open it, click on the button![](../../.gitbook/assets/1%20%2828%29.png)at the top menu of the platform.
 
 ### **General**
 
@@ -49,7 +49,7 @@ To specify additional settings for orders you need to open 'Types manager' and s
 
 If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP default offset, ticks' in the Forex instrument type will be displayed in decimal view and in the corresponding format. For example, 10 ticks will be displayed as 1.0, and 50 ticks as 5.0, depending on which value is set in the option. If 'Show offset in' is NOT 'Ticks \(fractional ticks for Forex\)', values of the options 'SL/TP default offset, ticks' are displayed by default, e.g. 10 ticks, 50 ticks.
 
-![](../../.gitbook/assets/5%20%2829%29.png)
+![](../../.gitbook/assets/5%20%2830%29.png)
 
 ### **Confirmations**
 

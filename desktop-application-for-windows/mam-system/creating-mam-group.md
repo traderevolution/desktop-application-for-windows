@@ -66,7 +66,7 @@ After trade funds = Available funds – Impact on portfolio - Fee
 
 Now the accounts have been successfully added to the MAM group and the money manager can select accounts to trade with. There are several options available when accounts are added. Now the money manager can perform trades.
 
-![](../../.gitbook/assets/5%20%2822%29.png)
+![](../../.gitbook/assets/5%20%2823%29.png)
 
 
 
