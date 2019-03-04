@@ -39,8 +39,8 @@ There are four allocation methods available in MAM:
         </p>
         <p>Vol i - volume of open positions on the subaccount;</p>
         <p>MVol - order size entered by manager;</p>
-        <p>Lot i – the coefficient setting for the subaccount;</p>
-        <p>∑ Lot – sum of all coefficients of all active accounts.</p>
+        <p>Lot i &#x2013; the coefficient setting for the subaccount;</p>
+        <p>&#x2211; Lot &#x2013; sum of all coefficients of all active accounts.</p>
       </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ There are four allocation methods available in MAM:
           <img src="../../.gitbook/assets/3 (38).png" alt/>
         </p>
         <p>balance i - the balance of the subaccount;</p>
-        <p>∑balance - the balance of all active subaccounts.</p>
+        <p>&#x2211;balance - the balance of all active subaccounts.</p>
       </td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ There are four allocation methods available in MAM:
           <img src="../../.gitbook/assets/4 (6).png" alt/>
         </p>
         <p>Equity i - the equity of the subaccount;</p>
-        <p>∑Equity - the sum of equity of all subaccounts.</p>
+        <p>&#x2211;Equity - the sum of equity of all subaccounts.</p>
       </td>
     </tr>
   </tbody>

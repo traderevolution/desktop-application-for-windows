@@ -1,7 +1,7 @@
 # Table of contents
 
 * [TraderEvolution Guide](README.md)
-* [Desktop application for Windows](desktop-application-for-windows/README.md)
+* [TraderEvolution for Desktop](desktop-application-for-windows/README.md)
   * [How to...](desktop-application-for-windows/how-to....md)
   * [Getting started](desktop-application-for-windows/getting-started/README.md)
     * [System requirements](desktop-application-for-windows/getting-started/system-requirements.md)

@@ -1,2 +1,2 @@
-# Desktop application for Windows
+# TraderEvolution for Desktop
 
