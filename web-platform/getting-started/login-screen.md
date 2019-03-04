@@ -1,6 +1,6 @@
 # Login screen
 
-In order to log in to the Web platform, use the main login screen. A valid login and password are required.
+Use the main login page to sign in to TraderEvolution Web platform. A valid login and password are required.
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 

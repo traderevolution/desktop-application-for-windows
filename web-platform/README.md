@@ -1,2 +1,2 @@
-# Web platform
+# TraderEvolution for Web
 
