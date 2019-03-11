@@ -15,11 +15,11 @@ Reset your password following the recommendations from the ‘Changing password�
 #### **3. How to execute a partial close?**
 
 * Select the position to be closed from the Positions panel. Right-click and select ‘Close position’;
-* User can also do a double left click on the position for the same operation. The ‘Close position’ dialog window will appear. Select ‘Quantity to close’ to execute a partial close of the position;
+* You can also double click on the position to call the 'Close position' dialog window. Select ‘Quantity to close’ to execute a partial close of the position;
 
 ![](../../.gitbook/assets/partial-close.jpg)
 
-* Or place an order with the opposite side by the chosen instrument.
+* Or simply place a reversed order for the same instrument.
 
 #### **4. How does the OCO order work?**
 
