@@ -9,7 +9,7 @@ Reset your password following the recommendations from the â€˜Changing passwordâ
 #### **2. How to find the Order ID / Position ID?**
 
 1. Open the Positions/ Working orders panel;
-2. Right click on the column names in the chosen panel;
+2. Right-click on any column name;
 3. Choose Position ID/ Order ID in the correspondent panels.
 
 #### **3. How to execute a partial close?**
