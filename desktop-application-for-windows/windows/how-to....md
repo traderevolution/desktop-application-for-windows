@@ -1,12 +1,12 @@
 # How to...
 
-#### **1. How to reset my password?**
+#### **1. How to reset your password?**
 
 Reset your password following the recommendations from the ‘Changing password’ section: 
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates)
 
-#### **2. How to find the ID of the order / position?**
+#### **2. How to find the Order ID / Position ID?**
 
 1. Open the panel Positions/ Working orders;
 2. Right click on the column names in the chosen panel;
