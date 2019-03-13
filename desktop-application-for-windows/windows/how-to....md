@@ -21,11 +21,11 @@ Reset your password following the recommendations from the â€˜Changing passwordâ
 
 * Or simply place a reversed order for the same instrument.
 
-#### **4. How does the OCO order work?**
+#### **4. How to place an OCO order?**
 
-OCO order combines Stop order with Limit order. You can set prices for both of these orders and place 2 orders at the same time:
+An OCO order is a combination of a Stop order and a Limit order. You can set prices for both of these orders and place 2 orders at the same time:
 
-* You can place it selecting OCO order type in Order entry panel;
+* Place an OCO order by selecting OCO in the Order type section of the Order entry panel;
 
 ![](../../.gitbook/assets/oco.jpg)
 
