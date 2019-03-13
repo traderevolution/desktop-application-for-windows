@@ -53,7 +53,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 #### **7. How to disaggregate the Market depth?**
 
 1. Open settings of the Market depth panel;
-2. Select the View section of the General tab. Select the 'By order' option in the drop down list of the 'View by' setting. Click Apply.  
+2. Select the 'View' section of the 'General' tab. Select the 'By order' option in the drop down list of the 'View by' setting. Click Apply.  
 
 ![](../../.gitbook/assets/market-depth.jpg)
 
