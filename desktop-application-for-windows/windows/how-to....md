@@ -96,7 +96,7 @@ In TraderEvolution there are few options to view the volume by price:
 
 ![](https://lh3.googleusercontent.com/CJPwdO9HmzewtURjifG9vPc92tDHESY4VoU7dISyyOaTdSdYjJNbxTh-l2L_NK9HUkUk_DgmtZsoEvbvvL6-G_BOK_ti4ZuVJQDhNQljwgr4Y6TIMhhN3SqNvkkmRBS8jYd9slvx)
 
-#### **13. How to open two charts at the same time?**
+#### **13. How to open multiple charts?**
 
 You have two options here:
 
@@ -105,9 +105,9 @@ You have two options here:
 
 #### **14. How to color brokerages in the Market depth?**
 
-1. Open Market depth settings;
-2. Choose the tab ‘Colors’;
-3. From the drop-down menu of the ‘Coloring method’, select the option ‘By source and volume conditions’.
+1. Open settings of the Market depth panel;
+2. Select the ‘Colors’ tab;
+3. From the drop-down menu of the ‘Coloring method’, select the ‘By source and volume conditions’ option.
 
 ![](https://lh3.googleusercontent.com/C6zxRFITXHlj4_u62caVhJvdDoxiYrL2AgMdzZ0YHAD3I6xs2iGP5gNsbjMLE-Z2e_fE72OnQErrln0cykakUsi2G33zseBojxxPUDZWlrWXt3kE2lVwWcIrmXmcUuM_J6OuTT3H)
 
@@ -118,28 +118,27 @@ You have two options here:
 
 ![](../../.gitbook/assets/prev.-close.jpg)
 
-#### **16. How to put a chart inside of Scalper?**
+#### **16. How to plot a chart within the Scalper?**
 
 1. Open the Scalper settings from the context menu of the panel;
-2. Open the tab ‘Time & Sales chart’;
-3. Choose ‘Trades & Quotes’ from the drop-down list of the Mode;
+2. Open the ‘Time & Sales chart’ tab;
+3. Select ‘Trades & Quotes’ from the drop-down list of the 'Mode' section;
 4. Apply changes.
 
 #### **17. How to enable DDE Link?**
 
 1. Open the context menu of the chosen panel;
-2. Select the option ‘Export’ and choose ‘Excel’ from the drop-down menu;
-3. Enable the ‘Synchronize’ checkbox;
-4. Click on the button ‘Export’.
+2. Click on Export and select Excel from the list;
+3. Make sure to check the ‘Synchronize’ checkbox;
+4. Click Export.
 
 ![](../../.gitbook/assets/export.jpg)
 
 #### **18. How to show time to next bar?**
 
 1. Right click on the Chart panel;
-2. Select ‘View’ tab;
-3. Choose the section ‘Time to next bar’;
-4. Check ‘Visible’.
+2. Select ‘View’;
+3. Click on the ‘Time to next bar’ option to enable the countdown visible.
 
 #### **19. How to close opposite positions mutually?**
 
