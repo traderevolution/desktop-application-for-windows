@@ -65,8 +65,8 @@ Click on the ‘Import’ button at the bottom of Indicators lookup.
 
 #### **9. How to show filled orders on the chart?**
 
-1. Select the tab ‘Visual trading’ in the Chart settings;
-2. Check filled orders to make it visible on a chart.
+1. Select the ‘Visual trading’ section in the Chart settings;
+2. Tick on the 'Filled orders' box to make filled orders visible on the chart.
 
 ![](../../.gitbook/assets/visual-trading.jpg)
 
