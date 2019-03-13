@@ -45,8 +45,8 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 #### **6. How to add a price alert?**
 
-1. Choose ‘Table alerts’ from the context menu of the chosen panel;
-2. Set conditions by which you will receive an alert and actions which will be executed while receiving an alert.
+1. Select ‘Table alerts’ from the context menu of the chosen panel;
+2. Setup conditions which will trigger your alert and finally select the actions to be taken.
 
 ![](../../.gitbook/assets/alerts-with-cond.png)
 
