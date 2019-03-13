@@ -103,7 +103,7 @@ You have two options here:
 * Open the Grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
 * Open several Chart panels: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
 
-#### **14. How to color brokerages in Market depth?**
+#### **14. How to color brokerages in the Market depth?**
 
 1. Open Market depth settings;
 2. Choose the tab ‘Colors’;
