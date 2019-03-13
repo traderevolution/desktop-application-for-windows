@@ -78,18 +78,19 @@ Click on the ‘Import’ button at the bottom of Indicators lookup.
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
 
-#### **11. Where is the volume at price?**
+#### **11. How to find a volume by price?**
 
-You have several ways how to view the volume by price:
+In TraderEvolution there are few options to view the volume by price:
 
-* Market depth panel allows to see the volume for each price;
+* The Market depth panel allows to view the volume per each price level;
 * Info Window in the Chart panel contains the volume value;
-* Select ‘Volume bars’ from the list of Analysis tools to see it directly on a chart.
+* To plot Volume bars on the chart, select 'Volume bars' in the Analysis tools.
 
 #### **12. How to track the auction price at opening?**
 
-* Right click on the column names of the Watchlist panel to select ‘Indicative auction price’ from the menu;
-* The column with such a name will appear in the Watchlist.
+* Right-click on any column name of the Watchlist;
+* Select the 'Indicative auction price' from the list;
+* A column named 'Indicative auction price' should appear.
 
 ![](../../.gitbook/assets/watchlist.jpg)
 
@@ -97,10 +98,10 @@ You have several ways how to view the volume by price:
 
 #### **13. How to open two charts at the same time?**
 
-You have 2 options how to do this:
+You have two options here:
 
-* Open grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
-* Open 2 charts: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
+* Open the Grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
+* Open several Chart panels: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
 
 #### **14. How to color brokerages in Market depth?**
 
