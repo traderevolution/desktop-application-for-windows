@@ -52,13 +52,13 @@ To recover your password:
 
 2. After logging in to the App:
 
-To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../../.gitbook/assets/image%20%282%29.png):
+Go to your Account menu on the top toolbar![](../../../.gitbook/assets/image%20%282%29.png):
 
-Change password - allows changing the password which is entered to login into the terminal.
+Select Change password to change your password used to login to the TraderEvolution App.
 
 ![](../../../.gitbook/assets/image.png)
 
-Change trading password - allows changing the password which is entered before making any trading operation.
+Select Change trading password to change your password used before performing any trading operation.
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
