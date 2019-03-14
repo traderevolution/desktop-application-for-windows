@@ -1,8 +1,8 @@
 # Installation and updates
 
-The application for Desktop uses a self-updating installation which means the latest available version of the program is automatically installed. The average download size is 30 MB.
+TraderEvolution Desktop App performs automatic updates, meaning you don't need to search and install and worry about the latest updates of the software. The average download size is 30 MB.
 
-To install the application for Desktop just run the .exe file. During installation you will be prompted to choose the installation directory.
+To install TraderEvolution Desktop App simply run the .exe file and select the installation directory. Click Install and wait for the TraderEvolution to complete the installation for you.
 
 ### **Updating the program**
 
