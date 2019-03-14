@@ -6,9 +6,9 @@ To install TraderEvolution Desktop App simply run the .exe file and select the i
 
 ### **Updating the program**
 
-Every time starting the application for Desktop, the Update manager checks for updates automatically.
+An Update manager launches an automatic update every time you launch your TraderEvolution Desktop App.
 
-When an update is available, the update icon will appear at the top of the terminal:
+An update icon on the top toolbar means that an update is available.
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 
