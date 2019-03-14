@@ -142,10 +142,10 @@ You have two options here:
 
 #### **19. How to close opposite positions mutually?**
 
-* Any number of opposite positions by the same symbol and account can be closed at once;
-* Select the positions to close in the Positions panel. To select multiple entries, hold down Ctrl key and click each entry. To select a range of entries, hold down the Shift key and click on the first and last entries in the range;
-* With all positions selected, right-click and select Mutual close. The Mutual close dialog window will appear;
-* Click OK to confirm the close, and the request will be sent to the server.
+* In TraderEvolution you can close multiple opposite positions under the same account and symbol at once;
+* To select each position hold the Ctrl key and click on each position, to select the range hold the Shift key and select the positions from and to;
+* When selected, right-click on any selected position and select the Mutual close;
+* In the Mutual Close dialog box click 'Close' to confirm the mutual close.
 
 ![](https://lh6.googleusercontent.com/VPooOEguHb72crEZ23r9Aomfro3gPxAzSaiRZGqcYpl8g1atl8zg13Z1LXwNnB1G7wS0StNFR5yST2_8LSZ8VY7lDbFY-jDVLMVvMIFSIh73lLzp1MWTe6u46vWOISC76ee4Uhkv)
 
