@@ -4,7 +4,7 @@ TraderEvolution Desktop App performs automatic updates, meaning you don't need t
 
 To install TraderEvolution Desktop App simply run the .exe file and select the installation directory. Click Install and wait for the TraderEvolution to complete the installation for you.
 
-### **Updating the program**
+### How to manually update TraderEvolution Desktop App?
 
 An Update manager launches an automatic update every time you launch your TraderEvolution Desktop App.
 
@@ -14,41 +14,43 @@ An update icon on the top toolbar means that an update is available.
 
 Click on the update icon to install the latest updates of TraderEvolution.
 
-### **Uninstall**
+### How to Uninstall TraderEvolution from your PC?
 
-To uninstall the application, select Start -&gt; Programs -&gt; 'Name of terminal' -&gt; Uninstall. User can also uninstall the application through the Control panel in the Start menu on Windows.
+To uninstall the TraderEvolution, go to Start -&gt; Programs -&gt; 'Name of the terminal' -&gt; Uninstall. You can also uninstall TraderEvolution from the Control panel.
 
-Uninstalling the application won't remove default settings or connections. These data are stored in your profile folder, which is located in one of the following locations, depending on your operation system:
+Uninstalling TraderEvolution won't remove default settings or connections. These data are stored in your profile folder, which is located in one of the following locations, depending on your operation system:
 
 Windows Server 2016, XP - Documents and Settings\&lt;UserName&gt;\Application Data\Folder with terminal.
 
 Windows Vista, Windows 7, Win 8.1/10 - Users\&lt;UserName&gt;\AppData\Roaming\Folder with terminal.
 
-Any version of the application that you install, after removing the application for Desktop will continue to use the data from this profile folder.
+After re-installing TraderEvolution into your PC, the newly installed TraderEvolution App will parse the data from your profile folder.
 
-### **Login screen**
+### **How to Login?**
 
-The first time running the application for Desktop there will be a default connection set up, so user can simply enter the login and password to connect.
+Launch the TraderEvolution Desktop App and enter your credentials to login to your terminal.
 
 ![](../../../.gitbook/assets/login-screen.png)
 
-### **Changing password**
+### **How to change your password?**
 
 Passwords can be changed anytime by using the following methods:
 
-1. Before login to the application for Desktop:
+1. Before logging in to the App:
 
-If user forgot his password and needs to log in, simply click on the "Forgot password" button on the main login screen.
+If you do not remember your password, simply click on the Forgot password and follow the next steps.
 
 ![](../../../.gitbook/assets/password.png)
 
-To recover the password:
+To recover your password:
 
-* enter Login ID in the Login field;
-* enter email in the Email field;
-* click Recover to receive an email with a recovery key. Then enter this key to the field.
+* Enter your Login ID in the Login field;
+* Enter your email address in the Email field;
+* Click Recover to get your recovery key;
+* Check your email for the recovery key and enter it into the Key field;
+* Put down your new password and click Recover.
 
-2. After login to the application for Desktop:
+2. After logging in to the App:
 
 To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../../.gitbook/assets/image%20%282%29.png):
 
