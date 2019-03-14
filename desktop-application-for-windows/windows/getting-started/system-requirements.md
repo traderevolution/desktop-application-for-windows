@@ -1,6 +1,6 @@
 # System requirements
 
-Client Terminal has no minimum system requirements in order to run but, depending on the type of use, the following parameters are recommended:
+TraderEvolution platform does not have minimum requirements to run. Though please be advised that the following parameters are recommended.
 
 ### **Single account trading**
 

@@ -53,7 +53,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 #### **7. How to disaggregate the Market depth?**
 
 1. Open settings of the Market depth panel;
-2. Select the 'View' section of the 'General' tab. Select the 'By order' option in the drop down list of the 'View by' setting. Click Apply.  
+2. Select the 'View' section of the 'General' tab. Select the 'By order' option in the drop-down list of the 'View by' setting. Click Apply.  
 
 ![](../../.gitbook/assets/market-depth.jpg)
 
@@ -145,7 +145,7 @@ You have two options here:
 * In TraderEvolution you can close multiple opposite positions under the same account and symbol at once;
 * To select each position hold the Ctrl key and click on each position, to select the range hold the Shift key and select the positions from and to;
 * When selected, right-click on any selected position and select the Mutual close;
-* In the Mutual Close dialog box click 'Close' to confirm the mutual close.
+* In the Mutual Close dialog window click 'Close' to confirm the mutual close.
 
 ![](https://lh6.googleusercontent.com/VPooOEguHb72crEZ23r9Aomfro3gPxAzSaiRZGqcYpl8g1atl8zg13Z1LXwNnB1G7wS0StNFR5yST2_8LSZ8VY7lDbFY-jDVLMVvMIFSIh73lLzp1MWTe6u46vWOISC76ee4Uhkv)
 
