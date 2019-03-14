@@ -1,14 +1,14 @@
 # System requirements
 
-TraderEvolution platform does not have minimum requirements to run. Though please be advised that the following parameters are recommended.
+TraderEvolution platform does not have minimum requirements to run. Though please be advised that the following parameters are recommended:
 
 ### **Single account trading**
 
-2 GHz or higher processor.
+CPU: 2 GHz or higher.
 
-2 GB RAM \(This value should be dedicated to the application for Desktop only, for other OS tasks you should have some additional free RAM\).
+RAM: 2 GB or more.
 
-50 MB available disk space for installation and additional 500 MB for history cache.
+Available disk space: 50 MB for the software and 500 MB for history cache.
 
 Windows 7/ 8.1/ 10
 
