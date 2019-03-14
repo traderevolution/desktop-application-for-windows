@@ -12,7 +12,7 @@ An update icon on the top toolbar means that an update is available.
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 
-The icon remains visible until a user update the terminal to the latest version. To install new version, click on the update icon.
+Click on the update icon to install the latest updates of TraderEvolution.
 
 ### **Uninstall**
 
