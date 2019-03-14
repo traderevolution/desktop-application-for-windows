@@ -16,7 +16,7 @@ MISC: Microsoft .NET Framework 4.7 +.
 
 ### **Automated trading**
 
-CPU: 3.0 GHz or higher;
+CPU: 3 GHz or higher;
 
 RAM: 4 GB or more;
 
