@@ -64,21 +64,21 @@ Select Change trading password to change your password used before performing an
 
 To change the password:
 
-* enter current password in the Current password field;
-* enter new password in the New password field;
-* re-enter new password in the Confirm new password field;
-* click OK to apply the new password.
+* Enter your current password in the Current password field;
+* Enter your new password in the New password field;
+* Re-enter your new password in the Confirm new password field;
+* Click OK to activate your new password.
 
-**Errors arising when changing the password**
+**Errors and troubleshooting**
 
-When changing the password the user may have some problems, and the following error messages will be displayed:
+You might see some warning messages when changing your password. Below please find a warning message and its interpretation:
 
-1. Incorrect current password or login - the message appears if the old password is incorrect or the user does not already exist in the system.
-2. Incorrect new password: you cannot use the same password - the message appears if the user enters a new password, which coincides with the old password.
-3. New password contains prohibited symbols - the message appears if new password contains prohibited symbols \(for example, & etc.\).
-4. Password cannot be the same as login - this message is displayed if the new password matches the login.
+1. Incorrect current password or login - this message is displayed if your entered old password is incorrect or the user does not exist in the system.
+2. Incorrect new password: you cannot use the same password - this message is displayed if your entered new password is similar to the old one.
+3. New password contains prohibited symbols - this message is displayed if your entered new password contains prohibited symbols \(for example, & etc.\).
+4. Password cannot be the same as login - this message is displayed if your entered new password matches the login.
 5. Please enter new password - this message is displayed when new password has not been sent to the user or the new password field is empty.
-6. Incorrect new password: password should contain 1 number and 1 uppercase letter - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
-7. Incorrect new password: password should contain at least 8 chars and numbers - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
-8. Incorrect new password: password should contain at least 8 symbols including chars, numbers and special symbols - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
+6. Incorrect new password: password should contain 1 number and 1 uppercase letter - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and a more secure password\).
+7. Incorrect new password: password should contain at least 8 chars and numbers - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and a more secure password\).
+8. Incorrect new password: password should contain at least 8 symbols including chars, numbers and special symbols - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and a more secure password\).
 
