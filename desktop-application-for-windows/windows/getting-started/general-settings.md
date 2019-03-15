@@ -1,12 +1,12 @@
 # General settings
 
-The General settings menu is used to view and change general properties of the trading terminal. In order to open it, click on the button![](../../../.gitbook/assets/s1%20%281%29.png)at the top of the terminal.
+The General Settings menu is used to customize and change general properties of TraderEvolution App. To open it, click on the![](../../../.gitbook/assets/s1%20%281%29.png)button at the top toolbar of the App.
 
 ### **General**
 
 ![](../../../.gitbook/assets/1%20%2831%29.png)
 
-* Language - specifies a default language of a user interface. To set up language, select it from the list;
+* Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Info bar - allows displaying Info bar;
 * Enable sounds - allows to switch on or switch off the sounds in the platform;
 * Synchronize cursor - allows synchronization of cursors on different charts which are opened in the terminal;
