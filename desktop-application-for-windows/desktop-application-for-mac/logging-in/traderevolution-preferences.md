@@ -83,11 +83,11 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ![](../../../.gitbook/assets/6%20%282%29.png)
 
-* Confirm order placement;
-* Confirm order cancellation;
-* Confirm order/position modification;
-* Confirm position closing;
-* Confirm position reversing.
+* Confirm order placement - check if you want to confirm each order placement;
+* Confirm order cancellation - check if you want to confirm each order cancellation;
+* Confirm order/positions modification - check if you want to confirm each order/position modification;
+* Confirm position closing - check if you want to confirm each position closing;
+* Confirm position reversing - check if you want to confirm each position reversing.
 
 ### **Warnings:**
 
