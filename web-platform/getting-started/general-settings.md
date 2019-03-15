@@ -6,8 +6,8 @@ The General settings menu is used to view and change general properties of the W
 
 ![](../../.gitbook/assets/screenshot_1%20%283%29.png)
 
-* Language – specifies a default language of a user interface. To set up language, select it from the list;
-* Enable sounds – allows to switch on or switch off the sounds in the platform.
+* Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
+* Enable sounds - check to allow sound notifications.
 
 ### **View**
 

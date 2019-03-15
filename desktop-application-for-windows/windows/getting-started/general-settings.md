@@ -16,7 +16,7 @@ The General Settings menu is used to customize and change general properties of 
 
 ![](../../../.gitbook/assets/screenshot_2%20%282%29.png)
 
-* Rounded average open price – check to round open price of positionsin Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
+* Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
 * Abbreviate volumes – check to abbreviate volume values in all panels. For example: 1000 will be displayed as 1K, and 1000000 – 1M;
 * Reverse buttons order – check to reverse trading buttons into Sell/Buy pattern;
