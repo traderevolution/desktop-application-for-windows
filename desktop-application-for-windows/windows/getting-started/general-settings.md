@@ -7,39 +7,39 @@ The General Settings menu is used to customize and change general properties of 
 ![](../../../.gitbook/assets/1%20%2831%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
-* Info bar - allows displaying Info bar;
-* Enable sounds - allows to switch on or switch off the sounds in the platform;
-* Synchronize cursor - allows synchronization of cursors on different charts which are opened in the terminal;
-* Mouse wheel - allows to scroll the chart or to zoom it while scrolling the mouse wheel.
+* Info bar - check to display a comprehensive info bar over your Workspaces;
+* Enable sounds - check to allow sound notifications;
+* Synchronize cursor - synchs cursor among charts;
+* Mouse wheel - select the action to be performed when scrolling the mouse wheel, it's either scrolling or zooming in and out.
 
 ### **View**
 
 ![](../../../.gitbook/assets/screenshot_2%20%282%29.png)
 
-* Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
-* Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units;
-* Abbreviate volumes – if checked, volume values will be abbreviated in all panels. For example: 1000 will be displayed as 1K, and 1000000 – 1M;
-* Reverse buttons order – if checked, trading buttons will be reversed to Sell/Buy pattern;
-* Tooltips – if checked, all tooltips will be shown in the application; otherwise – will be hidden. This option is true by default.
+* Rounded average open price – check to round open price of positionsin Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
+* Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
+* Abbreviate volumes – check to abbreviate volume values in all panels. For example: 1000 will be displayed as 1K, and 1000000 – 1M;
+* Reverse buttons order – check to reverse trading buttons into Sell/Buy pattern;
+* Tooltips – check to display all tooltips in the application, uncheck to hide. The function is enabeled by default.
 
 ### **Trading defaults**
 
 ![](../../../.gitbook/assets/3%20%2815%29.png)
 
-* Account – specifies an account used by default, available for a multi-account user;
-* Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;
-* Set SL/TP values in offset \(for new orders\) – if checked, order prices are shown in offset, if unchecked – in absolute values;
+* Account – specifies your default account, for multi-account users only;
+* Symbol – specifies your default symbol. The default symbol will be shown whenever you load the Chart panel or the Order entry panel;
+* Set SL/TP values in offset \(for new orders\) – check to display order prices in offset, uncheck to display in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying:
   * Ticks;
   * Ticks \(fractional ticks for Forex\);
   * Points.
-* Use stop limit instead stop – allows placing stop limit orders instead of stop orders. When checked, the field 'Limit offset, ticks' becomes available;
-* Limit offset, ticks – allows to adjust a default quantity of ticks for offset of a limit price. Available when 'Use stop limit instead stop' is checked;
-* Order type – allows specifying order type, available values: Market, limit, Stop, Stop Limit, Tr. stop, OCO, Manual;
-* Market/Limit\(Stop limit\)/Stop TIF – allows setting up TIF for market/limit \(stop limit\)/stop orders respectively, actual for both auto and manual trading;
-* Types manager – allows setting defaults.
+* Use stop limit instead stop – check to place stop limit orders instead of stop orders. When checked activates the 'Limit offset, ticks' field;
+* Limit offset, ticks – use to adjust the default quantity of ticks for offset of a limit price. Active only if 'Use stop limit instead stop' is checked;
+* Order type – use to specify an order type, available values: Market, Limit, Stop, Stop Limit, Tr. stop, OCO, Manual;
+* Market/Limit\(Stop limit\)/Stop TIF – use to set up TIF for Market/Limit \(Stop Limit\)/Stop orders respectively. Operates in both auto and manual trading;
+* Types manager – use to set your default parameters per order.
 
-To specify additional settings for orders you need to open 'Types manager' and select a symbol type - Forex, Futures, Equities, etc. for which you want to set up default lots values. It is also possible to override default lots values for separate symbols by adding them to the symbol types tree using "+" button. In order to apply symbol type default lots settings, just delete symbol from the tree using context menu:
+Open 'Types manager' to apply additional settings to orders. Select the market - Forex, Futures, Equities, etc. to set the Default lot values. It is also possible to override default lots values for separate symbols by adding them to the symbol types tree using "+" button. In order to apply symbol type default lots settings, just delete symbol from the tree using context menu:
 
 ![](../../../.gitbook/assets/5f.png)
 
