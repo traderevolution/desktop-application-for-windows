@@ -136,7 +136,7 @@ You have two options here:
 
 #### **18. How to show time to next bar?**
 
-1. Right click on the Chart panel;
+1. Right-click on the Chart panel;
 2. Select ‘View’;
 3. Click on the ‘Time to next bar’ option to enable the countdown visible.
 
