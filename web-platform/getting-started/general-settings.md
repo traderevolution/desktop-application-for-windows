@@ -1,6 +1,6 @@
 # General settings
 
-The General settings menu is used to view and change general properties of the Web application. In order to open it, click on the button![](../../.gitbook/assets/1%20%2828%29.png)at the top menu of the platform.
+The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2828%29.png)button at the top menu of the platform.
 
 ### **General**
 
@@ -13,11 +13,11 @@ The General settings menu is used to view and change general properties of the W
 
 ![](../../.gitbook/assets/screenshot_2%20%284%29.png)
 
-* Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
-* Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units;
-* Reverse buttons order – if checked, trading buttons will be reversed to Sell/Buy pattern;
+* Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
+* Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
+* Reverse buttons order – check to reverse trading buttons into Sell/Buy pattern;
 * Display absolute qty. for Sell/Short – if checked, quantity for sell orders and short positions with positive values are shown;
-* Tooltips – if checked, all tooltips will be shown in the application; otherwise – will be hidden. This option is true by default.
+* Tooltips – check to display all tooltips in the application, uncheck to hide. The function is enabled by default.
 
 ### **Trading defaults**
 
