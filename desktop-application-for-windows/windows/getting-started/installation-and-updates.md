@@ -38,11 +38,9 @@ Passwords can be changed anytime by using the following methods:
 
 1. Before logging in to the App:
 
-If you do not remember your password, simply click on the Forgot password and follow the next steps.
+If you do not remember your password, simply click on the 'Forgot password' and follow the next steps:
 
 ![](../../../.gitbook/assets/password.png)
-
-To recover your password:
 
 * Enter your Login ID in the Login field;
 * Enter your email address in the Email field;
@@ -54,11 +52,11 @@ To recover your password:
 
 Go to your Account menu on the top toolbar![](../../../.gitbook/assets/image%20%282%29.png):
 
-Select Change password to change your password used to login to the TraderEvolution App.
+Select 'Change password' to change your password used to login to the TraderEvolution App.
 
 ![](../../../.gitbook/assets/image.png)
 
-Select Change trading password to change your password used before performing any trading operation.
+Select 'Change trading password' to change your password used before performing any trading operation.
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
@@ -78,7 +76,7 @@ You might see some warning messages when changing your password. Below please fi
 3. New password contains prohibited symbols - this message is displayed if your entered new password contains prohibited symbols \(for example, & etc.\).
 4. Password cannot be the same as login - this message is displayed if your entered new password matches the login.
 5. Please enter new password - this message is displayed when new password has not been sent to the user or the new password field is empty.
-6. Incorrect new password: password should contain 1 number and 1 uppercase letter - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and a more secure password\).
-7. Incorrect new password: password should contain at least 8 chars and numbers - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and a more secure password\).
-8. Incorrect new password: password should contain at least 8 symbols including chars, numbers and special symbols - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and a more secure password\).
+6. Incorrect new password: password should contain 1 number and 1 uppercase letter - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and more secure password\).
+7. Incorrect new password: password should contain at least 8 chars and numbers - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and more secure password\).
+8. Incorrect new password: password should contain at least 8 symbols including chars, numbers and special symbols - this message is displayed if your new password does not meet the required level of password security \(To keep yourself safe and protected, please enter a stronger and more secure password\).
 
