@@ -58,7 +58,6 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 In Confirmations section all of the options are fairly intuitive:
 
-* When Confirm order placement \(Trading idea\) is checked, order placement must be approved.
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;
 * Confirm order/positions modification - check if you want to confirm each order/position modification;
