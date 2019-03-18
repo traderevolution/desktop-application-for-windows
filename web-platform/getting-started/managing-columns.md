@@ -4,7 +4,7 @@
 
 To change the width of a column, simply move the mouse over the column border in the header row to see the cursor change to a double-sided arrow. Then click and drag the border to resize the column.
 
-![](../../.gitbook/assets/1%20%2835%29.png)
+![](../../.gitbook/assets/1%20%2836%29.png)
 
 To autosize a column, simply move the mouse over the column border in the header row and double click the mouse when the pointer changes to a double-sided arrow.
 
@@ -12,7 +12,7 @@ To change the width of a column, simply move the mouse over the column border in
 
  Right-clicking on any column header displays a list of columns that are available in the panel. Only columns that are checked will be visible. To display a column just place a checkmark by the desired column title.
 
-![](../../.gitbook/assets/2%20%2819%29.png)
+![](../../.gitbook/assets/2%20%2820%29.png)
 
 ### **Reordering columns**
 

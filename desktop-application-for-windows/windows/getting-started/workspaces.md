@@ -18,7 +18,7 @@ To have quick access to this folder click on the button ‘More’ at the top of
 
 During session, several workspaces can be loaded and kept open simultaneously. All opened workspaces are shown in the bottom of panel. User can switch between the open workspaces by toggling the tabs.
 
-![](../../../.gitbook/assets/2%20%2816%29.png)
+![](../../../.gitbook/assets/2%20%2817%29.png)
 
 ### Getting a Blank Workspace
 

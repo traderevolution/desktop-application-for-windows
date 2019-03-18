@@ -8,7 +8,7 @@ The Symbol lookup panel shows all symbols which are available through a broker. 
 
 The Symbol lookup contains two drop-down lists with exchanges and symbols grouped according to their types, which are used on the server and available to the user. All symbols are shown in the default sequence. To filter the Symbol lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
-![](../../.gitbook/assets/2%20%281%29.png)
+![](../../.gitbook/assets/2%20%282%29.png)
 
 ![](../../.gitbook/assets/3%20%2828%29.png)
 
