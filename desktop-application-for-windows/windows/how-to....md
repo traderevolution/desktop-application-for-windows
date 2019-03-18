@@ -29,7 +29,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 ![](../../.gitbook/assets/oco.jpg)
 
-* Visual trading is another way to place OCO order directly on a chart.
+* You can also place an OCO order using Visual trading directly on the chart.
 
 ![](https://lh4.googleusercontent.com/ytScEA_E9yXrIHL8oQ13B_ws1mqopYafo_nSodKi96ll3MAMRWjuz_PApgHuk2EuV0tb-JrAOekhL-YJOSvZm7WnmZf9Haefnb8Fieol4lWkRkMlvk-hFYbGWeWcMm1xBpbHLGB9)
 
@@ -127,7 +127,7 @@ You have two options here:
 
 #### **17. How to enable DDE Link?**
 
-1. Open the context menu of the chosen panel;
+1. Open the context menu of the desired panel with DDE link;
 2. Click on Export and select Excel from the list;
 3. Make sure to check the ‘Synchronize’ checkbox;
 4. Click Export.

@@ -167,4 +167,5 @@
     * [Arranging panels](web-platform/getting-started/arranging-panels.md)
     * [Top menu and Status bar](web-platform/getting-started/top-menu-and-status-bar.md)
     * [Symbol & Account lookups](web-platform/getting-started/symbol-and-account-lookups.md)
+  * [Analysis tools](web-platform/analysis-tools.md)
 
