@@ -1,6 +1,6 @@
 # Chart settings
 
-Chart settings include thirteen sections to set up: 
+Chart settings can be opened through the context menu of the Chart panel: 
 
 #### **Data style**
 
