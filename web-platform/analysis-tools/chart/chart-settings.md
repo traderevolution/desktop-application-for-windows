@@ -38,7 +38,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Zoom - choose between Manual and Automatic Price scale. In manual mode, changes can be made to the vertical price scale. Automatic mode is based on visible prices but it also can fit Indicators, Orders/Positions, Drawings and the day's High/Low prices.
 * Scale markings - allow setting up custom grid on the price scale as well as minimal grid step, highlight grid step and highlight grid color.
 
-![](../../../.gitbook/assets/6.1.png)
+![](../../../.gitbook/assets/111.png)
 
 * Appearance - allows setting up style of price scale.
 
