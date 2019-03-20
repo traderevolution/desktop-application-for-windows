@@ -4,7 +4,7 @@
 
 To open Positions panel, select Terminal -&gt; Positions:
 
-![](../../../.gitbook/assets/9%20%287%29.png)
+![](../../../.gitbook/assets/9%20%288%29.png)
 
 The following columns are available in the panel:
 

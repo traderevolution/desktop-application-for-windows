@@ -170,4 +170,5 @@
   * [Analysis tools](web-platform/analysis-tools/README.md)
     * [Chart](web-platform/analysis-tools/chart/README.md)
       * [Chart overview](web-platform/analysis-tools/chart/chart-overview.md)
+      * [Chart settings](web-platform/analysis-tools/chart/chart-settings.md)
 

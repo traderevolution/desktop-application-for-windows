@@ -4,11 +4,11 @@
 
 To open Accounts panel, select Account -&gt; Accounts in the header of the terminal:
 
-![](../../../../.gitbook/assets/10%20%285%29.png)
+![](../../../../.gitbook/assets/10%20%286%29.png)
 
 The Account panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together:
 
-![](../../../../.gitbook/assets/11%20%284%29.png)
+![](../../../../.gitbook/assets/11%20%285%29.png)
 
 If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. 
 

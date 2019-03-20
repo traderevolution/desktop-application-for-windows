@@ -20,24 +20,24 @@ Info bar can be enabled or hidden via the tab General in General settings.
 
 It looks as the following:
 
-![](../../../.gitbook/assets/1%20%2826%29.png)
+![](../../../.gitbook/assets/1%20%2827%29.png)
 
 You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2819%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
-![](../../../.gitbook/assets/3%20%283%29.png)
+![](../../../.gitbook/assets/3%20%284%29.png)
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../../.gitbook/assets/4%20%2832%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../../.gitbook/assets/4%20%2833%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
-![](../../../.gitbook/assets/5%20%285%29.png)
+![](../../../.gitbook/assets/5%20%286%29.png)
 
 This menu contains an account lookup for users having more than one account.
 
@@ -58,8 +58,8 @@ To remove more than one element, hold the key 'Ctrl', select as much elements as
   
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
-* ![](../../../.gitbook/assets/8%20%2816%29.png)– click to collapse each tree's entity;
-* ![](../../../.gitbook/assets/9%20%289%29.png)– click to expand each tree's entity.
+* ![](../../../.gitbook/assets/8%20%2817%29.png)– click to collapse each tree's entity;
+* ![](../../../.gitbook/assets/9%20%2810%29.png)– click to expand each tree's entity.
 
 The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
 

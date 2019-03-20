@@ -4,7 +4,7 @@
 
 To change the width of a column, simply move the mouse over the column border in the header row to see the cursor change to a double-sided arrow. Then click and drag the border to resize the column.
 
-![](../../.gitbook/assets/1%20%2836%29.png)
+![](../../.gitbook/assets/1%20%2837%29.png)
 
 To autosize a column, simply move the mouse over the column border in the header row and double click the mouse when the pointer changes to a double-sided arrow.
 
@@ -22,5 +22,5 @@ User can rearrange columns in tables by moving them to new locations. Click on a
 
  Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
 
-![](../../.gitbook/assets/3%20%2820%29.png)
+![](../../.gitbook/assets/3%20%2821%29.png)
 

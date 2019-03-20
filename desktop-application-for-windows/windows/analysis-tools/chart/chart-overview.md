@@ -73,7 +73,7 @@ Working with right mouse button, user can get the following information:
 
 In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../../.gitbook/assets/4%20%2829%29.png)
+![](../../../../.gitbook/assets/4%20%2830%29.png)
 
 #### **Additional options**
 
@@ -83,7 +83,7 @@ Right clicking on the timeline shows the panel with additional options:
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 * Show extended sessions - this option displays all quotes received on pre-session, main session and post-session. The timeframes for sessions should be set in the Backoffice for each symbol.
 
-![](../../../../.gitbook/assets/5%20%2817%29.png)
+![](../../../../.gitbook/assets/5%20%2818%29.png)
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 

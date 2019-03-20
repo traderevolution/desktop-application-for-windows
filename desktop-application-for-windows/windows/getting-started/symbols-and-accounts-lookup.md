@@ -8,13 +8,13 @@ The Symbol lookup panel shows all symbols which are available through the broker
 
 The Symbol lookup contains two drop-down lists with exchanges and symbols grouped according to their types, which are used on the server and available to the user. All symbols are shown in the default sequence. To filter the Symbol lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
-![](../../../.gitbook/assets/3%20%286%29.png)
+![](../../../.gitbook/assets/3%20%287%29.png)
 
 ![](../../../.gitbook/assets/4%20%284%29.png)
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
-![](../../../.gitbook/assets/5%20%2818%29.png)
+![](../../../.gitbook/assets/5%20%2819%29.png)
 
 Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 
@@ -37,7 +37,7 @@ If there is no localized name for an instrument for the current interface langua
 
 ### Account lookup
 
-The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../../.gitbook/assets/7%20%2813%29.png)next to the account scroll down menu.
+The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../../.gitbook/assets/7%20%2814%29.png)next to the account scroll down menu.
 
 ![](../../../.gitbook/assets/8%20%282%29.png)
 

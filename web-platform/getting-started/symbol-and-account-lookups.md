@@ -10,7 +10,7 @@ The Symbol lookup panel shows all symbols which are available through a broker. 
 
 ![](../../.gitbook/assets/2%20%282%29.png)
 
-![](../../.gitbook/assets/3%20%2828%29.png)
+![](../../.gitbook/assets/3%20%2829%29.png)
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
@@ -34,7 +34,7 @@ If there is no localized name for an instrument for the current interface langua
 
 ### **Account lookup** 
 
-The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/5%20%286%29.png)next to the account scroll down menu.
+The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/5%20%287%29.png)next to the account scroll down menu.
 
 ![](../../.gitbook/assets/6-copy%20%281%29.png)
 

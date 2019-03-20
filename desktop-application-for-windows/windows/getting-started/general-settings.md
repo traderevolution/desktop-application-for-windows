@@ -4,7 +4,7 @@ The General Settings menu is used to customize and change general properties of 
 
 ### **General**
 
-![](../../../.gitbook/assets/1%20%2832%29.png)
+![](../../../.gitbook/assets/1%20%2833%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Info bar - check to display a comprehensive info bar over your Workspaces;
@@ -24,7 +24,7 @@ The General Settings menu is used to customize and change general properties of 
 
 ### **Trading defaults**
 
-![](../../../.gitbook/assets/3%20%2815%29.png)
+![](../../../.gitbook/assets/3%20%2816%29.png)
 
 * Account – specifies your default account, for multi-account users only;
 * Symbol – specifies your default symbol. The default symbol will be shown whenever you load the Chart panel or the Order entry panel;
