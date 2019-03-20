@@ -46,31 +46,26 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 * Highlight prices:
 
-o    Price indicator - allows setting up active price marking as:
+  * Price indicator - allows setting up active price marking as:
 
-      **** -  ****Scale marker
+          - ****Scale marker
 
-       - Scale marker with line
+          - Scale marker with line
 
-       - None
+          - None
 
-o    Ask price color
-
-o    Last price color
-
-o    Bid price color
+  * Ask price color
+  * Last price color
+  * Bid price color
 
 * Spread type - allows setting up the way of spread displaying:
 
-o    None
+  * None
+  * Area
+  * Line \(Bid and Ask\)
+  * Line with price \(Bid and Ask\)
 
-o    Area
-
-o    Line \(Bid and Ask\)
-
-o    Line with price \(Bid and Ask\)
-
-If spread type is None - single price indicator is shown, depending on chart data type \(Bid, Last, Ask etc.\)
+  If spread type is None - single price indicator is shown, depending on chart data type \(Bid, Last, Ask etc.\)
 
 * Spread area color - color of spread area \(if it's chosen as spread type\).
 * Previous close line - type and color of the Previous close line.
