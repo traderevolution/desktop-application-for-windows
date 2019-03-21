@@ -172,4 +172,5 @@
       * [Chart overview](web-platform/analysis-tools/chart/chart-overview.md)
       * [Chart settings](web-platform/analysis-tools/chart/chart-settings.md)
       * [Drawings](web-platform/analysis-tools/chart/drawings.md)
+      * [Chart overlay](web-platform/analysis-tools/chart/chart-overlay.md)
 
