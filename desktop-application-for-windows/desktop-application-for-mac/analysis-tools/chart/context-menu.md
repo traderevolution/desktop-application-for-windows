@@ -1,6 +1,6 @@
 # Context menu
 
-The Context menu provides another method for changing Chart options. To open the menu make right click anywhere within the chart.
+The Context menu provides another method for changing Chart options. To open the menu, right-click anywhere within the chart.
 
 The following options are available in the Context menu:
 
@@ -16,7 +16,7 @@ The following options are available in the Context menu:
 
 2.      Bid – chart will be built by Bid values.
 
-3.      Last – if this type is chosen, chart is based on the prices of trades.
+3.      Last – if this type is selected, chart is based on the prices of trades.
 
 4.      Ask – chart will be built by Ask values.
 
