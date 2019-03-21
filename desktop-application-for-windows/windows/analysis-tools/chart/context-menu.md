@@ -13,7 +13,7 @@ The following options are available in the Context menu:
 
 1. Default by symbol – chart will be built by symbol values by default.
 2. Bid – chart will be built by Bid values.
-3. Last – if this type is chosen, chart is based on the prices of trades.
+3. Last – if this type is selected, chart is based on the prices of trades.
 4. Ask – chart will be built by Ask values.
 
 * Overlays – allows adding one chart of the symbol on the other in order to observe symbol correlation, or removing all overlays.
