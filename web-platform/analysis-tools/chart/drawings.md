@@ -64,3 +64,7 @@ Each drawing tool has its Context menu. Right-click on the initial point of the 
 * Clone – allows to create the same drawing as selected one;
 * Remove – removes selected tool.
 
+Drawing's Settings menu contains different sections depending on drawing's type. In general, it allows to select the style of a drawing.
+
+![](../../../.gitbook/assets/3-copy.png)
+
