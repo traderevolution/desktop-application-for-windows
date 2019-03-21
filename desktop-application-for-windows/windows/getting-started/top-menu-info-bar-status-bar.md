@@ -48,11 +48,11 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 * Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
 *  Clocks – shows a list of clocks:
 
-![](../../../.gitbook/assets/6%20%2823%29.png)
+![](../../../.gitbook/assets/6%20%2824%29.png)
 
 Check needed clock\(s\) to be displayed in the 'Info bar'.
 
-All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../../.gitbook/assets/7%20%284%29.png).
+All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../../.gitbook/assets/7%20%285%29.png).
 
 To remove more than one element, hold the key 'Ctrl', select as much elements as you need, right-click anywhere on the highlighted area and select 'Delete'.  
   

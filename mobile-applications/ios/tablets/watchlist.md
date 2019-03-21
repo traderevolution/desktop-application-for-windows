@@ -27,7 +27,7 @@ In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
-![](../../../.gitbook/assets/7%20%283%29.png)
+![](../../../.gitbook/assets/7%20%284%29.png)
 
 ### **Symbol menu**
 

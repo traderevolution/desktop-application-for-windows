@@ -141,7 +141,7 @@ _Mouse trading:_
 
 Hover – color and style of the line for sliding the cursor through each price level.
 
-![](../../../.gitbook/assets/5%20%2825%29.png)
+![](../../../.gitbook/assets/5%20%2826%29.png)
 
 _Position bar:_
 

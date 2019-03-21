@@ -2,7 +2,7 @@
 
 Event log panel shows a log of all events that occurred during trading sessions. Click on the button![](../../../.gitbook/assets/1%20%2836%29.png)in the Status bar to open the Event log panel.
 
-![](../../../.gitbook/assets/2%20%2825%29.png)
+![](../../../.gitbook/assets/2%20%2826%29.png)
 
 Available columns:
 
@@ -11,7 +11,7 @@ Available columns:
 * Event – title of event.
 * Details – the text of event message is shown in the tooltip of the ‘Details’ icon.
 
-![](../../../.gitbook/assets/3%20%2842%29.png)
+![](../../../.gitbook/assets/3%20%2843%29.png)
 
 Click on this icon to open a deal ticket.
 
@@ -36,7 +36,7 @@ The following types are available:
 
 * Updater – allows showing all information about system updates.
 
-To clear the Event log table, call the context menu with right-clicking anywhere on the table and select Clear:![](../../../.gitbook/assets/7%20%286%29.png).
+To clear the Event log table, call the context menu with right-clicking anywhere on the table and select Clear:![](../../../.gitbook/assets/7%20%287%29.png).
 
 This option doesn't delete data, this is just for clearing a current Event log panel view.
 
