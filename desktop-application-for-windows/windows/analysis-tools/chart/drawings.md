@@ -84,13 +84,14 @@ Drawing's Settings menu contains different sections depending on drawing's type.
 
 However, different sections' combinations are available for different drawings.
 
-* For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle, Polygon, Circle, Ellipse, Andrew's pitchfork, Price channel, Fibonacci spiral, Fibonacci time zone, Gann line, Gann fan, Gann grid, Regression Channel, ABC pattern, PPZ \(Price pivot zone\), Top Bottom Pattern, Gartley butterfly, Ruler, Mark, and Comments, the following sections are available:
-* * Appearance – allows to set up drawing's view parameters;
-  * Points – allows to indicate coordinates for every point which must be specified for a drawing. Coordinates indication is realized via values of the fields Time and Price:
+For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle, Polygon, Circle, Ellipse, Andrew's pitchfork, Price channel, Fibonacci spiral, Fibonacci time zone, Gann line, Gann fan, Gann grid, Regression Channel, ABC pattern, PPZ \(Price pivot zone\), Top Bottom Pattern, Gartley butterfly, Ruler, Mark, and Comments, the following sections are available:
+
+* Appearance – allows to set up drawing's view parameters;
+* Points – allows to indicate coordinates for every point which must be specified for a drawing. Coordinates indication is realized via values of the fields Time and Price:
 
 ![](../../../../.gitbook/assets/21.png)
 
-Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
+* Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
 
 ![](../../../../.gitbook/assets/22.png)
 
@@ -98,7 +99,7 @@ However, different sections' combinations are available for different drawings.
 
 ![](../../../../.gitbook/assets/25%20%281%29.png)
 
-* For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc, Fibonacci ellipses, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal analysis, the following sections are available:
+For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc, Fibonacci ellipses, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal analysis, the following sections are available:
 
           1. Appearance;
 
