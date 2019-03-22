@@ -26,7 +26,7 @@ The following options are available in the Context menu:
 2. Day high/low – allows displaying lines of day high and low prices on the chart.
 3. Settlement price – allows displaying settlement price on the chart and choosing the style of its line.
 4. Previous settlement price – allows displaying previous settlement price on the chart and choosing the style of its line.
-5. Time to next bar – allows displaying time to left to next bar on chart.
+5. Time to next bar – allows displaying time to next bar on the chart.
 6. Crosshair – shows/hides the crosshair on the chart.
 7. Grid time/price – horizontal and vertical lines that help to compare prices and time on the axis with bars and lines on the chart.
 8. Drawing toolbar – shows/hides the drawing toolbar.
