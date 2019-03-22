@@ -28,7 +28,7 @@ The following options are available in the Context menu:
 
 2.      Previous settlement price – allows displaying previous settlement price on the chart and choosing the style of its line.
 
-3.      Time to next bar – allows displaying time to left to next bar on chart.
+3.      Time to next bar – allows displaying time to next bar on the chart.
 
 4.      Crosshair – shows/hides the crosshair on the chart.
 
