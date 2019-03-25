@@ -83,13 +83,13 @@ The following information is available in each group:
 
 For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
-Contract month;
+      - Contract month;
 
-Contract month, Last trade date, Settlement date, Notice date, First trade date;
+      - Contract month, Last trade date, Settlement date, Notice date, First trade date;
 
-Contract month, Last trade date, Settlement date, Notice date;
+      - Contract month, Last trade date, Settlement date, Notice date;
 
-Contract month, Last trade.
+      - Contract month, Last trade.
 
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments. Can be only Cash for Bonds;
 * Strike price – price level of an underlier by which Option contract must be executed;
