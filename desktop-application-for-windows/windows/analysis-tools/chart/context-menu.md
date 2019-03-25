@@ -8,7 +8,7 @@ The following options are available in the Context menu:
 * Object manager – evokes object manager window which simplifies work with settings and displaying of the indicators, drawings and overlays.
 * Style – sets the style of the chart bars. A user is able to choose among the following types: Line, Candle, Bar, Dots, Histogram, Area, Dotted line.
 * Info Window – allows to set Info Window as Separate Window, Attached to cursor, or to make it be Hidden.
-* Aggregation types – evokes window with custom aggregation type settings in order to choose the needed type or edit some settings.
+* Aggregation types – evoke window with custom aggregation type settings in order to choose the needed type or edit some settings.
 * Data type – sets the type of source for quotes:
 
 1. Default by symbol – chart will be built by symbol values by default.
@@ -16,10 +16,10 @@ The following options are available in the Context menu:
 3. Last – if this type is selected, chart is based on the prices of trades.
 4. Ask – chart will be built by Ask values.
 
-* Overlays – allows adding one chart of the symbol on the other in order to observe symbol correlation, or removing all overlays.
-* Indicators – evokes the Scripts lookup for easy indicator selection and allow to remove the chosen indicators.
-* Drawing tools – is used for choosing the drawing tool or removing the existing ones. The following options are available: Selection, Snap to candle, Stay in drawing mode; Trend, Geometry, Fibonacci, Gann, Patterns, Secondary tools; Remove all.
-* Analysis tools – is used for choosing the tool for analysis or removing the existing ones. The following options are available: Price statistics, Volume profile, Bar statistics, Volume bars, T&S, VWAP.
+* Overlays – allow adding one chart of the symbol on the other in order to observe symbol correlation, or removing all overlays.
+* Indicators – evoke the Scripts lookup for easy indicator selection and allow to remove the chosen indicators.
+* Drawing tools – allow to select the drawing tool or remove the existing ones. The following options are available: Selection, Snap to candle, Stay in drawing mode; Trend, Geometry, Fibonacci, Gann, Patterns, Secondary tools; Remove all.
+* Analysis tools – allow to select the tool for analysis or remove the existing ones. The following options are available: Price statistics, Volume profile, Bar statistics, Volume bars, T&S, VWAP.
 * View – offers visible elements on the chart. Here a user can choose:
 
 1. Previous close – the last closed line from previous session.
@@ -32,6 +32,6 @@ The following options are available in the Context menu:
 8. Drawing toolbar – shows/hides the drawing toolbar.
 9. Chart Order entry – shows/hides Chart Order entry section on the chart.
 
-* Refresh – reloads the chart data and redraws the panel. Note: the Charts panel refreshes automatically.
+* Refresh – reloads the chart data and redraws the panel. Note: the Chart panel refreshes automatically.
 * Settings – opens the Settings panel. The settings panel allows users to adjust view, scale, style and other parameters of the chart.
 

@@ -8,8 +8,8 @@ The following options are available in the Context menu:
 * Refresh – reloads the chart data and redraws the panel. Note: the Charts panel refreshes automatically.
 * Set hotkeys – opens the Hotkeys preferences window.
 * Symbols lookup – allows selecting necessary symbol from the list of available.
-* Drawing tools – is used for choosing the drawing tool or removing the existing ones. The following options are available: Snap to candle, Stay in drawing mode; Trend, Geometry, Fibonacci, Gann.
-* Indicators – evokes the Scripts lookup for easy indicator selection and allow to remove the chosen indicators.
+* Drawing tools – allows to select the drawing tool or remove the existing ones. The following options are available: Snap to candle, Stay in drawing mode; Trend, Geometry, Fibonacci, Gann.
+* Indicators – evoke the Scripts lookup for easy indicator selection and allow to remove the chosen indicators.
 * Data type – sets the type of source for quotes:
 
 1.      Default by symbol – chart will be built by symbol values by default.
@@ -34,16 +34,16 @@ The following options are available in the Context menu:
 
 5.      Grid – horizontal and vertical lines that help to compare prices and time on the axis with bars and lines on the chart.
 
-6.      Volume bars – allows to show volume bars as analysis tool on a chart.
+6.      Volume bars – allow to show volume bars as analysis tool on a chart.
 
-7.      Opened positions – allows to show opened positions on a chart.
+7.      Opened positions – allow to show opened positions on a chart.
 
-8.      Working orders – allows to show working orders on a chart.
+8.      Working orders – allow to show working orders on a chart.
 
 9.      Drawing toolbar – shows/hides the drawing toolbar.
 
 10.  Order entry – shows/hides Chart Order entry section on the chart.
 
 * Duplicate panel – allows to duplicate the chosen panel.
-* Preferences – opens the Preferences panel that allows users to adjust view, scale, style and other parameters of the chart.
+* Preferences – open the Preferences panel that allows users to adjust view, scale, style and other parameters of the chart.
 
