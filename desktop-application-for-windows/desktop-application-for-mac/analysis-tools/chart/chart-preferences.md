@@ -40,7 +40,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/3%20%2833%29.png)
+![](../../../../.gitbook/assets/3%20%2834%29.png)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -76,7 +76,7 @@ Time separators:
 
 ### **Trading**
 
-![](../../../../.gitbook/assets/4%20%283%29.png)
+![](../../../../.gitbook/assets/4%20%284%29.png)
 
   
 The following adjustments are available in this section:

@@ -89,11 +89,11 @@ STD = SQRT\(1/\(n-1\) \* SUM\(xi-avr\_x\)^2\)
 
   Ŷ = a + b\*x
 
-![](../../../../.gitbook/assets/3%20%2810%29.png)
+![](../../../../.gitbook/assets/3%20%2811%29.png)
 
 2\) Calculate the standard deviation \(SD\):
 
-![](../../../../.gitbook/assets/4%20%281%29.png)
+![](../../../../.gitbook/assets/4%20%282%29.png)
 
 3\) Plot +1SD and -1SD from obtained regression line.
 
@@ -147,7 +147,7 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
 Cumulative P/L chart allows users to view changes of their balances and P/L graphically. Cumulative P/L chart in the **Operations** mode displays how a user’s balance was changed depending on the trade operations performed within the selected period. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the button ![](../../../../.gitbook/assets/5%20%285%29.png).
 
-![](../../../../.gitbook/assets/3%20%2818%29.png)
+![](../../../../.gitbook/assets/3%20%2819%29.png)
 
 Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../../.gitbook/assets/7%20%2820%29.png)to select the corresponding modes.
 
@@ -155,7 +155,7 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ### **Aggregate P/L Chart**
 
-![](../../../../.gitbook/assets/4%20%2814%29.png)
+![](../../../../.gitbook/assets/4%20%2815%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 

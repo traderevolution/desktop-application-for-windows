@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Trading ideas to user-sub
 
 **New** – ​tab that allows setting all parameters for sending a new Trading idea:
 
-![](../../.gitbook/assets/2%20%2835%29.png)
+![](../../.gitbook/assets/2%20%2836%29.png)
 
 In order to send a Trading idea, a user-analyst has to specify mandatory order parameters:
 
@@ -33,11 +33,11 @@ The following options are not mandatory:
 
 After specifying all the parameters of the Trading idea, the user-analyst needs to click on the ‘Send’ button to send the idea. In case of a successful Trading idea sending, the user gets a notification:
 
-![](../../.gitbook/assets/3%20%2844%29.png)
+![](../../.gitbook/assets/3%20%2845%29.png)
 
 **Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Trading ideas, which lifetime is not expired:
 
-![](../../.gitbook/assets/4%20%287%29.png)
+![](../../.gitbook/assets/4%20%288%29.png)
 
 The sent Trading idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
 

@@ -2,7 +2,7 @@
 
 ### **Top menu**
 
-![](../../.gitbook/assets/4%20%2823%29.png)
+![](../../.gitbook/assets/4%20%2824%29.png)
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * More: access to TraderEvolution Global website and About current version screen.
@@ -17,7 +17,7 @@
 
 The Status bar, located at the bottom of the platform, makes it possible to "stream" information such as news and many others. The Status bar can be customized to show only information that user needs.
 
-![](../../.gitbook/assets/3%20%2822%29.png)
+![](../../.gitbook/assets/3%20%2823%29.png)
 
 The Status bar displays \(from left to right\):
 

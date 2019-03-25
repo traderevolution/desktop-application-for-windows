@@ -13,7 +13,7 @@ This menu contains such sections as:
 
 ### **View:**
 
-![](../../../.gitbook/assets/2%20%2834%29.png)
+![](../../../.gitbook/assets/2%20%2835%29.png)
 
 * Display quantity in lots – if checked, orders quantity is shown in lots, otherwise - in units;
 * Display quantity in absolute – if checked, orders quantity is shown in absolute values;
@@ -24,7 +24,7 @@ This menu contains such sections as:
 
 ‘Sounds’ preferences allow to enable/disable System and Trading sounds.
 
-![](../../../.gitbook/assets/3%20%2827%29.png)
+![](../../../.gitbook/assets/3%20%2828%29.png)
 
 * System
   * Welcome;

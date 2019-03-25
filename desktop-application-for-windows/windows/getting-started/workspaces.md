@@ -18,13 +18,13 @@ To have quick access to this folder click on the button ‘More’ at the top of
 
 During session, several workspaces can be loaded and kept open simultaneously. All opened workspaces are shown in the bottom of panel. User can switch between the open workspaces by toggling the tabs.
 
-![](../../../.gitbook/assets/2%20%2817%29.png)
+![](../../../.gitbook/assets/2%20%2818%29.png)
 
 ### Getting a Blank Workspace
 
-New blank \(without any panels\) Workspace can be created by clicking on the button![](../../../.gitbook/assets/3%20%289%29.png). 
+New blank \(without any panels\) Workspace can be created by clicking on the button![](../../../.gitbook/assets/3%20%2810%29.png). 
 
-Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../../.gitbook/assets/4%20%2817%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
+Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../../.gitbook/assets/4%20%2818%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
 
 ### Workspace manager
 
