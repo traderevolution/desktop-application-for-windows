@@ -8,7 +8,7 @@ Use the main login page to sign in to TraderEvolution Web platform. A valid logi
 
 If a user forgot his password and needs to log in, simply click on the 'Forgot password' button on the main login screen.
 
-![](../../.gitbook/assets/screenshot_1%20%282%29.png)
+![](../../.gitbook/assets/screenshot_1%20%283%29.png)
 
 To recover the password:
 

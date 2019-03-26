@@ -175,4 +175,5 @@
       * [Chart overlay](web-platform/analysis-tools/chart/chart-overlay.md)
       * [Context menu](web-platform/analysis-tools/chart/context-menu.md)
     * [Watchlist](web-platform/analysis-tools/watchlist.md)
+    * [Time & Sales](web-platform/analysis-tools/time-and-sales.md)
 
