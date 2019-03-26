@@ -19,7 +19,7 @@ For each symbol, the following information is available:
 * Bid - the last best bid price.
 * Bid size - the volume of the best bid.
 * Ask - the last best ask price.
-* Ask size – the volume of the best ask.
+* Ask size - the volume of the best ask.
 * Change - the price deviation from a Previous close price.
 * Change, % - the price deviation from a Previous close price in a percentage.
 * Open - the day's open price.
@@ -90,15 +90,15 @@ Symbol Info panel allows displaying settings information for a selected symbol. 
 * Settlement date – date when delivery has to take place. Available for Options and Futures;
 * Close-out deadline – date when positions will be closed by a specific symbol. Available for Futures and Options;
 
-For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for 'Symbol info panel':
+For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
-                 Contract month;
+                 - Contract month;
 
-                 Contract month, Last trade date, Settlement date, Notice date, First trade date;
+                 - Contract month, Last trade date, Settlement date, Notice date, First trade date;
 
-                 Contract month, Last trade date, Settlement date, Notice date;
+                 - Contract month, Last trade date, Settlement date, Notice date;
 
-                 Contract month, Last trade.
+                 - Contract month, Last trade.
 
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments. Can be only Cash for Bonds;
 * Strike price – price level of an underlier by which Option contract must be executed;
@@ -150,7 +150,7 @@ Note: The variable tick cost/size value for the Futures, Futures CFD, Options sy
 
 * Margin type – type of margin calculation. Can be different for different assets;
 * Margin by account – shows margin requirements based on account coefficients;
-* Margin req. – shows margin requirements, which depend on the margin calculation type. When the "None" margin calculation type is selected for the instrument, the "-" is displayed;
+* Margin req. – shows margin requirements, which depend on the margin calculation type. When the 'None' margin calculation type is selected for the instrument, the "-" is displayed;
 * Buy – shows margin requirements for long positions which use different long/short margin and don’t depend on overnight margin;
 * Sell – shows margin requirements for short positions which use different long/short margin and don’t depend on overnight margin;
 * Day – shows day margin requirements which don’t depend on long/short margin;
@@ -180,7 +180,7 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 
-'Symbol info' panel displays these fee types depending upon comission plan settings on the Server.
+Symbol info panel displays these fee types depending upon commission plan settings on the Server.
 
 5\) Rebates:
 
