@@ -2,9 +2,9 @@
 
 Time & Sales panel lists sales operations on the market.
 
-To open the Time & Sales panel, select ‘Terminal -&gt; Time & Sales’.
+To open the Time & Sales panel, select Terminal -&gt; Time & Sales.
 
-The Time & Sales panel chronologically shows all trades for a symbol at the real time mode.
+The Time & Sales panel chronologically shows all trades for a symbol in the real time mode.
 
 ### **Columns**
 

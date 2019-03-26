@@ -1,10 +1,10 @@
 # Time & Sales
 
-Time&Sales panel lists sales operations on the market.
+Time & Sales panel lists sales operations on the market.
 
-To open the Time&Sales panel select Terminal -&gt; Time&Sales.
+To open the Time & Sales panel select Terminal -&gt; Time & Sales.
 
-The Time&Sales panel chronologically shows all trades for a symbol in real time mode.
+The Time & Sales panel chronologically shows all trades for a symbol in real time mode.
 
 The information about chosen symbol starts streaming upon opening the panel.
 
@@ -24,7 +24,7 @@ For each trade, the following data is available:
 Right clicking within the Time&Sales panel evokes its context menu with following options:
 
 * Clear table – deletes all quotes and trades from the panel.
-* Show quotes – if checked, the Time and Sales panel shows trades together with quotes. This option makes sense only for Real time mode.
+* Show quotes – if checked, the Time & Sales panel shows trades together with quotes. This option makes sense only for Real time mode.
 * Aggregation – if checked, all trades with the same price, side, size, and MPId in one row as total are shown. This is applied to the highly-liquid markets.
 
 If Show quotes = true and Aggregation = true, then column 'Bid \* Ask size' in this mode displays sum of Bids \* Asks by the best price level.
