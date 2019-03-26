@@ -177,7 +177,7 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 
-Symbol info panel displays these fee types depending upon comission plan settings on the Server.
+Symbol info panel displays these fee types depending upon commission plan settings on the Server.
 
         Rebates:
 

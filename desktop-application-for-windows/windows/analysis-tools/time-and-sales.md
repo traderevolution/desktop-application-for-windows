@@ -4,7 +4,7 @@ Time&Sales panel lists sales operations on the market.
 
 To open the Time&Sales panel select Terminal -&gt; Time&Sales.
 
-The Time&Sales panel chronologically shows all trades for a symbol at real time mode.
+The Time&Sales panel chronologically shows all trades for a symbol in real time mode.
 
 The information about chosen symbol starts streaming upon opening the panel.
 
@@ -17,7 +17,7 @@ For each trade, the following data is available:
 * Price – the price at which the trade fills.
 * Size – the size of the trade.
 * Side – shows side of the trade: Buy or Sell.
-* Buyer, Seller – shows names of the counterparties.
+* Source – a source of market data, where a trade took place.
 
 ### **Context menu**
 
