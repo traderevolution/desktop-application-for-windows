@@ -44,7 +44,7 @@ Note: if the user performs actions on the position or modifies the order from on
 * Limit price \(available together with Stop price for the "Stop order" and "OCO" order types; also available for the "Limit order" type\) - allows entering the order limit price;
 * Tr. stop offset - \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
 
-You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. Put your mouse on the SL button without clicking on it and then choose TSL to change Stop Loss order into Trailing Stop![](../../../.gitbook/assets/28%20%281%29.png).
+You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. To replace a Stop loss by Trailing stop in the Order entry panel, simply hover your mouse over the SL icon and select TSL from the list![](../../../.gitbook/assets/28%20%281%29.png).
 
 Order entry panel has two additional sections which display important information: VWAP and Margin. VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
 
