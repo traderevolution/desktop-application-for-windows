@@ -1,6 +1,6 @@
 # Chart overlay
 
-A user can add any other Symbols to the current chart. To provide this, click on the![](../../../.gitbook/assets/2%20%2825%29.png)button located near the Symbol lookup. Select a new symbol to integrate into the chart.
+A user can add any other Symbols to the current chart. To provide this, click on the![](../../../.gitbook/assets/2%20%2826%29.png)button located near the Symbol lookup. Select a new symbol to integrate into the chart.
 
 ![](../../../.gitbook/assets/1%20%2846%29.png)
 

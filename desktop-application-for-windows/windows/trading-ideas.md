@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Trading ideas to user-sub
 
 **New** – ​tab that allows setting all parameters for sending a new Trading idea:
 
-![](../../.gitbook/assets/2%20%2837%29.png)
+![](../../.gitbook/assets/2%20%2838%29.png)
 
 In order to send a Trading idea, a user-analyst has to specify mandatory order parameters:
 
