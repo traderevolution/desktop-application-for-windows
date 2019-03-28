@@ -178,4 +178,5 @@
     * [Time & Sales](web-platform/analysis-tools/time-and-sales.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
+    * [Market depth](web-platform/trading-panels/market-depth.md)
 

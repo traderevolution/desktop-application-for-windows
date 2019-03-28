@@ -1,6 +1,6 @@
 # Order entry
 
-Order entry panel is where market or pending orders can be placed. To open the Order entry panel select Terminal -&gt; Order entry.
+Order entry panel allows to place market or pending orders. To open the Order entry panel select Terminal -&gt; Order entry.
 
 ![](../../../.gitbook/assets/new-balance-oe-copy.png)
 
@@ -17,7 +17,7 @@ Order entry panel is where market or pending orders can be placed. To open the O
 3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit;
 4. Stop limit order will be executed at a specified price \(or better\) after given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy \(or sell\) at the limit price or better;
 5. OCO \(One-Cancels-the-Other\) is an order stipulating that if one part of the order is executed, then the other part is automatically canceled;
-6. "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders;
+6. 'Sell' trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. 'Buy' trailing stop orders are the mirror image of sell trailing stop orders;
 
 * TIF - Time-in-force option which allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
 
@@ -40,11 +40,11 @@ Order entry panel is where market or pending orders can be placed. To open the O
 
 Note: if the user performs actions on the position or modifies the order from one of the menus, in which this parameter is available the "Received by" value is automatically switched to "OE".
 
-* Stop price \(for the "Stop order" type\) - allows entering the order stop price;
-* Limit price \(available together with Stop price for the "Stop order" and "OCO" order types; also available for the "Limit order" type\) - allows entering the order limit price;
-* Tr. stop offset - \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
+* Stop price \(for the 'Stop order' type\) - allows entering the order stop price;
+* Limit price \(available together with Stop price for the 'Stop order' and 'OCO' order types; also available for the 'Limit order' type\) - allows entering the order limit price;
+* Tr. stop offset - \(for the 'Trailing stop' type\) - allows entering the order trailing stop price.
 
-You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. Also, it is possible to manage risks by setting trailing stop. To replace a Stop loss by Trailing stop in the Order entry panel, simply hover your mouse over the SL icon and select TSL from the list![](../../../.gitbook/assets/28%20%281%29.png).
+You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../../.gitbook/assets/tr-stop-1.png)button located near Stop loss. The blue color of the![](../../../.gitbook/assets/tr-stop2.png)button indicates that the Trailing stop is activated.
 
 Order entry panel has two additional sections which display important information: VWAP and Margin. VWAP section - allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel. It shows prices of order executions including slippage effect that will take place depending on order quantity user set.
 

@@ -1,6 +1,6 @@
 # Order entry
 
-Order entry panel is where market or pending orders can be placed. To open the Order entry panel select Terminal -&gt; Order entry.
+Order entry panel allows to place market or pending orders. To open the Order entry panel select   Terminal -&gt; Order entry.
 
 ![](../../.gitbook/assets/1%20%2823%29.png)
 
@@ -31,7 +31,9 @@ Order entry panel is where market or pending orders can be placed. To open the O
 * Limit price \(available together with Stop price for the ‘Stop order’ and ‘OCO’ order types; also available for the ‘Limit order’ type\) – allows entering the order limit price;
 * Tr. stop offset \(for the ‘Trailing stop’ type\) – allows entering the order trailing stop price.
 
-You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../.gitbook/assets/3%20%2828%29.png)button located near Stop loss. The blue color of the![](../../.gitbook/assets/4%20%284%29.png)button indicates that the Trailing stop is activated. Order entry panel has the additional VWAP section which displays important information. VWAP section allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel.
+You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../.gitbook/assets/3%20%2828%29.png)button located near Stop loss. The blue color of the![](../../.gitbook/assets/4%20%284%29.png)button indicates that the Trailing stop is activated. 
+
+Order entry panel has the additional VWAP section which displays important information. VWAP section allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel.
 
 ![](../../.gitbook/assets/5%20%2832%29.png)
 
