@@ -28,8 +28,8 @@ The detailed quote section is displayed as a table with the following columns:
 * Avg. price – the price with slippage that appears because of low liquidity;
 * Total size – the aggregated traded volume;
 * Order – order number of this current price;
-* Contr. CCY value – the value of Ask/Bid size recalculated in the quoting currency, Price \* Ask/Bid size;
-* Contr. CCY Total value – the value of total Ask/Bid size recalculated in the quoting currency, Price \* Total Ask/Bid size.
+* Contr CCY value – the value of Ask/Bid size recalculated in the quoting currency, Price \* Ask/Bid size;
+* Contr CCY Total value – the value of total Ask/Bid size recalculated in the quoting currency, Price \* Total Ask/Bid size.
 
 ### **Active columns and substitution of parameters in OE**
 
