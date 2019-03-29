@@ -43,5 +43,5 @@ The Market depth panel offers 3 coloring methods for Level 2 quotes. To set up t
 
 * By price level – coloring system by color levels depending on price;
 * Relative to volume – Level 2 quotes are colored on the assumption that the max volume has the most saturated color; 
-* Size histogram.
+* Size histogram – histograms are built according to volumes.
 
