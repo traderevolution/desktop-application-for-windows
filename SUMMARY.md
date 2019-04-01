@@ -179,4 +179,5 @@
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
+    * [Visual trading](web-platform/trading-panels/visual-trading.md)
 
