@@ -181,4 +181,5 @@
     * [Visual trading](web-platform/trading-panels/visual-trading.md)
     * [Account management](web-platform/trading-panels/account-management/README.md)
       * [Working orders](web-platform/trading-panels/account-management/working-orders.md)
+      * [Orders history](web-platform/trading-panels/account-management/orders-history.md)
 
