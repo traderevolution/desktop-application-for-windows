@@ -4,7 +4,7 @@ The General settings menu is used to customize and change general properties of 
 
 ### **General**
 
-![](../../.gitbook/assets/screenshot_1%20%284%29.png)
+![](../../.gitbook/assets/screenshot_1%20%285%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Enable sounds - check to allow sound notifications.
@@ -53,7 +53,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Confirmations**
 
-![](../../.gitbook/assets/screenshot_6.png)
+![](../../.gitbook/assets/screenshot_6%20%281%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 
