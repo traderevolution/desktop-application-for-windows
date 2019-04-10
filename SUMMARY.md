@@ -60,7 +60,7 @@
       * [Synthetic instruments](desktop-application-for-windows/windows/portfolio-management/synthetic-instruments.md)
       * [Account operations](desktop-application-for-windows/windows/portfolio-management/account-operations.md)
       * [Assets](desktop-application-for-windows/windows/portfolio-management/assets.md)
-    * [Portfolio information](desktop-application-for-windows/windows/portfolio-information/README.md)
+    * [Account information](desktop-application-for-windows/windows/portfolio-information/README.md)
       * [Account](desktop-application-for-windows/windows/portfolio-information/account/README.md)
         * [Accounts](desktop-application-for-windows/windows/portfolio-information/account/accounts.md)
         * [Account statistics](desktop-application-for-windows/windows/portfolio-information/account/account-statistics.md)
