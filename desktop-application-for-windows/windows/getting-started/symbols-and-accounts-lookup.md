@@ -2,7 +2,7 @@
 
 ### Symbol lookup
 
-The Symbol lookup panel shows all symbols which are available through the broker. The Symbol lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../../.gitbook/assets/1%20%2815%29.png)next to the symbol scroll down menu.
+The Symbol lookup panel shows all symbols which are available through the broker. The Symbol lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../../.gitbook/assets/1%20%2816%29.png)next to the symbol scroll down menu.
 
 ![](../../../.gitbook/assets/2%20%2823%29.png)
 
@@ -14,7 +14,7 @@ The Symbol lookup panel shows all symbols which are available through the broker
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
-![](../../../.gitbook/assets/5%20%2819%29.png)
+![](../../../.gitbook/assets/5%20%2820%29.png)
 
 Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 

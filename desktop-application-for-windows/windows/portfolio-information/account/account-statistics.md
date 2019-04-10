@@ -4,7 +4,7 @@ Account statistics panel is a tool for traders that provides detailed informatio
 
 Account statistics panel offers the feature of exporting all statistics and charts to HTML format as a report. To take advantage of this option use the 'Export to HTML' button located on the top right corner of the panel. The report is generated for the selected accounts over the chosen period considering values displayed in the corresponding tabs.
 
-![](../../../../.gitbook/assets/1%20%2810%29.png)
+![](../../../../.gitbook/assets/1%20%2811%29.png)
 
 Account statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
@@ -149,13 +149,13 @@ Cumulative P/L chart allows users to view changes of their balances and P/L grap
 
 ![](../../../../.gitbook/assets/3%20%2819%29.png)
 
-Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../../.gitbook/assets/7%20%2820%29.png)to select the corresponding modes.
+Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../../.gitbook/assets/7%20%2821%29.png)to select the corresponding modes.
 
 Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type \(Operations, Hours, Days, etc.\). Volume is displayed in lots.
 
 ### **Aggregate P/L Chart**
 
-![](../../../../.gitbook/assets/4%20%2816%29.png)
+![](../../../../.gitbook/assets/4%20%2817%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
@@ -163,7 +163,7 @@ Aggregation interval – allows aggregating P/L chart by the needed periods: by 
 
 ### **Trades Population Chart**
 
-![](../../../../.gitbook/assets/5%20%2829%29.png)
+![](../../../../.gitbook/assets/5%20%2830%29.png)
 
 **Trades population** consists of two charts:
 

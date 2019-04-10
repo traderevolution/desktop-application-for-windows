@@ -2,7 +2,7 @@
 
 A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
 
-![](../../../.gitbook/assets/2%20%2839%29.png)
+![](../../../.gitbook/assets/2%20%2840%29.png)
 
 The following list of graphical tools is currently available:
 
@@ -58,7 +58,7 @@ Open Context menu and select Drawing tools -&gt; \[desired tool\] or click on an
 
 Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu.
 
-![](../../../.gitbook/assets/2%20%2851%29.png)
+![](../../../.gitbook/assets/2%20%2852%29.png)
 
 * Settings – allows to specify tool’s appearance and settings;
 * Clone – allows to create the same drawing as selected one;

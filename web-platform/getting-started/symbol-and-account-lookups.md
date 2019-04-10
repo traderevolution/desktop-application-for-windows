@@ -10,7 +10,7 @@ The Symbol lookup panel shows all symbols which are available through a broker. 
 
 ![](../../.gitbook/assets/2%20%282%29.png)
 
-![](../../.gitbook/assets/3%20%2831%29.png)
+![](../../.gitbook/assets/3%20%2832%29.png)
 
 After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 

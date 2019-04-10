@@ -10,7 +10,7 @@ All your workspaces are located in the Desktop terminal installation directory C
   
 To have quick access to this folder click on the button ‘More’ at the top of the terminal and choose ‘Open data folder’:
 
-![](../../../.gitbook/assets/1%20%288%29.png)
+![](../../../.gitbook/assets/1%20%289%29.png)
 
 Custom workspaces will automatically save changes when closing the application for Desktop. While working with the terminal every 10 minutes all opened workspace are saved automatically without confirmations.
 
@@ -24,7 +24,7 @@ During session, several workspaces can be loaded and kept open simultaneously. A
 
 New blank \(without any panels\) Workspace can be created by clicking on the button![](../../../.gitbook/assets/3%20%2810%29.png). 
 
-Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../../.gitbook/assets/4%20%2819%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
+Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../../.gitbook/assets/4%20%2820%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
 
 ### Workspace manager
 
