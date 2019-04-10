@@ -1,4 +1,4 @@
-# Accounts
+# Linked accounts
 
 Accounts panel shows basic details about all accounts that are available for a user.
 
