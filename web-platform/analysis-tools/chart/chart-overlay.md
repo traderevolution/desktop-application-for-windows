@@ -6,7 +6,7 @@ A user can add any other Symbols to the current chart. To provide this, click on
 
 The menu of the overlaid symbol contains the following buttons:
 
-![](../../../.gitbook/assets/3%20%2845%29.png)
+![](../../../.gitbook/assets/3%20%2846%29.png)
 
 * Visible![](../../../.gitbook/assets/4%20%2837%29.png)  – if checked, the price scale of the selected overlaid symbol will be shown on the chart;
 * Hide/Show![](../../../.gitbook/assets/5%20%2823%29.png)– allows to hide or show overlaid symbol on the chart;

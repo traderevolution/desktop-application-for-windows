@@ -33,7 +33,7 @@ The following options are not mandatory:
 
 After specifying all the parameters of the Trading idea, the user-analyst needs to click on the ‘Send’ button to send the idea. In case of a successful Trading idea sending, the user gets a notification:
 
-![](../../.gitbook/assets/3%20%2847%29.png)
+![](../../.gitbook/assets/3%20%2848%29.png)
 
 **Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Trading ideas, which lifetime is not expired:
 
