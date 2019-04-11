@@ -182,4 +182,5 @@
   * [Account management](web-platform/account-management/README.md)
     * [Working orders](web-platform/account-management/working-orders.md)
     * [Orders history](web-platform/account-management/orders-history.md)
+    * [Filled orders](web-platform/account-management/filled-orders.md)
 
