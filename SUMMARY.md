@@ -179,7 +179,7 @@
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
     * [Visual trading](web-platform/trading-panels/visual-trading.md)
-    * [Account management](web-platform/trading-panels/account-management/README.md)
-      * [Working orders](web-platform/trading-panels/account-management/working-orders.md)
-      * [Orders history](web-platform/trading-panels/account-management/orders-history.md)
+  * [Account management](web-platform/account-management/README.md)
+    * [Working orders](web-platform/account-management/working-orders.md)
+    * [Orders history](web-platform/account-management/orders-history.md)
 

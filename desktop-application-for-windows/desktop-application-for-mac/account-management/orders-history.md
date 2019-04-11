@@ -17,7 +17,7 @@ The following columns are available in the panel:
 * Side – a trade type \(Buy or Sell\);
 * Event – an event identifier. The following values are available: Executed, Created, Modified, Rejected;
 * Type – an order type;
-* Price – an order price which a trade took place at;
+* Price – an order price at which a trade took place;
 * Quantity – a filled amount of an order, in lots or in currency units, depending on what is selected in the Preferences dialog box;
 * Order ID – an order's unique identifier. If a position is opened based on an order, this position will have the same number;
 * Date/Time – an order's placement date and time;
