@@ -22,7 +22,7 @@ The following columns are available in the panel:
 * Price – shows price at which the order fills.
 * Execution fee – commission connected with the trade.
 * Gross P/L – total profit/loss of the trade.
-* Net P/L – profit/losses for the symbol including commision.
+* Net P/L – profit/losses for the symbol including commission.
 * Time – time when the operation was executed.
 * Date – date when the operation was executed.
 * Login – login of the user.
