@@ -91,7 +91,7 @@ The following functions can be realized through context menu:
 * Quick SL/TP – allows quick adding SL/TP orders to selected position;
 * Close position – allows closing all selected positions, all positions by selected symbol, all positions by selected account, all positions;
 * Mutual close – allows closing opposite positions;
-* Reverse – allows reversing all selected positions, all positions by selected symbol, all positions by selected account, all positions.
+* Reverse – allows reversing all selected positions, all positions by selected symbol, all positions by selected account, all positions;
 * View – allows to show total values and to show toolbar.
 
 
