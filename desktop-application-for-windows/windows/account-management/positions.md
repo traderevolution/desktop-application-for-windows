@@ -1,6 +1,6 @@
 # Positions
 
-Positions panel lists all currently opened positions. When a new position is opened, it appears in this panel immediately.
+Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
 
 To open Positions panel, select Terminal -&gt; Positions:
 
@@ -14,7 +14,7 @@ The following columns are available in the panel:
 * Symbol description - comments to an instrument;
 * Symbol type – a symbol's market category \(CFD, spot, stocks, etc.\);
 * Position ID – a unique number that the trading system assigns to each position;
-* Side – type of trade \(BUY or SELL\);
+* Side – type of trade \(Long or Short\);
 * Open price – price at which a position was opened;
 * Current price – a market price obtainable from a broker;
 * Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
