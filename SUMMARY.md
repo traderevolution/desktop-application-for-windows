@@ -184,5 +184,6 @@
     * [Orders history](web-platform/account-management/orders-history.md)
     * [Filled orders](web-platform/account-management/filled-orders.md)
     * [Positions](web-platform/account-management/positions.md)
-  * [Account information](web-platform/account-information.md)
+  * [Account information](web-platform/account-information/README.md)
+    * [Accounts](web-platform/account-information/accounts.md)
 
