@@ -6,7 +6,7 @@ To open Accounts panel, select Account -&gt; Accounts in the header of TraderEvo
 
 ![](../../.gitbook/assets/2-copy%20%281%29.png)
 
-The Account panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together:
+The Account panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together. Click on the Current equity section \(Balance & Projected balance\) located in the header of the Web platform in order to open this panel.
 
 ![](../../.gitbook/assets/1%20%2818%29.png)
 
