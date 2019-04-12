@@ -54,7 +54,7 @@ For Short position: Position value = Position exposure – P/L
 
 * Fee – shows total commission amount taken for a position;
 * Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date;
-* Expiration date – date of contract expiration;
+* Expiry date – date of contract expiration;
 * Strike price – price of option contract performance;
 * SL price – Stop loss price set for a position;
 * TP price – Take profit price set for a position;
