@@ -12,7 +12,7 @@ To open Accounts panel, select Account -&gt; Accounts in the header of the termi
 
 If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. 
 
-The following information about Accounts + calculation formulas is available:
+The following information about Accounts and calculation formulas are available:
 
 <table>
   <thead>

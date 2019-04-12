@@ -19,28 +19,28 @@ The following columns are available in the panel:
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+        For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
 
-For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+        For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
 
 * P/L, offset – profit/losses in ticks;
 * Net P/L – profit/loss for a position excluding fee:
 
-Net P/L = Gross P/L - Fee
+        Net P/L = Gross P/L - Fee
 
 * Position exposure – exposure of a position, in the account currency. Calculated on base of an open price:
 
-Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
+        Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
 
-Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
+        Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
 
-In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+        In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
 
 * Position value – current value of a position. Calculated on base of a current market price:
 
-For Long position: Position value = Position exposure + P/L
+        For Long position: Position value = Position exposure + P/L
 
-For Short position: Position value = Position exposure – P/L
+        For Short position: Position value = Position exposure – P/L
 
 * Fee – shows total commission amount taken for a position;
 * Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date;
