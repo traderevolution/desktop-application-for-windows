@@ -186,4 +186,6 @@
     * [Positions](web-platform/account-management/positions.md)
   * [Account information](web-platform/account-information/README.md)
     * [Accounts](web-platform/account-information/accounts.md)
+  * [Informative panels](web-platform/informative-panels/README.md)
+    * [Event log](web-platform/informative-panels/event-log.md)
 

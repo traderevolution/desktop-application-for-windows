@@ -10,7 +10,7 @@ The Accounts panel is also available in Detailed view in order to show the detai
 
 ![](../../.gitbook/assets/1%20%2818%29.png)
 
-The following information about Accounts + calculation formulas are available:
+The following information about Accounts and calculation formulas are available:
 
 <table>
   <thead>
