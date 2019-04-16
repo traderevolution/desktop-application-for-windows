@@ -40,7 +40,7 @@ The General settings menu is used to customize and change general properties of 
 
 To specify additional settings for orders you need to open 'Types manager' and select a symbol type - Forex, Futures, Equities, etc. for which you want to set up default lots values. It is also possible to override default lots values for separate symbols by adding them to the symbol types tree using "+" button. In order to apply symbol type default lots settings, just delete symbol from the tree using context menu:
 
-![](../../.gitbook/assets/screenshot_4%20%281%29.png)
+![](../../.gitbook/assets/screenshot_4%20%282%29.png)
 
 * SL/TP default offset, ticks – specifies a default value of offset field for SL/TP;
 * User quantity coefficient – is a default increment applied to all quantity counters;
