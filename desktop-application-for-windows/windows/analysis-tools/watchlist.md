@@ -120,7 +120,8 @@ N - quantity of years before a bond redemption date.
 * Accrued interest – value of accrued interest, which a buyer will pay when buying a Bond, and a seller will get when selling a Bond. Value is indicated for 1 lot. Measured in quotting currency. Available for Bonds. Clicking the link Refresh allows to refresh the Accrued interest's value in its field;
 * Previous yield payment – last date of yield payment according to 'Coupon cycle'. Available for Bonds;
 * Next yield payment – next date of yield payment according to 'Coupon cycle'. Available for Bonds;
-* Asset – name of the asset for the instrument. Available for Equities/CFD, Spot, Forward.
+* Asset – name of the asset for the instrument. Available for Equities/CFD, Spot, Forward;
+* ISIN – International securities identification number.
 
 2\) Trading info:
 
