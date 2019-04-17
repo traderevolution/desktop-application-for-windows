@@ -131,7 +131,7 @@ Depending on the selected criterion, there are six coloring methods available in
 
 ![](../../../.gitbook/assets/47%20%281%29.png)
 
-*  Size histogram
+*  Size histogram – histograms are built according to volumes.
 
 ![](../../../.gitbook/assets/51%20%281%29.png)
 
@@ -156,9 +156,11 @@ Select desired price or MPID - &gt; right click on it - &gt; set the monitor - &
 
 The Additional tab of the Market depth settings looks as follows:
 
-![](../../../.gitbook/assets/53%20%281%29.png)
+![](../../../.gitbook/assets/screenshot_6.png)
 
-In the "Orders q-ty for hotkey trading" section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. The "Auto-substitution order size by mouse click" and "Auto-substitution order price by mouse click" enable the user to perform the corresponding actions. 
+In the 'Orders q-ty for hotkey trading' section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. 
+
+The 'Auto-substitution order price by mouse click' setting enables a user to perform the corresponding action. 
 
 #### **Tab order**
 

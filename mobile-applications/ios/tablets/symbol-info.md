@@ -24,7 +24,8 @@ The Symbol info screen allows displaying all information about the selected symb
 * Face value – a security's nominal value defined in quoting currency. Available for Bonds, T-Bills;
 * Coupon rate, % – a nominal interest rate for a bond, which is regulated during a bond's emission. Available for Bonds;
 * Coupon cycle – periodicity of a bond yield payment to a position holder. Available for Bonds;
-* Accrued interest – value of accrued interest, which a buyer will pay when buying a Bond, and a seller will get when selling a Bond. Value is indicated for 1 lot. Measured in quotting currency. Available for Bonds.
+* Accrued interest – value of accrued interest, which a buyer will pay when buying a Bond, and a seller will get when selling a Bond. Value is indicated for 1 lot. Measured in quotting currency. Available for Bonds;
+* ISIN – International securities identification number.
 
 2\) Trading info:
 
