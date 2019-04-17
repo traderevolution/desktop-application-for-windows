@@ -4,15 +4,9 @@ TraderEvolution Desktop App performs automatic updates, meaning you don't need t
 
 To install TraderEvolution Desktop App simply run the .exe file and select the installation directory. Click Install and wait for the TraderEvolution to complete the installation for you.
 
-### How to manually update TraderEvolution Desktop App?
+### How to update TraderEvolution Desktop App?
 
-An Update manager launches an automatic update every time you launch your TraderEvolution Desktop App.
-
-An update icon on the top toolbar means that an update is available.
-
-![](../../../.gitbook/assets/image%20%285%29.png)
-
-Click on the update icon to install the latest updates of TraderEvolution.
+When you launch your TraderEvolution Desktop App, an Update manager will launch an automatic update. Thus, you don't need to install the latest updates of TraderEvolution manually.
 
 ### How to Uninstall TraderEvolution from your PC?
 
@@ -30,7 +24,7 @@ After re-installing TraderEvolution into your PC, the newly installed TraderEvol
 
 Launch the TraderEvolution Desktop App and enter your credentials to login to your terminal.
 
-![](../../../.gitbook/assets/login-screen.png)
+![](../../../.gitbook/assets/screenshot_6%20%283%29.png)
 
 ### **How to change your password?**
 
