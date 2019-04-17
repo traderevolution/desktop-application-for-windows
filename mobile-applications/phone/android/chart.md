@@ -18,7 +18,7 @@ Tap the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
 The Chart toolbar consists of 3 buttons:
 
-* Chart style – allows to choose the style of the chart. Available chart styles: Line, Bar, Candle, Dots, Dotted line, Histogram, Area.
+* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area.
 * Indicators – allows to choose the needed indicator for technical analysis.
 * Drawings – opens the drawing tools toolbar.
 
