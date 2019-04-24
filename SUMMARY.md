@@ -189,4 +189,5 @@
   * [Informative panels](web-platform/informative-panels/README.md)
     * [Event log](web-platform/informative-panels/event-log.md)
   * [More](web-platform/more.md)
+* [EvoCode](evocode.md)
 
