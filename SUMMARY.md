@@ -190,5 +190,6 @@
     * [Event log](web-platform/informative-panels/event-log.md)
   * [More](web-platform/more.md)
 * [EvoCode](evocode/README.md)
-  * [Getting started](evocode/getting-started.md)
+  * [Getting started](evocode/getting-started/README.md)
+    * [About EvoCode](evocode/getting-started/about-evocode.md)
 
