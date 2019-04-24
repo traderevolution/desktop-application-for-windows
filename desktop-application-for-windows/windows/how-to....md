@@ -37,9 +37,9 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 * Place a Trailing stop order by selecting Trailing stop in the 'Order type' section of the Order entry panel;
 
-![](../../.gitbook/assets/trailing-stop.jpg)
+![](../../.gitbook/assets/oe.png)
 
-* To replace a Stop loss by Trailing stop in the Order entry panel, simply hover your mouse over the SL icon and select TSL from the list![](https://lh6.googleusercontent.com/Bk8aTOxOW_t24Q3qk4n6JbU4bNNGGCA7xlKgA28KxFUeIQJrHUkQNFsjby8Fc8ImPF-abBz6P7Z9A-ylyeGR6R3bLlAe_PoJ9PEEnMdkKid3o04w9NNF1LQtMsT8a-K2wkPBb371). You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way.
+* To replace a Stop loss by Trailing stop in the Order entry panel, simply click on a special![](../../.gitbook/assets/tr-stop-1%20%281%29.png)button loacted near Stop loss. The blue color of the![](../../.gitbook/assets/tr-stop2.png)button indicates that the Trailing stop is activated. You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way.
 
 ![](../../.gitbook/assets/tsl-new.png)
 
