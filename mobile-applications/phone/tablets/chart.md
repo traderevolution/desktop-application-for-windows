@@ -22,7 +22,7 @@ Tap the button![](../../../.gitbook/assets/tools%20%281%29.jpg)to open Chart too
 
 ### **Indicators**
 
-In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add..jpg)near the indicator name at the list of available Indiactors.
+In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add..jpg)near the indicator name at the list of available Indicators.
 
 ![](../../../.gitbook/assets/3%20%2820%29.png)
 
