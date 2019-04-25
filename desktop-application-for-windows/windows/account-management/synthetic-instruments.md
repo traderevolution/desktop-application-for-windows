@@ -18,7 +18,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ### How to add Synthetic instruments?
 
-1\) Right click on the empty space to add or remove a synthetic instrument.
+1\) Right-click on the empty space to add or remove a synthetic instrument.
 
 ![](../../../.gitbook/assets/3%20%289%29.png)
 
