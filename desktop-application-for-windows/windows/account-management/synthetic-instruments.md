@@ -35,7 +35,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 To delete symbol, simply right click on it and select Remove symbol or click the button in Remove column.
 
-When created, the Synthetic instruments will be available in the list of symbols and can be utilized similar to any other symbol. Synthetic instruments can be added to a Chart, traded in Order entry, or even backtested as a whole.
+When created, the Synthetic instruments will be available in the list of symbols and can be utilized similar to any other symbol. Synthetic instruments can be added to a Chart and traded in Order entry.
 
 ![](../../../.gitbook/assets/6%20%2810%29.png)
 
