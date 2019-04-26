@@ -53,7 +53,7 @@ The detail quote section is displayed as a table with the following columns:
 * Time – time of offer;
 * Avg. price – the price with slippage that appears because of low liquidity;
 * Total size – the aggregated traded volume;
-* Source – ECN or exchange, where orders are set. This field is similar to MPID, but it has another representation on the server. Is unavailable when 'Aggregate size by=By price level' is set up in the Market depth settings;
+* Source – ECN or exchange, where orders are set. This field is similar to MPID, but it has another representation on the server. It is unavailable when 'Aggregate size by=By price level' is set up in the Market depth settings;
 * Order – order number of this current price;
 * Contr CCY value – the value of Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Ask/Bid size;
 * Contr CCY Total value – the value of total Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Total Ask/Bid size.
