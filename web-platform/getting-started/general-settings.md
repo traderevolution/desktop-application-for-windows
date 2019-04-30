@@ -1,6 +1,6 @@
 # General settings
 
-The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2833%29.png)button at the top menu of the platform.
+The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2834%29.png)button at the top menu of the platform.
 
 ### **General**
 
