@@ -33,19 +33,19 @@ when 'Premium-style':
 
 Option premium = ∑ \(Open price \* Qty \* Lot size \* Cross price\), where:
 
-Open price - an average price of a position opening;
+Open price – an average price of a position opening;
 
-Qty - a position's qty in lots;
+Qty – a position's qty in lots;
 
 Lot size = Tick cost / Tick size;
 
-Cross price - an average cross price of a position opening for converting into account's currency.
+Cross price – an average cross price of a position opening for converting into account's currency.
 
 when 'Mark-to-market':
 
 Option premium = ∑ \(Current price \* Qty \* Lot size \* Cross price\), where:
 
-Current price - a current option price, which depends upon 'Calculate PnL/margin from' set up by a broker for an instrument.
+Current price – a current option price, which depends upon 'Calculate PnL/margin from' set up by a broker for an instrument.
 
 * Available funds – amount of funds which can be used for placing a new order. If Available funds = 0, then it is allowed to send only close orders, and orders that decrease volume of the position.
 
@@ -70,13 +70,13 @@ Profit – current open profit, calculated for all instruments on a selected acc
 
 For such margin types, as 'Security fully paid' and 'Stocks pre-paid' Profit isn't taken into account.  
   
- For Options with Option trading style 'Premium-style' in buy positions Profit is taken into account.  
+For Options with Option trading style 'Premium-style' in buy positions Profit is taken into account.  
   
- For Options with Option trading style 'Premium-style' in sell positions Profit isn't taken into account.  
+For Options with Option trading style 'Premium-style' in sell positions Profit isn't taken into account.  
   
- For Options with Option trading style 'Mark-to-market' in sell positions Profit is taken into account.  
+For Options with Option trading style 'Mark-to-market' in sell positions Profit is taken into account.  
   
- For Options with Option trading style 'Mark-to-market' in buy positions Profit isn't taken into account.
+For Options with Option trading style 'Mark-to-market' in buy positions Profit isn't taken into account.
 
 Option trading style is set up by a broker;
 
@@ -102,11 +102,11 @@ Initial margin req, % = \(Initial margin req/ \(Balance&All risks - Stock orders
 * Stocks value – total cost of stocks, positions which were opened on the selected account:
 
 Stocks value = ∑ \(Current stock price \* Amount \* Cross price\), where:  
- Amount - a current stocks' quantity in the position 'Qty \* Lot size'; Qty is qty in lots.
+ Amount – a current stocks' quantity in the position 'Qty \* Lot size'; Qty is qty in lots.
 
-* Open positions – currently opened positions.
-* Working orders – all created orders which are visible for a user.
-* Option premium req – option premium for buy orders.
+* Open positions – currently opened positions;
+* Working orders – all created orders which are visible for a user;
+* Option premium req – option premium for buy orders;
 * Stocks liquidity – a part of a total cost of assets, which is accounted in available margin if there are assets on the account of a trader.
 
 Stocks liquidity = ∑ \(Amount \* Price \* CrossPrice \* \(Liquidity rate/100\)\) Amount - a current stocks' quantity on the account 'Qty \* Lot size'; Qty is qty in lots.
@@ -117,9 +117,9 @@ Stocks liquidity = ∑ \(Amount \* Price \* CrossPrice \* \(Liquidity rate/100\)
 Option value = ∑ \(Current option price \* Amount \* Cross price\), where:
 
 Current option price – a current price of an option, which depends upon 'Calculate PnL/margin from' set up by a broker;  
- Amount – a current amount of options in a position;  
- Cross price – a current cross price in account's currency.
+Amount – a current amount of options in a position;  
+Cross price – a current cross price in account's currency.
 
-* Today’s net profit – Net Profit/Loss for today.
+* Today’s net profit – Net Profit/Loss for today;
 * Today’s fee ­– amount of fees paid for today.
 
