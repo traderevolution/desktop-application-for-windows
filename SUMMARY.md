@@ -159,6 +159,7 @@
       * [Positions](mobile-applications/ios/tablets/positions.md)
       * [Market depth](mobile-applications/ios/tablets/market-depth.md)
       * [Event log](mobile-applications/ios/tablets/event-log.md)
+      * [Account details](mobile-applications/ios/tablets/account-details.md)
 * [TraderEvolution for Web](web-platform/README.md)
   * [Getting started](web-platform/getting-started/README.md)
     * [Login screen](web-platform/getting-started/login-screen.md)
