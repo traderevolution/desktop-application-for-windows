@@ -147,6 +147,7 @@
       * [Positions](mobile-applications/ios/phone/positions.md)
       * [Market depth](mobile-applications/ios/phone/market-depth.md)
       * [Event log](mobile-applications/ios/phone/event-log.md)
+      * [Account details](mobile-applications/ios/phone/account-details.md)
     * [Tablets](mobile-applications/ios/tablets/README.md)
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
       * [Settings](mobile-applications/ios/tablets/settings.md)
