@@ -2,13 +2,13 @@
 
 You can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart:
 
-![](../../.gitbook/assets/1%20%288%29.png)
+![](../../.gitbook/assets/1%20%289%29.png)
 
 ### **The built-in Order entry panel** 
 
 In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2826%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
-![](../../.gitbook/assets/3%20%2829%29.png)
+![](../../.gitbook/assets/3%20%2830%29.png)
 
 The Order entry panel consists of the following items:
 

@@ -9,7 +9,7 @@ Filled orders panel displays trading history for a specified period. To open the
 At the top left corner of the toolbar of the panel there is a combo box ‘Time filter’. It allows to select time period for which a user wants to see filled orders. The following periods are available:
 
 * Daily;
-* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../../.gitbook/assets/1%20%286%29.png)appears allowing to change a time range for viewing filled orders.
+* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../../.gitbook/assets/1%20%287%29.png)appears allowing to change a time range for viewing filled orders.
 
 ### **Columns**
 

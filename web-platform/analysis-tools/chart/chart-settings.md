@@ -4,7 +4,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Data style**
 
-![](../../../.gitbook/assets/1%20%2821%29.png)
+![](../../../.gitbook/assets/1%20%2822%29.png)
 
 * Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -&gt; \[desired style\].
 * Data type - the way to accept data. Available types are: Bid, Ask, Bid/Ask average, Last. Based on server settings Last or Bid/Ask type can be disabled.
@@ -12,7 +12,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2852%29.png)
+![](../../../.gitbook/assets/2%20%2853%29.png)
 
 * Background colors - allows setting up color of the chart background and watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
