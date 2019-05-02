@@ -112,7 +112,7 @@ Stocks value = ∑ \(Current stock price \* Amount \* Cross price\), where:
 Stocks liquidity = ∑ \(Amount \* Price \* CrossPrice \* \(Liquidity rate/100\)\) Amount - a current stocks' quantity on the account 'Qty \* Lot size'; Qty is qty in lots.
 
 * Stocks orders req – total margin blocked for orders with Stock pre-paid margin type;
-* Option value – сurrent option value in portfolio. Can be positive for a long Net position, or negative for a short Net position. Option value is calculated only for Options with Option trading style 'Premium-style' or 'Mark-to-market'.  Option trading style is set up by a broker:
+* Option value – сurrent option value in portfolio. Can be positive for a long Net position, or negative for a short Net position. Option value is calculated only for Options with Option trading style 'Premium-style' or 'Mark-to-market'. Option trading style is set up by a broker:
 
 Option value = ∑ \(Current option price \* Amount \* Cross price\), where:
 

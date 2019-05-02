@@ -40,5 +40,5 @@ Note: SL price and Trailing SL offset cannot be checked together.
 
 After setting all the parameters, tap the button 'Send order'.
 
-![](../../../.gitbook/assets/2.PNG)
+![](../../../.gitbook/assets/2%20%281%29.PNG)
 

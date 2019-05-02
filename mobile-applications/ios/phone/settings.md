@@ -6,7 +6,7 @@ You can access the ‘Settings’ screen from the application's ‘More’ menu 
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../.gitbook/assets/3%20%283%29.PNG)
+![](../../../.gitbook/assets/3%20%284%29.PNG)
 
 * Order quantity – displays amount of lots for opening an order;
 * TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, FOK, GTD;

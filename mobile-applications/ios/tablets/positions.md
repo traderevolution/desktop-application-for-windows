@@ -2,7 +2,7 @@
 
 The Positions screen is accessible through the Main menu of the platform. It displays all opened positions. Every new opened position appears in this screen immediately.
 
-![](../../../.gitbook/assets/1%20%282%29.PNG)
+![](../../../.gitbook/assets/1%20%283%29.PNG)
 
 The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
 
@@ -21,7 +21,7 @@ In addition, you can close all positions by tapping the button ‘Close all’ l
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
-![](../../../.gitbook/assets/2%20%281%29.PNG)
+![](../../../.gitbook/assets/2%20%282%29.PNG)
 
 Here you can modify Stop loss price, Take profit price or Trailing stop offset.
 
