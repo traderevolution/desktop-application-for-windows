@@ -196,4 +196,5 @@
 * [EvoCode](evocode/README.md)
   * [Getting started](evocode/getting-started/README.md)
     * [About EvoCode](evocode/getting-started/about-evocode.md)
+    * [Starting EvoCode](evocode/getting-started/starting-evocode.md)
 
