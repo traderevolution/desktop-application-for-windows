@@ -156,7 +156,7 @@ Select desired price or MPID - &gt; right click on it - &gt; set the monitor - &
 
 The Additional tab of the Market depth settings looks as follows:
 
-![](../../../.gitbook/assets/screenshot_6.png)
+![](../../../.gitbook/assets/screenshot_6%20%281%29.png)
 
 In the 'Orders q-ty for hotkey trading' section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. 
 
