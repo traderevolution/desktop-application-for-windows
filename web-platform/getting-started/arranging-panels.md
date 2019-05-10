@@ -6,7 +6,7 @@ User can create own trading environment by displaying/hiding and rearranging pan
 
 After taking header of a panel the following buttons appear:
 
-![](../../.gitbook/assets/screenshot_5.png)
+![](../../.gitbook/assets/screenshot_5%20%282%29.png)
 
 Drag the panel into one of the buttons to preview it's next position.
 

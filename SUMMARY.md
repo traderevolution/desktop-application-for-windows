@@ -61,7 +61,7 @@
       * [Account operations](desktop-application-for-windows/windows/account-management/account-operations.md)
       * [Assets](desktop-application-for-windows/windows/account-management/assets.md)
     * [Account information](desktop-application-for-windows/windows/account-information/README.md)
-      * [Linked accounts](desktop-application-for-windows/windows/account-information/accounts.md)
+      * [Accounts](desktop-application-for-windows/windows/account-information/accounts.md)
       * [Account statistics](desktop-application-for-windows/windows/account-information/account-statistics.md)
       * [Positions balance](desktop-application-for-windows/windows/account-information/positions-balance.md)
       * [Currencies exposure](desktop-application-for-windows/windows/account-information/currencies-exposure.md)
@@ -197,4 +197,7 @@
   * [Getting started](evocode/getting-started/README.md)
     * [About EvoCode](evocode/getting-started/about-evocode.md)
     * [Starting EvoCode](evocode/getting-started/starting-evocode.md)
+    * [Creating a new module](evocode/getting-started/creating-a-new-module.md)
+    * [General settings](evocode/getting-started/general-settings.md)
+  * [Dictionary tool](evocode/dictionary-tool.md)
 

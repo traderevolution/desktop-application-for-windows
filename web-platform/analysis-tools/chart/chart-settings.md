@@ -12,20 +12,20 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2853%29.png)
+![](../../../.gitbook/assets/2%20%2854%29.png)
 
 * Background colors - allows setting up color of the chart background and watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 
-![](../../../.gitbook/assets/3%20%283%29.png)
+![](../../../.gitbook/assets/3%20%284%29.png)
 
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
 * Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
 
 ###  **Time scale**
 
-![](../../../.gitbook/assets/4%20%2829%29.png)
+![](../../../.gitbook/assets/4%20%2830%29.png)
 
 * Appearance - allows setting up style of time scale.
 * Holes in the history - allows seeing free space on the chart if there is no history at that moment.

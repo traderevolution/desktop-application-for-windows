@@ -27,13 +27,13 @@ It looks as the following:
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
-![](../../../.gitbook/assets/3%20%285%29.png)
+![](../../../.gitbook/assets/3%20%286%29.png)
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../../.gitbook/assets/4%20%2837%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../../.gitbook/assets/4%20%2838%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 

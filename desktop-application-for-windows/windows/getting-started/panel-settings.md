@@ -11,7 +11,7 @@ The menu Settings can be opened through the Context menu, right click anywhere a
 * Grid – allows showing grid between columns and rows \(you can select the following options: Vertical, Horizontal, Vertical & horizontal, None\);
 * Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length;
 * Auto re-sorting – allows auto re-sorting a table after any changes;
-* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../../.gitbook/assets/2%20%2839%29.png). 
+* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../../.gitbook/assets/2%20%2840%29.png). 
 * Show toolbar – allows showing panel toolbar.
 
 ####  **Colors**
@@ -23,7 +23,7 @@ The Colors sub-menu allows configuring the color scheme for tables:
 
  **Columns tab** allows changing columns settings.
 
-![](../../../.gitbook/assets/3%20%2819%29.png)
+![](../../../.gitbook/assets/3%20%2820%29.png)
 
 #### **Displaying and hiding columns**
 
@@ -66,7 +66,7 @@ Then select colors for marking rows \(font and background colors\) and choose co
 
 You can see the example of rows marking by conditions below:
 
-![](../../../.gitbook/assets/11%20%286%29.png)
+![](../../../.gitbook/assets/11%20%287%29.png)
 
 **Alerts Tab** allows creating alerts settings for each panel.
 

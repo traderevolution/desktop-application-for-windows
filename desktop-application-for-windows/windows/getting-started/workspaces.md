@@ -22,9 +22,9 @@ During session, several workspaces can be loaded and kept open simultaneously. A
 
 ### Getting a Blank Workspace
 
-New blank \(without any panels\) Workspace can be created by clicking on the button![](../../../.gitbook/assets/3%20%2811%29.png). 
+New blank \(without any panels\) Workspace can be created by clicking on the button![](../../../.gitbook/assets/3%20%2812%29.png). 
 
-Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../../.gitbook/assets/4%20%2820%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
+Double click on the workspace tab allows to rename it. Clicking on the button Workspace storage ![](../../../.gitbook/assets/4%20%2821%29.png)you can see the list of all your workspaces. It allows you to load or remove workspaces.
 
 ### Workspace manager
 
