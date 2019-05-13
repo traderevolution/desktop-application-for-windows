@@ -1,12 +1,12 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2858%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2859%29.png)located at the Top menu of the platform.
 
 This menu contains such sections as:
 
 ### General:
 
-![](../../../.gitbook/assets/1%20%2859%29.png)
+![](../../../.gitbook/assets/1%20%2860%29.png)
 
 * Allow automatic login – if checked, the application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, the application will try to reconnect to the server after losing connection.
@@ -24,7 +24,7 @@ This menu contains such sections as:
 
 ‘Sounds’ preferences allow to enable/disable System and Trading sounds.
 
-![](../../../.gitbook/assets/3%20%2833%29.png)
+![](../../../.gitbook/assets/3%20%2834%29.png)
 
 * System
   * Welcome;
