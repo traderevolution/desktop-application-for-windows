@@ -24,7 +24,7 @@ The General Settings menu is used to customize and change general properties of 
 
 ### **Trading defaults**
 
-![](../../../.gitbook/assets/3%20%2820%29.png)
+![](../../../.gitbook/assets/3%20%2821%29.png)
 
 * Account – specifies your default account, for multi-account users only;
 * Symbol – specifies your default symbol. The default symbol will be shown whenever you load the Chart panel or the Order entry panel;

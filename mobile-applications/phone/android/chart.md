@@ -8,7 +8,7 @@ The Chart screen can be accessed only from the Watchlist screen.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%289%29.png)
+![](../../../.gitbook/assets/2%20%2810%29.png)
 
 ### **Chart toolbar** 
 

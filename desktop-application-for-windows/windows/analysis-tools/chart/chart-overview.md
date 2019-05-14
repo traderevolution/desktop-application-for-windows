@@ -31,7 +31,7 @@ To show/hide elements on Chart, right click anywhere within the chart, select Vi
 
 To zoom in and out on the Chart panel users can use the scroll button on their mouse or simply drag the chart border in the Timeline panel using the scroll:
 
-![](../../../../.gitbook/assets/2%20%2819%29.png)
+![](../../../../.gitbook/assets/2%20%2820%29.png)
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar.
 
@@ -53,7 +53,7 @@ Three types of the price scale are available: Absolute, Relative and Logarithmic
 * Relative - displays the price scale in the relative units, where as a starting point can be used: first point of the screen visibility, point of the day opening, and starting point of the history.
 * Logarithmic - logarithmic scale representation, where as a starting point can be used the same points as for relative scale.
 
-![](../../../../.gitbook/assets/3%20%281%29.png)
+![](../../../../.gitbook/assets/3%20%282%29.png)
 
 If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
 

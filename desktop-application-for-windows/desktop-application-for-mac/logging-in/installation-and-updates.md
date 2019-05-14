@@ -30,7 +30,7 @@ To open the ‘Change password’ / ’Change trading password’ window, select
 
 Change password - allows changing the password which is entered to login into the terminal.
 
-![](../../../.gitbook/assets/3%20%2847%29.png)
+![](../../../.gitbook/assets/3%20%2848%29.png)
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
