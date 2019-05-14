@@ -137,7 +137,7 @@
       * [Event log](mobile-applications/phone/tablets/event-log.md)
       * [Account details](mobile-applications/phone/tablets/account-details.md)
   * [iOS](mobile-applications/ios/README.md)
-    * [Phone](mobile-applications/ios/phone/README.md)
+    * [Phones](mobile-applications/ios/phone/README.md)
       * [Getting started](mobile-applications/ios/phone/getting-started.md)
       * [Settings](mobile-applications/ios/phone/settings.md)
       * [Watchlist](mobile-applications/ios/phone/watchlist.md)
