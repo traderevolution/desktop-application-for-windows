@@ -37,7 +37,7 @@ If there is no localized name for an instrument for the current interface langua
 
 ### Account lookup
 
-The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../../.gitbook/assets/7%20%2815%29.png)next to the account scroll down menu.
+The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../../.gitbook/assets/7%20%2816%29.png)next to the account scroll down menu.
 
 ![](../../../.gitbook/assets/8%20%282%29.png)
 

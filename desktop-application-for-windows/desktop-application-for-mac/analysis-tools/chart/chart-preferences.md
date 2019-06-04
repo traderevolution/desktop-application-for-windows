@@ -40,7 +40,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/3%20%2841%29.png)
+![](../../../../.gitbook/assets/3%20%2842%29.png)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -120,7 +120,7 @@ Note: clicking on the hot buttons doesn't evoke confirmation screens, even if co
 
 ### **Info window**
 
-![](../../../../.gitbook/assets/6%20%2831%29.png)
+![](../../../../.gitbook/assets/6%20%2832%29.png)
 
 * Info window mode – allows to set up the style of displaying the Info window. You can select from the following Info window modes: Separate Window, Attached To Cursor, Hidden.
 * Activate short mode – if checked, the Info window fields' names will be displayed in a short mode on the chart:

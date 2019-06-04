@@ -23,7 +23,7 @@ The Colors sub-menu allows configuring the color scheme for tables:
 
  **Columns tab** allows changing columns settings.
 
-![](../../../.gitbook/assets/3%20%2822%29.png)
+![](../../../.gitbook/assets/3%20%2823%29.png)
 
 #### **Displaying and hiding columns**
 
@@ -58,7 +58,7 @@ Calculation method - allows to choose the calculation method of Total value \(Su
 
 ![](../../../.gitbook/assets/colors%20%281%29.png)
 
-Click on the button![](../../../.gitbook/assets/5%20%2828%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../../.gitbook/assets/6%20%2821%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../../.gitbook/assets/7%20%2823%29.png).
+Click on the button![](../../../.gitbook/assets/5%20%2829%29.png)to add a new Color scheme. Its title can be changed directly from the title cell. Use the button![](../../../.gitbook/assets/6%20%2821%29.png)to activate or deactivate a color scheme. A color scheme can be also removed with the button![](../../../.gitbook/assets/7%20%2824%29.png).
 
 Select one Color scheme and use the button![](../../../.gitbook/assets/8%20%283%29.png)to add new conditions. For each condition you must select a column type, type of comparison and value to compare.
 

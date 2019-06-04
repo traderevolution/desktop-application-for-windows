@@ -115,13 +115,13 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
  **** **Columns**
 
-![](../../../.gitbook/assets/3%20%2839%29.png)
+![](../../../.gitbook/assets/3%20%2840%29.png)
 
 ‘Columns’ tab allows to select colors of the columns located in the panel: Buy, Price, Size, Sell.
 
 **Colors**
 
-![](../../../.gitbook/assets/4%20%2833%29.png)
+![](../../../.gitbook/assets/4%20%2834%29.png)
 
 _Table colors:_
 
@@ -141,7 +141,7 @@ _Mouse trading:_
 
 Hover – color and style of the line for sliding the cursor through each price level.
 
-![](../../../.gitbook/assets/5%20%2827%29.png)
+![](../../../.gitbook/assets/5%20%2828%29.png)
 
 _Position bar:_
 

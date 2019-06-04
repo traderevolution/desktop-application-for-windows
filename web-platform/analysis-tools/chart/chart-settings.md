@@ -12,7 +12,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2855%29.png)
+![](../../../.gitbook/assets/2%20%2856%29.png)
 
 * Background colors - allows setting up color of the chart background and watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
@@ -25,7 +25,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ###  **Time scale**
 
-![](../../../.gitbook/assets/4%20%2830%29.png)
+![](../../../.gitbook/assets/4%20%2831%29.png)
 
 * Appearance - allows setting up style of time scale.
 * Holes in the history - allows seeing free space on the chart if there is no history at that moment.
@@ -42,7 +42,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 * Appearance - allows setting up style of price scale.
 
-![](../../../.gitbook/assets/7%20%2814%29.png)
+![](../../../.gitbook/assets/7%20%2815%29.png)
 
 * Highlight prices:
 
@@ -73,7 +73,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Visual trading**
 
-![](../../../.gitbook/assets/8%20%2817%29.png)
+![](../../../.gitbook/assets/8%20%2818%29.png)
 
 * Open positions - allows displaying opened positions on chart and setting up style of lines.
 * Working orders - allows displaying working orders on the chart and setting up the style of lines.
@@ -82,7 +82,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Chart Order entry**
 
-![](../../../.gitbook/assets/9%20%286%29.png)
+![](../../../.gitbook/assets/9%20%287%29.png)
 
 This section allows selecting buttons and hot buttons which will be displayed in built-in Order entry.
 

@@ -27,13 +27,13 @@ In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
-![](../../../.gitbook/assets/7%20%284%29.png)
+![](../../../.gitbook/assets/7%20%285%29.png)
 
 ### **Symbol menu**
 
 Swipe left the symbol name to open the Symbol menu toolbar.
 
-                                                          ![](../../../.gitbook/assets/8%20%285%29.png) 
+                                                          ![](../../../.gitbook/assets/8%20%286%29.png) 
 
 * Info – opens the Symbol info with full information about the symbol;
 * Market depth – opens the level 2 quotes for the selected symbol;

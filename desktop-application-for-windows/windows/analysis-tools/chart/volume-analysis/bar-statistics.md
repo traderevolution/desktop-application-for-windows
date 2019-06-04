@@ -10,7 +10,7 @@ By default bar statistics contains four rows \(Trades, Total volume, Average siz
 
 The following parameters are available in the Bar statistics section:
 
-![](../../../../../.gitbook/assets/3%20%2825%29.png)
+![](../../../../../.gitbook/assets/3%20%2826%29.png)
 
 * Visible – controls visibility of the bar statistics on the chart;
 * Custom total/buy/sell amount – allows to set up amount that is necessary for calculation of the Custom total/buy/sell volume parameters \(described above\);
@@ -19,7 +19,7 @@ The following parameters are available in the Bar statistics section:
 
 Right clicking on the bar statistics header evokes its context menu, where you can enable/disable the visibility of some rows with parameters:
 
-![](../../../../../.gitbook/assets/4%20%2824%29.png)
+![](../../../../../.gitbook/assets/4%20%2825%29.png)
 
 * Trades – the number of trades by each bar for a specified period of time;
 * Volume – total volume by each bar for a specified period of time;

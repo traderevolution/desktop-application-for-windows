@@ -24,7 +24,7 @@ The General Settings menu is used to customize and change general properties of 
 
 ### **Trading defaults**
 
-![](../../../.gitbook/assets/3%20%2821%29.png)
+![](../../../.gitbook/assets/3%20%2822%29.png)
 
 * Account – specifies your default account, for multi-account users only;
 * Symbol – specifies your default symbol. The default symbol will be shown whenever you load the Chart panel or the Order entry panel;
@@ -54,7 +54,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### Confirmations
 
-![](../../../.gitbook/assets/4%20%2829%29.png)
+![](../../../.gitbook/assets/4%20%2830%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 

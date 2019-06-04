@@ -6,7 +6,7 @@
 
  User can select time period for which he wants to see trades. 
 
-Click on![](../../../.gitbook/assets/3%20%2819%29.png)and choose the time filters.
+Click on![](../../../.gitbook/assets/3%20%2820%29.png)and choose the time filters.
 
 The following columns are available in the panel:
 
