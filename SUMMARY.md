@@ -200,4 +200,6 @@
     * [Creating a new module](evocode/getting-started/creating-a-new-module.md)
     * [General settings](evocode/getting-started/general-settings.md)
   * [Dictionary tool](evocode/dictionary-tool.md)
+  * [Editing panel](evocode/editing-panel/README.md)
+    * [Source code editing](evocode/editing-panel/source-code-editing.md)
 
