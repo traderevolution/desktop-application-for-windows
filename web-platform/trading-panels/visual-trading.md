@@ -2,7 +2,7 @@
 
 You can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart:
 
-![](../../.gitbook/assets/1%20%289%29.png)
+![](../../.gitbook/assets/1%20%2810%29.png)
 
 ### **The built-in Order entry panel** 
 
@@ -53,9 +53,9 @@ To disable the chart trading, click the 'Mouse trading' button again, or just st
 
 ### Order modifying
 
- To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2818%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
+ To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2819%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
-![](../../.gitbook/assets/6%20%2823%29.png)
+![](../../.gitbook/assets/6%20%2824%29.png)
 
 To cancel order, click on the![](../../.gitbook/assets/7%20%2817%29.png)button.
 
@@ -63,7 +63,7 @@ To cancel order, click on the![](../../.gitbook/assets/7%20%2817%29.png)button.
 
  If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
-![](../../.gitbook/assets/8%20%2813%29.png)
+![](../../.gitbook/assets/8%20%2814%29.png)
 
 
 

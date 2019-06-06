@@ -56,7 +56,7 @@ Right-clicking on the timeline shows the panel with additional options:
 * Show time periods separators - this option displays the vertical lines on the Chart to separate different days, weeks, months and years.
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 
-![](../../../.gitbook/assets/1%20%2830%29.png)
+![](../../../.gitbook/assets/1%20%2831%29.png)
 
 
 

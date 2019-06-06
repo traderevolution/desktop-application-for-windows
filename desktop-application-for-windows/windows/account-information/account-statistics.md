@@ -4,7 +4,7 @@ Account statistics panel is a tool for traders that provides detailed informatio
 
 Account statistics panel offers the feature of exporting all statistics and charts to HTML format as a report. To take advantage of this option use the 'Export to HTML' button located on the top right corner of the panel. The report is generated for the selected accounts over the chosen period considering values displayed in the corresponding tabs.
 
-![](../../../.gitbook/assets/1%20%2812%29.png)
+![](../../../.gitbook/assets/1%20%2813%29.png)
 
 Account statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
@@ -155,7 +155,7 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ### **Aggregate P/L Chart**
 
-![](../../../.gitbook/assets/4%20%2819%29.png)
+![](../../../.gitbook/assets/4%20%2820%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
@@ -163,7 +163,7 @@ Aggregation interval – allows aggregating P/L chart by the needed periods: by 
 
 ### **Trades Population Chart**
 
-![](../../../.gitbook/assets/5%20%2831%29.png)
+![](../../../.gitbook/assets/5%20%2832%29.png)
 
 **Trades population** consists of two charts:
 
@@ -176,7 +176,7 @@ Profitable chart displays Cumulative P/L and volumes of trades made for the sele
 
 ### **Drawdowns Chart**
 
-![](../../../.gitbook/assets/6%20%287%29.png)
+![](../../../.gitbook/assets/6%20%288%29.png)
 
 Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
 

@@ -49,19 +49,19 @@ After expiration of the Trading idea, it will be removed from the panel. In orde
 
 ### **User-subscriber** 
 
-User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../../.gitbook/assets/1%20%2863%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
+User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../../.gitbook/assets/1%20%2864%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
 To receive a Trading idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Trading idea, the notification will appear in the Status bar of the terminal.
 
-![](../../.gitbook/assets/8%20%2814%29.png)
+![](../../.gitbook/assets/8%20%2815%29.png)
 
 A user-subscriber can see the sent Trading idea in panel:
 
-![](../../.gitbook/assets/5%20%2825%29.png)
+![](../../.gitbook/assets/5%20%2826%29.png)
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity of the idea orders to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Trading idea, an order placement confirmation dialog box is displayed:
 
-![](../../.gitbook/assets/6%20%2831%29.png)
+![](../../.gitbook/assets/6%20%2832%29.png)
 
 Click on the ‘Yes’ button to place an order based on the Trading idea.
 

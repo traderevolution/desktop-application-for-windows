@@ -2,7 +2,7 @@
 
 Order entry panel allows to place market or pending orders. To open the Order entry panel select   Terminal -&gt; Order entry.
 
-![](../../.gitbook/assets/1%20%2827%29.png)
+![](../../.gitbook/assets/1%20%2828%29.png)
 
 This panel contains the following settings:
 
@@ -35,5 +35,5 @@ You can set up set the Stop loss and Take profit directly from the Order entry p
 
 Order entry panel has the additional VWAP section which displays important information. VWAP section allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel.
 
-![](../../.gitbook/assets/5%20%2834%29.png)
+![](../../.gitbook/assets/5%20%2835%29.png)
 

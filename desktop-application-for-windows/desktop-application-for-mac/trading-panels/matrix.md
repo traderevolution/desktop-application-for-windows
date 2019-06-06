@@ -85,7 +85,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 **View**
 
-![](../../../.gitbook/assets/1%20%2824%29.png)
+![](../../../.gitbook/assets/1%20%2825%29.png)
 
 * Font – allows to choose the style of the font;
 * Show position bar – allows showing position bar;
@@ -121,7 +121,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 **Colors**
 
-![](../../../.gitbook/assets/4%20%2834%29.png)
+![](../../../.gitbook/assets/4%20%2835%29.png)
 
 _Table colors:_
 
@@ -141,7 +141,7 @@ _Mouse trading:_
 
 Hover – color and style of the line for sliding the cursor through each price level.
 
-![](../../../.gitbook/assets/5%20%2828%29.png)
+![](../../../.gitbook/assets/5%20%2829%29.png)
 
 _Position bar:_
 

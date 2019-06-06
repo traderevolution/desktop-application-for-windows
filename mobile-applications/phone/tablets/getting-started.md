@@ -2,7 +2,7 @@
 
 To log in to the application, use your valid login and password:
 
-![](../../../.gitbook/assets/1%20%288%29.png)
+![](../../../.gitbook/assets/1%20%289%29.png)
 
 Check the 'Save password' if you want the app remembering your login credentials.
 

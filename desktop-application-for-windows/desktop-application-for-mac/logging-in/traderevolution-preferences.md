@@ -1,12 +1,12 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2861%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2862%29.png)located at the Top menu of the platform.
 
 This menu contains such sections as:
 
 ### General:
 
-![](../../../.gitbook/assets/1%20%2862%29.png)
+![](../../../.gitbook/assets/1%20%2863%29.png)
 
 * Allow automatic login – if checked, the application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, the application will try to reconnect to the server after losing connection.
@@ -48,7 +48,7 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ### **Trading defaults:**
 
-![](../../../.gitbook/assets/5%20%2830%29.png)
+![](../../../.gitbook/assets/5%20%2831%29.png)
 
 * Account – allows to select a default account for trading;
 * Symbol – allows to select a default instrument for trading;

@@ -4,13 +4,13 @@
 
 Time & Sales can be opened from the Analysis tools menu by clicking on the button ![](../../../../../.gitbook/assets/5%20%2817%29.png)or through Context menu -&gt; Analysis tools -&gt; T&S.
 
-![](../../../../../.gitbook/assets/6%20%2829%29.png)
+![](../../../../../.gitbook/assets/6%20%2830%29.png)
 
 **Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 
 Time & Sales functionality can be set in the following way:
 
-![](../../../../../.gitbook/assets/8%20%2811%29.png)
+![](../../../../../.gitbook/assets/8%20%2812%29.png)
 
 * Visible – controls visibility of the T&S on the chart.
 * Time & Sales mode – allows choosing mode of the data selection: single or price range.
