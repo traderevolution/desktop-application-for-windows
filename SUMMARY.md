@@ -202,4 +202,5 @@
   * [Dictionary tool](evocode/dictionary-tool.md)
   * [Editing panel](evocode/editing-panel/README.md)
     * [Source code editing](evocode/editing-panel/source-code-editing.md)
+    * [Editing types/Scripts setup](evocode/editing-panel/editing-types-scripts-setup.md)
 
