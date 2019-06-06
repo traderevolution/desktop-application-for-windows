@@ -11,7 +11,7 @@ The main quote section consists of the following columns:
 
 The best Bid and best Ask prices are located at the top of the histogram. Volumes are located opposite to the corresponding prices.
 
-![](../../../.gitbook/assets/1%20%2866%29.png)
+![](../../../.gitbook/assets/1%20%2867%29.png)
 
 To open Order entry screen, tap the Order entry button![](../../../.gitbook/assets/oe%20%284%29.jpg)at the top right corner of the Market depth screen. Also you can open the Order entry screen by tapping the Bid/Ask row. The chosen BID/ASK price is placed as a limit price in OE automatically.
 

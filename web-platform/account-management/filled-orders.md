@@ -2,7 +2,7 @@
 
 Filled orders panel displays trading history. To open the Filled orders panel select Terminal -&gt; Filled orders.
 
-![](../../.gitbook/assets/3%20%2850%29.png)
+![](../../.gitbook/assets/3%20%2851%29.png)
 
 The following columns are available in the panel:
 

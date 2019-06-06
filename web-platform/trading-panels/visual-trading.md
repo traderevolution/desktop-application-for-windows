@@ -6,7 +6,7 @@ You can perform trading directly from the chart panel. It is possible to send or
 
 ### **The built-in Order entry panel** 
 
-In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2827%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
+In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2828%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
 ![](../../.gitbook/assets/3%20%2834%29.png)
 

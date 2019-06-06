@@ -9,7 +9,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 * Last price – the last trade price;
 * Change, % – the price deviation from current day's opening price in a percentage.
 
-![](../../../.gitbook/assets/2%20%2813%29.png)
+![](../../../.gitbook/assets/2%20%2814%29.png)
 
 ### **Symbol lookup** 
 

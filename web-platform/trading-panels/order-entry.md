@@ -2,14 +2,14 @@
 
 Order entry panel allows to place market or pending orders. To open the Order entry panel select   Terminal -&gt; Order entry.
 
-![](../../.gitbook/assets/1%20%2828%29.png)
+![](../../.gitbook/assets/1%20%2829%29.png)
 
 This panel contains the following settings:
 
 * Account – the account used for an order creation;
 * Symbol – the symbol available for the trade;
 * Side – allows to activate Buy or Sell side;
-* Quantity – an amount of lots in which an order is placed. The![](../../.gitbook/assets/2%20%2833%29.png)button near this field allows to select among default values for Quantity from the drop-down list. The item ‘Set defaults’ calls the Types manager panel, allowing to edit the default values;
+* Quantity – an amount of lots in which an order is placed. The![](../../.gitbook/assets/2%20%2834%29.png)button near this field allows to select among default values for Quantity from the drop-down list. The item ‘Set defaults’ calls the Types manager panel, allowing to edit the default values;
 * Order type – defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop, OCO:
 
 1. Market order is an order to buy or sell a security at the best available price immediately;
