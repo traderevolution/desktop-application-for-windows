@@ -14,11 +14,9 @@ This mode of compilation is used for debugging source code. It is very useful fo
 
 Three other buttons are available for debug mode: 
 
-Step info![](../../.gitbook/assets/3%20%2855%29.png)– allows going through all code lines independently of breakpoints; 
-
-Step over![](../../.gitbook/assets/4%20%2812%29.png)– allows going over some program steps; 
-
-Step out![](../../.gitbook/assets/5%20%2818%29.png)– script will be running until the breakpoint is reached.
+* Step info![](../../.gitbook/assets/3%20%2855%29.png)  – allows going through all code lines independently of breakpoints; 
+* Step over![](../../.gitbook/assets/4%20%2812%29.png)  – allows going over some program steps; 
+* Step out![](../../.gitbook/assets/5%20%2818%29.png)  – script will be running until the breakpoint is reached.
 
 To begin debugging source code, users should first set breakpoints. A breakpoint can be set by clicking between the code line numbers and the edge of the source code editor window, or by clicking on the![](../../.gitbook/assets/7%20%2823%29.png)button. After placing a breakpoint it will be visible in the margin as a red circle. A user can remove all breakpoints from the source code by clicking on the![](../../.gitbook/assets/8%20%283%29.png)button.
 
