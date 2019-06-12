@@ -204,5 +204,6 @@
     * [Source code editing](evocode/editing-panel/source-code-editing.md)
     * [Editing types/Scripts setup](evocode/editing-panel/editing-types-scripts-setup.md)
     * [Output & Watch](evocode/editing-panel/output-and-watch.md)
-  * [Backtesting panel](evocode/backtesting-panel.md)
+  * [Backtesting panel](evocode/backtesting-panel/README.md)
+    * [Backtester](evocode/backtesting-panel/backtester.md)
 

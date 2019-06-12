@@ -58,9 +58,9 @@ In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/
 
 ### **Symbol Info** 
 
-Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/2%20%2815%29.png)of a certain symbol in the Watchlist.
+Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/2%20%2816%29.png)of a certain symbol in the Watchlist.
 
-![](../../.gitbook/assets/3%20%286%29.png)
+![](../../.gitbook/assets/3%20%287%29.png)
 
 All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/4.png).
 

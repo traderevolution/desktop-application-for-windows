@@ -2,7 +2,7 @@
 
 The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/first%20%283%29.png)button at the top of the screen:
 
-![](../../../.gitbook/assets/1%20%2861%29.png)
+![](../../../.gitbook/assets/1%20%2862%29.png)
 
 In order to view detailed information about an account, tap its name.
 
@@ -12,7 +12,7 @@ P/L, % = Open Gross P/L \* 100 / \(projectedBalance - Open Gross P/L\)
 
 Risk level – displays how an account is close to portfolio liquidation.
 
-![](../../../.gitbook/assets/3%20%281%29.png)
+![](../../../.gitbook/assets/3%20%282%29.png)
 
 * Balance – current realized balance of the account. If there is trading with pending valuation, balance won’t change before clearing, on which P/L will be credited by covered trades or delivery of funds will be performed by uncovered trades; Fees are charged off from the balance at the time of accrual;
 * Projected balance – future balance which includes all accrued and not accrued profit/loss. After closing all positions, accrual of fees and assets' delivery, the balance becomes equal to a projected balance:

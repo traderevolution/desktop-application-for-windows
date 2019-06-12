@@ -22,12 +22,12 @@ It looks as the following:
 
 ![](../../../.gitbook/assets/1%20%2835%29.png)
 
-You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2822%29.png).
+You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2823%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
-![](../../../.gitbook/assets/3%20%287%29.png)
+![](../../../.gitbook/assets/3%20%288%29.png)
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 

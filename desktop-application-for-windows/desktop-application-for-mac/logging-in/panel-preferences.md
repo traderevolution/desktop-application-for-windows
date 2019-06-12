@@ -52,7 +52,7 @@ The Colors tab allows configuring the color scheme for tables:
 * Text colors – the cell text color \(text color\);
 * Background colors – the cell background color.
 
-![](../../../.gitbook/assets/3.png)
+![](../../../.gitbook/assets/3%20%281%29.png)
 
 ### **Managing adjustments**
 
