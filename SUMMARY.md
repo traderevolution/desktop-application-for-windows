@@ -206,4 +206,5 @@
     * [Output & Watch](evocode/editing-panel/output-and-watch.md)
   * [Backtesting panel](evocode/backtesting-panel/README.md)
     * [Backtester](evocode/backtesting-panel/backtester.md)
+    * [Statistics](evocode/backtesting-panel/statistics.md)
 
