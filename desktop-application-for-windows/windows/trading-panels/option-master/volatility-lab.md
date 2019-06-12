@@ -2,7 +2,7 @@
 
 Volatility lab tab is used for graphic analysis before starting to trade options:
 
-![](../../../../.gitbook/assets/1%20%2837%29.png)
+![](../../../../.gitbook/assets/1%20%2838%29.png)
 
 This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
 

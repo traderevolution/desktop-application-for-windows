@@ -2,7 +2,7 @@
 
 The source code editor in EvoCode is a fully professional tool to facilitate the writing of source code. It features syntax highlighting and supports Intellisense technology. Set cursor in necessary place and start typing to open Intellisense menu.
 
-![](../../.gitbook/assets/1%20%2848%29.png)
+![](../../.gitbook/assets/1%20%2849%29.png)
 
 The top part of the Editor panel features a toolbar for easy searching, filtering, inserting comments, and undoing work. The first buttons in the toolbar are ‘Undo’ and ‘Redo’**,** allow users to reverse changes step by step or move forward step by step after using Undo. To provide this click on![](../../.gitbook/assets/2%20%2846%29.png)buttons. 
 
@@ -12,7 +12,7 @@ The Navigate Backward and Navigate Forward buttons![](../../.gitbook/assets/11%2
 
 Also for replacing phrases ‘Replace’ ****button![](../../.gitbook/assets/5%20%2824%29.png)is available. The following window with replacing parameters will be opened:
 
-![](../../.gitbook/assets/6%20%2831%29.png)
+![](../../.gitbook/assets/6%20%2832%29.png)
 
 The ‘Comment’ and ‘Uncomment’ buttons allow adding a comment to the code and removing it. Use the following buttons for these actions![](../../.gitbook/assets/7%20%284%29.png).
 

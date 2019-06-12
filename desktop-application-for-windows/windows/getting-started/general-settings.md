@@ -4,7 +4,7 @@ The General Settings menu is used to customize and change general properties of 
 
 ### **General**
 
-![](../../../.gitbook/assets/1%20%2841%29.png)
+![](../../../.gitbook/assets/1%20%2842%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Info bar - check to display a comprehensive info bar over your Workspaces;
