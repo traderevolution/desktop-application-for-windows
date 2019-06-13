@@ -207,4 +207,5 @@
   * [Backtesting panel](evocode/backtesting-panel/README.md)
     * [Backtester](evocode/backtesting-panel/backtester.md)
     * [Statistics](evocode/backtesting-panel/statistics.md)
+    * [Backtesting Types/Setup](evocode/backtesting-panel/backtesting-types-setup.md)
 
