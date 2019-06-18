@@ -22,7 +22,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ![](../../../.gitbook/assets/3%20%2813%29.png)
 
-![](../../../.gitbook/assets/4%20%2822%29.png)
+![](../../../.gitbook/assets/4%20%2823%29.png)
 
 2\) Click on the![](../../../.gitbook/assets/2%20%2832%29.png)button and select the option how to add the synthetic instrument.
 

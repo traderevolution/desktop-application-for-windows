@@ -22,5 +22,5 @@ User can rearrange columns in tables by moving them to new locations. Click on a
 
  Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
 
-![](../../.gitbook/assets/3%20%2828%29.png)
+![](../../.gitbook/assets/3%20%2829%29.png)
 

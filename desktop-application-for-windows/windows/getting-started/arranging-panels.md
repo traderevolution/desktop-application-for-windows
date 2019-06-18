@@ -13,11 +13,11 @@ There are two main location types for all panels:
 
 * Attach – allows attaching panel. After clicking panel will attach to default place. Then user can move it to any place of the workspace. After taking header of the panel the following buttons appear:
 
-![](../../../.gitbook/assets/3%20%2855%29.png)
+![](../../../.gitbook/assets/3%20%2856%29.png)
 
 Drag the panel into the button to preview it's next position.
 
-![](../../../.gitbook/assets/4%20%2821%29.png)
+![](../../../.gitbook/assets/4%20%2822%29.png)
 
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.
 

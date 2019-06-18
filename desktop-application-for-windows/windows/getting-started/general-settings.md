@@ -54,7 +54,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### Confirmations
 
-![](../../../.gitbook/assets/4%20%2831%29.png)
+![](../../../.gitbook/assets/4%20%2832%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 

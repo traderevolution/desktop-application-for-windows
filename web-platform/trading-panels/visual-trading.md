@@ -8,7 +8,7 @@ You can perform trading directly from the chart panel. It is possible to send or
 
 In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2829%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
-![](../../.gitbook/assets/3%20%2837%29.png)
+![](../../.gitbook/assets/3%20%2838%29.png)
 
 The Order entry panel consists of the following items:
 
@@ -31,7 +31,7 @@ Hot buttons for one-click trading are the following:
 
 To start chart trading, follow these steps:
 
-1.      Оpen the built-in Order entry panel; Click on the 'Mouse trading' button![](../../.gitbook/assets/4%20%2811%29.png)to enable the chart trading;
+1.      Оpen the built-in Order entry panel; Click on the 'Mouse trading' button![](../../.gitbook/assets/4%20%2812%29.png)to enable the chart trading;
 
 2.      Select type of an order to be placed: single or OCO.
 

@@ -118,9 +118,9 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
 ### **Cumulative P/L chart**
 
- Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/2%20%2855%29.png)button.
+ Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/2%20%2856%29.png)button.
 
-![](../../.gitbook/assets/3%20%2835%29.png)
+![](../../.gitbook/assets/3%20%2836%29.png)
 
 Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the![](../../.gitbook/assets/7%20%2823%29.png)buttons to select the corresponding modes.
 
@@ -128,13 +128,15 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ### **Aggregate P/L Chart**
 
-![](../../.gitbook/assets/4%20%2841%29.png)
+![](../../.gitbook/assets/4%20%2842%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
 Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' \(i.e. By hour of the day\) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell. 
 
 ### **Trades Population Chart**
+
+![](../../.gitbook/assets/tr-popul1.png)
 
 Trades population consists of two charts:
 

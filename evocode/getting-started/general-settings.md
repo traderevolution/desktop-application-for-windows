@@ -23,7 +23,7 @@ To edit an existing hotkey, click its value in the HotKey column so that it beco
 
 ### **Scripts**
 
-![](../../.gitbook/assets/4%20%2813%29.png)
+![](../../.gitbook/assets/4%20%2814%29.png)
 
 * Auto include variables to watch – if checked, the Watch panel will contain all variables used in a script any time it's opened.
 * Stop debugging after an exception – if checked, when the first exception occurs the debugging will be stopped, if unchecked – debugging will continue without any restrictions.

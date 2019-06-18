@@ -1,13 +1,13 @@
 # Backtesting Types/Setup
 
-**Backtesting Types**
+### **Backtesting Types**
 
 There are two types of backtesting available in EvoCode:
 
 * Quick backtesting
 * Visualize backtesting
 
- Select Backtesting mode on the top menu of EvoCode window by clicking on the![](../../.gitbook/assets/3%20%2836%29.png) button.
+ Select Backtesting mode on the top menu of EvoCode window by clicking on the![](../../.gitbook/assets/3%20%2837%29.png) button.
 
 The Quick backtesting allows users rapidly testing strategies on historical data without the chart visualization during backtesting. In this mode, the chart with all details about opened and closed positions will only appear after the backtesting is finished.
 
@@ -25,17 +25,17 @@ Before start of backtesting user can setup all required properties. Click on the
 * Range – allows selecting time interval during which the module backtesting will be conducted. It is also available to select custom range by selecting ‘Custom’ option in the drop-down menu.
 * Modeling scheme – the following schemes are available:
 
-         -  1m – Close - one minute bars close price are used for generation.
+         -  1m - Close – one minute bars close price are used for generation.
 
-         -  1m – Open - one minute bars open price are used for generation.
+         -  1m - Open – one minute bars open price are used for generation.
 
-         -  1m – OHLC – one minute bars: Open, High, Low, Close, prices are used for generation.
+         -  1m - OHLC – one minute bars: Open, High, Low, Close, prices are used for generation.
 
-         -  1 D – Close - one day bars close price are used for generation.
+         -  1 D - Close – one day bars close price are used for generation.
 
-         -  1 D – Open - one day bars open price are used for generation.
+         -  1 D - Open – one day bars open price are used for generation.
 
-         -  1 D – OHLC – one day bars: Open, High, Low, Close, prices are used for generation.
+         -  1 D - OHLC – one day bars: Open, High, Low, Close, prices are used for generation.
 
 * Balance – initial deposit amount.
 * Latency – time latency during backtesting process which emulates the slippage that occurs during a real trade.
