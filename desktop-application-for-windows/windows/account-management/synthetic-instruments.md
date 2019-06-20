@@ -12,7 +12,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ![](../../../.gitbook/assets/1%20%2862%29.png)
 
-New Synthetic instruments can now be created. Click on the![](../../../.gitbook/assets/2%20%286%29.png)button.
+New Synthetic instruments can now be created. Click on the![](../../../.gitbook/assets/2%20%287%29.png)button.
 
 Double click on SYNTHETIC0 to change the name.
 
@@ -24,7 +24,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ![](../../../.gitbook/assets/4%20%2823%29.png)
 
-2\) Click on the![](../../../.gitbook/assets/2%20%2832%29.png)button and select the option how to add the synthetic instrument.
+2\) Click on the![](../../../.gitbook/assets/2%20%2833%29.png)button and select the option how to add the synthetic instrument.
 
 ![](../../../.gitbook/assets/5%20%2814%29.png)
 

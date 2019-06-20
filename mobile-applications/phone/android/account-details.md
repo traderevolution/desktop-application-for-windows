@@ -6,7 +6,7 @@ The Account details screen is accessible through the Watchlist, Positions and Or
 
 In order to view detailed information about an account, tap its name.
 
-![](../../../.gitbook/assets/2%20%2863%29.png)
+![](../../../.gitbook/assets/2%20%2864%29.png)
 
 P/L, % = Open Gross P/L \* 100 / \(projectedBalance - Open Gross P/L\) 
 

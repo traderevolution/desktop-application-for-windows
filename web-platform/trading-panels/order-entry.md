@@ -9,7 +9,7 @@ Order entry panel allows to place market or pending orders. To open the Order en
 * Account – the account used for an order creation;
 * Symbol – the symbol available for the trade;
 * Side – allows to activate Buy or Sell side;
-* Quantity – an amount of lots in which an order is placed. The![](../../.gitbook/assets/2%20%2836%29.png)button near this field allows to select among default values for Quantity from the drop-down list. The item ‘Set defaults’ calls the Types manager panel, allowing to edit the default values;
+* Quantity – an amount of lots in which an order is placed. The![](../../.gitbook/assets/2%20%2837%29.png)button near this field allows to select among default values for Quantity from the drop-down list. The item ‘Set defaults’ calls the Types manager panel, allowing to edit the default values;
 * Order type – defines the type of the order: Market, Limit, Stop, Stop limit, Trailing stop, OCO:
 
 1. Market order is an order to buy or sell a security at the best available price immediately;

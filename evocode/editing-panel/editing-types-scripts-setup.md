@@ -10,7 +10,7 @@ This mode of compilation is used as Product ready mode. If the source code is fr
 
 #### Debug mode
 
-This mode of compilation is used for debugging source code. It is very useful for finding mistakes before script usage. Users can debug C\# code. The mode can be running from the main panel button![](../../.gitbook/assets/2%20%2860%29.png).
+This mode of compilation is used for debugging source code. It is very useful for finding mistakes before script usage. Users can debug C\# code. The mode can be running from the main panel button![](../../.gitbook/assets/2%20%2861%29.png).
 
 Three other buttons are available for debug mode: 
 

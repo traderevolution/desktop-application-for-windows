@@ -17,7 +17,7 @@ The General settings menu is used to view and change general properties of EvoCo
 
 ###  **Hotkeys**
 
-![](../../.gitbook/assets/2%20%2841%29.png)
+![](../../.gitbook/assets/2%20%2842%29.png)
 
 To edit an existing hotkey, click its value in the HotKey column so that it becomes highlighted![](../../.gitbook/assets/3%20%285%29.png), and set a new value by pressing the needed key\(s\).
 
