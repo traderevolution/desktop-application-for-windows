@@ -85,7 +85,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 **View**
 
-![](../../../.gitbook/assets/1%20%2828%29.png)
+![](../../../.gitbook/assets/1%20%2829%29.png)
 
 * Font – allows to choose the style of the font;
 * Show position bar – allows showing position bar;
@@ -99,7 +99,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 * Settlement price – allows displaying settlement price**;**
 * Previous settlement price – allows displaying previous settlement price.
 
-![](../../../.gitbook/assets/2%20%286%29.png)
+![](../../../.gitbook/assets/2%20%287%29.png)
 
 Check/uncheck the needed hot buttons in order to display them in the built-in Order entry of the Matrix panel:
 
@@ -115,7 +115,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
  **** **Columns**
 
-![](../../../.gitbook/assets/3%20%2845%29.png)
+![](../../../.gitbook/assets/3%20%2846%29.png)
 
 ‘Columns’ tab allows to select colors of the columns located in the panel: Buy, Price, Size, Sell.
 

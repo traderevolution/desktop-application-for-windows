@@ -24,7 +24,7 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Lot multiplier</td>
       <td style="text-align:left">
         <p>
-          <img src="../../../.gitbook/assets/1 (71).png" alt/>
+          <img src="../../../.gitbook/assets/1 (72).png" alt/>
         </p>
         <p>MVol - order size entered by manager;</p>
         <p>Vol i - volume of open positions on the subaccount;</p>
@@ -35,7 +35,7 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Lot allocation</td>
       <td style="text-align:left">
         <p>
-          <img src="../../../.gitbook/assets/2 (62).png" alt/>
+          <img src="../../../.gitbook/assets/2 (64).png" alt/>
         </p>
         <p>Vol i - volume of open positions on the subaccount;</p>
         <p>MVol - order size entered by manager;</p>
@@ -47,7 +47,7 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Proportional by balance</td>
       <td style="text-align:left">
         <p>
-          <img src="../../../.gitbook/assets/3 (53).png" alt/>
+          <img src="../../../.gitbook/assets/3 (54).png" alt/>
         </p>
         <p>balance i - the balance of the subaccount;</p>
         <p>&#x2211;balance - the balance of all active subaccounts.</p>

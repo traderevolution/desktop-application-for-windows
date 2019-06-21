@@ -1,19 +1,19 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2867%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2868%29.png)located at the Top menu of the platform.
 
 This menu contains such sections as:
 
 ### General:
 
-![](../../../.gitbook/assets/1%20%2869%29.png)
+![](../../../.gitbook/assets/1%20%2870%29.png)
 
 * Allow automatic login – if checked, the application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, the application will try to reconnect to the server after losing connection.
 
 ### **View:**
 
-![](../../../.gitbook/assets/2%20%2846%29.png)
+![](../../../.gitbook/assets/2%20%2848%29.png)
 
 * Display quantity in lots – if checked, orders quantity is shown in lots, otherwise - in units;
 * Display quantity in absolute – if checked, orders quantity is shown in absolute values;
@@ -24,7 +24,7 @@ This menu contains such sections as:
 
 ‘Sounds’ preferences allow to enable/disable System and Trading sounds.
 
-![](../../../.gitbook/assets/3%20%2840%29.png)
+![](../../../.gitbook/assets/3%20%2841%29.png)
 
 * System
   * Welcome;

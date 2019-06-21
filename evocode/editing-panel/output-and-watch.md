@@ -12,9 +12,9 @@ Watch tool is used during debugging source code.
 
 To begin debugging source code, users should first set breakpoints. Then it is necessary to select variables which are to be checked and add them to the Watch panel. In order to do this, put the mouse over the variable to add to Watch, then ****open context menu and select ‘Add watch’ option. Selected variable will appear in the Watch panel:
 
-![](../../.gitbook/assets/2%20%2811%29.png)
+![](../../.gitbook/assets/2%20%2812%29.png)
 
-Select the Debug mode and run debugging by clicking on the![](../../.gitbook/assets/3%20%2841%29.png)button.
+Select the Debug mode and run debugging by clicking on the![](../../.gitbook/assets/3%20%2842%29.png)button.
 
 If using tables in the Watch tool, users can click on the ‘Full’ ****button to see the value of an array.
 

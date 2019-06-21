@@ -6,7 +6,7 @@ Backtester panel is a chart which can be used to show backtests conducted on his
 
 In the toolbar of the panel, a user can find 2 buttons: 
 
-* Drawing tools![](../../.gitbook/assets/2%20%2813%29.png)  – allow to open the drawing toolbar; 
+* Drawing tools![](../../.gitbook/assets/2%20%2814%29.png)  – allow to open the drawing toolbar; 
 * Object manager![](../../.gitbook/assets/3.png)– shows drawings which were applied to the chart with their settings and short information.
 
 The following options are available in the context menu of the panel:

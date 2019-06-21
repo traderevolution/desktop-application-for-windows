@@ -2,7 +2,7 @@
 
 Logs panel shows main information about backtesting process and errors.
 
-![](../../.gitbook/assets/2%20%283%29.png)
+![](../../.gitbook/assets/2%20%284%29.png)
 
 Logs can be cleared or copied through the context menu of the panel.
 
