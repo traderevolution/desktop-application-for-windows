@@ -35,7 +35,7 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Lot allocation</td>
       <td style="text-align:left">
         <p>
-          <img src="../../../.gitbook/assets/2 (65).png" alt/>
+          <img src="../../../.gitbook/assets/2 (66).png" alt/>
         </p>
         <p>Vol i - volume of open positions on the subaccount;</p>
         <p>MVol - order size entered by manager;</p>

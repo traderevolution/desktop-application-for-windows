@@ -13,7 +13,7 @@ This menu contains such sections as:
 
 ### **View:**
 
-![](../../../.gitbook/assets/2%20%2849%29.png)
+![](../../../.gitbook/assets/2%20%2850%29.png)
 
 * Display quantity in lots – if checked, orders quantity is shown in lots, otherwise - in units;
 * Display quantity in absolute – if checked, orders quantity is shown in absolute values;

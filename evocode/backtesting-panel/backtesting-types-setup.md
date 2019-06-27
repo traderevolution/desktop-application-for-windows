@@ -17,7 +17,7 @@ The Visualize backtesting option allows users to see what is happening on the ch
 
 Before start of backtesting user can setup all required properties. Click on the![](../../.gitbook/assets/1%20%2812%29.png)button to evoke the Backtesting Setup window.
 
-![](../../.gitbook/assets/2%20%2839%29.png)
+![](../../.gitbook/assets/2%20%2840%29.png)
 
 * Main symbol – evokes the lookup for selection of the main symbol for backtesting.
 * Additional symbols – evokes the lookup for selection of additional symbols for backtesting.
