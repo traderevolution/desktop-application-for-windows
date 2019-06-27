@@ -2,7 +2,7 @@
 
 The Chart is the most important tool for active trading and market analyzing. The Chart screen can be accessed from the main menu of the application through the Watchlist screen, and also from Orders and Positions screens.
 
-![](../../../.gitbook/assets/1%20%2860%29.png)
+![](../../../.gitbook/assets/1%20%2861%29.png)
 
 In the ‘Indices’ section of the Watchlist swipe left or right the chart to change the symbol and choose the timeframe.
 
@@ -12,13 +12,12 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap the button![](../../../.gitbook/assets/2%20%281%29.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/3%20%2837%29.png)
+![](../../../.gitbook/assets/1%20%2824%29.png)
 
-The Chart toolbar consists of 3 buttons:
+The Chart toolbar consists of 2 items:
 
-* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area.
+* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
 * Indicators – allows to choose the needed indicator for technical analysis.
-* Drawings – opens the drawing tools toolbar.
 
 ### **Indicators**
 
@@ -34,13 +33,7 @@ Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/9%20%2810%29.png)
 
-### **Drawing tools**
-
-Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
-
-![](../../../.gitbook/assets/10%20%289%29.png)
-
-### **Order entry**
+### **Order entry**
 
 The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/11%20%281%29.jpg)is located at the top right corner of the Chart screen.
 
