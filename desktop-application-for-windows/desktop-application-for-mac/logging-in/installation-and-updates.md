@@ -2,7 +2,7 @@
 
 In order to download the application, use the App Store on your Mac. The login screen of the application looks as the following:
 
-![](../../../.gitbook/assets/1%20%2817%29.png)
+![](../../../.gitbook/assets/1%20%2818%29.png)
 
 To open the application with your account, enter your Login and Password.
 

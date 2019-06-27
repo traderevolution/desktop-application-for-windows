@@ -1,12 +1,12 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2871%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2872%29.png)located at the Top menu of the platform.
 
 This menu contains such sections as:
 
 ### General:
 
-![](../../../.gitbook/assets/1%20%2873%29.png)
+![](../../../.gitbook/assets/1%20%2874%29.png)
 
 * Allow automatic login – if checked, the application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, the application will try to reconnect to the server after losing connection.

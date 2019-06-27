@@ -6,7 +6,7 @@ Orders history panel shows all orders sent during the backtesting.
 
 The following columns are available for the panel:
 
-![](../../.gitbook/assets/1%20%2837%29.png)
+![](../../.gitbook/assets/1%20%2838%29.png)
 
 Customer can also use standard functions from context menu of the panel:
 

@@ -2,7 +2,7 @@
 
 After successful testing of a script against historical data, a user can save the source code. To provide this, select the corresponding options from the drop-down ‘File’ menu \(Save, Save as..., Save all\).
 
-![](../../.gitbook/assets/1%20%2824%29.png)
+![](../../.gitbook/assets/1%20%2825%29.png)
 
 Select the item ‘Export script settings’ from this menu to export script settings to a file. The following window will be opened:
 
