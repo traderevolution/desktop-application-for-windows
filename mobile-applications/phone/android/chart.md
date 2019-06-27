@@ -2,7 +2,7 @@
 
 The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%2844%29.png)
+![](../../../.gitbook/assets/1%20%2845%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
 
@@ -14,13 +14,12 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/4%20%2838%29.png)
+![](../../../.gitbook/assets/1%20%2842%29.png)
 
-The Chart toolbar consists of 3 buttons:
+The Chart toolbar consists of 2 items:
 
-* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area.
+* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
 * Indicators – allows to choose the needed indicator for technical analysis.
-* Drawings – opens the drawing tools toolbar.
 
 ### **Indicators**
 
@@ -35,12 +34,6 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/8%20%2817%29.png)
-
-### **Drawing tools** 
-
-Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
-
-![](../../../.gitbook/assets/9%20%286%29.png)
 
 ### **Order entry** 
 

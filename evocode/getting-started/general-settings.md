@@ -8,7 +8,7 @@ The General settings menu is used to view and change general properties of EvoCo
 
 ### **Options**
 
-![](../../.gitbook/assets/1%20%2846%29.png)
+![](../../.gitbook/assets/1%20%2847%29.png)
 
 * Language – specifies the default language of the user interface. To set up the language, select it from the list;
 * Enable sound – check to allow sound notifications;
