@@ -12,13 +12,12 @@ Tap the name of the symbol in the ‘Quotes’ section in order to open the char
 
 Tap the button![](../../../.gitbook/assets/tools%20%281%29.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/2%20%2810%29.png)
+![](../../../.gitbook/assets/1%20%2845%29.png)
 
-The Chart toolbar consists of 3 buttons:
+The Chart toolbar consists of 2 items:
 
-* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area.
+* Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
 * Indicators – allows to choose the needed indicator for technical analysis.
-* Drawings – opens the drawing tools toolbar.
 
 ### **Indicators**
 
@@ -34,15 +33,9 @@ Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/screenshot_2018-11-07-14-26-38.png)
 
-### **Drawing tools**
+### **Order entry**
 
-Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
-
-![](../../../.gitbook/assets/screenshot_2018-11-07-14-28-37%20%281%29.png)
-
-### **Order entry**
-
- The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/oe%20%286%29.jpg)is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/oe%20%286%29.jpg)is located at the top right corner of the Chart screen.
 
 ![](../../../.gitbook/assets/smallest-chart.png)
 
