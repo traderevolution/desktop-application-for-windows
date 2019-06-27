@@ -14,7 +14,7 @@ To begin debugging source code, users should first set breakpoints. Then it is n
 
 ![](../../.gitbook/assets/2%20%2812%29.png)
 
-Select the Debug mode and run debugging by clicking on the![](../../.gitbook/assets/3%20%2842%29.png)button.
+Select the Debug mode and run debugging by clicking on the![](../../.gitbook/assets/3%20%2843%29.png)button.
 
 If using tables in the Watch tool, users can click on the ‘Full’ ****button to see the value of an array.
 

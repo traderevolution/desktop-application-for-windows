@@ -4,7 +4,7 @@
 
 To open Orders history panel, select Terminal -&gt; Orders history:
 
-![](../../.gitbook/assets/1%20%2846%29.png)
+![](../../.gitbook/assets/1%20%2847%29.png)
 
 The following columns are available in the panel:
 

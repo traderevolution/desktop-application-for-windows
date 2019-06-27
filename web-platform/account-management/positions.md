@@ -2,7 +2,7 @@
 
 Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately. To open Positions panel, select Terminal -&gt; Positions:
 
-![](../../.gitbook/assets/1%20%2853%29.png)
+![](../../.gitbook/assets/1%20%2854%29.png)
 
 The following columns are available in the panel:
 

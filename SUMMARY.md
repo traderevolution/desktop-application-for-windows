@@ -209,6 +209,7 @@
     * [Statistics](evocode/backtesting-panel/statistics.md)
     * [Backtesting Types/Setup](evocode/backtesting-panel/backtesting-types-setup.md)
     * [Running a backtest](evocode/backtesting-panel/running-a-backtest.md)
+    * [Orders & Positions history](evocode/backtesting-panel/orders-and-position-history.md)
     * [Filled orders](evocode/backtesting-panel/filled-orders.md)
     * [Logs](evocode/backtesting-panel/logs.md)
     * [Saving, importing and exporting scripts](evocode/backtesting-panel/saving-importing-and-exporting-scripts.md)

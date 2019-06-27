@@ -416,67 +416,6 @@ The following information about Accounts and calculation formulas are available:
         for an account.</td>
       <td style="text-align:left"></td>
     </tr>
-    <tr>
-      <td style="text-align:left"><b>Info</b>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Owner</td>
-      <td style="text-align:left">An account&apos;s owner name.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">User ID</td>
-      <td style="text-align:left">A user&apos;s unique PIN code.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">User login</td>
-      <td style="text-align:left">An account&apos;s corresponding login ID.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Email</td>
-      <td style="text-align:left">An email assigned to the account.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Account</td>
-      <td style="text-align:left">An account&apos;s unique identifier.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Account type</td>
-      <td style="text-align:left">Two types are available: Single currency, Multi-asset.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Account mode</td>
-      <td style="text-align:left">Demo, Contest or Live.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Telephone number</td>
-      <td style="text-align:left">A telephone number that is assigned for user.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Asset</td>
-      <td style="text-align:left">An asset&#x2019;s unique identifier.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Asset description</td>
-      <td style="text-align:left">Any useful information about the asset.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Asset type</td>
-      <td style="text-align:left">Here can be three types: Currency, Shares, Commodities.</td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
 
