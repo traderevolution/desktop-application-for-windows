@@ -36,7 +36,8 @@ Order entry panel allows to place market or pending orders. To open the Order en
 5. Result of option expiry - the command for processing the order originated from an option expiration;
 6. Option Exercise - the command for processing the order originated from an option exercise;
 7. Reuters messenger - the command for processing the order was issued via the Reuters messenger;
-8. OE - admin performs operations on the order.
+8. OE - admin performs operations on the order;
+9. Corporate action - the command for processing the order was issued via a corporate action.
 
 Note: if the user performs actions on the position or modifies the order from one of the menus, in which this parameter is available the "Received by" value is automatically switched to "OE".
 
