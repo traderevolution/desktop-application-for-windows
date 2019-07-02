@@ -7,7 +7,7 @@
 ![](../../../../.gitbook/assets/27%20%281%29.png)
 
 * Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -&gt; \[desired style\].
-* Data type - the way to accept data. Available types are: Bid, Ask, Bid/Ask average, Last. Based on server settings Last or Bid/Ask type can be disabled.
+* Data type - the way to accept data. Available types are: Bid, Ask, Last or Default by symbol. Based on server settings Last or Bid/Ask type can be disabled.
 * Color settings for all styles.
 
 #### View
