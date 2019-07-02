@@ -2,7 +2,7 @@
 
 A user can add any other symbol's chart to the current chart. To provide this, click on the![](../../../../.gitbook/assets/46.png)button located near the Symbol lookup. Select a new symbol to integrate into the chart.
 
-![](../../../../.gitbook/assets/screenshot_1%20%2813%29.png)
+![](../../../../.gitbook/assets/screenshot_1%20%2814%29.png)
 
 The menu of the overlaid symbol contains the following buttons:
 

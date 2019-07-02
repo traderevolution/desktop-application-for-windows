@@ -4,7 +4,7 @@ The General settings menu is used to customize and change general properties of 
 
 ### **General**
 
-![](../../.gitbook/assets/screenshot_1%20%287%29.png)
+![](../../.gitbook/assets/screenshot_1%20%288%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Enable sounds - check to allow sound notifications.

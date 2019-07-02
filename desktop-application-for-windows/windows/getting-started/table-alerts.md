@@ -14,7 +14,7 @@ Table alerts are available in the Settings -&gt; Alerts. Also alerts tab can be 
 
 ![](../../../.gitbook/assets/f1.png)
 
-Then in the bottom of the panel select actions which will happen if chosen conditions are true. Click on the button![](../../../.gitbook/assets/screenshot_1%20%284%29.png)to setup conditions of each selected action.
+Then in the bottom of the panel select actions which will happen if chosen conditions are true. Click on the button![](../../../.gitbook/assets/screenshot_1%20%285%29.png)to setup conditions of each selected action.
 
 * Message – allows writing a message, which a user will get if the conditions are true. The message will appear as a deal ticket.
 * Sound – allows playing a sound file, which a user can choose through the file path. The file should be saved in ‘wav’ format.

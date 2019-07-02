@@ -7,14 +7,14 @@
 ![](../../../../.gitbook/assets/27%20%281%29.png)
 
 * Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -&gt; \[desired style\].
-* Data type - the way to accept data. Available types are: Bid, Ask, Last or Default by symbol. Based on server settings Last or Bid/Ask type can be disabled.
+* Data type - the way to accept data. Available types are: Bid, Ask, Last and Default by symbol. Based on server settings Last or Bid/Ask type can be disabled.
 * Color settings for all styles.
 
 #### View
 
-![](../../../../.gitbook/assets/28.png)
+![](../../../../.gitbook/assets/screenshot_1%20%283%29.png)
 
-* Window colors - allows setting up color of the chart background.
+* Window colors - allows setting up the color of chart background and the watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.

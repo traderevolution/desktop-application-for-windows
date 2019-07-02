@@ -16,7 +16,7 @@ Here user can select an instrument that underlies the option which user is going
 
 **Settings:**
 
-Clicking on the button![](../../../../.gitbook/assets/screenshot_1%20%283%29.png)calls the dialog window Option master – settings. This block allows specifying general settings of the Option master panel. General settings tab is divided into three sections: General, Analyzer and Volatility lab.
+Clicking on the button![](../../../../.gitbook/assets/screenshot_1%20%284%29.png)calls the dialog window Option master – settings. This block allows specifying general settings of the Option master panel. General settings tab is divided into three sections: General, Analyzer and Volatility lab.
 
 **General:**
 
