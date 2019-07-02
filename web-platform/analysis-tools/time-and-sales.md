@@ -8,7 +8,7 @@ The Time & Sales panel chronologically shows all trades for a symbol in real tim
 
 The information about chosen symbol starts streaming upon opening the panel.
 
-![](../../.gitbook/assets/screenshot_1.png)
+![](../../.gitbook/assets/screenshot_1%20%281%29.png)
 
 The following data is available for each trade:
 

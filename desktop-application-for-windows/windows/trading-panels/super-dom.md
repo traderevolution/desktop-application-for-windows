@@ -84,9 +84,9 @@ Mouse trading rules:
 
 Clicking on the group of orders on one price allows showing the list of pending orders.
 
-![](../../../.gitbook/assets/sup.png)
+![](../../../.gitbook/assets/screenshot_1.png)
 
-**Super DOM settings**
+### **Super DOM settings**
 
 Super DOM settings have 2 tabs, each of them consists of several parts:
 
