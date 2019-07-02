@@ -6,7 +6,7 @@ The Symbol info screen allows displaying all information about the selected symb
 
 Information by the symbol is divided into the following groups:
 
-![](../../../.gitbook/assets/symbol-info-ipad-copy.png)
+![](../../../.gitbook/assets/ipad-screen.PNG)
 
 1\) General:
 
