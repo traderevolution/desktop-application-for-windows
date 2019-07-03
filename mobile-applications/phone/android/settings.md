@@ -1,6 +1,6 @@
 # Settings
 
-A user can access the ‘Settings’ tab from the application’s ‘More’ menu in order to manage 'Defaults', 'Confirmations', 'Environment', 'Chart settings'.
+A user can access the ‘Settings’ tab from the application’s ‘More’ menu in order to manage 'Defaults', 'Confirmations' and 'Chart settings'.
 
 ### Defaults
 
@@ -17,7 +17,7 @@ In 'Defaults' settings section you can adjust the following:
 
 ### **Confirmations**
 
-![](../../../.gitbook/assets/confirm.png)
+![](../../../.gitbook/assets/1mob.png)
 
 'Confirmations' settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
@@ -28,20 +28,9 @@ In 'Defaults' settings section you can adjust the following:
 * Position modifying;
 * Position closing.
 
-### **Environment**
-
-![](../../../.gitbook/assets/environment.png)
-
-In 'Environment' section you can adjust the following: 
-
-* Receive notifications – if checked, user will receive trading notifications. The notification icon looks as follows:![](../../../.gitbook/assets/new-icon.png);
-* Vibrate for notifications – if checked, the device will vibrate when notification comes;
-* Enable sounds – this option shows if sounds are enabled or not;
-* Warn if trading halt – if checked, user receives notifications about trading halt by symbol.
-
 ### **Chart settings**
 
-![](../../../.gitbook/assets/settings-without-language.png)
+![](../../../.gitbook/assets/2mob.png)
 
 'Chart' settings section allows to specify the following options to be visible on the chart:
 
