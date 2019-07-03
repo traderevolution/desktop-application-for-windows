@@ -1,6 +1,6 @@
 # Settings
 
-You can access the ‘Settings’ screen from the application's main menu in order to manipulate by 'Defaults', 'Confirmations', 'Chart settings':
+You can access the ‘Settings’ screen from the application's main menu in order to manipulate by 'Defaults', 'Confirmations' and 'Chart settings':
 
 ### **Defaults**
 
@@ -28,7 +28,7 @@ In ‘Defaults’ settings section you can adjust the following:
 * Position modifying;
 * Position closing.
 
-### **Chart**
+### **Chart settings**
 
 ‘Chart settings’ section allows to specify the following options to be visible on the chart:
 
