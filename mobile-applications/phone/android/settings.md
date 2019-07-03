@@ -4,7 +4,7 @@ A user can access the ‘Settings’ tab from the application’s ‘More’ men
 
 ### Defaults
 
-![](../../../.gitbook/assets/defaults.png)
+![](../../../.gitbook/assets/1mob1.png)
 
 In 'Defaults' settings section you can adjust the following:
 
