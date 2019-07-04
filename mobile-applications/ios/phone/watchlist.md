@@ -2,14 +2,14 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/1%20%2817%29.png)
+![](../../../.gitbook/assets/watchl.PNG)
 
 In the Watchlist you can find information by traded symbols:
 
 * Last price – the last trade price;
 * Change, % – the price deviation from current day's opening price in a percentage.
 
-![](../../../.gitbook/assets/2%20%2817%29.png)
+![](../../../.gitbook/assets/w2.PNG)
 
 ### **Symbol lookup** 
 
