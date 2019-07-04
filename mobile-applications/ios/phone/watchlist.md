@@ -11,7 +11,17 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
 ![](../../../.gitbook/assets/w2.PNG)
 
-### **Symbol lookup** 
+Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
+
+* Volume – the total amount traded today;
+* Open – the day's open price;
+* High – the day's highest price;
+* Low – the day's lowest price;
+* Previous close – the previous day's close price.
+
+![](../../../.gitbook/assets/w3.PNG)
+
+### **Symbol lookup** 
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%281%29.jpg)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
