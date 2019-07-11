@@ -2,7 +2,7 @@
 
 This functionality allows aggregating information about volumes by each bar in the form of the table. Bar statistics can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/68.png) or through the Context menu -&gt; Analysis tools -&gt; Bar statistics.
 
-![](../../../../../.gitbook/assets/2%20%2844%29.png)
+![](../../../../../.gitbook/assets/2%20%2845%29.png)
 
 **Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 
@@ -10,7 +10,7 @@ By default bar statistics contains four rows \(Trades, Total volume, Average siz
 
 The following parameters are available in the Bar statistics section:
 
-![](../../../../../.gitbook/assets/3%20%2829%29.png)
+![](../../../../../.gitbook/assets/3%20%2830%29.png)
 
 * Visible – controls visibility of the bar statistics on the chart;
 * Custom total/buy/sell amount – allows to set up amount that is necessary for calculation of the Custom total/buy/sell volume parameters \(described above\);
@@ -19,7 +19,7 @@ The following parameters are available in the Bar statistics section:
 
 Right clicking on the bar statistics header evokes its context menu, where you can enable/disable the visibility of some rows with parameters:
 
-![](../../../../../.gitbook/assets/4%20%2827%29.png)
+![](../../../../../.gitbook/assets/4%20%2828%29.png)
 
 * Trades – the number of trades by each bar for a specified period of time;
 * Volume – total volume by each bar for a specified period of time;

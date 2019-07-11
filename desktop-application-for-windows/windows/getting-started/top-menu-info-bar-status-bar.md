@@ -22,7 +22,7 @@ It looks as the following:
 
 ![](../../../.gitbook/assets/1%20%2841%29.png)
 
-You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2828%29.png).
+You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2829%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
@@ -33,11 +33,11 @@ It looks as the following:
 
 The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
 
-The control![](../../../.gitbook/assets/4%20%2841%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../../.gitbook/assets/4%20%2842%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
-![](../../../.gitbook/assets/5%20%286%29.png)
+![](../../../.gitbook/assets/5%20%287%29.png)
 
 This menu contains an account lookup for users having more than one account.
 

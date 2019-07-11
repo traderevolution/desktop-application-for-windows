@@ -40,7 +40,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/3%20%2849%29.png)
+![](../../../../.gitbook/assets/3%20%2850%29.png)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -91,7 +91,7 @@ The following adjustments are available in this section:
 
 ### **Order entry**
 
-![](../../../../.gitbook/assets/5%20%2823%29.png)
+![](../../../../.gitbook/assets/5%20%2824%29.png)
 
 This tab includes the sub-sections allowing particular adjustments of the chart's Order entry:
 

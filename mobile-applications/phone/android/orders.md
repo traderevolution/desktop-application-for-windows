@@ -39,7 +39,7 @@ Filled orders and Orders history sections can be viewed by selected date range, 
 
 ![](../../../.gitbook/assets/4%20%2810%29.png)
 
-![](../../../.gitbook/assets/5%20%2811%29.png)
+![](../../../.gitbook/assets/5%20%2812%29.png)
 
 In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete%20%282%29.jpg)located at the top right corner of the Working orders screen.
 

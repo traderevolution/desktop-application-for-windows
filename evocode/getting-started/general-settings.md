@@ -17,13 +17,13 @@ The General settings menu is used to view and change general properties of EvoCo
 
 ###  **Hotkeys**
 
-![](../../.gitbook/assets/2%20%2846%29.png)
+![](../../.gitbook/assets/2%20%2847%29.png)
 
 To edit an existing hotkey, click its value in the HotKey column so that it becomes highlighted![](../../.gitbook/assets/3%20%285%29.png), and set a new value by pressing the needed key\(s\).
 
 ### **Scripts**
 
-![](../../.gitbook/assets/4%20%2814%29.png)
+![](../../.gitbook/assets/4%20%2815%29.png)
 
 * Auto include variables to watch – if checked, the Watch panel will contain all variables used in a script any time it's opened.
 * Stop debugging after an exception – if checked, when the first exception occurs the debugging will be stopped, if unchecked – debugging will continue without any restrictions.

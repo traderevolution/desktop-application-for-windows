@@ -32,6 +32,7 @@
           * [Price statistics](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/price-statistics.md)
           * [Volume profile](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/volume-profile.md)
           * [Volume bars](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/volume-bars.md)
+          * [Volume dots](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/volume-dots.md)
           * [Bar statistics](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/bar-statistics.md)
           * [Time & Sales analysis](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/time-and-sales-analysis.md)
           * [VWAP](desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/vwap.md)

@@ -2,7 +2,7 @@
 
 Event log panel shows a log of all events that occurred during trading sessions. Click on the![](../../../.gitbook/assets/1%20%2854%29.png)button in the Status bar to open the Event log panel.
 
-![](../../../.gitbook/assets/2%20%2838%29.png)
+![](../../../.gitbook/assets/2%20%2839%29.png)
 
 Available columns:
 
@@ -11,14 +11,14 @@ Available columns:
 * Event – title of event.
 * Details – the text of event message is shown in the tooltip of the ‘Details’ icon.
 
-![](../../../.gitbook/assets/3%20%2860%29.png)
+![](../../../.gitbook/assets/3%20%2861%29.png)
 
 Click on this icon to open a deal ticket.
 
-![](../../../.gitbook/assets/4%20%2817%29.png)
+![](../../../.gitbook/assets/4%20%2818%29.png)
 
 If there is no message and deal ticket for event, then the ‘Details’ icon isn’t shown.   
-User can select time period for which he wants to see logs. Click on![](../../../.gitbook/assets/5%20%289%29.png)and choose from the time filters. Click on the button![](../../../.gitbook/assets/6%20%281%29.png)to choose types of events which are required to be shown in the panel.
+User can select time period for which he wants to see logs. Click on![](../../../.gitbook/assets/5%20%2810%29.png)and choose from the time filters. Click on the button![](../../../.gitbook/assets/6%20%281%29.png)to choose types of events which are required to be shown in the panel.
 
 The following types are available:
 

@@ -2,7 +2,7 @@
 
 Filled orders panel displays trading history performed during backtesting.
 
-![](../../.gitbook/assets/2%20%2824%29.png)
+![](../../.gitbook/assets/2%20%2825%29.png)
 
 The following columns are available in the panel:
 

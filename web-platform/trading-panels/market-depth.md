@@ -13,7 +13,7 @@ The Market depth panel allows traders to view and trade Level II quotes. To open
 
  The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To select the way the panel looks, open context menu -&gt; View:
 
-![](../../.gitbook/assets/2%20%2835%29.png)
+![](../../.gitbook/assets/2%20%2836%29.png)
 
 Mirror view - if checked, Ask section columns of Market depth panel will be displayed backwards.
 

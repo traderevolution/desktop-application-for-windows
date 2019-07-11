@@ -12,7 +12,7 @@ Tap the button 'Log in'.
 
 Note: to recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
 
-![](../../../.gitbook/assets/2%20%285%29.png)
+![](../../../.gitbook/assets/2%20%286%29.png)
 
 To recover the password:
 

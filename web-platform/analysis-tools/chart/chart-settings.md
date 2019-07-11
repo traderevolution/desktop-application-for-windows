@@ -12,7 +12,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2867%29.png)
+![](../../../.gitbook/assets/2%20%2868%29.png)
 
 * Background colors - allows setting up color of the chart background and watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
@@ -25,7 +25,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ###  **Time scale**
 
-![](../../../.gitbook/assets/4%20%2833%29.png)
+![](../../../.gitbook/assets/4%20%2834%29.png)
 
 * Appearance - allows setting up style of time scale.
 * Holes in the history - allows seeing free space on the chart if there is no history at that moment.
@@ -33,7 +33,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Price scale**
 
-![](../../../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/5%20%284%29.png)
 
 * Zoom - choose between Manual and Automatic Price scale. In manual mode, changes can be made to the vertical price scale. Automatic mode is based on visible prices but it also can fit Indicators, Orders/Positions, Drawings and the day's High/Low prices.
 * Scale markings - allow setting up custom grid on the price scale as well as minimal grid step, highlight grid step and highlight grid color.

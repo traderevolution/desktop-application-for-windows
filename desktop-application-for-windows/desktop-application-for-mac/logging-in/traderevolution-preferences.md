@@ -1,19 +1,19 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2873%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2874%29.png)located at the Top menu of the platform.
 
 This menu contains such sections as:
 
 ### General:
 
-![](../../../.gitbook/assets/1%20%2875%29.png)
+![](../../../.gitbook/assets/1%20%2876%29.png)
 
 * Allow automatic login – if checked, the application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, the application will try to reconnect to the server after losing connection.
 
 ### **View:**
 
-![](../../../.gitbook/assets/2%20%2850%29.png)
+![](../../../.gitbook/assets/2%20%2851%29.png)
 
 * Display quantity in lots – if checked, orders quantity is shown in lots, otherwise - in units;
 * Display quantity in absolute – if checked, orders quantity is shown in absolute values;
@@ -24,7 +24,7 @@ This menu contains such sections as:
 
 ‘Sounds’ preferences allow to enable/disable System and Trading sounds.
 
-![](../../../.gitbook/assets/3%20%2842%29.png)
+![](../../../.gitbook/assets/3%20%2843%29.png)
 
 * System
   * Welcome;
@@ -48,7 +48,7 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ### **Trading defaults:**
 
-![](../../../.gitbook/assets/5%20%2832%29.png)
+![](../../../.gitbook/assets/5%20%2833%29.png)
 
 * Account – allows to select a default account for trading;
 * Symbol – allows to select a default instrument for trading;

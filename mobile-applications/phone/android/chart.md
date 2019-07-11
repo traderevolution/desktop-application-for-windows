@@ -8,7 +8,7 @@ The Chart screen can be accessed only from the Watchlist screen.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%2813%29.png)
+![](../../../.gitbook/assets/2%20%2814%29.png)
 
 ### **Chart toolbar** 
 
@@ -25,7 +25,7 @@ Tap the button![](../../../.gitbook/assets/tools.jpg)to open Chart toolbar.
 
 In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add.%20%282%29.jpg)near the indicator name at the list of available Indicators.
 
-![](../../../.gitbook/assets/5%20%2810%29.png)
+![](../../../.gitbook/assets/5%20%2811%29.png)
 
 It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify%20%281%29.jpg). Tap the button![](../../../.gitbook/assets/delete..jpg)located near indicator’s name to remove indicator from this section.
 

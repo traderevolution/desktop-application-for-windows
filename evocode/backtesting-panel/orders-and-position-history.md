@@ -19,7 +19,7 @@ The following columns are available for the panel:
 
 Positions history panel shows positions which were opened for a certain period during the backtesting. History range can be set in Backtesting setup -&gt; Range.
 
-![](../../.gitbook/assets/2%20%2827%29.png)
+![](../../.gitbook/assets/2%20%2828%29.png)
 
 The following columns are available for the panel:
 

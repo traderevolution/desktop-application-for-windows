@@ -10,13 +10,13 @@ This mode of compilation is used as Product ready mode. If the source code is fr
 
 #### Debug mode
 
-This mode of compilation is used for debugging source code. It is very useful for finding mistakes before script usage. Users can debug C\# code. The mode can be running from the main panel button![](../../.gitbook/assets/2%20%2865%29.png).
+This mode of compilation is used for debugging source code. It is very useful for finding mistakes before script usage. Users can debug C\# code. The mode can be running from the main panel button![](../../.gitbook/assets/2%20%2866%29.png).
 
 Three other buttons are available for debug mode: 
 
-* Step info![](../../.gitbook/assets/3%20%2862%29.png)  – allows going through all code lines independently of breakpoints; 
+* Step info![](../../.gitbook/assets/3%20%2863%29.png)  – allows going through all code lines independently of breakpoints; 
 * Step over![](../../.gitbook/assets/4-copy%20%285%29.png)– allows going over some program steps; 
-* Step out![](../../.gitbook/assets/5%20%2818%29.png)  – script will be running until the breakpoint is reached.
+* Step out![](../../.gitbook/assets/5%20%2819%29.png)  – script will be running until the breakpoint is reached.
 
 To begin debugging source code, users should first set breakpoints. A breakpoint can be set by clicking between the code line numbers and the edge of the source code editor window, or by clicking on the![](../../.gitbook/assets/7%20%2824%29.png)button. After placing a breakpoint it will be visible in the margin as a red circle. A user can remove all breakpoints from the source code by clicking on the![](../../.gitbook/assets/8%20%283%29.png)button.
 
