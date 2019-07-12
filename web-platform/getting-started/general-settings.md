@@ -1,6 +1,6 @@
 # General settings
 
-The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2845%29.png)button at the top menu of the platform.
+The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2846%29.png)button at the top menu of the platform.
 
 ### **General**
 
@@ -11,7 +11,7 @@ The General settings menu is used to customize and change general properties of 
 
 ### **View**
 
-![](../../.gitbook/assets/screenshot_2%20%285%29.png)
+![](../../.gitbook/assets/screenshot_2%20%286%29.png)
 
 * Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;

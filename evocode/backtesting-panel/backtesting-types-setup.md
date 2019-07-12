@@ -15,7 +15,7 @@ The Visualize backtesting option allows users to see what is happening on the ch
 
 ### **Backtesting Setup** 
 
-Before start of backtesting user can setup all required properties. Click on the![](../../.gitbook/assets/1%20%2813%29.png)button to evoke the Backtesting Setup window.
+Before start of backtesting user can setup all required properties. Click on the![](../../.gitbook/assets/1%20%2814%29.png)button to evoke the Backtesting Setup window.
 
 ![](../../.gitbook/assets/2%20%2841%29.png)
 

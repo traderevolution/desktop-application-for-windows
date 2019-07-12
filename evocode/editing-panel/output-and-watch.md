@@ -4,7 +4,7 @@
 
 The Output tool is used to show system communication \(such as errors\) during compilation or messages from the strategy to the Output tool during backtesting. The tool is opened by default in the Editing tab.
 
-![](../../.gitbook/assets/1%20%2820%29.png)
+![](../../.gitbook/assets/1%20%2821%29.png)
 
 ### **Watch**
 
