@@ -1,6 +1,6 @@
 # Event log
 
-Event log panel shows a log of all events that occurred during trading sessions. Click on the![](../../../.gitbook/assets/1%20%2855%29.png)button in the Status bar to open the Event log panel.
+Event log panel shows a log of all events that occurred during trading sessions. Click on the![](../../../.gitbook/assets/1%20%2854%29.png)button in the Status bar to open the Event log panel.
 
 ![](../../../.gitbook/assets/2%20%2839%29.png)
 

@@ -45,11 +45,11 @@ After specifying all the parameters of the Trading idea, the user-analyst needs 
 
 After expiration of the Trading idea, it will be removed from the panel. In order to delete the Trading idea, click on the 'Delete' button located next to its lifetime.
 
-![](../../.gitbook/assets/screenshot_2%20%289%29.png)
+![](../../.gitbook/assets/screenshot_2%20%288%29.png)
 
 ### **User-subscriber** 
 
-User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../../.gitbook/assets/1%20%2879%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
+User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../../.gitbook/assets/1%20%2878%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
 To receive a Trading idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Trading idea, the notification will appear in the Status bar of the terminal.
 

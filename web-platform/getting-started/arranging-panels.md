@@ -10,7 +10,7 @@ After taking header of a panel the following buttons appear:
 
 Drag the panel into one of the buttons to preview it's next position.
 
-![](../../.gitbook/assets/screenshot_2%20%282%29.png)
+![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
 ### **Creating tabbed areas**
 

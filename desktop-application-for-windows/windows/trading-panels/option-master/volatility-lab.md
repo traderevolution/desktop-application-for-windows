@@ -2,7 +2,7 @@
 
 Volatility lab tab is used for graphic analysis before starting to trade options:
 
-![](../../../../.gitbook/assets/1%20%2844%29.png)
+![](../../../../.gitbook/assets/1%20%2843%29.png)
 
 This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
 
@@ -39,7 +39,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2810%29.png)
+![](../../../../.gitbook/assets/screenshot_2%20%289%29.png)
 
 In order to hide the Chart settings menu, press the button![](../../../../.gitbook/assets/screenshot_3%20%282%29.png), this will result into the chart’s maximization.
 

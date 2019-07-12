@@ -26,7 +26,7 @@ If symbol name in the symbol lookup window is entered from the keyboard, then al
 
 For easy management of the lookup, it has the following buttons located at the bottom of the screen:
 
-*  ![](../../../.gitbook/assets/1%20%2872%29.png)Collapse all – allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
+*  ![](../../../.gitbook/assets/1%20%2871%29.png)Collapse all – allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
 * ![](../../../.gitbook/assets/2%20%2820%29.png) Expand exchanges – allows showing exchanges and symbol types in the lookup tree.
 *  ![](../../../.gitbook/assets/3%20%2836%29.png) Expand types – allows showing exchanges, symbol types and symbols in the lookup tree.
 * ![](../../../.gitbook/assets/5%20%289%29.png) 'Show additional info' icon – shows short information about the selected symbol.
