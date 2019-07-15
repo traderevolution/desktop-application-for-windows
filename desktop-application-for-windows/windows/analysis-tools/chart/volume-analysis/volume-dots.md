@@ -2,7 +2,7 @@
 
 Volume dots functionality allows plotting a real-time chart and showing volumes as 2D dots when 1 Tick aggregation method is selected for the chart. Volume dots functionality is also available for historical data.
 
-![](../../../../../.gitbook/assets/1%20%2867%29.png)
+![](../../../../../.gitbook/assets/dots.png)
 
 Blue color of dots shows Buy volume, red color shows Sell volume.
 

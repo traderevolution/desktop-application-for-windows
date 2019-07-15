@@ -4,7 +4,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Data style**
 
-![](../../../.gitbook/assets/1%20%2829%29.png)
+![](../../../.gitbook/assets/1%20%2830%29.png)
 
 * Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -&gt; \[desired style\].
 * Data type - the way to accept data. Available types are: Bid, Ask, Bid/Ask average, Last. Based on server settings Last or Bid/Ask type can be disabled.
