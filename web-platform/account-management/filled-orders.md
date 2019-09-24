@@ -2,7 +2,7 @@
 
 Filled orders panel displays trading history. To open the Filled orders panel select Terminal -&gt; Filled orders.
 
-![](../../.gitbook/assets/3%20%2858%29.png)
+![](../../.gitbook/assets/filled.png)
 
 The following columns are available in the panel:
 
@@ -27,4 +27,11 @@ The following columns are available in the panel:
 * Expiry date – date of contract expiration;
 * Product type – shows the trading mode and margin check method of the instrument;
 * Strike price – price of option contract performance.
+
+### **Time filter**
+
+At the top left corner of the toolbar of the panel there is a ‘Time filter’ combo box. It allows to select time period for which a user wants to see filled orders. The following periods are available:
+
+* Daily;
+* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/menu%20%281%29.png)appears allowing to change a time range for viewing filled orders.
 
