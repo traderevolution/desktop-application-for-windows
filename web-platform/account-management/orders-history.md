@@ -4,7 +4,7 @@
 
 To open Orders history panel, select Terminal -&gt; Orders history:
 
-![](../../.gitbook/assets/1%20%2852%29.png)
+![](../../.gitbook/assets/history.png)
 
 The following columns are available in the panel:
 
@@ -26,4 +26,13 @@ The following columns are available in the panel:
 * Sold – in case of Forex: if Side = Sell, then this column shows the value of Price \* Lot size \* Qty. in base currency; if Side = Buy, then this column shows the value of Price \* Lot size \* Qty. in quoting currency. In other cases: if Side = Buy, then this column shows the value of Price \* Lot size \* Qty. in quoting currency; if Side = Sell, then this column shows the value of Qty. \* Lot size – amount of sold assets \(contracts, equities\);
 * Strike price – price of an option contract performance;
 * Expiry date – a contract expiration date.
+
+### **Time filter**
+
+At the top left corner of the toolbar of the panel there is a ‘Time filter’ combo box. It allows to select time period for which a user wants to see orders history. The following periods are available:
+
+* Daily;
+* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/menu.png)appears allowing to change a time range for viewing orders history.
+
+ 
 
