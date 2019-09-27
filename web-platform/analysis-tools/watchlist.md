@@ -2,7 +2,7 @@
 
 The Watchlist panel displays real-time market data for each symbol available through a broker. To open a Watchlist panel, select Terminal -&gt; Watchlist.
 
-![](../../.gitbook/assets/1new.png)
+![](../../.gitbook/assets/watchlist%20%281%29.png)
 
 ### **Columns**
 
@@ -55,6 +55,12 @@ In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/
 * remove selected symbol\(s\);  
 * clear all symbols at once;
 * group symbols by symbol type.
+
+### **Symbols lists creation** 
+
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/++%20%281%29.png)button, located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list. 
+
+![](../../.gitbook/assets/screenshot_2%20%286%29.png)
 
 ### **Symbol Info** 
 

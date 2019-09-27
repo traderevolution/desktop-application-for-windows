@@ -39,7 +39,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2810%29.png)
+![](../../../../.gitbook/assets/screenshot_2%20%2811%29.png)
 
 In order to hide the Chart settings menu, press the button![](../../../../.gitbook/assets/screenshot_3%20%282%29.png), this will result into the chart’s maximization.
 
