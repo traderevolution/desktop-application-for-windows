@@ -60,7 +60,7 @@ In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/
 
 The Watchlist panel enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/++%20%281%29.png)button, located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons for renaming or deleting of a list are located right to each list. 
 
-![](../../.gitbook/assets/screenshot_2%20%286%29.png)
+![](../../.gitbook/assets/screenshot_2%20%287%29.png)
 
 ### **Symbol Info** 
 

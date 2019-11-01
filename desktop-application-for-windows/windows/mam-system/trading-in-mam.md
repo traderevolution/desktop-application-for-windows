@@ -2,7 +2,7 @@
 
 The MAM panel includes a built-in Order entry panel for one-click trading. This Order entry panel automatically selects all active accounts in the MAM group and applies the allocation type to each trade. As seen at the screenshot below, placing an order within the MAM panel will give a confirmation message that confirms the order will be applied to all active MAM accounts based on allocation type.
 
-![](../../../.gitbook/assets/1m.png)
+![](../../../.gitbook/assets/mam1.jpg)
 
 ### **Modifying and closing group positions**
 
@@ -14,7 +14,7 @@ To modify positions by MAM group ID, right click within the one position of the 
 
 Likewise, to close positions by Group ID, right click within the one position of the group and select Close position -&gt; Close by MAM group ID.
 
-![](../../../.gitbook/assets/2m.png)
+![](../../../.gitbook/assets/mam2.png)
 
 **Note:** Trading using MAM group from any panel except MAM for MAM group is prohibited. Portfolio trading is forbidden from the MAM panel as well.
 

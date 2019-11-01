@@ -45,7 +45,7 @@ After specifying all the parameters of the Trading idea, the user-analyst needs 
 
 After expiration of the Trading idea, it will be removed from the panel. In order to delete the Trading idea, click on the 'Delete' button located next to its lifetime.
 
-![](../../.gitbook/assets/screenshot_2%20%2810%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2811%29.png)
 
 ### **User-subscriber** 
 

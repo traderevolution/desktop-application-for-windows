@@ -58,20 +58,14 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 ![](../../.gitbook/assets/market-depth.jpg)
 
-#### **8. How to import indicators?**
-
-Click on the ‘Import’ button at the bottom of Indicators lookup.
-
-![](../../.gitbook/assets/import.jpg)
-
-#### **9. How to show filled orders on the chart?**
+**8. How to show filled orders on the chart?**
 
 1. Select the ‘Visual trading’ section in the Chart settings;
 2. Tick on the 'Filled orders' box to make filled orders visible on the chart.
 
 ![](../../.gitbook/assets/visual-trading.jpg)
 
-#### **10. How to enable VWAP?**
+#### **9. How to enable VWAP?**
 
 * Click on ‘Analysis tools’ and select the 'VWAP' from the list;
 * You can enable VWAP on a Chart, Market depth, Scalper, Matrix and Order Entry panels;
@@ -79,7 +73,7 @@ Click on the ‘Import’ button at the bottom of Indicators lookup.
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
 
-#### **11. How to find a volume by price?**
+#### **10. How to find a volume by price?**
 
 In TraderEvolution there are few options to view the volume by price:
 
@@ -87,7 +81,7 @@ In TraderEvolution there are few options to view the volume by price:
 * Info Window in the Chart panel contains the volume value;
 * To plot Volume bars on the chart, select 'Volume bars' in the Analysis tools.
 
-#### **12. How to track the auction price at opening?**
+#### **11. How to track the auction price at opening?**
 
 * Right-click on any column name of the Watchlist;
 * Select the 'Indicative auction price' from the list;
@@ -97,14 +91,14 @@ In TraderEvolution there are few options to view the volume by price:
 
 ![](https://lh3.googleusercontent.com/CJPwdO9HmzewtURjifG9vPc92tDHESY4VoU7dISyyOaTdSdYjJNbxTh-l2L_NK9HUkUk_DgmtZsoEvbvvL6-G_BOK_ti4ZuVJQDhNQljwgr4Y6TIMhhN3SqNvkkmRBS8jYd9slvx)
 
-#### **13. How to open multiple charts?**
+#### **12. How to open multiple charts?**
 
 You have two options here:
 
 * Open the Grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
 * Open several Chart panels: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
 
-#### **14. How to color brokerages in the Market depth?**
+#### **13. How to color brokerages in the Market depth?**
 
 1. Open settings of the Market depth panel;
 2. Select the ‘Colors’ tab;
@@ -112,21 +106,21 @@ You have two options here:
 
 ![](https://lh3.googleusercontent.com/C6zxRFITXHlj4_u62caVhJvdDoxiYrL2AgMdzZ0YHAD3I6xs2iGP5gNsbjMLE-Z2e_fE72OnQErrln0cykakUsi2G33zseBojxxPUDZWlrWXt3kE2lVwWcIrmXmcUuM_J6OuTT3H)
 
-#### **15. How to add a previous close line on the chart?**
+#### **14. How to add a previous close line on the chart?**
 
 1. Open the context menu of the chart panel;
 2. Select ‘View’ -&gt; ‘Previous close’.
 
 ![](../../.gitbook/assets/prev.-close.jpg)
 
-#### **16. How to plot a chart within the Scalper?**
+#### **15. How to plot a chart within the Scalper?**
 
 1. Open the Scalper settings from the context menu of the panel;
 2. Open the ‘Time & Sales chart’ tab;
 3. Select ‘Trades & Quotes’ from the drop-down list of the 'Mode' section;
 4. Apply changes.
 
-#### **17. How to enable DDE Link?**
+#### **16. How to enable DDE Link?**
 
 1. Open the context menu of the desired panel with DDE link;
 2. Click on Export and select Excel from the list;
@@ -135,13 +129,13 @@ You have two options here:
 
 ![](../../.gitbook/assets/export.jpg)
 
-#### **18. How to show time to next bar?**
+#### **17. How to show time to next bar?**
 
 1. Right-click on the Chart panel;
 2. Select ‘View’;
 3. Click on the ‘Time to next bar’ option to enable the countdown visible.
 
-#### **19. How to close opposite positions mutually?**
+#### **18. How to close opposite positions mutually?**
 
 * In TraderEvolution you can close multiple opposite positions under the same account and symbol at once;
 * To select each position hold the Ctrl key and click on each position, to select the range hold the Shift key and select the positions from and to;
@@ -150,7 +144,7 @@ You have two options here:
 
 ![](https://lh6.googleusercontent.com/VPooOEguHb72crEZ23r9Aomfro3gPxAzSaiRZGqcYpl8g1atl8zg13Z1LXwNnB1G7wS0StNFR5yST2_8LSZ8VY7lDbFY-jDVLMVvMIFSIh73lLzp1MWTe6u46vWOISC76ee4Uhkv)
 
-#### **20. How to modify a pending order?**
+#### **19. How to modify a pending order?**
 
 1. Right-click on a pending order in the Working orders panel and select ‘Modify order’;
 2. Use the editable boxes to change quantity, order price, time in force, and the OCO order. To specify a new order price, use the Price field; the Current price field shows the market price. To update the Open price, click on the button ![](https://lh6.googleusercontent.com/jcjxIzlu77BSDSdZj5HX2Y_m_PCc8ZOrdJSD6qa4wJ_7nwFCADOPv74YxZR4zZacDQIztFLI47VD0_HpZLlFP_yCGs7bgAaTJEZ4wN8LaFVUw0XS34u1_3zS2IIrEU3rpnGzZ5Gy);
