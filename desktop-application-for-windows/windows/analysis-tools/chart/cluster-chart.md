@@ -25,7 +25,7 @@ Cluster chart fits for analysis on any timeframe for any style of the trading: s
   * Delta/Volume,% – each cluster row will show the percentage of the delta in the volume;
   * Trades – each cluster row contains the number of trades which took place on a certain price level;
   * Custom pair – in the case, when this setting is chosen, each cluster row will contain two parameters simultaneously, divided by sign “x”. For example, Volume & Trades. Fields “Parameter \#1” and “Parameter \#2” are only available for Custom pair mode. In this mode, user can specify random pair of parameters by choosing the corresponding data in the combo boxes.
-  *  Volume imbalance – allows to determine automatically imbalance between Buy volume which is at one price level, and Sell volume which is at a higher price level. 
+  *  Volume imbalance – allows to automatically determine imbalance between Buy volume which is at one price level, and Sell volume which is at a higher price level. 
 
 ![](../../../../.gitbook/assets/12%20%284%29.png)
 
