@@ -2,7 +2,7 @@
 
 EvoCode allows a user to create a new module or open a pre-existing one.
 
-![](../../.gitbook/assets/screenshot_3%20%284%29.png)
+![](../../.gitbook/assets/screenshot_3%20%285%29.png)
 
 To begin writing source code for a new module, a user needs to choose the module type: Strategy or Indicator.
 
