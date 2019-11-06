@@ -2,7 +2,7 @@
 
 This functionality allows aggregating volumes and derived values by each price level for a specified period of time. Price statistics is a table that appears on the left or right side of the chart depending on the selected position in the settings. Price table can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/53.png)or through Context menu -&gt; Analysis tools  -&gt; Price statistics. 
 
-![](../../../../../.gitbook/assets/54.png)
+![](../../../../../.gitbook/assets/screenshot_4%20%283%29.png)
 
 **Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 
