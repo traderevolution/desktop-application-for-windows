@@ -65,7 +65,7 @@ Marking the option![](../../../../.gitbook/assets/vv.png)as checked in the Volat
 
 ### Chart scaling
 
- The chart view can be manipulated with the buttons![](../../../../.gitbook/assets/screenshot_5%20%283%29.png), located in the buttom-right corner of the chart field: 
+ The chart view can be manipulated with the buttons![](../../../../.gitbook/assets/screenshot_5%20%284%29.png), located in the buttom-right corner of the chart field: 
 
 * Pressing the button![](../../../../.gitbook/assets/screenshot_12.png)allows to zoom out of any random area of the chart;
 *  Pressing the button![](../../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart;
