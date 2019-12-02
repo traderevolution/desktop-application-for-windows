@@ -19,9 +19,8 @@ Order entry panel allows to place market or pending orders. To open the Order en
 4. Stop limit order will be executed at a specified price \(or better\) after given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy \(or sell\) at the limit price or better;
 5. Trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. 'Buy' trailing stop orders are the mirror image of sell trailing stop orders;
 6. OCO \(One-Cancels-the-Other\) is an order stipulating that if one part of the order is executed, then the other part is automatically canceled;
-7. Manual order allows for entering additional parameters for the order; 
 
-* TIF - Time-in-force option which allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
+*  TIF - Time-in-force option which allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
 
 1. A Day order, as the name implies, is valid for the current trading day;
 2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled or the contract expires;
