@@ -4,7 +4,7 @@
 
 To open Accounts panel, select Account -&gt; Accounts in the header of the terminal:
 
-![](../../../.gitbook/assets/10%20%286%29.png)
+![](../../../.gitbook/assets/10%20%287%29.png)
 
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together:
 

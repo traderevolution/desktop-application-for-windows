@@ -8,7 +8,7 @@ The General settings menu is used to view and change general properties of EvoCo
 
 ### **Options**
 
-![](../../.gitbook/assets/1%20%2851%29.png)
+![](../../.gitbook/assets/1%20%2852%29.png)
 
 * Language – specifies the default language of the user interface. To set up the language, select it from the list;
 * Enable sound – check to allow sound notifications;
@@ -19,7 +19,7 @@ The General settings menu is used to view and change general properties of EvoCo
 
 ![](../../.gitbook/assets/2%20%2847%29.png)
 
-To edit an existing hotkey, click its value in the HotKey column so that it becomes highlighted![](../../.gitbook/assets/3%20%285%29.png), and set a new value by pressing the needed key\(s\).
+To edit an existing hotkey, click its value in the HotKey column so that it becomes highlighted![](../../.gitbook/assets/3%20%286%29.png), and set a new value by pressing the needed key\(s\).
 
 ### **Scripts**
 

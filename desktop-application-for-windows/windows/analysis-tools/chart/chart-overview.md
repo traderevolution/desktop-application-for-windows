@@ -53,7 +53,7 @@ Three types of the price scale are available: Absolute, Relative and Logarithmic
 * Relative - displays the price scale in the relative units, where as a starting point can be used: first point of the screen visibility, point of the day opening, and starting point of the history.
 * Logarithmic - logarithmic scale representation, where as a starting point can be used the same points as for relative scale.
 
-![](../../../../.gitbook/assets/3%20%283%29.png)
+![](../../../../.gitbook/assets/3%20%284%29.png)
 
 If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
 
@@ -83,11 +83,11 @@ Right clicking on the timeline shows the panel with additional options:
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 * Show extended sessions - this option displays all quotes received on pre-session, main session and post-session. The timeframes for sessions should be set in the Backoffice for each symbol.
 
-![](../../../../.gitbook/assets/5%20%2821%29.png)
+![](../../../../.gitbook/assets/5%20%2822%29.png)
 
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
-![](../../../../.gitbook/assets/6%20%2827%29.png)
+![](../../../../.gitbook/assets/6%20%2828%29.png)
 
 
 

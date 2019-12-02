@@ -2,7 +2,7 @@
 
 VWAP allows calculating a cumulative volume-weighted average price for defined period.
 
-![](../../../../../.gitbook/assets/10%20%285%29.png)
+![](../../../../../.gitbook/assets/10%20%286%29.png)
 
 Visible – controls visibility of the render on a chart. Default state – False.
 

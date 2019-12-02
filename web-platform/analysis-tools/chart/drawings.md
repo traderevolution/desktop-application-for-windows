@@ -58,7 +58,7 @@ Open Context menu and select Drawing tools -&gt; \[desired tool\] or click on an
 
 Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu.
 
-![](../../../.gitbook/assets/2%20%2871%29.png)
+![](../../../.gitbook/assets/2%20%2872%29.png)
 
 * Settings – allows to specify tool’s appearance and settings;
 * Clone – allows to create the same drawing as selected one;

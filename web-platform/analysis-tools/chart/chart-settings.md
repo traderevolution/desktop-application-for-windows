@@ -4,7 +4,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Data style**
 
-![](../../../.gitbook/assets/1%20%2830%29.png)
+![](../../../.gitbook/assets/1%20%2831%29.png)
 
 * Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -&gt; \[desired style\].
 * Data type - the way to accept data. Available types are: Bid, Ask, Bid/Ask average, Last. Based on server settings Last or Bid/Ask type can be disabled.
@@ -12,13 +12,13 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2868%29.png)
+![](../../../.gitbook/assets/2%20%2869%29.png)
 
 * Background colors - allows setting up color of the chart background and watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 
-![](../../../.gitbook/assets/3%20%286%29.png)
+![](../../../.gitbook/assets/3%20%287%29.png)
 
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
 * Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
@@ -73,7 +73,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **Visual trading**
 
-![](../../../.gitbook/assets/8%20%2819%29.png)
+![](../../../.gitbook/assets/8%20%2820%29.png)
 
 * Open positions - allows displaying opened positions on chart and setting up style of lines.
 * Working orders - allows displaying working orders on the chart and setting up the style of lines.

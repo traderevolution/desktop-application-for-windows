@@ -44,7 +44,7 @@ Hovering the certain Volume dot allows to view time of the last quote, which thi
 
 Display of volumes depends on the state of the checkbox ‘Abbreviate volumes’ in General settings.
 
-![](../../../../../.gitbook/assets/3%20%289%29.png)
+![](../../../../../.gitbook/assets/3%20%2810%29.png)
 
 
 

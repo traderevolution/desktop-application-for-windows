@@ -14,7 +14,7 @@
       * [Arranging panels](desktop-application-for-windows/windows/getting-started/arranging-panels.md)
       * [Top menu, Info bar, Status bar](desktop-application-for-windows/windows/getting-started/top-menu-info-bar-status-bar.md)
       * [Panel settings](desktop-application-for-windows/windows/getting-started/panel-settings.md)
-      * [Table alerts](desktop-application-for-windows/windows/getting-started/table-alerts.md)
+      * [Alerts](desktop-application-for-windows/windows/getting-started/table-alerts.md)
       * [Symbol & Account lookups](desktop-application-for-windows/windows/getting-started/symbols-and-accounts-lookup.md)
     * [Analysis tools](desktop-application-for-windows/windows/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/windows/analysis-tools/chart/README.md)
