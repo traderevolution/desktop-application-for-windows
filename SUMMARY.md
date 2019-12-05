@@ -68,6 +68,8 @@
       * [Currencies exposure](desktop-application-for-windows/windows/account-information/currencies-exposure.md)
       * [Reports](desktop-application-for-windows/windows/account-information/reports.md)
     * [Informative panels](desktop-application-for-windows/windows/informative-panels/README.md)
+      * [Gainers/Losers list](desktop-application-for-windows/windows/informative-panels/gainers-losers-list.md)
+      * [High/Low list](desktop-application-for-windows/windows/informative-panels/high-low-list.md)
       * [RSS](desktop-application-for-windows/windows/informative-panels/rss.md)
       * [News](desktop-application-for-windows/windows/informative-panels/news.md)
       * [Economic calendar](desktop-application-for-windows/windows/informative-panels/economic-calendar.md)

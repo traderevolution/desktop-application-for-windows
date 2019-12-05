@@ -2,7 +2,7 @@
 
 Use the main login page to sign in to TraderEvolution Web platform. A valid login and password are required.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ### **Changing password** 
 

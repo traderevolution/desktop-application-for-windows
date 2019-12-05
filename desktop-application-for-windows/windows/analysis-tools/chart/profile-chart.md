@@ -25,7 +25,7 @@ Profile aggregation can be set via using the timeframe selector:
 
 ### **Profile settings**
 
-![](../../../../.gitbook/assets/image%20%289%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 * Data type – the way to accept data. Available types are: Default by symbol, Bid, Ask, Last. Based on server settings Last or Bid/Ask type can be disabled;
 * Font – allows selecting style of profile displaying;

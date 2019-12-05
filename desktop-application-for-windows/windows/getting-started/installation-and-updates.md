@@ -52,7 +52,7 @@ Select 'Change password' to change your password used to login to the TraderEvol
 
 Select 'Change trading password' to change your password used before performing any trading operation.
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
 To change the password:
 
