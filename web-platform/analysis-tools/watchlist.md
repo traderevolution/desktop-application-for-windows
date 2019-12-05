@@ -64,7 +64,7 @@ The Watchlist panel enables a user to create custom sets of symbols lists. In or
 
 ### **Symbol Info** 
 
-Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/2%20%2819%29.png)of a certain symbol in the Watchlist.
+Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/2%20%2820%29.png)of a certain symbol in the Watchlist.
 
 ![](../../.gitbook/assets/3%20%288%29.png)
 

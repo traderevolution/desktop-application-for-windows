@@ -25,7 +25,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
 In order to open Symbol lookup, tap the![](../../../.gitbook/assets/add%20%281%29.jpg)button at the top right corner of the Quotes section. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/4%20%2816%29.png)
+![](../../../.gitbook/assets/4%20%2817%29.png)
 
 ### **Watchlist Filter** 
 
@@ -37,7 +37,7 @@ In order to filter the list of displayed symbols tap the button![](../../../.git
 
 Swipe left the symbol name to open the Symbol menu toolbar. 
 
-                                                        ![](../../../.gitbook/assets/6%20%2826%29.png) 
+                                                        ![](../../../.gitbook/assets/6%20%2827%29.png) 
 
 * Info – opens the Symbol info with full information about the symbol;
 * Market depth – opens the level 2 quotes for the selected symbol;

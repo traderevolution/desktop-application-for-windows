@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists of orders:
 
-![](../../../.gitbook/assets/1%20%2865%29.png)
+![](../../../.gitbook/assets/1%20%2866%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -45,7 +45,7 @@ Filled orders and Orders history sections can be viewed by selected date range, 
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/7%20%2813%29.png)
+![](../../../.gitbook/assets/7%20%2814%29.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 

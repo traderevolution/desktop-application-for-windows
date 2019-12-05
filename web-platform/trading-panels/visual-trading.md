@@ -6,7 +6,7 @@ You can perform trading directly from the chart panel. It is possible to send or
 
 ### **The built-in Order entry panel** 
 
-In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2835%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
+In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2836%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
 ![](../../.gitbook/assets/3%20%2842%29.png)
 
@@ -55,9 +55,9 @@ To disable the chart trading, click the 'Mouse trading' button again, or just st
 
  To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2821%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
-![](../../.gitbook/assets/6%20%2825%29.png)
+![](../../.gitbook/assets/6%20%2826%29.png)
 
-To cancel order, click on the![](../../.gitbook/assets/7%20%2818%29.png)button.
+To cancel order, click on the![](../../.gitbook/assets/7%20%2819%29.png)button.
 
 ### Stop loss and Take profit
 

@@ -170,6 +170,7 @@
     * [Workspaces](web-platform/getting-started/workspaces.md)
     * [Arranging panels](web-platform/getting-started/arranging-panels.md)
     * [Top menu and Status bar](web-platform/getting-started/top-menu-and-status-bar.md)
+    * [Alerts](web-platform/getting-started/alerts.md)
     * [Symbol & Account lookups](web-platform/getting-started/symbol-and-account-lookups.md)
   * [Analysis tools](web-platform/analysis-tools/README.md)
     * [Chart](web-platform/analysis-tools/chart/README.md)
