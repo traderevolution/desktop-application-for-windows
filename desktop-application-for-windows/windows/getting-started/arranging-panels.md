@@ -52,7 +52,11 @@ To link two or more panels together:
 
 To unlink a panel from a group, click the panel's link icon and select 'None'.
 
-* **Account link** –   linking by account is available by checking an icon![](../../../.gitbook/assets/screenshot_8.png)located at the top right corner of Account details panel. By clicking on this icon, it turns green![](../../../.gitbook/assets/screenshot_8%20%281%29.png)  and appears in all panels which contain Account lookup. This function filters your positions and orders by account. When Account Link is checked, then changing the account is possible via Account lookup of any panel. The account will be switched synchronously in all panels.
+* **Account link** –   linking by account is available by checking an icon![](../../../.gitbook/assets/screenshot_8.png)located at the top right corner of Accounts widget. 
+
+![](../../../.gitbook/assets/panels2.png)
+
+By clicking on this icon, it turns green![](../../../.gitbook/assets/screenshot_8%20%281%29.png)and appears in all panels which contain Account lookup. This function filters your positions and orders by account. When Account Link is checked, then changing the account is possible via Account lookup of any panel. The account will be switched synchronously in all panels.
 
 ### Searching elements
 
