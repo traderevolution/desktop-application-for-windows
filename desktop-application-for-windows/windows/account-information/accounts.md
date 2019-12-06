@@ -6,7 +6,11 @@ To open Accounts panel, select Account -&gt; Accounts in the header of the termi
 
 ![](../../../.gitbook/assets/10%20%287%29.png)
 
-The Accounts panel is also available in Detailed view in order to show the detailed information in rows. By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%282%29.png), located at the top right corner of this sceen, a user can link panels by account. Please, read more about Account linking here: 
+The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance&Projected balance section at the header of the platform:
+
+                                                             ![](../../../.gitbook/assets/screenshot_12%20%281%29.png) 
+
+By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%282%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here: 
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels)
 
