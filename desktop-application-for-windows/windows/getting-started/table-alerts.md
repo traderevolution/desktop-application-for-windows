@@ -11,6 +11,9 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 * Condition – allows to set an alert condition. Available values are the following: &gt;,&lt;,&gt;=,&lt;=,=,!= ;
 * Value – allows to set a value of Alert type for reaching the condition;
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low. After execution of the alert, a user gets a notification with the corresponding color of the indicator which depends on importance of the alert;
+
+![](../../../.gitbook/assets/screenshot_7%20%282%29.png)
+
 * After execute ****– allows to choose alert behavior after execution. Available options are the following:
 
             -       Stop – after execution alert is not active but stored in the list of alerts;
