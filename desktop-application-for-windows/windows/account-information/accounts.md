@@ -10,7 +10,7 @@ To open Accounts panel, select Account -&gt; Accounts at the header of the termi
 
                                                                ![](../../../.gitbook/assets/screenshot_12%20%281%29.png) 
 
-By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%282%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here: 
+By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here: 
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels)
 
