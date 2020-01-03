@@ -9,7 +9,7 @@
 * Alerts: access to the Alerts panel.
 * Ideas: access to the Trading Ideas panel.
 * Balance & Projected balance: access to account information.
-* Account: access to accounts information.
+* Account: Accounts, Withdrawal, Reports, Change password, Change trading password.
 * Help: access to TraderEvolution Guide.
 * Settings: access to general settings of the Web platform. Read more about this section here: [https://guide.traderevolution.com/project/web-platform/getting-started/general-settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings)
 * Log out: allows to log out of the Web ****platform and evokes login screen.
