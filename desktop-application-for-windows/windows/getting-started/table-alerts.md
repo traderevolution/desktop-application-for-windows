@@ -1,6 +1,6 @@
 # Alerts
 
-To open the Alerts panel, click on the![](../../../.gitbook/assets/1%20%287%29.png)button which is located at the header of the TraderEvolution terminal. In order to create an alert, click on the ![](../../../.gitbook/assets/2%20%2859%29.png)button at the bottom of the panel.
+To open the Alerts panel, click on the![](../../../.gitbook/assets/1%20%287%29.png)button which is located at the header of the TraderEvolution terminal. In order to create an alert, click on the ![](../../../.gitbook/assets/2%20%2860%29.png)button at the bottom of the panel.
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
@@ -37,7 +37,7 @@ A user can see created alerts and work with them – both with executed and not 
 
 The maximum number of alerts which can be added to the panel is 100.
 
-![](../../../.gitbook/assets/4%20%2840%29.png)
+![](../../../.gitbook/assets/4%20%2841%29.png)
 
 There are the following columns in the table of the Alerts panel:
 
@@ -56,13 +56,13 @@ The maximum number of alerts which can be added to the panel is 100.
 
 ### **Alerts on the chart**
 
-![](../../../.gitbook/assets/6%20%286%29.png)
+![](../../../.gitbook/assets/6%20%287%29.png)
 
-To create a new alert on the chart, click on the![](../../../.gitbook/assets/7%20%2817%29.png)button which appears near the price scale at the chart while hovering the certain price level:
+To create a new alert on the chart, click on the![](../../../.gitbook/assets/7%20%2818%29.png)button which appears near the price scale at the chart while hovering the certain price level:
 
-![](../../../.gitbook/assets/8%20%2812%29.png)
+![](../../../.gitbook/assets/8%20%2813%29.png)
 
-All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../../.gitbook/assets/9%20%2811%29.png)and remove![](../../../.gitbook/assets/10%20%281%29.png)an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
+All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../../.gitbook/assets/9%20%2812%29.png)and remove![](../../../.gitbook/assets/10%20%281%29.png)an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 
 By clicking on the Edit control, the Editing screen is opened. Editing of the alert from the chart is also possible by using the Drag&Drop function. While using this function, the alert is modified without additional confirmations. 
 

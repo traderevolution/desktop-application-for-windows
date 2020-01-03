@@ -12,7 +12,7 @@ Working with the chosen EvoCode module, a user can open a pre-existing module by
 
 While creating a new module, the following dialog window will be opened:
 
-![](../../.gitbook/assets/screenshot_2%20%2810%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2811%29.png)
 
 In the opened window user can choose:
 

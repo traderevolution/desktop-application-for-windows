@@ -8,7 +8,7 @@ To open Accounts panel, select Account -&gt; Accounts in the header of TraderEvo
 
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together. Click on the Current equity section \(Balance & Projected balance\) located in the header of the Web platform in order to open this panel.
 
-![](../../.gitbook/assets/1%20%2830%29.png)
+![](../../.gitbook/assets/1%20%2831%29.png)
 
 The following information about Accounts and calculation formulas are available:
 
@@ -45,11 +45,11 @@ The following information about Accounts and calculation formulas are available:
         for Stocks, where:
         <br />Unsettled cash &#x2013; realized profit/loss by covered positions, which
         have not been delivered to an account yet and will be delivered in accordance
-        with T+n value cycle
-        <br />Profit/Loss &#x2013; current open profit/loss by positions
+        with T+n value cycle;
+        <br />Profit/Loss &#x2013; current open profit/loss by positions;
         <br />Blocked for Stocks &#x2013; amount of funds debited from a balance in
-        case of trading with symbols with Stocks pre-paid margin type. After closing
-        such position, funds will be returned to an account.</td>
+        case of Equities trading. After closing such position, funds will be returned
+        to an account.</td>
     </tr>
     <tr>
       <td style="text-align:left">Balance&amp;All risks</td>
@@ -59,21 +59,11 @@ The following information about Accounts and calculation formulas are available:
         + Profit, where:
         <br />Unsettled loss &#x2013; realized losses by covered positions which have
         not been delivered to an account yet and will be delivered in accordance
-        with T+n value cycle
-        <br />Loss &#x2013; current open losses. Not taken into account for Stocks pre-paid
-        margin type
+        with T+n value cycle;
+        <br />Loss &#x2013; current open losses;
         <br />Unsettled profit &#x2013; profit, which is not delivered to an account
-        and will be delivered in accordance with T+n value cycle. Is taken into
-        account optionally. This option is regulated by a broker in margin requirements
-        settings via the options &apos;Use unsettled cash for stocks in Margin
-        available&apos; and &apos;Use unsettled profit &amp; open profit in Margin
-        available&apos;. When one of these options is active, an unsettled profit
-        is taken into account
-        <br />Profit &#x2013; current open profit, which is taken into account optionally,
-        depending upon Risk plan&apos;s settings via the option &apos;Use unsettled
-        profit &amp; open profit in Margin available&apos;. If this option is active,
-        the current profit is taken into account. Can&apos;t be taken into account
-        for Stocks pre-paid margin type.</td>
+        and will be delivered in accordance with T+n value cycle;
+        <br />Profit &#x2013; current open profit.</td>
     </tr>
     <tr>
       <td style="text-align:left">Credit value</td>
@@ -128,52 +118,16 @@ The following information about Accounts and calculation formulas are available:
           from the balance and shouldn&apos;t be substracted again.</p>
         <ul>
           <li>Profit - current open profit, calculated for all instruments on a selected
-            account.</li>
-        </ul>
-        <p>For such margin types, as &apos;Security fully paid&apos; and &apos;Stocks
-          pre-paid&apos; Profit isn&apos;t taken into account.
-          <br />For Options with Option trading style &apos;Premium-style&apos; in buy
-          positions Profit is taken into account.
-          <br />For Options with Option trading style &apos;Premium-style&apos; in sell
-          positions Profit isn&apos;t taken into account.
-          <br />For Options with Option trading style &apos;Mark-to-market&apos; in sell
-          positions Profit is taken into account.
-          <br />For Options with Option trading style &apos;Mark-to-market&apos; in buy
-          positions Profit isn&apos;t taken into account.
-          <br />Option trading style is set up by a broker;
-          <br />
-          <br />
-        </p>
-        <ul>
+            account;</li>
           <li>Unsettled profit - realized profit for all positions, which isn&apos;t
             yet settled to an account and will be settled in accordance with T+n settlement
             system;</li>
-          <li>Unused unsettled negative cash for stocks - value of unsettled cash, blocked
-            for instruments with &apos;Stocks pre-paid&apos; margin type. Is taken
-            into account when &apos;Use unsettled negative cash for stocks in Margin
-            available&apos; is disabled by a broker for &apos;Stocks pre-paid&apos;
-            margin type;</li>
           <li>Unsettled positive cash for stocks - value of unsettled cash, which was
-            returned when selling stocks. For instruments with &apos;Stocks pre-paid&apos;
-            margin type. Is taken into account when &apos;Use unsettled positive cash
-            for stocks in Margin available&apos; is enabled by a broker for &apos;Stocks
-            pre-paid&apos; margin type;</li>
-          <li>Unused unsettled negative premium - unsettled negative option premium,
-            which is taken into account when &apos;Use unsettled negative premium in
-            Margin available&apos; is disabled by a broker for such margin types, as
-            &apos;Derivatives risk module&apos; and &apos;CBOE&apos;;</li>
-          <li>Unsettled positive premium - unsettled positive option premium, which
-            is taken into account when &apos;Use unsettled positive premium in Margin
-            available&apos; is enabled by a broker for such margin types, as &apos;Derivatives
-            risk module&apos; and &apos;CBOE&apos;;</li>
+            returned when selling stocks;</li>
           <li>Unsettled premium from open sell - unsettled uncovered option premium
-            for opening short positions. It is taken into account when &apos;Use unsettled
-            premium from open sell in Margin available&apos; is enabled by a broker
-            for such margin types, as &apos;Derivatives risk module&apos; and &apos;CBOE&apos;;</li>
+            for opening short positions;</li>
           <li>Used premium from open sell - settled uncovered option premium for opening
-            short positions, which is taken into account when &apos;Use premium from
-            open sell in Margin available&apos; is enabled by a broker for such margin
-            types, as &apos;Derivatives risk module&apos; and &apos;CBOE&apos;.</li>
+            short positions.</li>
         </ul>
         </td>
     </tr>
@@ -198,10 +152,16 @@ The following information about Accounts and calculation formulas are available:
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Waived margin</td>
+      <td style="text-align:left">The amount in the Account currency that is deducted from Initial and Maintenance
+        margin requirements for the Account</td>
+      <td style="text-align:left">see Initial margin req. and Maint. margin req.</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Initial margin req</td>
       <td style="text-align:left">Amount of initial margin blocked for all positions and orders taking into
         account a margin crossing.</td>
-      <td style="text-align:left">Initial margin req = &#x2211; Initial margin req</td>
+      <td style="text-align:left">Initial margin req = &#x2211; (Initial margin)+ Fee - Waived margin</td>
     </tr>
     <tr>
       <td style="text-align:left">Initial margin req, %</td>
@@ -215,7 +175,8 @@ The following information about Accounts and calculation formulas are available:
       <td style="text-align:left">Shows current level of risks. When Maint. margin req=100%, stop-out triggers.</td>
       <td
       style="text-align:left">Maint. margin req% = (Maint margin req/ (Balance&amp;All risks - Stock
-        orders req))*100%</td>
+        orders req))*100%, where Maint margin req=&#x2211; (Maintenance margin)
+        + Fee - Waived margin</td>
     </tr>
     <tr>
       <td style="text-align:left">Margin available</td>
@@ -260,10 +221,10 @@ The following information about Accounts and calculation formulas are available:
         with Stocks pre-paid margin type. After closing such position, funds will
         be returned to an account. Stock operations can be pending.</td>
       <td style="text-align:left">Blocked for Stocks=abs(&#x2211;Stock operation), where:
-        <br />abs - a module
-        <br />Stock operation = - Open price * Qty * Lot size * Cross price (for buy)
+        <br />abs - a module;
+        <br />Stock operation = - Open price * Qty * Lot size * Cross price (for buy);
         <br
-        />Stock operation = Open price * Qty * Lot size * Cross price (for sell)</td>
+        />Stock operation = Open price * Qty * Lot size * Cross price (for sell).</td>
     </tr>
     <tr>
       <td style="text-align:left">Stock orders req</td>

@@ -31,7 +31,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 * You can also place an OCO order using Visual trading directly on the chart.
 
-![](https://lh4.googleusercontent.com/ytScEA_E9yXrIHL8oQ13B_ws1mqopYafo_nSodKi96ll3MAMRWjuz_PApgHuk2EuV0tb-JrAOekhL-YJOSvZm7WnmZf9Haefnb8Fieol4lWkRkMlvk-hFYbGWeWcMm1xBpbHLGB9)
+![](../../.gitbook/assets/oco3.png)
 
 #### **5. How to place a trailing stop?**
 
@@ -46,12 +46,12 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 #### **6. How to add a price alert?**
 
-1. Select ‘Table alerts’ from the context menu of the chosen panel;
+1. Open the Alerts panel by clicking on the corresponding![](../../.gitbook/assets/1%20%2870%29.png)button at the header of the terminal;
 2. Setup conditions which will trigger your alert and finally select the actions to be taken.
 
-![](../../.gitbook/assets/alerts-with-cond.png)
+![](../../.gitbook/assets/alerts-1.png)
 
-#### **7. How to disaggregate the Market depth?**
+**7. How to disaggregate the Market depth?**
 
 1. Open settings of the Market depth panel;
 2. Select the 'View' section of the 'General' tab. Select the 'By order' option in the drop-down list of the 'View by' setting. Click Apply.  
@@ -89,8 +89,6 @@ In TraderEvolution there are few options to view the volume by price:
 
 ![](../../.gitbook/assets/watchlist.jpg)
 
-![](https://lh3.googleusercontent.com/CJPwdO9HmzewtURjifG9vPc92tDHESY4VoU7dISyyOaTdSdYjJNbxTh-l2L_NK9HUkUk_DgmtZsoEvbvvL6-G_BOK_ti4ZuVJQDhNQljwgr4Y6TIMhhN3SqNvkkmRBS8jYd9slvx)
-
 #### **12. How to open multiple charts?**
 
 You have two options here:
@@ -104,7 +102,7 @@ You have two options here:
 2. Select the ‘Colors’ tab;
 3. From the drop-down menu of the ‘Coloring method’, select the ‘By source and volume conditions’ option.
 
-![](https://lh3.googleusercontent.com/C6zxRFITXHlj4_u62caVhJvdDoxiYrL2AgMdzZ0YHAD3I6xs2iGP5gNsbjMLE-Z2e_fE72OnQErrln0cykakUsi2G33zseBojxxPUDZWlrWXt3kE2lVwWcIrmXmcUuM_J6OuTT3H)
+![](../../.gitbook/assets/color.png)
 
 #### **14. How to add a previous close line on the chart?**
 
@@ -135,22 +133,13 @@ You have two options here:
 2. Select ‘View’;
 3. Click on the ‘Time to next bar’ option to enable the countdown visible.
 
-#### **18. How to close opposite positions mutually?**
-
-* In TraderEvolution you can close multiple opposite positions under the same account and symbol at once;
-* To select each position hold the Ctrl key and click on each position, to select the range hold the Shift key and select the positions from and to;
-* When selected, right-click on any selected position and select the Mutual close;
-* In the Mutual Close dialog window click 'Close' to confirm the mutual close.
-
-![](https://lh6.googleusercontent.com/VPooOEguHb72crEZ23r9Aomfro3gPxAzSaiRZGqcYpl8g1atl8zg13Z1LXwNnB1G7wS0StNFR5yST2_8LSZ8VY7lDbFY-jDVLMVvMIFSIh73lLzp1MWTe6u46vWOISC76ee4Uhkv)
-
-#### **19. How to modify a pending order?**
+#### **18. How to modify a pending order?**
 
 1. Right-click on a pending order in the Working orders panel and select ‘Modify order’;
-2. Use the editable boxes to change quantity, order price, time in force, and the OCO order. To specify a new order price, use the Price field; the Current price field shows the market price. To update the Open price, click on the button ![](https://lh6.googleusercontent.com/jcjxIzlu77BSDSdZj5HX2Y_m_PCc8ZOrdJSD6qa4wJ_7nwFCADOPv74YxZR4zZacDQIztFLI47VD0_HpZLlFP_yCGs7bgAaTJEZ4wN8LaFVUw0XS34u1_3zS2IIrEU3rpnGzZ5Gy);
+2. Use the editable boxes to change quantity, order price, time in force, and the OCO order. To specify a new order price, use the Price field; the Current price field shows the market price. 
 3. Click ‘Modify’ when done.
 
-![](https://lh3.googleusercontent.com/FH7lVi_qBl_xeNjSGkRXof4Yb0J1hdpw5XDY4cwurIJSr_uG851Ty8skYywdyB-X3HbyF29h0Iu3RlKwYisE6PqIycrK7C2hnrvzjR_2Uh29pvrd297E_DRIQpV-f1Ox1NbbT1uJ)
+![](../../.gitbook/assets/oe-screen.png)
 
 
 

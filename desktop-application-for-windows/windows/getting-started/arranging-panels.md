@@ -1,6 +1,6 @@
 # Arranging panels
 
-User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button![](../../../.gitbook/assets/1%20%2831%29.png)at the status bar and blank workspace will appear. Then open the panels which will be used in Trading terminal and arrange them as described below.
+User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button![](../../../.gitbook/assets/1%20%2832%29.png)at the status bar and blank workspace will appear. Then open the panels which will be used in Trading terminal and arrange them as described below.
 
 ### Attaching and detaching panels
 
@@ -13,11 +13,11 @@ There are two main location types for all panels:
 
 * Attach – allows attaching panel. After clicking panel will attach to default place. Then user can move it to any place of the workspace. After taking header of the panel the following buttons appear:
 
-![](../../../.gitbook/assets/3%20%2861%29.png)
+![](../../../.gitbook/assets/3%20%2862%29.png)
 
 Drag the panel into the button to preview it's next position.
 
-![](../../../.gitbook/assets/4%20%2824%29.png)
+![](../../../.gitbook/assets/4%20%2825%29.png)
 
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.
 
@@ -38,9 +38,9 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 One of the advantages of the Desktop terminal is linking panels. Currently two types of link are available ![](../../../.gitbook/assets/screenshot_71.png):
 
-* **Symbol link**![](../../../.gitbook/assets/7%20%2813%29.png)–   when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist. The links are identified by a color:
+* **Symbol link**![](../../../.gitbook/assets/7%20%2814%29.png)–   when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist. The links are identified by a color:
 
-                                                                              ![](../../../.gitbook/assets/9%20%288%29.png)
+                                                                              ![](../../../.gitbook/assets/9%20%289%29.png)
 
 To link two or more panels together:
 

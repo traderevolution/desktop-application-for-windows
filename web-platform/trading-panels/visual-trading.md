@@ -8,7 +8,7 @@ You can perform trading directly from the chart panel. It is possible to send or
 
 In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2836%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
-![](../../.gitbook/assets/3%20%2842%29.png)
+![](../../.gitbook/assets/3%20%2843%29.png)
 
 The Order entry panel consists of the following items:
 
@@ -31,7 +31,7 @@ Hot buttons for one-click trading are the following:
 
 To start chart trading, follow these steps:
 
-1.      Оpen the built-in Order entry panel; Click on the 'Mouse trading' button![](../../.gitbook/assets/4%20%2812%29.png)to enable the chart trading;
+1.      Оpen the built-in Order entry panel; Click on the 'Mouse trading' button![](../../.gitbook/assets/4%20%2813%29.png)to enable the chart trading;
 
 2.      Select type of an order to be placed: single or OCO.
 
@@ -53,17 +53,17 @@ To disable the chart trading, click the 'Mouse trading' button again, or just st
 
 ### Order modifying
 
- To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2821%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
+ To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2822%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
-![](../../.gitbook/assets/6%20%2826%29.png)
+![](../../.gitbook/assets/6%20%2827%29.png)
 
-To cancel order, click on the![](../../.gitbook/assets/7%20%2819%29.png)button.
+To cancel order, click on the![](../../.gitbook/assets/7%20%2820%29.png)button.
 
 ### Stop loss and Take profit
 
  If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
-![](../../.gitbook/assets/8%20%2815%29.png)
+![](../../.gitbook/assets/8%20%2816%29.png)
 
 
 

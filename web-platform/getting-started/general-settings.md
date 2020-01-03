@@ -1,6 +1,6 @@
 # General settings
 
-The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2848%29.png)button at the top menu of the platform.
+The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2849%29.png)button at the top menu of the platform.
 
 ### **General**
 
@@ -11,7 +11,7 @@ The General settings menu is used to customize and change general properties of 
 
 ### **View**
 
-![](../../.gitbook/assets/screenshot_2%20%288%29.png)
+![](../../.gitbook/assets/screenshot_2%20%289%29.png)
 
 * Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
@@ -49,7 +49,7 @@ To specify additional settings for orders you need to open 'Types manager' and s
 
 If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP default offset, ticks' in the Forex instrument type will be displayed in decimal view and in the corresponding format. For example, 10 ticks will be displayed as 1.0, and 50 ticks as 5.0, depending on which value is set in the option. If 'Show offset in' is NOT 'Ticks \(fractional ticks for Forex\)', values of the options 'SL/TP default offset, ticks' are displayed by default, e.g. 10 ticks, 50 ticks.
 
-![](../../.gitbook/assets/5%20%2840%29.png)
+![](../../.gitbook/assets/5%20%2841%29.png)
 
 ### **Confirmations**
 

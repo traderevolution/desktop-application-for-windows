@@ -2,7 +2,7 @@
 
 In order to download the application, use the App Store on your Mac. The login screen of the application looks as the following:
 
-![](../../../.gitbook/assets/1%20%2820%29.png)
+![](../../../.gitbook/assets/1%20%2821%29.png)
 
 To open the application with your account, enter your Login and Password.
 
@@ -30,11 +30,11 @@ To open the ‘Change password’ / ’Change trading password’ window, select
 
 Change password - allows changing the password which is entered to login into the terminal.
 
-![](../../../.gitbook/assets/3%20%2859%29.png)
+![](../../../.gitbook/assets/3%20%2860%29.png)
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../../.gitbook/assets/4%20%2843%29.png)
+![](../../../.gitbook/assets/4%20%2844%29.png)
 
 To change the password:
 

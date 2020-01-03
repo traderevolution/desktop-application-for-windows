@@ -46,7 +46,7 @@ If coloring method is Classic, the following options can be selected:
 
 ![](../../../../.gitbook/assets/histor-volat.png)
 
-If coloring method is Historical volatility, the following options can be selected: Current HV, % – shows current level of the historical volatility for the underlier \(Min = 0, Max = 1000, Step = 0.1\). Pressing the button![](../../../../.gitbook/assets/screenshot_2%20%286%29.png)allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type \(described below\).
+If coloring method is Historical volatility, the following options can be selected: Current HV, % – shows current level of the historical volatility for the underlier \(Min = 0, Max = 1000, Step = 0.1\). Pressing the button![](../../../../.gitbook/assets/screenshot_2%20%287%29.png)allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type \(described below\).
 
         Price – allows specifying the underlier price from which sought values Std. and 2\*Std. will be plotted. The following prices are available here: Last, \(Bid + Ask\)/2, OHLC/4 and OHL/3.
 

@@ -2,7 +2,7 @@
 
 ### **Top menu**
 
-![](../../.gitbook/assets/4%20%2832%29.png)
+![](../../.gitbook/assets/4%20%2833%29.png)
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * More: access to TraderEvolution Global website and About current version screen.

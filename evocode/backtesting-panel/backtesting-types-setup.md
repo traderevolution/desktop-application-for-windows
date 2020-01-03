@@ -7,7 +7,7 @@ There are two types of backtesting available in EvoCode:
 * Quick backtesting
 * Visualize backtesting
 
- Select Backtesting mode on the top menu of EvoCode window by clicking on the![](../../.gitbook/assets/3%20%2841%29.png) button.
+ Select Backtesting mode on the top menu of EvoCode window by clicking on the![](../../.gitbook/assets/3%20%2842%29.png) button.
 
 The Quick backtesting allows users rapidly testing strategies on historical data without the chart visualization during backtesting. In this mode, the chart with all details about opened and closed positions will only appear after the backtesting is finished.
 
@@ -15,7 +15,7 @@ The Visualize backtesting option allows users to see what is happening on the ch
 
 ### **Backtesting Setup** 
 
-Before start of backtesting user can setup all required properties. Click on the![](../../.gitbook/assets/1%20%2815%29.png)button to evoke the Backtesting Setup window.
+Before start of backtesting user can setup all required properties. Click on the![](../../.gitbook/assets/1%20%2816%29.png)button to evoke the Backtesting Setup window.
 
 ![](../../.gitbook/assets/2%20%2842%29.png)
 

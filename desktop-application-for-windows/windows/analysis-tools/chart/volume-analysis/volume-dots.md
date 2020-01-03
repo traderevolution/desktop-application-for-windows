@@ -22,7 +22,7 @@ Hovering the certain Volume dot allows to view time of the last quote, which thi
 
 ### **Volume dots settings**
 
-![](../../../../../.gitbook/assets/4%20%2814%29.png)
+![](../../../../../.gitbook/assets/4%20%2815%29.png)
 
 * Aggregation schemes – allow to select aggregation schemes for Volume dots. The following types are available:
 

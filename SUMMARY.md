@@ -20,6 +20,7 @@
       * [Chart](desktop-application-for-windows/windows/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/windows/analysis-tools/chart/chart-overview.md)
         * [Chart settings](desktop-application-for-windows/windows/analysis-tools/chart/chart-settings.md)
+        * [Chart templates](desktop-application-for-windows/windows/analysis-tools/chart/chart-templates.md)
         * [Aggregation types overview](desktop-application-for-windows/windows/analysis-tools/chart/aggregation-types-overview.md)
         * [Cluster chart](desktop-application-for-windows/windows/analysis-tools/chart/cluster-chart.md)
         * [Profile chart](desktop-application-for-windows/windows/analysis-tools/chart/profile-chart.md)

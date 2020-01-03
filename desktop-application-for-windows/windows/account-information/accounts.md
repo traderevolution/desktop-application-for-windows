@@ -4,7 +4,7 @@
 
 To open Accounts panel, select Account -&gt; Accounts at the header of the terminal:
 
-![](../../../.gitbook/assets/10%20%287%29.png)
+![](../../../.gitbook/assets/10%20%288%29.png)
 
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance&Projected balance section at the header of the platform:
 
@@ -58,8 +58,8 @@ The following information about Accounts and calculation formulas are available:
             with T+n settlement system;</li>
           <li>Profit/Loss &#x2013; current open profit/loss by positions;</li>
           <li>Blocked for Stocks &#x2013; amount of funds debited from a balance in
-            case of trading with symbols with Stocks pre-paid margin type. After closing
-            such position, funds will be returned to an account:</li>
+            case of Equities trading. After closing such position, funds will be returned
+            to an account:</li>
         </ul>
         <p>Blocked for stocks = abs (&#x2211; Stock operation), abs - module.</p>
       </td>
@@ -191,10 +191,16 @@ The following information about Accounts and calculation formulas are available:
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Waived margin</td>
+      <td style="text-align:left">The amount in the Account currency that is deducted from Initial and Maintenance
+        margin requirements for the Account</td>
+      <td style="text-align:left">see Initial margin req. and Maint. margin req.</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Initial margin req</td>
       <td style="text-align:left">Amount of initial margin blocked for all positions and orders taking into
         account a margin crossing.</td>
-      <td style="text-align:left">Initial margin req = &#x2211; Initial margin req</td>
+      <td style="text-align:left">Initial margin req = &#x2211; (Initial margin)+ Fee - Waived margin</td>
     </tr>
     <tr>
       <td style="text-align:left">Initial margin req, %</td>
@@ -208,7 +214,8 @@ The following information about Accounts and calculation formulas are available:
       <td style="text-align:left">Shows current level of risks. When Maint. margin req=100%, stop-out triggers.</td>
       <td
       style="text-align:left">Maint. margin req% = (Maint margin req/ (Balance&amp;All risks - Stock
-        orders req))*100%</td>
+        orders req))*100%, where Maint margin req=&#x2211; (Maintenance margin)
+        + Fee - Waived margin</td>
     </tr>
     <tr>
       <td style="text-align:left">Margin available</td>
@@ -240,9 +247,9 @@ The following information about Accounts and calculation formulas are available:
       <td style="text-align:left">Maint. margin req.</td>
       <td style="text-align:left">Total margin used for maintenance of a current portfolio in account currency.</td>
       <td
-      style="text-align:left">Maint. margin req = &#x2211;Maint. margin req (Maintenance margin req
-        for positions and Initial margin for orders, taking into account the margin
-        crossing between orders and positions)</td>
+      style="text-align:left">Maint. margin req = &#x2211; (Maint. margin)+ Fee - Waived margin (Maintenance
+        margin req for positions and Initial margin for orders, taking into account
+        the margin crossing between orders and positions)</td>
     </tr>
     <tr>
       <td style="text-align:left">Blocked for Stocks</td>
