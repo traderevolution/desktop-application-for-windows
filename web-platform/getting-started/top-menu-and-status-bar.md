@@ -2,14 +2,17 @@
 
 ### **Top menu**
 
-![](../../.gitbook/assets/4%20%2833%29.png)
+![](../../.gitbook/assets/te-w%20%281%29.png)
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * More: access to TraderEvolution Global website and About current version screen.
+* Alerts: access to the Alerts panel.
+* Ideas: access to the Trading Ideas panel.
+* Balance & Projected balance: access to account information.
 * Account: access to accounts information.
 * Help: access to TraderEvolution Guide.
 * Settings: access to general settings of the Web platform. Read more about this section here: [https://guide.traderevolution.com/project/web-platform/getting-started/general-settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings)
-* Log out: allows to log out of the Webstation and evokes login screen.
+* Log out: allows to log out of the Web ****platform and evokes login screen.
 * Connection status: shows the status of connection to the server.
 * Ping information: shows the response time of the server \(ms\) to which the application is connected.
 
