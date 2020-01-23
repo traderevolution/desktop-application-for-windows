@@ -10,7 +10,7 @@ RAM: 2 GB or more;
 
 Available disk space: 50 MB for the software and 500 MB for history cache;
 
-Operating System: Windows 7/ 8.1/ 10;
+Operating System: Windows 8.1/ 10;
 
 MISC: Microsoft .NET Framework 4.7 +.
 

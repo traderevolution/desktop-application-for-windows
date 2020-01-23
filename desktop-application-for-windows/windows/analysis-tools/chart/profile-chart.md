@@ -64,7 +64,7 @@ Singles – horizontal lines are displayed on the profile in those places, where
 * Color scheme, Color – allows selecting type and style of plotting the whole profile. The following coloring types are available:
   * Single color – all letters from the profile will be colored in single color;
   * Delta profile – difference between purchases and sales is calculated by the whole profile. All letters are colored in the appropriate color;
-  * Delta price – coloring goes by rows, if price difference between purchases and sales is positive, then the whole row is colored in green, and if negative – in red color. The intensity of the color depends on the value of difference, he greater the difference, the brighter the color;
+  * Delta price – coloring goes by rows, if price difference between purchases and sales is positive, then the whole row is colored in green, and if negative – in red color. The intensity of the color depends on the value of difference, the greater the difference, the brighter the color;
   * Delta bars – if difference between purchases and sales is positive in the current bar, then these letters are colored in green, if negative – in red color. The intensity of the color depends on the value of difference, the greater the difference, the brighter the color;
   * Up/Down profile – this coloring is similar to the bars coloring, selected colors correspond to the growing and falling bars for the entire profile;
   * Up/Down bars – this coloring is similar to the bars coloring, selected colors correspond to the growing and falling bars, this color scheme is applied to each bar included into profile;

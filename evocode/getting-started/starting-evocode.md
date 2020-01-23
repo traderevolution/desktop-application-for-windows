@@ -4,5 +4,5 @@
 
 ![](../../.gitbook/assets/screenshot_2%20%285%29.png)
 
-EvoCode is a fully customizable development tool. Users can configure the work environment according to their preferences.
+The working environment of EvoCode is easy-to-use for traders, there are all necessary settings in the toolbar of the application and below there are panels which can be resized.
 
