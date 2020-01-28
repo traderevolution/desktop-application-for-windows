@@ -22,7 +22,7 @@ There are three main methods of scalping:
 
 The Scalper panel allows traders to view and to trade Level II quotes, to use overlay and impulse indicators for analysis and to view Time & Sales chart – all in one panel.
 
-**Note:** trading with instruments which have "one position" trading type is only allowed in the Scalper panel.
+**Note:** trading with instruments which have "Net position" trading type is only allowed in the Scalper panel.
 
 To open a new Scalper panel go to Terminal - &gt; Scalper.
 

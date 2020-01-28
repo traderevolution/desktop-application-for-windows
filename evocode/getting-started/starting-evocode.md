@@ -4,5 +4,5 @@
 
 ![](../../.gitbook/assets/screenshot_2%20%285%29.png)
 
-The working environment of EvoCode is easy-to-use for traders, there are all necessary settings in the toolbar of the application and below there are panels which can be resized.
+The working environment of EvoCode is easy-to-use for traders. There are all necessary settings in the toolbar of the application and below there are panels which can be resized.
 

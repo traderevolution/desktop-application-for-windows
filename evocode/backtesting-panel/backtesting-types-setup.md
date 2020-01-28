@@ -39,5 +39,6 @@ Before start of backtesting user can setup all required properties. Click on the
 
 * Balance – initial deposit amount.
 * Latency – time latency during backtesting process which emulates the slippage that occurs during a real trade.
-* Execution by – allows to select which type of historical data will be played for backtesting. Cancel Day Orders Time – allows to select time when all user’s daily orders will be closed.
+* Execution by – allows to select which type of historical data will be played for backtesting. 
+* Cancel Day Orders Time – allows to select time when all user’s daily orders will be closed.
 
