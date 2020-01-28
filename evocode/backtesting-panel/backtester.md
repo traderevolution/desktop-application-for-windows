@@ -1,6 +1,6 @@
 # Backtester
 
-Backtester panel is a chart which can be used to show backtests conducted on historical data. Upon finishing the backtest, the Chart tab will show a graph with all positions which were opened and closed during the test run. Backtester panel is opened by default in Backtesting tab.
+Backtester panel is a chart which can be used to show backtests conducted on historical data. Backtester panel is opened by default in Backtesting tab.
 
 ![](../../.gitbook/assets/screenshot_1%20%2811%29.png)
 
