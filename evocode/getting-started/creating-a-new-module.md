@@ -8,7 +8,7 @@ To begin writing source code for a new module, a user needs to choose the module
 
 ![](../../.gitbook/assets/screenshot_4%20%284%29.png)
 
-Working with the chosen EvoCode module, a user can open a pre-existing module by clicking on the![](../../.gitbook/assets/screenshot_5.png)item located in ‘File’ menu or create a new module by clicking on the![](../../.gitbook/assets/screenshot_1%20%2810%29.png)item. 
+Working with the chosen EvoCode module, a user can open a pre-existing module by clicking on the![](../../.gitbook/assets/screenshot_5.png)item located in ‘File’ menu or create a new module by clicking on the![](../../.gitbook/assets/screenshot_1%20%2811%29.png)item. 
 
 While creating a new module, the following dialog window will be opened:
 
