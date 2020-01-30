@@ -30,7 +30,7 @@ In order to send an Idea, a user-analyst has to specify mandatory order paramete
 The following options are not mandatory:
 
 * Description – allows entering a description of the Idea; 
-* Add chart screen – allows attaching a Chart snapshot to the Idea. Clicking on the button ‘Add chart screen’ opens the detached Chart by the chosen instrument. Then just press the button ‘Take snapshot’ and click on a tick. After taking a snapshot, the button ‘Add chart screen’ will change to ‘Remove’, click on it in order to delete the Chart screen. The button![](../../.gitbook/assets/7%20%288%29.png)  allows to open the full-size screenshot.
+* Add chart screen – allows attaching a Chart snapshot to the Idea. Clicking on the button ‘Add chart screen’ opens the detached Chart by the chosen instrument. Then just press the button ‘Take snapshot’ and click on a tick. After taking a snapshot, the button ‘Add chart screen’ will change to ‘Remove’, click on it in order to delete the Chart screen. The![](../../.gitbook/assets/7%20%288%29.png)  button allows opening the full-size screenshot.
 
 After specifying all the parameters of the Idea, the user-analyst needs to click on the ‘Send’ button to send the idea. In case of a successful Idea sending, the user gets a notification:
 
@@ -50,7 +50,7 @@ After expiration of the Idea, it will be removed from the panel. In order to del
 
 ### **User-subscriber** 
 
-User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click on the button![](../../.gitbook/assets/1%20%2883%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
+User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the![](../../.gitbook/assets/1%20%2883%29.png)button in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
 To receive an Idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Idea, the notification will appear in the Status bar of the terminal.
 
