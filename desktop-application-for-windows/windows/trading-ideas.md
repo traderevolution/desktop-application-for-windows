@@ -19,7 +19,11 @@ In order to send an Idea, a user-analyst has to specify mandatory order paramete
 * TIF – dropdown list for selecting the order TIF type \(Day, GTC, IOC, FOK, GTD\);
 * Product type – dropdown list for selecting the type of the product for the Idea. This parameter becomes available, when the product type for the symbol used differs from the General. Available options: Intraday, Delivery.
 
-With that, if the product type available to the User subscriber differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "_Delivery"_ to "_Intraday"_ product type. If there is only one product type available to the User subscriber and it differs from the one specified in the Idea by the User analyst, in the Idea view for the subscriber, only the available product type is displayed with no option to change it by the User subscriber;
+With that, if the product type available to the User subscriber differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "_Delivery"_ to "_Intraday"_ product type:
+
+![](../../.gitbook/assets/selection.png)
+
+If there is only one product type available to the User subscriber and it differs from the one specified in the Idea by the User analyst, in the Idea view for the subscriber, only the available product type is displayed with no option to change it by the User subscriber;
 
 * Limit price – field for entering the limit price for the order;
 * SL price – Stop Loss price of the order;
