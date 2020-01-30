@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../../.gitbook/assets/new-idea.png)
+![](../../.gitbook/assets/updated-desk.png)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
@@ -33,7 +33,7 @@ The following options are not mandatory:
 
 After specifying all the parameters of the Idea, the user-analyst needs to click on the ‘Send’ button to send the idea. In case of a successful Idea sending, the user gets a notification:
 
-![](../../.gitbook/assets/sent-successfully.png)
+![](../../.gitbook/assets/sent-successfully-new.png)
 
 **Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Ideas, which lifetime is not expired:
 
