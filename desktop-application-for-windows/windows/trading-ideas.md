@@ -10,13 +10,14 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../../.gitbook/assets/updated-desk.png)
+![](../../.gitbook/assets/sending-with-product-type.png)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
 * Symbol – allows selecting the instrument that will be used in the Idea;
 * Side – allows selecting Idea operation side: buy or sell;
 * TIF – dropdown list for selecting the order TIF type \(Day, GTC, IOC, FOK, GTD\);
+* Product type – dropdown list for selecting the type of the product for the Idea. This parameter becomes available, when the product type for the symbol used differs from the General. Available options: Intraday, Delivery;
 * Limit price – field for entering the limit price for the order;
 * SL price – Stop Loss price of the order;
 * SL offset – field that shows the SL offset value;
@@ -37,7 +38,7 @@ After specifying all the parameters of the Idea, the user-analyst needs to click
 
 **Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Ideas, which lifetime is not expired:
 
-![](../../.gitbook/assets/4%20%289%29.png)
+![](../../.gitbook/assets/trading-idea2.png)
 
 The sent Idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
 
@@ -57,7 +58,7 @@ To receive an Idea and place the order based on this idea, the instrument used i
 
 A user-subscriber can see the sent Ideas in panel:
 
-![](../../.gitbook/assets/5%20%2829%29.png)
+![](../../.gitbook/assets/trading-idea1.png)
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity of the idea orders to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Idea, an order placement confirmation dialog box is displayed:
 

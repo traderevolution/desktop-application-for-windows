@@ -29,13 +29,3 @@ To edit an existing hotkey, click its value in the HotKey column so that it beco
 * Stop debugging after an exception – if checked, when the first exception occurs the debugging will be stopped, if unchecked – debugging will continue without any restrictions.
 * Write trading data to logs – if checked, all trading information will be saved into text log files.
 
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
