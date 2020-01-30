@@ -8,8 +8,8 @@ Main features of EvoCode:
 * Support for programming language C\# \(.NET platform\);
 * While backtesting, historical data is loaded automatically according to the type of data selected in the strategy settings;
 * Backtesting of single symbols or multiple symbols simultaneously;
+* Possibility to backtest historical data which is aggregated by time;
 * Strategy testing in minutes, hours, days, weeks, months or years;
-*  Possibility to backtest historical data which is aggregated by time;
 * Possibility to test strategies at Bid, Ask and Trade prices;
 * Two strategy testing modes: with visualization or without visualization;
 * Capability to use functions that provide access to Level II;
