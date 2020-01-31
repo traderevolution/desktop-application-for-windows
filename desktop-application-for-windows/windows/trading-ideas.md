@@ -1,6 +1,6 @@
 # Trading ideas
 
-Trading idea or simply Idea is an investment recommendation based on the market analysis. It includes predefined parameters for order placement as well as text description and chart snapshot.
+A Trading idea or simply an Idea is an investment recommendation based on the market analysis. It includes predefined parameters for order placement as well as text description and chart snapshot.
 
 The panel allows to send Ideas and subscribe to them, depending on the user’s role – user-analyst or user-subscriber.
 
@@ -59,11 +59,11 @@ After expiration of the Idea, it will be removed from the panel. In order to del
 
 User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the![](../../.gitbook/assets/1%20%2883%29.png)button in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
-To receive an Idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Idea, the notification will appear in the Status bar of the terminal.
+To receive an Idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Idea, the notification with the number of received Ideas will appear in the main upper panel of the terminal near the Alerts icon:
 
-![](../../.gitbook/assets/8%20%2817%29.png)
+![](../../.gitbook/assets/idea-notification.png)
 
-A user-subscriber can see the sent Ideas in panel:
+A user-subscriber can see the sent Ideas in the panel:
 
 ![](../../.gitbook/assets/trading-idea1.png)
 
