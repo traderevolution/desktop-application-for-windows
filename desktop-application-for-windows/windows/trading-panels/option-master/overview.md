@@ -16,7 +16,7 @@ Here user can select an instrument that underlies the option which user is going
 
 **Settings:**
 
-Clicking on the button![](../../../../.gitbook/assets/screenshot_1%20%285%29.png)calls the dialog window Option master – settings. This block allows specifying general settings of the Option master panel. General settings tab is divided into three sections: General, Analyzer and Volatility lab.
+Clicking on the button![](../../../../.gitbook/assets/screenshot_1%20%286%29.png)calls the dialog window Option master – settings. This block allows specifying general settings of the Option master panel. General settings tab is divided into three sections: General, Analyzer and Volatility lab.
 
 **General:**
 
@@ -46,7 +46,7 @@ If coloring method is Classic, the following options can be selected:
 
 ![](../../../../.gitbook/assets/histor-volat.png)
 
-If coloring method is Historical volatility, the following options can be selected: Current HV, % – shows current level of the historical volatility for the underlier \(Min = 0, Max = 1000, Step = 0.1\). Pressing the button![](../../../../.gitbook/assets/screenshot_2%20%287%29.png)allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type \(described below\).
+If coloring method is Historical volatility, the following options can be selected: Current HV, % – shows current level of the historical volatility for the underlier \(Min = 0, Max = 1000, Step = 0.1\). Pressing the button![](../../../../.gitbook/assets/screenshot_2%20%288%29.png)allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type \(described below\).
 
         Price – allows specifying the underlier price from which sought values Std. and 2\*Std. will be plotted. The following prices are available here: Last, \(Bid + Ask\)/2, OHLC/4 and OHL/3.
 
@@ -72,7 +72,7 @@ occurs over 2\*Std.coloring.
 
 **Analyzer:**
 
-![](../../../../.gitbook/assets/screenshot_3%20%284%29.png)
+![](../../../../.gitbook/assets/screenshot_3%20%285%29.png)
 
 This tab allows specifying colors and style for displaying the main lines of the option position profile:
 
@@ -90,7 +90,7 @@ Probability simulations:
 
 View:
 
-Coloring method – allows selecting coloring scheme for Analyzer tab: Historical volatility or None. Current HV, % – shows current level of the historical volatility for the underlier \(Min = 0, Max = 1000, Step = 0.1\). Pressing the button![](../../../../.gitbook/assets/screenshot_2%20%281%29.png)allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type \(described below\).
+Coloring method – allows selecting coloring scheme for Analyzer tab: Historical volatility or None. Current HV, % – shows current level of the historical volatility for the underlier \(Min = 0, Max = 1000, Step = 0.1\). Pressing the button![](../../../../.gitbook/assets/screenshot_2%20%282%29.png)allows to reset custom value of the historical volatility to the calculated value from the symbol chart by the selected price type \(described below\).
 
 Price – allows specifying the underlier price from which sought values Std. and 2\*Std. will be plotted. The following prices are available here: Last, \(Bid + Ask\)/2, OHLC/4 and OHL/3.
 

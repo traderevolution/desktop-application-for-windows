@@ -2,7 +2,7 @@
 
 Backtester panel is a chart which can be used to show backtests conducted on historical data. Backtester panel is opened by default in Backtesting tab.
 
-![](../../.gitbook/assets/screenshot_1%20%2812%29.png)
+![](../../.gitbook/assets/screenshot_1%20%2813%29.png)
 
 In the toolbar of the panel, a user can find 2 buttons: 
 

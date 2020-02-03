@@ -4,7 +4,7 @@ News panel lists the latest news available from the broker and other news source
 
 ![](../../../.gitbook/assets/news-links.png)
 
-User can choose the News feed from the Routes list which was created on the server using the control![](../../../.gitbook/assets/screenshot_1%20%2813%29.png).
+User can choose the News feed from the Routes list which was created on the server using the control![](../../../.gitbook/assets/screenshot_1%20%2814%29.png).
 
 Broker can create news routes, such as: News provider or exact news-wire from the same provider. This feature gives users more possibilities of customization and in some ways decreases the traffic flow through selection of the exact subject or news provider, and not all the news flow in general.
 

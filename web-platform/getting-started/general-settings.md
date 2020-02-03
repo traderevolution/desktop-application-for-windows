@@ -4,14 +4,14 @@ The General settings menu is used to customize and change general properties of 
 
 ### **General**
 
-![](../../.gitbook/assets/screenshot_1%20%289%29.png)
+![](../../.gitbook/assets/screenshot_1%20%2810%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Enable sounds - check to allow sound notifications.
 
 ### **View**
 
-![](../../.gitbook/assets/screenshot_2%20%289%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2810%29.png)
 
 * Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
@@ -21,7 +21,7 @@ The General settings menu is used to customize and change general properties of 
 
 ### **Trading defaults**
 
-![](../../.gitbook/assets/screenshot_3.png)
+![](../../.gitbook/assets/screenshot_3%20%281%29.png)
 
 * Account – specifies an account used by default, available for a multi-account user;
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;

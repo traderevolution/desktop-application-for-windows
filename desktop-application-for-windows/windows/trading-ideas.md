@@ -53,7 +53,7 @@ After specifying all the parameters of the Idea, the user-analyst needs to click
 
 After expiration of the Idea, it will be removed from the panel. In order to delete the Idea, click on the 'Delete' button located next to its lifetime.
 
-![](../../.gitbook/assets/screenshot_2%20%2812%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2813%29.png)
 
 ### **User-subscriber** 
 

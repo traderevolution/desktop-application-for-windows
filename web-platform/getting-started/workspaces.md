@@ -6,7 +6,7 @@ A workspace is a particular configuration of panels, toolbars, charts and/or tab
 
 During session, several workspaces can be loaded and kept open simultaneously. All opened workspaces are shown in the bottom of panel. User can switch between the open workspaces by toggling the tabs.
 
-![](../../.gitbook/assets/screenshot_1%20%2810%29.png)
+![](../../.gitbook/assets/screenshot_1%20%2811%29.png)
 
 ### Getting a Blank Workspace
 

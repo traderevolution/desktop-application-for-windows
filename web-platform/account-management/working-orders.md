@@ -42,7 +42,7 @@ Note: Users can select which columns to display in the Working orders panel in t
 
 The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel. To select the buttons to be displayed, right-click on the toolbar of the panel and select the needed buttons from the menu. The following buttons are available:
 
-![](../../.gitbook/assets/screenshot_1%20%288%29.png)
+![](../../.gitbook/assets/screenshot_1%20%289%29.png)
 
 * Cancel all – cancels all orders.
 * Cancel Buy – cancels all buy orders.

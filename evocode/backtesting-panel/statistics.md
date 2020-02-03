@@ -2,7 +2,7 @@
 
 Statistics panel is a very useful and informative tool for traders. This panel contains a massive array of trading statistics, various P/L charts, data about trade population and drawdowns.
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![](../../.gitbook/assets/screenshot_1%20%283%29.png)
 
 Statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
@@ -120,7 +120,7 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
  Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/2%20%2865%29.png)button.
 
-![](../../.gitbook/assets/3%20%2841%29.png)
+![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
 Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the![](../../.gitbook/assets/7%20%2826%29.png)buttons to select the corresponding modes.
 
@@ -128,7 +128,7 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ### **Aggregate P/L Chart**
 
-![](../../.gitbook/assets/4%20%2846%29.png)
+![](../../.gitbook/assets/screenshot_3.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
@@ -147,7 +147,7 @@ Profitable chart displays Cumulative P/L and volumes of trades made for the sele
 
 ### **Drawdowns Chart**
 
-![](../../.gitbook/assets/6%20%2833%29.png)
+![](../../.gitbook/assets/screenshot_4%20%284%29.png)
 
 Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
 

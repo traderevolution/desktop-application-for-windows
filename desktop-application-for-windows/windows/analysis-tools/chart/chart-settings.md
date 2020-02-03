@@ -12,7 +12,7 @@
 
 #### View
 
-![](../../../../.gitbook/assets/screenshot_1%20%284%29.png)
+![](../../../../.gitbook/assets/screenshot_1%20%285%29.png)
 
 * Window colors - allows setting up the color of chart background and the watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
