@@ -44,7 +44,7 @@ If you do not remember your password, simply click on the 'Forgot password' and 
 
 2. After logging in to the App:
 
-Go to your Account menu on the top toolbar![](../../../.gitbook/assets/image%20%282%29.png):
+Go to your Account menu on the top toolbar![](../../../.gitbook/assets/image%20%283%29.png):
 
 Select 'Change password' to change your password used to login to the TraderEvolution App.
 
@@ -52,7 +52,7 @@ Select 'Change password' to change your password used to login to the TraderEvol
 
 Select 'Change trading password' to change your password used before performing any trading operation.
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%288%29.png)
 
 To change the password:
 

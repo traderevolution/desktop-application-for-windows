@@ -71,7 +71,7 @@ In the panel, the user-subscriber can see the text description of the idea, rema
 
 ![](../../.gitbook/assets/6%20%2836%29.png)
 
-Click on the ‘Yes’ button to place an order based on the Idea.
+Click on the ‘Yes’ button to place an order based on the Idea. After the order is placed, the User can manage it together with the existing orders.
 
  
 
