@@ -2,7 +2,7 @@
 
 ### **Orders history**
 
-Orders history panel shows all orders sent during the backtesting.
+Orders history panel shows all orders sent during the backtesting. History range can be set in Backtesting setup -&gt; Range.
 
 ![](../../.gitbook/assets/1%20%2843%29.png)
 
@@ -76,7 +76,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 
 * Strike price – price of an option contract performance;
 * Expiry date – a contract expiration date;
-* Trading exchange – name of exchange, where the instrument is traded.
+*  Trading exchange – indicates whether the instrument has a stock exchange or off-exchange type.
 
 Customer can also use standard functions from context menu of the panel:
 
@@ -87,11 +87,36 @@ Customer can also use standard functions from context menu of the panel:
 
 ### **Positions history**
 
-Positions history panel shows positions which were opened for a certain period during the backtesting. History range can be set in Backtesting setup -&gt; Range.
-
-The following columns are available in the panel:
+Positions history panel shows positions which were opened for a certain period during the backtesting. 
 
 ![](../../.gitbook/assets/screenshot_10.png)
+
+The following columns are available in the panel:
+
+* Account – login name of an account that opened a position;
+* Symbol – a traded symbol;
+* Position ID – a unique number that the trading system assigns to each position;
+* Open price – price at which a position was opened;
+* Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
+* Gross P/L – profit/loss in account currency, calculated on base of price difference:
+
+           For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+
+           For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+
+           P/L for Spreadbet instrument type is calculated depending on price change in ticks:
+
+           For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Current price - Open price\)/Tick size\)\)
+
+           For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Open price - Current price\)/Tick size\)\)
+
+           Cross price is applied in the case when account currency doesn't correspond to the Betting currency.
+
+* Open time – time when position was opened;
+* Open date – date when position was opened;
+* Close time – time when position was closed;
+* Close date – date when position was closed;
+* Operation – type of trade \(Buy or Sell\).
 
 For this panel the same functions as for Orders history are available in context menu.
 
