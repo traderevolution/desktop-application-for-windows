@@ -2,7 +2,7 @@
 
 Hotkey is a key or a combination of keys providing quick access to a particular function. The description below is given within the bounds of each panel as well as general and tables hotkeys.
 
-![](../../../.gitbook/assets/4%20%287%29.png)
+![](../../../.gitbook/assets/4%20%288%29.png)
 
 ### **General**
 

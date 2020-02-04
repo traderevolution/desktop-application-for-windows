@@ -25,7 +25,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ###  **Time scale**
 
-![](../../../.gitbook/assets/4%20%2836%29.png)
+![](../../../.gitbook/assets/4%20%2837%29.png)
 
 * Appearance - allows setting up style of time scale.
 * Holes in the history - allows seeing free space on the chart if there is no history at that moment.

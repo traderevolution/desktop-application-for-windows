@@ -35,7 +35,7 @@ Also, in the Idea expanded view, User can view an attached Chart snapshot and op
 
 Clicking on the “PLACE BUY/SELL ORDER” button displays the order placement confirmation dialog:
 
-![](../../../.gitbook/assets/skype_picture_2020_02_03t08_59_13_190z.jpeg)
+![](../../../.gitbook/assets/3%20%2848%29.png)
 
 After clicking the OK button, the Idea order is placed and the User can manage it in the Orders menu.
 

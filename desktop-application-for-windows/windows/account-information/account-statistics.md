@@ -93,7 +93,7 @@ STD = SQRT\(1/\(n-1\) \* SUM\(xi-avr\_x\)^2\)
 
 2\) Calculate the standard deviation \(SD\):
 
-![](../../../.gitbook/assets/4%20%282%29.png)
+![](../../../.gitbook/assets/4%20%283%29.png)
 
 3\) Plot +1SD and -1SD from obtained regression line.
 
@@ -155,7 +155,7 @@ Section 'Total' is selected and displayed by default in all the tabs. Volume bar
 
 ### **Aggregate P/L Chart**
 
-![](../../../.gitbook/assets/4%20%2824%29.png)
+![](../../../.gitbook/assets/4%20%2825%29.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 

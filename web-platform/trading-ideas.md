@@ -57,7 +57,7 @@ After expiration of the Idea, it will be removed from the panel. In order to del
 
 ### **User-subscriber** 
 
-User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the![](../.gitbook/assets/1%20%2883%29.png)button in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
+User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the![](../.gitbook/assets/1%20%2884%29.png)button in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
 To receive an Idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Idea, the notification with the number of received Ideas will appear in the main upper panel of the terminal near the Alerts icon:
 
@@ -72,4 +72,30 @@ In the panel, the user-subscriber can see the text description of the idea, rema
 ![](../.gitbook/assets/6%20%2836%29.png)
 
 Click on the ‘Yes’ button to place an order based on the Idea. After the order is placed, the User can manage it together with the existing orders.
+
+### Attachments
+
+When creating an Idea, a User-analyst can attach a snapshot of a Chart of the Instrument used in the Idea and a jpeg, jpg, png or PDF file \(10 Mb or smaller\) containing relevant information by clicking the icons under the Lifetime setting field of the Idea creation menu:
+
+![](../.gitbook/assets/image%20%2816%29.png)
+
+Clicking the chart symbol icon ![](../.gitbook/assets/attachment6.png) \(on the left\) opens the Chart window for taking a snapshot, in which the User-analyst can select the needed Instrument and configure the Chart parameters:
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+Having configured the Chart, the User can take the snapshot by clicking the "Take snapshot" button in the right lower corner. After the Chart snapshot is taken, it can be saved and automatically attached to the Idea by clickign the symbol in the right lower corner of the menu window:
+
+![](../.gitbook/assets/image%20%2822%29.png)
+
+Clicking the ![](../.gitbook/assets/attachment7.png) symbol in the main Idea creation menu opens the explorer window for browsing to a jpeg, jpg, png or PDF file, which the User-analyst chooses to attach to the Idea.
+
+After the Chart snapshot and file are attached to the Idea, their symbols become highlighted:
+
+![](../.gitbook/assets/image%20%289%29.png)
+
+The User-analyst can remove a snapshot or an attached file by clicking the cross icon near the corresponding symbol.
+
+After an Idea is sent, the User-subscriber can open the Idea expanded view and view the attached file or snapshot by clicking the corresponding icon in the menu:   
+
+![](../.gitbook/assets/image%20%2823%29.png)
 

@@ -12,7 +12,7 @@ Then click on the «+» button and type a template name in the opened window.
 
 Created templates appear at the menu of templates. In order to apply a template, check the certain name in the list of created templates.
 
-![](../../../../.gitbook/assets/4%20%2811%29.png)
+![](../../../../.gitbook/assets/4%20%2812%29.png)
 
 By hovering a certain template name, a user can see 3 additional buttons for managing the template:
 

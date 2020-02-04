@@ -1,6 +1,6 @@
 # Account details
 
-The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/4%20%2843%29.png)button at the top of the screen:
+The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/4%20%2844%29.png)button at the top of the screen:
 
 ![](../../../.gitbook/assets/1%20%2842%29.png)
 

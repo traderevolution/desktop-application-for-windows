@@ -8,7 +8,7 @@ The source code editor in EvoCode is a fully professional tool to facilitate the
 
 The Navigate Backward and Navigate Forward buttons![](../../.gitbook/assets/11%20%288%29.png)allow to navigate easily through the code. The ‘Find’ button allows users to search for a specific phrase in the source code or replace an existing phrase with another phrase. Click on the![](../../.gitbook/assets/3%20%2821%29.png)button and the following window with searching parameters will be opened: 
 
-![](../../.gitbook/assets/4%20%2823%29.png)
+![](../../.gitbook/assets/4%20%2824%29.png)
 
 Also for replacing phrases ‘Replace’ ****button![](../../.gitbook/assets/5%20%2827%29.png)is available. The following window with replacing parameters will be opened:
 
