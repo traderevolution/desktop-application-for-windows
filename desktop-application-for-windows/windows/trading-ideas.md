@@ -95,7 +95,7 @@ After the Chart snapshot and file are attached to the Idea, their symbols become
 
 The User-analyst can remove a snapshot or an attached file by clicking the cross icon near the corresponding symbol.
 
-After an Idea is sent, the User-subscriber can open the Idea expanded view and view the attached file or snapshot by clicking the corresponding icon in the menu:   
+After an Idea is sent, the User-subscriber can open the Idea expanded view and open the attached file or snapshot by clicking the corresponding icon in the menu:   
 
 ![](../../.gitbook/assets/image%20%2823%29.png)
 
