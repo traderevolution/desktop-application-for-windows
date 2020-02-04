@@ -23,7 +23,7 @@ Before start of backtesting user can setup all required properties. Click on the
 * Additional symbols – evokes the lookup for selection of additional symbols for backtesting.
 * Aggregation – allows to select the type of aggregation \(time\) of historical data.
 * Range – allows selecting time interval during which the module backtesting will be conducted. It is also available to select custom range by selecting ‘Custom’ option in the drop-down menu.
-* Modeling scheme – the following schemes are available:
+* Modelling scheme – the following schemes are available:
 
          -  1m - Close – one minute bars close price are used for generation.
 
@@ -39,6 +39,7 @@ Before start of backtesting user can setup all required properties. Click on the
 
 * Balance – initial deposit amount.
 * Latency – time latency during backtesting process which emulates the slippage that occurs during a real trade.
+* Trade session – allows to set the scope of a trading session when it starts and when it ends.
 * Execution by – allows to select which type of historical data will be played for backtesting. 
 * Cancel Day Orders Time – allows to select time when all user’s daily orders will be closed.
 
