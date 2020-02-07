@@ -14,7 +14,7 @@ Clicking the icon opens the Ideas panel, which shows all the currently received 
 
 By clicking on an Idea space in the Ideas panel, User can open the Idea expanded view and see its details:
 
-![](../../../.gitbook/assets/skype_picture_2020_02_03t08_58_38_928z.jpeg)
+![](../../../.gitbook/assets/group-1393.png)
 
 The expanded view of an Idea contains the chart of the Instrument used \(if the data on the Instrument is available to the User\), Idea text description, remaining lifetime, Take profit, Limit price and Stop loss values and the Idea remaining Life time. With that, the chart of the Instrument used in the Idea is refreshed with the same frequency as the chart panel. 
 
@@ -35,7 +35,7 @@ Also, in the Idea expanded view, User can view an attached Chart snapshot and op
 
 Clicking on the “PLACE BUY/SELL ORDER” button displays the order placement confirmation dialog:
 
-![](../../../.gitbook/assets/3%20%2848%29.png)
+![](../../../.gitbook/assets/group-1387.png)
 
 After clicking the OK button, the Idea order is placed and the User can manage it in the Orders menu.
 
