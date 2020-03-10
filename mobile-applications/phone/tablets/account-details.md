@@ -6,13 +6,13 @@ The Account details screen is accessible through the Watchlist, Positions and Or
 
 In order to view detailed information about an account, tap its name.
 
-![](../../../.gitbook/assets/2%20%2812%29.png)
+![](../../../.gitbook/assets/1.jpeg)
 
 P/L, % = Open Gross P/L \* 100 / \(projectedBalance - Open Gross P/L\) 
 
 Risk level – displays how an account is close to portfolio liquidation.
 
-![](../../../.gitbook/assets/3%20%282%29.png)
+![](../../../.gitbook/assets/screenshot_androtab.png)
 
 * Balance – current realized balance of the account. If there is trading with pending valuation, balance won’t change before clearing, on which P/L will be credited by covered trades or delivery of funds will be performed by uncovered trades; Fees are charged off from the balance at the time of accrual;
 * Projected balance – future balance which includes all accrued and not accrued profit/loss. After closing all positions, accrual of fees and assets' delivery, the balance becomes equal to a projected balance:
@@ -49,6 +49,7 @@ Risk level – displays how an account is close to portfolio liquidation.
 
   Warning margin lvl = \(Margin warning% / 100\) \* \(Balance&All risks - Stock orders req\);
 
+* Waived margin –the amount in the account currency that is deducted from Initial and Maintenance margin requirements for the account;
 * Blocked balance – balance blocked by broker or by user for withdrawal/transfer;
 * Cash balance – current cash balance of the account;
 * Unsettled cash – сash sum of unsettled account operations, which have not been delivered to an account yet and will be delivered in accordance with T+n settlement system;

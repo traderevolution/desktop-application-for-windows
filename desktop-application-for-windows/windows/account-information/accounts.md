@@ -4,7 +4,7 @@
 
 To open Accounts panel, select Account -&gt; Accounts at the header of the terminal:
 
-![](../../../.gitbook/assets/10%20%288%29.png)
+![](../../../.gitbook/assets/windows-desk-waived%20%281%29.png)
 
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance&Projected balance section at the header of the platform:
 
@@ -14,7 +14,7 @@ By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels)
 
-![](../../../.gitbook/assets/screenshot_9.png)
+![](../../../.gitbook/assets/windows-desk-acc%20%281%29.png)
 
 If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. 
 
