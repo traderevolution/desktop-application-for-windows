@@ -96,7 +96,8 @@ Amount – a current amount of options in a position;
 Cross price – a current cross price in account's currency.
 
 * Today’s net profit – Net Profit/Loss for today;
-* Today’s fee ­– amount of fees paid for today.
-
-
+* Today’s fee ­– amount of fees paid for today;
+* Warn. margin req. – warning margin requirement for positions and orders;
+* Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
+* Margin before warning ****– margin available before the warning triggering.
 

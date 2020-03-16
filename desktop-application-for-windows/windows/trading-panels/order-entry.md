@@ -81,7 +81,10 @@ Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
 
 P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
 
-P/L per Tick - no information for Index.
+P/L per Tick - no information for Index;
+
+* Warn. margin req. – warning margin requirement for positions and orders;
+* Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
 
 **Fees** part shows commission for a trade:
 
