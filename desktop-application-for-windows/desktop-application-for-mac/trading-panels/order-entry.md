@@ -48,8 +48,7 @@ Risks details section shows all values in account currency:
 * Margin available – available margin for trading;
 * Initial margin – minimum account balance required to open the position;
 * Maintenance margin – minimum account balance required to keep this position open;
-* Warn. margin req. – warning margin requirement for positions and orders;
-* Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
+* Warn. margin  – margin value, for which the warning is triggered;
 * Impact on portfolio – shows impact of the order fill on available funds considering all other positions/orders;
 * After trade funds – shows value of available funds remaining after filling the order:
 
