@@ -65,6 +65,8 @@ Risks details section shows all values in account currency:
 * Margin available – available margin for trading;
 * Initial margin – minimum account balance required to open the position;
 * Maintenance margin – minimum account balance required to keep this position open;
+* Warn. margin req. – warning margin requirement for positions and orders;
+* Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
 * Impact on portfolio – shows impact of the order fill on available funds considering all other positions/orders;
 * After trade funds – shows value of available funds remaining after filling the order:
 
@@ -82,9 +84,6 @@ Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
 P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
 
 P/L per Tick - no information for Index;
-
-* Warn. margin req. – warning margin requirement for positions and orders;
-* Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
 
 **Fees** part shows commission for a trade:
 
