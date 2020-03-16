@@ -114,6 +114,7 @@
       * [Assets](desktop-application-for-windows/desktop-application-for-mac/account-management/assets.md)
     * [Informative panels](desktop-application-for-windows/desktop-application-for-mac/informative-panels/README.md)
       * [Event log](desktop-application-for-windows/desktop-application-for-mac/informative-panels/event-log.md)
+      * [High/Low list](desktop-application-for-windows/desktop-application-for-mac/informative-panels/high-low-list.md)
 * [TraderEvolution for Mobile](mobile-applications/README.md)
   * [Android](mobile-applications/phone/README.md)
     * [Phones](mobile-applications/phone/android/README.md)
