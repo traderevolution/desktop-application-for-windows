@@ -2,7 +2,7 @@
 
 Order entry panel allows to place market or pending orders. To open the Order entry panel select Terminal -&gt; Order entry.
 
-![](../../../.gitbook/assets/oe.png)
+![](../../../.gitbook/assets/oe-3.92%20%281%29.png)
 
 This panel contains the following settings:
 
