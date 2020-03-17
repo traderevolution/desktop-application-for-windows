@@ -4,7 +4,7 @@ This panel displays the Low and High lists containing the Instruments, which quo
 
 The panel has the following view:
 
-![](../../../.gitbook/assets/screenshot_1%20%2815%29.png)
+![](../../../.gitbook/assets/grid.png)
 
 In the panel, the following common controls are available:
 
