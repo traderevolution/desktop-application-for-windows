@@ -21,6 +21,47 @@ For each list in the panel, the displayed columns can be configured independentl
 * Volume - the total Instrument volume at the quoted price, which resulted in the touching/breakdown of the current High/Low price;
 * Exchange - the name of the Exchange, to which the Instrument is subscribed.
 
-The features of columns autosizing, type of grid \(None, Vertical&horizontal, Vertical, Horizontal\) selection, setting the limit of rows and showing totals and toolbar configured for each list independently are available for the panel in the Panel -&gt; Preferences menu.  
+### **High/Low list Preferences**
+
+The Preferences window can be opened via the context menu of the panel. The 'High/Low list Preferences' menu contains such sections as View, Columns, Colors.
+
+**View**
+
+![](../../../.gitbook/assets/1skrin.png)
+
+* Grid – allows activating and setting up grid. The following types of grid are available: Vertical, Horizontal, Vertical & horizontal, None;
+* Rows limit – allows to define the limit of rows to be displayed.
+
+**Columns**
+
+![](../../../.gitbook/assets/2skrin.png)
+
+This section allows to set up visibility of columns in the panel and to adjust the following columns' parameters: Alignment, Colors.
+
+**Colors**
+
+![](../../../.gitbook/assets/3skrin.png)
+
+This section allows to adjust the coloring scheme for the table panel.
+
+You can set up Background and Text colors for the following elements of the High/Low list:
+
+* Table \(background color\);
+* Grid \(background color\);
+* Columns header row;
+* Row;
+* Selected row.
+
+
+
+
+
+
+
+
+
+  
+  
+  
 
 
