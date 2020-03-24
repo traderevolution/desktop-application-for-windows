@@ -24,7 +24,7 @@ After re-installing TraderEvolution into your PC, the newly installed TraderEvol
 
 Launch the TraderEvolution Desktop App and enter your credentials to login to your terminal.
 
-![](../../../.gitbook/assets/screenshot_6%20%285%29.png)
+![](../../../.gitbook/assets/screenshot_6%20%286%29.png)
 
 ### **How to change your password?**
 

@@ -84,7 +84,7 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 
 #### **View**
 
-![](../../../.gitbook/assets/screenshot_6%20%281%29.png)
+![](../../../.gitbook/assets/screenshot_6.png)
 
 *  Standard settings – Font, Grid;
 * Show size in –   allows selecting in what form the volume will be shown. General defaults – is taken from general terminal settings; Lots – will be displayed in lots; Real size - will be displayed in real value;
@@ -155,7 +155,7 @@ Select desired price or MPID - &gt; right click on it - &gt; set the monitor - &
 
 The Additional tab of the Market depth settings looks as follows:
 
-![](../../../.gitbook/assets/screenshot_6%20%282%29.png)
+![](../../../.gitbook/assets/screenshot_6%20%283%29.png)
 
 In the 'Orders q-ty for hotkey trading' section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. 
 
