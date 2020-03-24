@@ -84,7 +84,7 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 
 #### **View**
 
-![](../../../.gitbook/assets/40.png)
+![](../../../.gitbook/assets/screenshot_6%20%281%29.png)
 
 *  Standard settings – Font, Grid;
 * Show size in –   allows selecting in what form the volume will be shown. General defaults – is taken from general terminal settings; Lots – will be displayed in lots; Real size - will be displayed in real value;
@@ -92,7 +92,6 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 * View by –   allows selecting the following options: 'By price level' or 'By order'.
 * Highlight new order –   can be checked, when 'View by' is set to 'By order'.
 * Mirror view –   if checked, Ask section columns of Market depth panel will be displayed backwards;
-* Use Stop limit instead Stop –   allows placing stop limit orders instead of stop orders. When checked, the Limit offset field is activated, where you can set the offset value for an order;
 * Limit offset –   you can set up precision of limit offset.
 * Show own orders –   if active, all user’s pending orders \(Limit/Stop\) are shown in the Market depth panel with color, otherwise – orders won’t be displayed. To set the coloring scheme for displaying the Limit/Stop orders in Market depth panel, go to Context menu - &gt; Settings - &gt; General - &gt; Colors - &gt; Trading.
 * Show toolbar – allows showing toolbar.
@@ -156,7 +155,7 @@ Select desired price or MPID - &gt; right click on it - &gt; set the monitor - &
 
 The Additional tab of the Market depth settings looks as follows:
 
-![](../../../.gitbook/assets/screenshot_6%20%281%29.png)
+![](../../../.gitbook/assets/screenshot_6%20%282%29.png)
 
 In the 'Orders q-ty for hotkey trading' section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. 
 
