@@ -29,7 +29,11 @@ In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%2
 
 ![](../../../.gitbook/assets/5%20%285%29.png)
 
-### **Watchlist Filter** 
+For Options the detailed symbols' information \(description\) is also available in the lookup:
+
+![](../../../.gitbook/assets/android.jpg)
+
+### **Watchlist Filter** 
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter%20%281%29.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
 
