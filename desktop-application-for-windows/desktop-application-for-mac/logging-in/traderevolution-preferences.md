@@ -48,7 +48,7 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ### **Trading defaults:**
 
-![](../../../.gitbook/assets/5%20%2836%29.png)
+![](../../../.gitbook/assets/mac-settings.png)
 
 * Account – allows to select a default account for trading;
 * Symbol – allows to select a default instrument for trading;
@@ -75,6 +75,7 @@ The full information about Hotkeys preferences is represented in the article bel
 * Stop TIF – allows to set up a default time-in-force of a Stop order;
 * Default qty in lots – allows to indicate the default qty of lots for trading;
 * Show offset in – allows to show offset in Ticks or Points;
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the 'Limit offset, ticks' field;
 * Set SL/TP values in offset – if checked, order prices are shown in offset, if unchecked – in absolute values.
 
 ### **Confirmations:**
