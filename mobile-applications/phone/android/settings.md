@@ -4,7 +4,7 @@ A user can access the ‘Settings’ tab from the application’s ‘More’ men
 
 ### Defaults
 
-![](../../../.gitbook/assets/1mob1.png)
+![](../../../.gitbook/assets/nastroiki-android.png)
 
 In 'Defaults' settings section you can adjust the following:
 
@@ -13,7 +13,8 @@ In 'Defaults' settings section you can adjust the following:
 * Order type – allows to select one of the following orders: Market, Limit, Stop, Stop limit, Tr. Stop;
 * Quantity in lots - if checked, quantity is displayed in lots, if unchecked – in units;
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
-* Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points.
+* Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points;
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the 'Limit offset, ticks' field.
 
 ### **Confirmations**
 
