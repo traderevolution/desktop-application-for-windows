@@ -33,7 +33,7 @@ The General Settings menu is used to customize and change general properties of 
   * Ticks;
   * Ticks \(fractional ticks for Forex\);
   * Points.
-* Use stop limit instead stop – check to place stop limit orders instead of stop orders. When checked activates the 'Limit offset, ticks' field;
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked activates the 'Limit offset, ticks' field;
 * Limit offset, ticks – use to adjust the default quantity of ticks for offset of a limit price. Active only if 'Use stop limit instead stop' is checked;
 * Order type – use to specify an order type, available values: Market, Limit, Stop, Stop Limit, Tr. stop, OCO, Manual;
 * Market/Limit\(Stop limit\)/Stop TIF – use to set up TIF for Market/Limit \(Stop Limit\)/Stop orders respectively. Operates in both auto and manual trading;
