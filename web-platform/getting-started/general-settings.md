@@ -21,7 +21,7 @@ The General settings menu is used to customize and change general properties of 
 
 ### **Trading defaults**
 
-![](../../.gitbook/assets/screenshot_3%20%281%29.png)
+![](../../.gitbook/assets/web-settings.png)
 
 * Account – specifies an account used by default, available for a multi-account user;
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;
@@ -34,6 +34,8 @@ The General settings menu is used to customize and change general properties of 
 
            -  Points.
 
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked activates the 'Limit offset, ticks' field;
+* Limit offset, ticks – use to adjust the default quantity of ticks for offset of a limit price. Active only if 'Use stop limit instead stop' is checked;
 * Order type – allows specifying order type, available values: Market, Limit, Stop, Stop limit, Trailing stop, OCO;
 * Market/Limit\(Stop limit\)/Stop TIF – allows setting up TIF for market/limit \(stop limit\)/stop orders respectively;
 * Types manager – allows setting defaults.
