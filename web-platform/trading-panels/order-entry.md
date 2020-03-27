@@ -1,6 +1,6 @@
 # Order entry
 
-Order entry panel allows to place market or pending orders. To open the Order entry panel select   Terminal -&gt; Order entry.
+Order entry panel allows to place market or pending orders. To open the Order entry panel select Terminal -&gt; Order entry.
 
 ![](../../.gitbook/assets/oe-big-web.png)
 
@@ -15,7 +15,7 @@ Order entry panel allows to place market or pending orders. To open the Order en
 1. Market order is an order to buy or sell a security at the best available price immediately;
 2. Limit order is placed to buy or sell a security at specified price or better;
 3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit;
-4. Stop limit order will be executed at a specified price \(or better\) after given stop price has been reached. Once the stop price is reached, the Stop limit order becomes a Limit order to buy \(or sell\) at the limit price or better. The ![](../../.gitbook/assets/info-web.png)icon informs a user that additional Limit price is available if the checkbox 'Use stop limit instead of stop' is active in General settings; 
+4. Stop limit order will be executed at a specified price \(or better\) after given stop price has been reached. Once the stop price is reached, the Stop limit order becomes a Limit order to buy \(or sell\) at the limit price or better. The![](../../.gitbook/assets/info-web.png)icon informs a user that additional Limit price is available if the checkbox 'Use stop limit instead of stop' is active in General settings; 
 5. OCO \(One-Cancels-the-Other\) is an order stipulating that if one part of the order is executed, then the other part is automatically canceled;
 6. ‘Sell’ trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. ‘Buy’ trailing stop orders are the mirror image of sell trailing stop orders;
 
