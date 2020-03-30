@@ -28,7 +28,7 @@ If there is only one product type available to the User subscriber and it differ
 * Limit price – field for entering the limit price for the order;
 * SL price – Stop Loss price of the order;
 * SL offset – field that shows the SL offset value;
-* SL limit price – Limit price set for SL order;
+* SL limit price – Limit price for SL order;
 * SL limit offset – Limit offset for SL order;
 * TP price – Take Profit price of the order;
 * TP offset – field that shows the TP offset value;
