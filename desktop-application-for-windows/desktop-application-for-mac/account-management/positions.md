@@ -83,6 +83,7 @@ For Short position: Position value = Position exposure – P/L.
 * SL price – a Stop loss price set for a position;
 * TP price – a Take profit price set for a position;
 * SL, value – a Stop loss sum in account's currency which trader risks by each symbol in case 'Stop loss' triggers. Also, SL sum by all positions is displayed in Totals on the bottom of the panel, in order you could know how much it is possible to lose;
+* SL limit price – Limit price set for SL order;
 * Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date.
 * Close – allows to close a position.
 
