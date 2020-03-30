@@ -31,8 +31,8 @@ To open a new Working orders panel, select Terminal -&gt; Working orders.
 * Status – status of the current order. It can have the following values: Created, Partially filled,  Modified;
 * SL offset – shows the stop loss order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General settings\);
 * TP offset – shows the take profit order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General settings\);
-* SL limit price - Limit price set for SL order;
-* SL limit offset - Limit offset for SL order;
+* SL limit price – Limit price set for SL order;
+* SL limit offset – Limit offset for SL order;
 * Product type – shows the current trading mode and margin check method of the instrument;
 * Strike price – price of option contract performance.
 * Expiry date – date of contract expiration.
