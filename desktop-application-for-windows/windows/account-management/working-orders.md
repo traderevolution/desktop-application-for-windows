@@ -33,7 +33,7 @@ The following columns are available in the panel:
 * SL offset - shows the stop loss order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General settings\);
 * TP offset - shows the take profit order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General settings\);
 * SL limit price - Limit price set for SL order;
-* SL limit offset - Limit offset set for SL order;
+* SL limit offset - Limit offset for SL order;
 * Product type - shows the current trading mode and margin check method of the instrument;
 * Strike price - price of option contract performance.
 * Exp. date - date of contract expiration.
