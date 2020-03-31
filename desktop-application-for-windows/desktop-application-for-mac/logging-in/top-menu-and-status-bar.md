@@ -5,7 +5,7 @@
 ![](../../../.gitbook/assets/top-menu.png)
 
 *  Account: access to account information, Reports, Change password, Change trading password.
-* Web browser: allows opening the Web browser window for data/news streaming or watching videos by the link which is configured in the Back Office.
+* Web Browser: allows opening the Web browser window for data/news streaming or watching videos by the link which is configured in the Back Office.
 * Help: access to TraderEvolution Guide. 
 * Preferences: access to general preferences of the platform. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/traderevolution-preferences](https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/traderevolution-preferences)
 *  Log in: evokes login screen.
