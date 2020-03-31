@@ -5,8 +5,7 @@
 ![](../../../.gitbook/assets/te.png)
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
-* Tools: access to Strategy manager, MAM, Synthetic instruments, Aggressor Balance Beta, News, RSS, Economic calendar.
-* Web Browser: allows opening the Internal browser window for data/news streaming or watching videos by the selected external link.
+* Tools: Strategy manager, MAM, Synthetic instruments, Aggressor Balance Beta, News, RSS, Economic calendar.
 * More: access to TraderEvolution Global website, log file, private log file, data folder, About current version screen.
 * Alerts: access to the Alerts panel;
 * Ideas: access to the Trading Ideas panel;
