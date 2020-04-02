@@ -58,7 +58,8 @@ For Short position: Position value = Position exposure – P/L
 * Strike price – price of option contract performance;
 * SL price – Stop loss price set for a position;
 * TP price – Take profit price set for a position;
-* SL, value – shows a Stop loss sum in account currency which a trader risks by each symbol, if Stop loss triggers. Also, SL sum by all positions are output in Totals on the bottom of the panel, in order to know how much trader can lose.
+* SL, value – shows a Stop loss sum in account currency which a trader risks by each symbol, if Stop loss triggers. Also, SL sum by all positions are output in Totals on the bottom of the panel, in order to know how much trader can lose;
+* SL limit price – Limit price set for SL order.
 
 ### **Buttons toolbar**
 

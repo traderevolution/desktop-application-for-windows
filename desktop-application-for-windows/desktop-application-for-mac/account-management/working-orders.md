@@ -31,6 +31,8 @@ Right-click on the table's column name in order to open the menu of available co
 * Status – status of the current order. It can have the following values: Created, Part filled, Off market, Cancelling, Modified;
 * SL offset – shows the stop loss order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General preferences\);
 * TP offset – shows the take profit order offset in ticks, fractional ticks or points \(depending on the current configuration of the Trading defaults section of the General preferences\);
+* SL limit price – Limit price set for SL order;
+* SL limit offset – Limit offset for SL order;
 * Product type – shows the current trading mode and margin check method of the instrument;
 * Strike price – price of option contract performance;
 * Expiration date – date of contract expiration;

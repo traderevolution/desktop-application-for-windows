@@ -49,6 +49,7 @@ The following columns are available in the panel:
 * Route – name of a route;
 * SL price – Stop loss price set for a position;
 * TP price – Take profit price set for a position;
+* SL limit price – Limit price set for SL order;
 * Close – allows to close a selected position.
 
 ### **Buttons toolbar**
