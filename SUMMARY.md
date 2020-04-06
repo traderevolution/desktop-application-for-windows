@@ -208,6 +208,7 @@
     * [Accounts](web-platform/account-information/accounts.md)
   * [Informative panels](web-platform/informative-panels/README.md)
     * [Event log](web-platform/informative-panels/event-log.md)
+    * [Internal Browser](web-platform/informative-panels/internal-browser.md)
   * [Trading ideas](web-platform/trading-ideas.md)
   * [More](web-platform/more.md)
 * [EvoCode](evocode/README.md)
