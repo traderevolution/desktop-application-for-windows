@@ -6,7 +6,6 @@
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * More: access to TraderEvolution Global website and About current version screen.
-* Internal Browser: allows opening the Internal Browser window for data/news streaming or watching videos by the link which is configured in the Back Office. Click on the "Attach" button located at the top right corner of the Internal Browser window in order to attach this panel.
 * Alerts: access to the Alerts panel.
 * Ideas: access to the Trading Ideas panel.
 * Balance & Projected balance: access to account information.
