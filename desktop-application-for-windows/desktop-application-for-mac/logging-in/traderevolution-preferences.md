@@ -1,19 +1,19 @@
 # Preferences
 
-To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2880%29.png)located at the Top menu of the platform.
+To open the 'Preferences' menu, click on the button![](../../../.gitbook/assets/1%20%2881%29.png)located at the Top menu of the platform.
 
 This menu contains such sections as:
 
 ### General:
 
-![](../../../.gitbook/assets/1%20%2882%29.png)
+![](../../../.gitbook/assets/1%20%2883%29.png)
 
 * Allow automatic login – if checked, the application will automatically connect to the server while launching;
 * Automatically reconnect application – if checked, the application will try to reconnect to the server after losing connection.
 
 ### **View:**
 
-![](../../../.gitbook/assets/2%20%2853%29.png)
+![](../../../.gitbook/assets/2%20%2854%29.png)
 
 * Display quantity in lots – if checked, orders quantity is shown in lots, otherwise - in units;
 * Display quantity in absolute – if checked, orders quantity is shown in absolute values;

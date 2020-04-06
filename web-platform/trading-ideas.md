@@ -59,7 +59,7 @@ After expiration of the Idea, it will be removed from the panel. In order to del
 
 ### **User-subscriber** 
 
-User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the![](../.gitbook/assets/1%20%2884%29.png)button in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
+User-subscriber is a user who is subscribed to user-analyst’s Ideas. For the user-subscribers, only the subscriber panel is available in the terminal and they can only see and accept Ideas. Click the![](../.gitbook/assets/1%20%2885%29.png)button in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
 To receive an Idea and place the order based on this idea, the instrument used in the idea must be available to the user-subscriber. After receiving a new Idea, the notification with the number of received Ideas will appear in the main upper panel of the terminal near the Alerts icon:
 

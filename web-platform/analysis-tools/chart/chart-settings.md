@@ -12,7 +12,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2871%29.png)
+![](../../../.gitbook/assets/2%20%2872%29.png)
 
 * Background colors - allows setting up color of the chart background and watermark color.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.

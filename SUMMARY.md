@@ -73,6 +73,7 @@
       * [High/Low list](desktop-application-for-windows/windows/informative-panels/high-low-list.md)
       * [RSS](desktop-application-for-windows/windows/informative-panels/rss.md)
       * [News](desktop-application-for-windows/windows/informative-panels/news.md)
+      * [Internal Browser](desktop-application-for-windows/windows/informative-panels/internal-browser.md)
       * [Economic calendar](desktop-application-for-windows/windows/informative-panels/economic-calendar.md)
       * [Event log](desktop-application-for-windows/windows/informative-panels/event-log.md)
     * [Trading ideas](desktop-application-for-windows/windows/trading-ideas.md)
