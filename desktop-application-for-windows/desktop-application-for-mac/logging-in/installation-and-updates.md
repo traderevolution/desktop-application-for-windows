@@ -34,7 +34,7 @@ Change password - allows changing the password which is entered to login into th
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../../.gitbook/assets/4%20%2846%29.png)
+![](../../../.gitbook/assets/4%20%2847%29.png)
 
 To change the password:
 

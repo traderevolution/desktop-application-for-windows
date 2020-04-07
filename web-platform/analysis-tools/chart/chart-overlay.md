@@ -8,7 +8,7 @@ A user can add any other Symbols to the current chart. To provide this, click on
 
 ![](../../../.gitbook/assets/3%20%2865%29.png)
 
-* Visible![](../../../.gitbook/assets/4%20%2849%29.png)  – if checked, the price scale of the selected overlaid symbol will be shown on the chart;
+* Visible![](../../../.gitbook/assets/4%20%2850%29.png)  – if checked, the price scale of the selected overlaid symbol will be shown on the chart;
 * Hide/Show![](../../../.gitbook/assets/5%20%2828%29.png)– allows to hide or show overlaid symbol on the chart;
 * Remove overlay![](../../../.gitbook/assets/6%20%288%29.png)– allows removing the overlay in one click.
 

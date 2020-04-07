@@ -37,7 +37,7 @@ A user can see created alerts and work with them – both with executed and not 
 
 The maximum number of alerts which can be added to the panel is 100.
 
-![](../../.gitbook/assets/4%20%2818%29.png)
+![](../../.gitbook/assets/4%20%2819%29.png)
 
 There are the following columns in the table of the Alerts panel:
 

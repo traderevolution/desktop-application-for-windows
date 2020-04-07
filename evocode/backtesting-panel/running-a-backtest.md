@@ -4,7 +4,7 @@ After selecting the backtesting type and all settings, a user can start backtest
 
 A user can also select speed of the backtesting in the Visualize mode by the following slider: ![](../../.gitbook/assets/3%20%2827%29.png).
 
-It is easy to set up a Script input by clicking on the![](../../.gitbook/assets/4%20%2813%29.png)button and selecting the desired instrument from the lookup.
+It is easy to set up a Script input by clicking on the![](../../.gitbook/assets/4%20%2814%29.png)button and selecting the desired instrument from the lookup.
 
 ![](../../.gitbook/assets/5%20%2832%29.png)
 

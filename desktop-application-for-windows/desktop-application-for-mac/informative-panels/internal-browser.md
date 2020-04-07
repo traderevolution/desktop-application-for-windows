@@ -14,7 +14,7 @@ Click on the Tool name in order to open the Internal Browser window.
 
 In order to attach this panel, click on the "Attach"![](../../../.gitbook/assets/3%20%2837%29.png)button located at the top right corner of the Internal Browser window. 
 
-![](../../../.gitbook/assets/4%20%2843%29.png)
+![](../../../.gitbook/assets/4%20%2811%29.png)
 
 Then click on the header of Internal Browser window and move the panel to the preferred place at the platform.
 
