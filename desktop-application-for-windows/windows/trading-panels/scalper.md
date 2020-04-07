@@ -147,7 +147,7 @@ For ‘Sell orders’ the offset is counted from Bid price by default. Positive 
 
 * Market \(buy, sell, increase, decrease\) – always by market. All orders will be placed at the market price.
 
-![](../../../.gitbook/assets/2%20%2827%29.png)
+![](../../../.gitbook/assets/2%20%2828%29.png)
 
 Put over volume \(buy, sell, increase, decrease\) – allows setting order volume in the “Volume” field which should be skipped till placing user’s own order, i.e. some number of orders is skipped forward with the condition that the sum of their volume does not exceed the one specified in the field.
 

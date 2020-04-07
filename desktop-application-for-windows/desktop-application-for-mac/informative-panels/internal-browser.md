@@ -10,7 +10,7 @@ At the screenshot you can see the example of location of this item as a Custom t
 
 Click on the Tool name in order to open the Internal Browser window.
 
-![](../../../.gitbook/assets/2%20%2855%29.png)
+![](../../../.gitbook/assets/2%20%288%29.png)
 
 In order to attach this panel, click on the "Attach"![](../../../.gitbook/assets/3%20%2837%29.png)button located at the top right corner of the Internal Browser window. 
 

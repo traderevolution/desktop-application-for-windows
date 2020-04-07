@@ -99,7 +99,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 * Settlement price – allows displaying settlement price**;**
 * Previous settlement price – allows displaying previous settlement price.
 
-![](../../../.gitbook/assets/2%20%288%29.png)
+![](../../../.gitbook/assets/2%20%289%29.png)
 
 Check/uncheck the needed hot buttons in order to display them in the built-in Order entry of the Matrix panel:
 

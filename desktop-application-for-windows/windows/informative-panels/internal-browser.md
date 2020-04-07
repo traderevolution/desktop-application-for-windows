@@ -10,7 +10,7 @@ At the screenshot you can see the example of location of this item as a Custom t
 
 Click on the Tool name in order to open the Internal Browser window.
 
-![](../../../.gitbook/assets/2%20%2848%29.png)
+![](../../../.gitbook/assets/2%20%2849%29.png)
 
 In order to attach this panel, click on the “View more actions”![](https://lh4.googleusercontent.com/qyPYZLtF_34SUxXLw46JutMYHiFXq-4Uk36NySpq5cBN8vXi06IXkp_ZRgtvoU_-hXTvAjUdjDikQemzBHt67Yc8nIeRX_C9EXm_OOD1mGvXoZOX8zV1cbg7bhkjK_LuclDBKHTA)button located at the top right corner of the Internal Browser window and select the "Attach" option from the drop-down menu. 
 
