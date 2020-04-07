@@ -8,7 +8,7 @@ Click on the![](../../../../.gitbook/assets/1%20%2815%29.png)button located in t
 
 Then click on the «+» button and type a template name in the opened window.
 
-![](../../../../.gitbook/assets/3%20%2840%29.png)
+![](../../../../.gitbook/assets/3%20%2841%29.png)
 
 Created templates appear at the menu of templates. In order to apply a template, check the certain name in the list of created templates.
 

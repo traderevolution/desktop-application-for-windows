@@ -10,7 +10,7 @@ To create new Synthetic instruments, select Tools -&gt; Synthetic instruments.
 
 After clicking on the Synthetic instruments icon from the Tools menu, the following window will be shown:
 
-![](../../../.gitbook/assets/1%20%2875%29.png)
+![](../../../.gitbook/assets/1%20%2876%29.png)
 
 New Synthetic instruments can now be created. Click on the![](../../../.gitbook/assets/2%20%289%29.png)button.
 

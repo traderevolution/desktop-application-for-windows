@@ -40,7 +40,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/3%20%2854%29.png)
+![](../../../../.gitbook/assets/3%20%2855%29.png)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 

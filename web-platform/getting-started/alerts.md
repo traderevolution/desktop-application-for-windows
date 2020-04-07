@@ -1,10 +1,10 @@
 # Alerts
 
-To open the Alerts panel, click on the![](../../.gitbook/assets/1%20%2824%29.png)button which is located at the header of TraderEvolution Web platform. In order to create an alert, click on the![](../../.gitbook/assets/2%20%2814%29.png)button at the bottom of the panel.
+To open the Alerts panel, click on the![](../../.gitbook/assets/1%20%2825%29.png)button which is located at the header of TraderEvolution Web platform. In order to create an alert, click on the![](../../.gitbook/assets/2%20%2814%29.png)button at the bottom of the panel.
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../.gitbook/assets/3%20%2849%29.png)
+![](../../.gitbook/assets/3%20%2850%29.png)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Alert type – allows to set an alert type. Available options are the following: Ask, Bid, Last, Change%, Volume;

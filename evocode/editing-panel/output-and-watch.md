@@ -4,7 +4,7 @@
 
 The Output tool is used to show system communication \(such as errors\) during compilation or messages from the strategy to the Output tool during backtesting. The tool is opened by default in the Editing tab.
 
-![](../../.gitbook/assets/1%20%2823%29.png)
+![](../../.gitbook/assets/1%20%2824%29.png)
 
 ### **Watch**
 
@@ -14,7 +14,7 @@ To begin debugging source code, users should first set breakpoints. Then it is n
 
 ![](../../.gitbook/assets/2%20%2813%29.png)
 
-Select the Debug mode and run debugging by clicking on the![](../../.gitbook/assets/3%20%2846%29.png)button.
+Select the Debug mode and run debugging by clicking on the![](../../.gitbook/assets/3%20%2847%29.png)button.
 
 If using tables in the Watch tool, users can click on the ‘Full’ ****button to see the value of an array.
 

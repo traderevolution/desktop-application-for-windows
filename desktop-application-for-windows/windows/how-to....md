@@ -46,7 +46,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 #### **6. How to add a price alert?**
 
-1. Open the Alerts panel by clicking on the corresponding![](../../.gitbook/assets/1%20%2871%29.png)button at the header of the terminal;
+1. Open the Alerts panel by clicking on the corresponding![](../../.gitbook/assets/1%20%2872%29.png)button at the header of the terminal;
 2. Setup conditions which will trigger your alert and finally select the actions to be taken.
 
 ![](../../.gitbook/assets/alerts-1.png)

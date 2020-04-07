@@ -1,12 +1,12 @@
 # Account details
 
-The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/4%20%2844%29.png)button at the top of the screen:
+The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/4%20%2845%29.png)button at the top of the screen:
 
-![](../../../.gitbook/assets/1%20%2842%29.png)
+![](../../../.gitbook/assets/1%20%2843%29.png)
 
 In order to view detailed information about an account, tap its name.
 
-![](../../../.gitbook/assets/2%20%2873%29.png)
+![](../../../.gitbook/assets/2%20%2874%29.png)
 
 P/L, % = Open Gross P/L \* 100 / \(projectedBalance - Open Gross P/L\) 
 
