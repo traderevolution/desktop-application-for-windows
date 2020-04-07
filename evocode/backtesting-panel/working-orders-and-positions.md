@@ -4,7 +4,7 @@ Working orders/Positions panels show the orders/positions that were opened durin
 
 The following columns are available for the Positions panel:
 
-![](../../.gitbook/assets/1%20%2811%29.png)
+![](../../.gitbook/assets/1%20%2812%29.png)
 
 * Account – login name of an account that opened a position;
 * Symbol – a traded symbol;

@@ -6,7 +6,7 @@ A name of the functionality item, its location in the certain tab of the Top men
 
 At the screenshot you can see the example of location of this item as a Custom tab named “Stream” and the Tool named “Internal Browser”.
 
-![](../../../.gitbook/assets/1%20%2822%29.png)
+![](../../../.gitbook/assets/1%20%285%29.png)
 
 Click on the Tool name in order to open the Internal Browser window.
 

@@ -4,7 +4,7 @@
 
 Orders history panel shows all orders sent during the backtesting. History range can be set in Backtesting setup -&gt; Range.
 
-![](../../.gitbook/assets/1%20%2844%29.png)
+![](../../.gitbook/assets/1%20%2845%29.png)
 
 The following columns are available in the panel:
 

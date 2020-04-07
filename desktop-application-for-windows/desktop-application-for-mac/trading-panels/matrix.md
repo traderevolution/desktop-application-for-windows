@@ -85,7 +85,7 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 **View**
 
-![](../../../.gitbook/assets/1%20%2836%29.png)
+![](../../../.gitbook/assets/1%20%2837%29.png)
 
 * Font – allows to choose the style of the font;
 * Show position bar – allows showing position bar;
