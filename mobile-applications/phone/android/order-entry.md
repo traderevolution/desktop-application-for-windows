@@ -34,11 +34,14 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 5. GTD \(Good till date\) allows input date until which the order will be cancelled if not executed.
 
 * SL/TP price – allows to set Stop loss and Take profit prices.
+
+![](../../../.gitbook/assets/image%20%2826%29.png)
+
+When the checkbox near SL price is true, and the checkbox 'Use stop limit instead of stop' is also true \(a setting located in Defaults tab of General settings\), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
+
 * Trailing SL offset – allows entering the order trailing stop price.
 
 Note: SL price and Trailing SL offset cannot be checked together.
 
 After setting all the parameters, tap the button ‘Send order’.
-
-![](../../../.gitbook/assets/oe-day-new2.png)
 

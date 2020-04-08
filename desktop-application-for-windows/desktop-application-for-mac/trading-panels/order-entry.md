@@ -32,7 +32,7 @@ This panel contains the following settings:
 * Tr. stop offset \(for the "Trailing stop" type\) - allows entering the order trailing stop price.
 * SL/TP price - allows to set Stop loss and Take profit prices.
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
 When![](https://lh3.googleusercontent.com/GorKXTd_KCxMmtRs3gRICVHDJL0cIa1C-Hdg8HtbUnSFtFRA0KIysRo9e1yeh5MPPm5YlfyGVlZqP3ypguEeRAf4xLeQ4p2xEVmACCNWu6ESLb8DBmUxuVWPOMLKOf7n8RcLnuqP)icon is activated![](https://lh4.googleusercontent.com/opZF6TnmrMrQ3ZY2SKJYsPgGYjxZbG1v_aTqzzFit9JfoDGzkx6eHrjRtgGByjNEI3n6NGQBKVmjMt-R2j12bQ7a0hGO-aYd7PrEBvkjGVmUWYCrZXSH951YAIOPqa_wcsQf2-lp)by clicking on it, and checkbox 'Use stop limit instead of stop' is true \(a setting located in Trading defaults tab of the Preferences\), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
 
