@@ -31,7 +31,13 @@ Order entry panel allows to place market or pending orders. To open the Order en
 * Limit price \(available together with Stop price for the ‘Stop order’ and ‘OCO’ order types; also available for the ‘Limit order’ type\) – allows entering the order limit price;
 * Tr. stop offset \(for the ‘Trailing stop’ type\) – allows entering the order trailing stop price.
 
-You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../.gitbook/assets/3%20%2845%29.png)button located near Stop loss. The blue color of the![](../../.gitbook/assets/4%20%285%29.png)button indicates that the Trailing stop is activated. 
+You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. 
+
+![](../../.gitbook/assets/image%20%2820%29.png)
+
+When![](https://lh3.googleusercontent.com/GorKXTd_KCxMmtRs3gRICVHDJL0cIa1C-Hdg8HtbUnSFtFRA0KIysRo9e1yeh5MPPm5YlfyGVlZqP3ypguEeRAf4xLeQ4p2xEVmACCNWu6ESLb8DBmUxuVWPOMLKOf7n8RcLnuqP)icon is activated![](https://lh4.googleusercontent.com/opZF6TnmrMrQ3ZY2SKJYsPgGYjxZbG1v_aTqzzFit9JfoDGzkx6eHrjRtgGByjNEI3n6NGQBKVmjMt-R2j12bQ7a0hGO-aYd7PrEBvkjGVmUWYCrZXSH951YAIOPqa_wcsQf2-lp)by clicking on it, and checkbox 'Use stop limit instead of stop' is true \(a setting located in Trading defaults tab of General settings\), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
+
+It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../.gitbook/assets/3%20%2845%29.png)button located near Stop loss. The blue color of the![](../../.gitbook/assets/4%20%285%29.png)button indicates that the Trailing stop is activated. 
 
 Order entry panel has the additional VWAP section which displays important information. VWAP section allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel.
 
