@@ -87,7 +87,7 @@ Clicking the chart symbol icon ![](../.gitbook/assets/attachment6.png) \(on the 
 
 Having configured the Chart, the User can take the snapshot by clicking the "Take snapshot" button in the right lower corner. After the Chart snapshot is taken, it can be saved and automatically attached to the Idea by clickign the symbol in the right lower corner of the menu window:
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 Clicking the ![](../.gitbook/assets/attachment7.png) symbol in the main Idea creation menu opens the explorer window for browsing to a jpeg, jpg, png or PDF file, which the User-analyst chooses to attach to the Idea.
 
@@ -99,5 +99,5 @@ The User-analyst can remove a snapshot or an attached file by clicking the cross
 
 After an Idea is sent, the User-subscriber can open the Idea expanded view and open the attached file or snapshot by clicking the corresponding icon in the menu:   
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
