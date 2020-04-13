@@ -20,7 +20,7 @@ The General Settings menu is used to customize and change general properties of 
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
 * Abbreviate volumes – check to abbreviate volume values in all panels. For example: 1000 will be displayed as 1K, and 1000000 – 1M;
 * Reverse buttons order – check to reverse trading buttons into Sell/Buy pattern;
-* Tooltips – check to display all tooltips in the application, uncheck to hide. The function is enabeled by default.
+* Tooltips – check to display all tooltips in the application, uncheck to hide. The function is enabled by default.
 
 ### **Trading defaults**
 
