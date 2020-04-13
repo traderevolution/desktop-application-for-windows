@@ -22,7 +22,7 @@ After re-installing TraderEvolution into your PC, the newly installed TraderEvol
 
 ### **How to Login?**
 
-Launch the TraderEvolution Desktop App and enter your credentials to login to your terminal.
+Launch the TraderEvolution Desktop App and enter your credentials to log into your terminal.
 
 ![](../../../.gitbook/assets/screenshot_6%20%286%29.png)
 
