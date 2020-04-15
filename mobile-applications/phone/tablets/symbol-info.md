@@ -14,7 +14,7 @@ The Symbol info screen allows displaying all information about the selected symb
 * Description – detailed information about a symbol;
 * Exchange – information about exchange where a current symbol is traded;
 * Symbol type – type of symbol traded on a market;
-* Last trade date – date when a contract can be traded last time. Available for Options and Futures;
+* Last trade date – date when a contract can be traded last time. Available for Forward, Options and Futures;
 * Contract month – date of contract expiration. Available for Options and Futures;
 * Close-out deadline – date when positions will be closed by a specific symbol. Available for Options and Futures;
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments;
