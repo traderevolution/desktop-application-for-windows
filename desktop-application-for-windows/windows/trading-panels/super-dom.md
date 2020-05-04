@@ -11,7 +11,7 @@ To open the Super DOM panel, go to Terminal -&gt; Super DOM:
 ![](../../../.gitbook/assets/32.png)
 
 * Compress spread – allows skipping empty levels between the best bid and best ask;
-* Autocenter button – allows auto centering the panel relatively to spread;
+* Recenter button – allows manually recentering the panel relatively to spread;
 * Mouse trading button – allows one-click trading with the help of the mouse.
 
 Day high/low – allows showing current high/low levels.
@@ -20,10 +20,10 @@ Day high/low – allows showing current high/low levels.
 
 Right click tapping within the Market depth section, evokes the Context menu of the panel.
 
-![](../../../.gitbook/assets/34%20%281%29.png)
+![](../../../.gitbook/assets/superdom.png)
 
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
-* Autocenter – allows auto centering the panel relatively to spread;
+* Recenter – allows recentering the panel relatively to spread;
 * Day high/low – allows showing current high/low levels;
 * Settlement price – allows displaying settlement price.
 * Previous settlement price – allows displaying previous settlement price.
@@ -94,7 +94,7 @@ Super DOM settings have 2 tabs, each of them consists of several parts:
 
 **View**
 
-![](../../../.gitbook/assets/view2.png)
+![](../../../.gitbook/assets/superdom-settings.png)
 
 Base settings:
 
@@ -102,8 +102,7 @@ Base settings:
 * Grid – allows activating and setting up grid. The folllowing options are available: Vertical, Horizontal, Vertical & horizontal, None.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
-* Autocenter – activates auto centering function;
-* Autocenter type – allows choosing autocenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
+* Recenter type – allows choosing recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Show day high/low – allows showing high/low levels for one day;
 * Settlement price – allows displaying settlement price;
@@ -175,6 +174,5 @@ The Super DOM hotkeys have the following functions:
 * Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
 * Mouse trading – activates trading using mouse.
 * Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
-* Autocenter – allows autocentering Bid/Ask while scrolling the panel.
 * Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.
 

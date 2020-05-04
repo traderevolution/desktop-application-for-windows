@@ -30,7 +30,7 @@ The top panel of the Scalper consists of the Symbol and Account lookups, trading
 
 ![](../../../.gitbook/assets/64.png)
 
-* Auto center button – allows auto centering the Market depth section relatively to spread.
+* Recenter button – allows manually recentering the Market depth section relatively to spread.
 * Hot keys trading button – allows trading with the help of the Hotkeys from the keyboard and Market depth section which is an integral part of the Scalper panel.
 * Mouse trading button - allows trading with the help of the mouse and Market depth section. Both trading types \(Hot keys and Mouse\) are available simultaneously.
 * Context menu button – allows to evoke the Context menu of the panel, also it is available through right click tapping within the Scalper panel:
@@ -97,12 +97,11 @@ Scalper settings have six sections to setup.
 
 **General**
 
-![](../../../.gitbook/assets/68%20%281%29.png)
+![](../../../.gitbook/assets/scalper.png)
 
 Line types, colors and steps for the horizontal grid that are used in the charting area can be set here. General color of the panel background is also set here.
 
-* Autocenter – activates autocentering function.
-* Autocenter type – allows choosing autocenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
+* Recenter type – allows choosing recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
 
 Show toolbar – allows showing toolbar.
 
@@ -266,7 +265,6 @@ Scalper hotkeys have the following functions:
 * Cancel orders and close positions – allows closing the position and cancelling all orders.
 * Cancel all orders – allows cancelling all orders.
 * Close position – allows closing the current position.
-* Autocenter – allows moving spread to the center of Market depth.
 * Add SL/TP to position – allows placing SL/TP order manually.
 * Add Trailing stop to position - allows placing Trailing stop order manually.
 * Add Sell limit to Ask – allows placing Sell limit order by current Ask price.

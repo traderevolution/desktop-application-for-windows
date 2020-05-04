@@ -4,14 +4,14 @@ The Matrix panel allows to view open positions, pending orders, market prices, q
 
 To open the Matrix panel, go to Terminal -&gt; Matrix:
 
-![](../../../.gitbook/assets/matrix.png)
+![](../../../.gitbook/assets/matrix%20%281%29.png)
 
 The Symbol lookup is at the top of the Matrix panel.
 
 ![](../../../.gitbook/assets/toolbar.png)
 
 * Compress spread – allows skipping empty levels between the best bid and best ask;
-* Auto-centring button – allows auto-centering the panel relatively to spread;
+* Recentring button – allows manually recentering the panel relatively to spread;
 * Mouse trading button – allows one-click trading with the help of the mouse.
 
 Day high/low – allows showing current high/low levels.

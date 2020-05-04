@@ -10,7 +10,7 @@ To open a new Matrix panel, go to Terminal -&gt; Matrix:
 
 ![](../../../.gitbook/assets/56%20%281%29.png)
 
-* Autocenter button – allows autocentering the panel relatively to spread;
+* Recenter button – allows manually recentering the panel relatively to spread;
 * Mouse trading button – allows one-click trading with the help of the mouse;
 * Settings – allows to open Matrix settings window.
 
@@ -66,11 +66,10 @@ Matrix settings have three sections to setup.
 
 **General**
 
-![](../../../.gitbook/assets/58%20%281%29.png)
+![](../../../.gitbook/assets/matrix.png)
 
 * Line types, colors and steps for the horizontal grid that are used in the panel can be set here. General color of the panel background is also set here;
-* Autocenter – activates autocentering function;
-* Autocenter type – allows choosing autocenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
+* Recenter type – allows choosing recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
 * Show toolbar – allows showing toolbar.
 
 **Trading**
@@ -153,9 +152,6 @@ Matrix hotkeys have the following functions:
 *  Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
 *  Modifier: Stop order when mouse click – allows stopping the order when mouse click.
 *  Modifier: Group actions with orders – allows grouping actions with orders.
-*  Autocenter – allows autocentering Bid/Ask while scrolling the panel.
-*  Set autocenter type to ask – allows setting autocenter type to ask.
-*  Set autocenter type to bid – allows setting autocenter type to bid.
 *  Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
 
 
