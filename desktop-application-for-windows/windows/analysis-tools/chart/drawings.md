@@ -97,7 +97,7 @@ For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle,
 
 Click on the button![](../../../../.gitbook/assets/23%20%281%29.png)in the column Delete to remove a visibility parameter. Clicking on the button![](../../../../.gitbook/assets/24%20%281%29.png)allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
 
-![](../../../../.gitbook/assets/screenshot_3%20%288%29.png)
+![](../../../../.gitbook/assets/screenshot_3%20%289%29.png)
 
 For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc, Fibonacci ellipses, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal analysis, the following sections are available:
 

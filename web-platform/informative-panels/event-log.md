@@ -12,7 +12,7 @@
 * Roundtrip, ms – shows time in milliseconds measured from the order sending/cancelling/modifying till the moment of receiving the response from the server about execution of the corresponding action;
 * Details – clicking on the ‘Details’ icon allows to open a deal ticket:
 
-![](../../.gitbook/assets/screenshot_3%20%287%29.png)
+![](../../.gitbook/assets/screenshot_3%20%288%29.png)
 
 If there is no deal ticket for event, then the ‘Details’ icon isn’t shown.
 

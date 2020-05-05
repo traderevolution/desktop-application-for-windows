@@ -72,7 +72,7 @@ occurs over 2\*Std.coloring.
 
 **Analyzer:**
 
-![](../../../../.gitbook/assets/screenshot_3%20%285%29.png)
+![](../../../../.gitbook/assets/screenshot_3%20%286%29.png)
 
 This tab allows specifying colors and style for displaying the main lines of the option position profile:
 

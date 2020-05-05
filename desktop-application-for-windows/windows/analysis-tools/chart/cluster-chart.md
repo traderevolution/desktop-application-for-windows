@@ -31,7 +31,7 @@ Cluster chart fits for analysis on any timeframe for any style of the trading: s
 
 ### Cluster chart settings
 
-![](../../../../.gitbook/assets/screenshot_3%20%282%29.png)
+![](../../../../.gitbook/assets/screenshot_3%20%283%29.png)
 
 * Value filter – if checked, it is necessary to plot only those clusters, total data \(volume, delta, etc.\) of which meets the condition specified in the fields ‘Operator’ and ‘Filter value’.
 * Highlight maximum – allows allocating the maximum value in the cluster. If several values are maximal at the same time, they will be both highlighted.
