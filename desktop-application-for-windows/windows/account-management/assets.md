@@ -26,14 +26,15 @@ Otherwise, Available for sell = Start day qty. - \|Today traded qty.\|
 Current value for sell = Available for sell \*Current price \* CrossPrice
 
 * Sell asset – allows to launch Order entry in order to sell asset.
+* Sell exchange – allows showing a combo box with all exchanges where the asset is traded.
 
 Right-click on the Assets panel evokes the following context menu:
 
-![](../../../.gitbook/assets/context-menu-assets.png)
+![](../../../.gitbook/assets/menu%20%283%29.png)
 
 You can choose the columns, which have to be displayed by right-click on one of the columns.
 
-![](../../../.gitbook/assets/columns.png)
+![](../../../.gitbook/assets/menu2.png)
 
 The settings of the Assets panel consist of 2 tabs in the column ‘General’: View and Colors.
 
