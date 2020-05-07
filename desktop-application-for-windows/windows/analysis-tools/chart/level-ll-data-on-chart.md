@@ -56,7 +56,7 @@ In the settings there is a combobox 'Coloring scheme' with two states - 'Histogr
 
 The example of Histogram coloring scheme is shown below:​
 
-![](../../../../.gitbook/assets/41%20%281%29.png)
+![](../../../../.gitbook/assets/36%20%281%29.png)
 
 
 

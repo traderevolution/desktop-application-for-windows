@@ -30,9 +30,9 @@ Day high/low – allows showing current high/low levels.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms appear from the different boundaries of the column ‘Size’. If false, the histograms appear from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
 
-![](../../../.gitbook/assets/35%20%281%29.png)
+![](../../../.gitbook/assets/35%20%282%29.png)
 
-![](../../../.gitbook/assets/36%20%281%29.png)
+![](../../../.gitbook/assets/36%20%282%29.png)
 
 * Settings – allows opening a settings tab.
 
