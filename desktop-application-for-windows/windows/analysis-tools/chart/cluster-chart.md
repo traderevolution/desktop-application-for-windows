@@ -4,7 +4,7 @@ Cluster chart allows trader to identify places with large volumes, assess visual
 
 Cluster chart fits for analysis on any timeframe for any style of the trading: scalping, intraday trading, medium or long-term position trading.
 
-![](../../../../.gitbook/assets/10%20%283%29.png)
+![](../../../../.gitbook/assets/555.png)
 
 Cluster aggregation type can be set up using timeframe selector:
 
