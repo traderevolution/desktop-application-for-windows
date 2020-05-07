@@ -105,5 +105,5 @@ This means when an application's panel and an exported file are opened, data in 
 
 After closing an exported panel, the application or an Excel file, you will need to export data again for monitoring information stored into an Excel file in real-time mode:
 
-![](../../../.gitbook/assets/15.png)
+![](../../../.gitbook/assets/15%20%281%29.png)
 

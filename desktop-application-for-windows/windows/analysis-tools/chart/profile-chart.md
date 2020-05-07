@@ -4,7 +4,7 @@ Profile allows aggregating and plotting charts, where each bar is represented in
 
 Market profile allows to organize data in the way that trader can understand who controls the market, what is meant by fair value, and what lies behind the price movement.
 
-![](../../../../.gitbook/assets/15%20%282%29.png)
+![](../../../../.gitbook/assets/15.png)
 
 ### **Algorithm of profile plotting**
 

@@ -8,7 +8,7 @@
 
 ![](../../../.gitbook/assets/14%20%282%29.png)
 
-To collapse cell to the normal size, use button![](../../../.gitbook/assets/15%20%281%29.png)or just double click again on the header of the cell.
+To collapse cell to the normal size, use button![](../../../.gitbook/assets/15%20%282%29.png)or just double click again on the header of the cell.
 
 **Toolbar**
 

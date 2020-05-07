@@ -4,7 +4,7 @@ Currencies exposure panel shows a summary of the amount of each currency for whi
 
 To open a new Currencies exposure panel, select Terminal -&gt; Currencies exposure.
 
-![](../../../.gitbook/assets/15%20%283%29.png)
+![](../../../.gitbook/assets/15%20%284%29.png)
 
 User can select accounts for which he wants to see the information in the panel.
 
