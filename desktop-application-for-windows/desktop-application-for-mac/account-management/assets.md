@@ -12,7 +12,7 @@ The following columns are available in the panel:
 
 * Asset name – name of the asset, which is set on a server.
 * Default symbol – allows showing the instrument name from the setting ‘Pricing instrument’.
-* Exchange – allows showing the exchange which is set on a server for the Default symbol.
+* Trading exchange – allows showing the exchange which is set on a server for the Default symbol.
 * Account – name of the account, which contains the asset.
 * Start day qty – asset quantity at the user’s account at the beginning of a day. While logging in it is sent from a server.
 * Start day qty. for margin available – while logging in, the user gets information from the correspondent field on a server.
@@ -23,7 +23,6 @@ The following columns are available in the panel:
 
   Otherwise, Available for sell = Start day qty. - \|Today traded qty.\|
 
-* Trading exchange – information about exchange where a current asset is traded;
 * Current price – current Last price on the instrument Default symbol.
 * Current value for sell – current asset value available for selling. Current value for sell = Available for sell \* Current price \* CrossPrice.
 * Liquidity rate% – the price of each asset at the user's account can be used for the opening of a position by other instruments. This price should be counted in Margin available in that interest proportion which is defined in this setting. Default value is 0. Maximal value is 100.
