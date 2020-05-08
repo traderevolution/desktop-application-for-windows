@@ -11,7 +11,7 @@ Assets panel contains information about all assets by the chosen account\(-s\). 
 * Exchange – allows showing the exchange which is set on a server for the Default symbol.
 * Account – name of the account, which contains the asset.
 * Start day qty. – asset quantity at the user’s account at the beginning of a day. While logging in it is sent from a server.
-* Start day Qty. for Margin available – while logging in, the user get information from the correspondent field on a server.
+* Start day Qty. for Margin available – while logging in, the user gets information from the correspondent field on a server.
 * Liquidity rate% – the price of each asset at the user's account can be used for the opening of a position by other instruments. This price should be counted in Margin available in that interest proportion which is defined in this setting. Default value is 0. Maximal value is 100.
 * Today traded qty. – the quantity of the asset which was traded by all instruments for which this asset was pre-selected, but only for Product type=Delivery. The quantity of all Buy trades is counted with ‘+’, the quantity of all Sell trades is counted with ‘-‘.
 * Available qty. for sell – quantity of the asset, which is available for sell.
