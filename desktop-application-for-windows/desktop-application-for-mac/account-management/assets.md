@@ -41,9 +41,9 @@ The same menu allows to filter data in a table, reset the panel's view to factor
 
 Right-click on the asset evokes the context menu which includes the following options:
 
+* Sell asset – allows to sell the asset on the chosen exchange;
 * Search – allows to show/hide a Search lookup in the panel;
 * Show totals – allows to show/hide the row showing the total values for columns;
-* Duplicate panel – allows to make a copy of a current panel;
 * Preferences – opens the 'Assets Preferences' menu.
 
 
