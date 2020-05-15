@@ -2,7 +2,7 @@
 
 Assets panel contains information about all assets by the chosen account\(-s\). If different accounts have the same asset, then it is displayed in different rows in the table.
 
-![](../../../.gitbook/assets/new-assets.png)
+![](../../../.gitbook/assets/win-asset1.png)
 
 There are the following columns in the table:
 
