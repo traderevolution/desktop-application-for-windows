@@ -37,6 +37,8 @@ The same menu allows to filter data in a table, reset the panel's view to factor
 
 ### **Context menu**
 
+![](../../../.gitbook/assets/mac-new.png)
+
 Right-click on the asset evokes the context menu which includes the following options:
 
 * Search – allows to show/hide a Search lookup in the panel;
