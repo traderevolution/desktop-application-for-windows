@@ -53,7 +53,7 @@
         * [Option chain](desktop-application-for-windows/windows/trading-panels/option-master/option-chain.md)
         * [Analyzer](desktop-application-for-windows/windows/trading-panels/option-master/analyzer.md)
         * [Volatility lab](desktop-application-for-windows/windows/trading-panels/option-master/volatility-lab.md)
-    * [Account management](desktop-application-for-windows/windows/account-management/README.md)
+    * [Portfolio management](desktop-application-for-windows/windows/account-management/README.md)
       * [Working orders](desktop-application-for-windows/windows/account-management/working-orders.md)
       * [Orders history](desktop-application-for-windows/windows/account-management/orders-history.md)
       * [Filled orders](desktop-application-for-windows/windows/account-management/filled-orders.md)
