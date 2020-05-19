@@ -76,6 +76,7 @@
       * [Internal Browser](desktop-application-for-windows/windows/informative-panels/internal-browser.md)
       * [Economic calendar](desktop-application-for-windows/windows/informative-panels/economic-calendar.md)
       * [Event log](desktop-application-for-windows/windows/informative-panels/event-log.md)
+    * [Strategy manager](desktop-application-for-windows/windows/strategy-manager.md)
     * [Trading ideas](desktop-application-for-windows/windows/trading-ideas.md)
     * [MAM system](desktop-application-for-windows/windows/mam-system/README.md)
       * [MAM basics](desktop-application-for-windows/windows/mam-system/mam-basics.md)
