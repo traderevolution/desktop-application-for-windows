@@ -131,6 +131,7 @@
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Trading ideas](mobile-applications/phone/android/trading-ideas.md)
       * [Positions](mobile-applications/phone/android/positions.md)
+      * [Assets](mobile-applications/phone/android/assets.md)
       * [Market depth](mobile-applications/phone/android/market-depth.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
       * [Account details](mobile-applications/phone/android/account-details.md)
