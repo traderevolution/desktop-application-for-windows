@@ -4,7 +4,7 @@ Assets screen contains information about all assets by the chosen account\(-s\).
 
 Assets screen can be accessed from Positions screen by moving the slider button to Assets.
 
-![](../../../.gitbook/assets/1%20%2890%29.png)
+![](../../../.gitbook/assets/1%20%2891%29.png)
 
 For each asset the following information is available:
 
