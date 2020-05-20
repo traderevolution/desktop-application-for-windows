@@ -23,7 +23,7 @@ To open additional data by the chosen asset, tap on it and the table with data w
 
 ![](https://lh6.googleusercontent.com/wf2ymmEtIE8IDD_jKSGZnLdvvXCGiS8gMU9W-pzCZ7MhJMUGjxukW3FG5AeAIql2RKJ8Kgsxp-D2f9rh8ufgYpmn1SXrMmepnANE_Yn8wjiAF60hQyNfgvkcC0FFVwedpzXM_cc7)
 
-There are the following information is available in the table:
+The following information is available in the table:
 
 * Asset name – name of the asset, which is set on a server.
 * Exchange – allows showing the exchange which is set on a server for the Default symbol.
