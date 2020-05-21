@@ -64,7 +64,7 @@ Note: clicking on these buttons doesn't evoke confirmation screens, even if conf
 
 The following actions can be performed via the Context menu:
 
-* Modify order - allows modification of a selected order. Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+* Modify order - allows modification of selected order.
 * Quick SL/TP - adding SL/TP orders to selected order.
 * Change to Market - changes order type to market for selected orders.
 * View - allows to show total values or to show view.
