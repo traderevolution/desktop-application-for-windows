@@ -66,8 +66,8 @@ Double-click on the needed order evokes the Working order cancel window for a qu
 
 The following actions can be performed via the Context menu:
 
-* Modify order – allows modification of selected order.
-* Change to Market – changes order type to market for selected orders.
+* Modify order – allows modification of the selected order. Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+* Change to Market – changes order type to market for the selected orders.
 * Cancel order – allows cancelling all selected orders, all orders by selected symbol, all orders by selected account, all orders.
 * View – allows to show toolbar.
 * Group by – allows to group orders by account, symbol, symbol type, side, type, date/time.
