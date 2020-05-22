@@ -40,7 +40,7 @@ Otherwise, Available for sell = Start day qty. - \|Today traded qty.\|
 * Current price – current Last price on the instrument Default symbol.
 * Sell exchange – allows showing a list of all exchanges where the asset is traded. 
 
-![](../../../.gitbook/assets/4%20%2851%29.png)
+![](../../../.gitbook/assets/ios-mob-list.png)
 
 ‘Sell asset’ button allows to launch Order entry in order to sell asset.
 
