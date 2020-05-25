@@ -92,7 +92,20 @@ The following functions can be realized through context menu:
 * Quick SL/TP – allows quick adding SL/TP orders to selected position;
 * Close position – allows closing all selected positions, all positions by selected symbol, all positions by selected account, all positions;
 * Reverse – allows reversing all selected positions, all positions by selected symbol, all positions by selected account, all positions;
-* View – allows to show total values and to show toolbar.
+* View – allows to show total values and to show toolbar;
+* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+
+After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
+
+Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse.**
+
+The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
+
+* Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
+
+After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse** operations become allowed for the position.   
+
+ 
 
 
 

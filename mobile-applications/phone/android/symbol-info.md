@@ -19,6 +19,9 @@ The Symbol info screen allows displaying all information about the selected symb
 * Close-out deadline – date when positions will be closed by a specific symbol. Available for Options and Futures;
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments;
 * Settlement system – T+x settlement cycle;
+* Exercise style – shows the exercise style. Available for Options. Available styles:
+  * European;
+  * American;
 * Underlier – title of asset which will be delivered. Available for Options, Futures, Spot, T-Bills;
 * Maturity date – a security redemption date. Available for Bonds, Forward, T-Bills;
 * Face value – a security's nominal value defined in quoting currency. Available for Bonds, T-Bills;

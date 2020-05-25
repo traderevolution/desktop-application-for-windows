@@ -15,7 +15,16 @@ In order to get full information about a symbol, tap a symbol's name.
 * Take profit – Take profit price set for a position;
 * Position ID – unique number that the trading system assigns to each position;
 * Open price – price at which the position was opened;
-* Account – login name of an account that opened a position.
+* Account – login name of an account that opened a position;
+* Exercise – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+
+  After clicking this menu item, the Position exercise request confirmation dialog box is displayed. Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Close position, Close all.**
+
+  The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed;
+
+* Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
+
+  After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Close position, Close all** operations become allowed for the position.
 
 In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions list.
 

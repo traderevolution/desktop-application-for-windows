@@ -79,9 +79,6 @@ The following information is available in each group:
 * Exchange – an exchange name, where the instrument \(symbol\) is traded;
 * Symbol type – type of a symbol traded on the market;
 * Settlement system – T+x settlement cycle;
-* Exercise style – shows the exercise style. Available for Options. Available styles:
-  * European;
-  * American;
 * Underlier – name of the asset, which will be delivered. Available for Options, Futures, Spot, T-Bills;
 * Contract month – date of the contract expiration. Available for Options and Futures;
 * First trade date – date when the contract can be traded firstly. Available for Options and Futures;
