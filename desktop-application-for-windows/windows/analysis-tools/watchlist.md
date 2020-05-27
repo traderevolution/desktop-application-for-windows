@@ -82,6 +82,10 @@ Symbol Info panel allows displaying settings information for a selected symbol. 
 * Exchange – an exchange name, where the instrument \(symbol\) is traded;
 * Symbol type – type of a symbol traded on the market;
 * Settlement system – T+x settlement cycle;
+* Asset – displays the Asset assigned to the Instrument, if available. Available for ETFs;
+* Exercise style – shows the exercise style. Available for Options. Available styles:
+  * European;
+  * American;
 * Underlier – name of the asset, which will be delivered. Available for Options, Futures, Spot, T-Bills;
 * Contract month – date of the contract expiration. Available for Options and Futures;
 * First trade date – date when the contract can be traded firstly. Available for Options and Futures;
@@ -169,6 +173,7 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 
 * Fill per lot \(Buy/Sell/Short/Open/Close\) – trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for each fill;
 * Order per lot – trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for a whole order;
+* Custody – displays the Custodial fee measure in basis points \(bp\) for the Instrument, if available;
 * Fill volume \(Buy/Sell/Short/Open/Close\), % – fee calculates on base of the volume of each trade;
 * Fill volume \(Buy/Sell/Open/Close\) with min p/d, % – commission from the volume, which ensures a day minimum in case of partial filling of an order;
 * Per fill – trader pays fee for each fill of an order;

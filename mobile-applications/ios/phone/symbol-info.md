@@ -19,6 +19,7 @@
 * Close-out deadline – date when positions will be closed by a specific symbol. Available for Options and Futures;
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments;
 * Settlement system – T+x settlement cycle;
+* Asset – displays the Asset assigned to the Instrument, if available. Available for ETFs;
 * Exercise style – shows the exercise style. Available for Options. Available styles:
   * European;
   * American;
@@ -78,7 +79,8 @@ The fee value for the fee types such as 'Fill per lot', 'Fill volume, %', 'Per f
 * Order volume % \(Buy/Sell/Open/Close\) – a trader pays fee per each part of order volume that was filled;
 * Long swap – shows the swap value applied to overnight long positions of an instrument;
 * Short swap – shows the swap value applied to overnight short positions of an instrument;
-* Order per lot – a trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for a whole order.
+* Order per lot – a trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for a whole order;
+* Custody – displays the Custodial fee measure in basis points \(bp\) for the Instrument, if available;
 
 Rebates:
 
