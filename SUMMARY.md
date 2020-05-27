@@ -210,6 +210,7 @@
     * [Orders history](web-platform/account-management/orders-history.md)
     * [Filled orders](web-platform/account-management/filled-orders.md)
     * [Positions](web-platform/account-management/positions.md)
+    * [Assets](web-platform/account-management/assets.md)
   * [Account information](web-platform/account-information/README.md)
     * [Accounts](web-platform/account-information/accounts.md)
   * [Informative panels](web-platform/informative-panels/README.md)
