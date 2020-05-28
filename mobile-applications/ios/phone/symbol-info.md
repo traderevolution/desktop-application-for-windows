@@ -2,7 +2,7 @@
 
  The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
 
-                                                        ![](../../../.gitbook/assets/symbol-menu-ios.png) 
+                                              ![](../../../.gitbook/assets/symbol-menu-ios.png) 
 
  Information by the symbol is divided into the following groups:
 
@@ -29,7 +29,9 @@
 * Coupon rate, % – a nominal interest rate for a bond, which is regulated during a bond's emission. Available for Bonds;
 * Coupon cycle – periodicity of a bond yield payment to a position holder. Available for Bonds;
 * Accrued interest – value of accrued interest, which a buyer will pay when buying a Bond, and a seller will get when selling a Bond. Value is indicated for 1 lot. Measured in quotting currency. Available for Bonds;
-* ISIN – International securities identification number.
+* ISIN – International securities identification number;
+* Industry – shows the industry identification of a symbol;
+* Sector – shows the sector identification of a symbol.
 
 2\) Trading info:
 

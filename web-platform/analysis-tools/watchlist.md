@@ -122,7 +122,9 @@ N - quantity of years before a bond redemption date.
 * Previous yield payment – last date of yield payment according to 'Coupon cycle'. Available for Bonds;
 * Next yield payment – next date of yield payment according to 'Coupon cycle'. Available for Bonds;
 * Asset – name of the asset for the instrument. Available for Equities/CFD, Spot, Forward;
-* ISIN – International securities identification number.
+* ISIN – International securities identification number;
+* Industry – shows the industry identification of a symbol;
+* Sector – shows the sector identification of a symbol.
 
 2\) Trading info:
 

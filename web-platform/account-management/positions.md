@@ -82,13 +82,13 @@ The following functions can be realized through context menu:
 
   After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
-  Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Close position.**
+  Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Close position, Close by\(ID\), Reverse, Reverse by \(ID\).**
 
   The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
 
 * Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
-  After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Close position** operations become allowed for the position.
+  After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Close position, Close by\(ID\), Reverse, Reverse by \(ID\)** operations become allowed for the position.
 
 
 
