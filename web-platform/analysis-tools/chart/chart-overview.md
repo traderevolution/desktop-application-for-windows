@@ -4,7 +4,7 @@ Chart is the most useful panel for an active trader. Charts enable users to view
 
 This section describes the Chart panel and its functions.
 
-![](../../../.gitbook/assets/group-141.png)
+![](../../../.gitbook/assets/web-chart-overview.png)
 
 * Symbol lookup – the field for selection of the symbol displayed on the chart.
 * Account lookup – the field for selection of the account for visual trading.
