@@ -2,7 +2,7 @@
 
 The Market depth panel allows traders to view and trade Level II quotes. To open a new Market depth panel, go to Terminal -&gt; Market depth.
 
-![](../../.gitbook/assets/111%20%281%29.png)
+![](../../.gitbook/assets/md-w.png)
 
 The Market depth panel consists of several sections:
 
