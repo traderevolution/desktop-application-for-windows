@@ -1,10 +1,10 @@
 # Settings
 
-A user can access the ‘Settings’ tab from the application’s ‘More’ menu in order to manage 'Defaults', 'Confirmations' and 'Chart settings'.
+A user can access the ‘Settings’ tab from the application’s ‘More’ menu in order to manage 'Defaults' and 'Confirmations'.
 
 ### Defaults
 
-![](../../../.gitbook/assets/nastroiki-android.png)
+![](../../../.gitbook/assets/1%20%2893%29.png)
 
 In 'Defaults' settings section you can adjust the following:
 
@@ -18,7 +18,7 @@ In 'Defaults' settings section you can adjust the following:
 
 ### **Confirmations**
 
-![](../../../.gitbook/assets/1mob.png)
+![](../../../.gitbook/assets/2%20%2882%29.png)
 
 'Confirmations' settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
@@ -28,19 +28,6 @@ In 'Defaults' settings section you can adjust the following:
 * Order cancelling;
 * Position modifying;
 * Position closing.
-
-### **Chart settings**
-
-![](../../../.gitbook/assets/2mob.png)
-
-'Chart' settings section allows to specify the following options to be visible on the chart:
-
-* Chart style: Line, Bar, Candle, Dots, Dotted line, Histogram, Area;
-* Show orders – mark as checked to visualize all sent orders;
-* Show positions – mark as checked to visualize all opened positions;
-* Fit orders/positions – if checked, orders/positions will be visible on the Chart that automatically scales;
-* Aggregation type – allows to select representation type of data on the chart \(e.g. 1 Bar = 1 minute\);
-* Volume – if checked, traded volume bars are shown on the chart.
 
 
 
