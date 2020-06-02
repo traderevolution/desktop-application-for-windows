@@ -11,7 +11,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
  In order to get full symbol information and open the chart, tap the Symbol name. 
 
-![](../../../.gitbook/assets/2%20%2883%29.png)
+![](../../../.gitbook/assets/2%20%2884%29.png)
 
 Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
 
