@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/1%20%2895%29.png)
+![](../../../.gitbook/assets/1%20%2898%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -25,13 +25,13 @@ Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info wind
 
 ### **Symbol lookup** 
 
-In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/add%20%282%29.jpg)at the top right corner of the Watchlist screen. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
+In order to open Symbol lookup, tap the![](../../../.gitbook/assets/add%20%282%29.jpg)button. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/5%20%285%29.png)
+![](../../../.gitbook/assets/5%20%2846%29.png)
 
 For Options the detailed symbols' information \(description\) is also available in the lookup:
 
-![](../../../.gitbook/assets/android.jpg)
+![](../../../.gitbook/assets/6%20%281%29.jpg)
 
 ### **Watchlist Filter** 
 
