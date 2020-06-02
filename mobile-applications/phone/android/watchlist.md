@@ -11,7 +11,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
  In order to get full symbol information and open the chart, tap the Symbol name. 
 
-![](../../../.gitbook/assets/2%20%2886%29.png)
+![](../../../.gitbook/assets/2%20%2887%29.png)
 
 Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
 
@@ -21,7 +21,7 @@ Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info wind
 * Low – the day's lowest price;
 * Previous close – the previous day's close price.
 
-![](../../../.gitbook/assets/3%20%2871%29.png)
+![](../../../.gitbook/assets/3%20%2872%29.png)
 
 ### **Symbol lookup** 
 
