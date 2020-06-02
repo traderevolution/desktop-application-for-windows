@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists of orders:
 
-![](../../../.gitbook/assets/1%20%2870%29.png)
+![](../../../.gitbook/assets/1%20%2898%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -12,7 +12,7 @@ Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
 Each section consists of the cards list with short information about the orders: for Working orders – symbol name, quantity, open price, order type; for Filled orders – symbol name, order type, Net P/L, quantity. In order to get full information about the symbol on which the order was created, tap the symbol name.
 
-![](../../../.gitbook/assets/android-orders.png)
+![](../../../.gitbook/assets/2%20%2885%29.png)
 
 * Date/Time – date and time when the order was placed \(executed, filled, modified, or cancelled\).
 * Current price – market price obtainable from broker.
@@ -37,15 +37,13 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar.jpg).
 
-![](../../../.gitbook/assets/4%20%2812%29.png)
+![](../../../.gitbook/assets/3%20%2872%29.png)
 
-![](../../../.gitbook/assets/5%20%2813%29.png)
-
-In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete%20%282%29.jpg)located at the top right corner of the Working orders screen.
+![](../../../.gitbook/assets/4%20%2852%29.png)
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/7%20%2815%29.png)
+![](../../../.gitbook/assets/5%20%2845%29.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
