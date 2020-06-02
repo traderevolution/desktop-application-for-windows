@@ -8,7 +8,7 @@ The Symbol info screen allows displaying all information about the selected symb
 
 ![](../../../.gitbook/assets/i.png)
 
-1\) General:
+1\) General info:
 
 * Symbol – name of a symbol selected in the lookup;
 * Description – detailed information about a symbol;
