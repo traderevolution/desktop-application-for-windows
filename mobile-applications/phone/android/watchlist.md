@@ -11,7 +11,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
  In order to get full symbol information and open the chart, tap the Symbol name. 
 
-![](../../../.gitbook/assets/2%20%2884%29.png)
+![](../../../.gitbook/assets/2%20%2885%29.png)
 
 Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
 
@@ -37,7 +37,7 @@ For Options the detailed symbols' information \(description\) is also available 
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter%20%281%29.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/7%20%2830%29.png)
+![](../../../.gitbook/assets/7%20%2831%29.png)
 
 ### **Symbol menu**
 
