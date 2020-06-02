@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/balance1.png)
+![](../../../.gitbook/assets/1%20%2895%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -11,7 +11,7 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 
  In order to get full symbol information and open the chart, tap the Symbol name. 
 
-![](../../../.gitbook/assets/chart.png)
+![](../../../.gitbook/assets/2%20%2883%29.png)
 
 Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
 
@@ -21,7 +21,7 @@ Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info wind
 * Low – the day's lowest price;
 * Previous close – the previous day's close price.
 
-![](../../../.gitbook/assets/info-window.png)
+![](../../../.gitbook/assets/3%20%2871%29.png)
 
 ### **Symbol lookup** 
 
@@ -35,15 +35,15 @@ For Options the detailed symbols' information \(description\) is also available 
 
 ### **Watchlist Filter** 
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter%20%281%29.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter%20%281%29.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/7%20%2816%29.png)
+![](../../../.gitbook/assets/7%20%2830%29.png)
 
 ### **Symbol menu**
 
-Swipe left the symbol name to open the Symbol menu toolbar.                 
+Swipe left the symbol name to open the Symbol menu toolbar.   
 
-                                                       ![](../../../.gitbook/assets/8%20%2810%29.png)                                                                                                                                                                                                            
+                                      ![](../../../.gitbook/assets/8%20%2810%29.png)                                                                                                                                                                                                            
 
 * Info – opens the Symbol info with full information about the symbol;
 * Market depth – opens the level 2 quotes for the selected symbol;
