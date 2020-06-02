@@ -28,8 +28,6 @@ In order to get full information about a symbol, tap a symbol's name.
 
   After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Close position, Close all** operations become allowed for the position.   
 
-In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions screen.
-
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
 ![](../../../.gitbook/assets/3%20%2874%29.png)
