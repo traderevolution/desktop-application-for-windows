@@ -6,9 +6,9 @@ The Symbol info screen allows displaying all information about the selected symb
 
 Information by the symbol is divided into the following groups:
 
-![](../../../.gitbook/assets/symbol-info.png)
+![](../../../.gitbook/assets/symb-info++.png)
 
-1\) General:
+1\) General info:
 
 * Symbol – name of a symbol selected in the lookup;
 * Description – detailed information about a symbol;
