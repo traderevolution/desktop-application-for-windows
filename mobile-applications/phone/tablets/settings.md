@@ -6,7 +6,7 @@ You can access the ‘Settings’ screen from the application's main menu in ord
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../.gitbook/assets/3%20%2848%29.png)
+![](../../../.gitbook/assets/1%20%28101%29.png)
 
 * Order quantity – displays amount of lots for opening an order;
 * TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, FOK, GTD;
@@ -19,7 +19,7 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ‘Confirmations’ settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
-![](../../../.gitbook/assets/set2.png)
+![](../../../.gitbook/assets/2%20%2888%29.png)
 
 * Order sending;
 * Order modifying;
@@ -27,17 +27,4 @@ In ‘Defaults’ settings section you can adjust the following:
 * Order cancelling;
 * Position modifying;
 * Position closing.
-
-### **Chart settings**
-
-‘Chart settings’ section allows to specify the following options to be visible on the chart:
-
-![](../../../.gitbook/assets/set3.png)
-
-* Chart style: Candle, Line, Bar, Dots, Dotted line, Histogram;
-* Show orders – mark as checked to visualize all sent orders;
-* Show positions – mark as checked to visualize all opened positions;
-* Fit orders/positions – if checked, orders/positions will be visible on the Chart that automatically scales;
-* Aggregation type – allows you to select representation type of data on the chart \(e.g. 1 Bar = 1 minute\);
-* Volume – if checked, traded volume bars are shown on the chart.
 
