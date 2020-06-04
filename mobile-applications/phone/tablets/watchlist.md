@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the application.
 
-![](../../../.gitbook/assets/1%20%28102%29.png)
+![](../../../.gitbook/assets/1%20%28103%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -11,7 +11,7 @@
 
 Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top right corner of the Chart to open the Info window:
 
-![](../../../.gitbook/assets/2%20%2889%29.png)
+![](../../../.gitbook/assets/2%20%2890%29.png)
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
