@@ -2,7 +2,7 @@
 
 The Chart is the most important tool for active trading and market analyzing. The Chart screen can be accessed from the main menu of the application through the Watchlist screen, and also from Orders and Positions screens.
 
-![](../../../.gitbook/assets/1%20%28105%29.png)
+![](../../../.gitbook/assets/1%20%28106%29.png)
 
 In the ‘Indices’ section of the Watchlist swipe left or right the chart to change the symbol and choose the timeframe.
 
