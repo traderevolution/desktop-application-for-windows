@@ -11,7 +11,7 @@
 
 Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top right corner of the Chart to open the Info window:
 
-![](../../../.gitbook/assets/2%20%2888%29.png)
+![](../../../.gitbook/assets/2%20%2889%29.png)
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
