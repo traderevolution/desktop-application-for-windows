@@ -20,7 +20,7 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ‘Confirmations’ settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
-![](../../../.gitbook/assets/2%20%2895%29.png)
+![](../../../.gitbook/assets/2%20%2896%29.png)
 
 * Order sending;
 * Order modifying;

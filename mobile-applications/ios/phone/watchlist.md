@@ -2,14 +2,14 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/watchl.PNG)
+![](../../../.gitbook/assets/1%20%28109%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
 * Last price – the last trade price;
 * Change, % – the price deviation from current day's opening price in a percentage.
 
-![](../../../.gitbook/assets/w2.PNG)
+![](../../../.gitbook/assets/2%20%2895%29.png)
 
 Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
 
@@ -19,13 +19,13 @@ The Watchlist screen is accessible by default after logging in to the mobile app
 * Low – the day's lowest price;
 * Previous close – the previous day's close price.
 
-![](../../../.gitbook/assets/w3.PNG)
+![](../../../.gitbook/assets/3%20%2881%29.png)
 
 ### **Symbol lookup** 
 
 In order to open Symbol lookup, tap the![](../../../.gitbook/assets/add%20%281%29.jpg)button at the top right corner of the Quotes section. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/4%20%2820%29.png)
+![](../../../.gitbook/assets/4-and-and-and.png)
 
 For Options the detailed symbols' information \(description\) is also available in the lookup:
 
@@ -33,9 +33,9 @@ For Options the detailed symbols' information \(description\) is also available 
 
 ### **Watchlist Filter** 
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/filter.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/5%20%2830%29.png)
+![](../../../.gitbook/assets/5%20%2850%29.png)
 
 ### **Symbol menu**
 
