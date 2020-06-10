@@ -1,6 +1,6 @@
 # Settings
 
-You can access the ‘Settings’ screen from the application's main menu in order to manipulate by 'Defaults', 'Confirmations' and 'Chart settings':
+You can access the ‘Settings’ screen from the application's main menu in order to manipulate by 'Defaults' and 'Confirmations':
 
 ### **Defaults**
 
