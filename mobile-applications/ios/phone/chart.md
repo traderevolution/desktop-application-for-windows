@@ -8,13 +8,13 @@
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%28101%29.png)
+![](../../../.gitbook/assets/2%20%28102%29.png)
 
 ### **Chart toolbar** 
 
 Tap the button![](../../../.gitbook/assets/3.jpg)to open Chart toolbar.
 
-![](../../../.gitbook/assets/3%20%2884%29.png)
+![](../../../.gitbook/assets/3%20%2885%29.png)
 
 The Chart toolbar consists of 4 items:
 

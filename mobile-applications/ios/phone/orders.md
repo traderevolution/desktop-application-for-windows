@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists \(slide button to change the list\) of orders:
 
-![](../../../.gitbook/assets/1%20%28113%29.png)
+![](../../../.gitbook/assets/1%20%28114%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -12,7 +12,7 @@ Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
 Each section consists of the cards list with short information about the orders: for Working orders – symbol name, quantity, open price, order type; for Filled orders – symbol name, order type, Net P/L, quantity. In order to get full information about the symbol on which the order was created, tap the symbol name.
 
-![](../../../.gitbook/assets/2%20%2897%29.png)
+![](../../../.gitbook/assets/2%20%2898%29.png)
 
 * Date/Time – date and time when the order was placed \(executed, filled, modified, or cancelled\).
 * Current price – market price obtainable from broker.
@@ -37,7 +37,7 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
 
-![](../../../.gitbook/assets/3%20%2883%29.png)
+![](../../../.gitbook/assets/3%20%2884%29.png)
 
 ![](../../../.gitbook/assets/4%20%2858%29.png)
 
