@@ -8,7 +8,7 @@
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%28100%29.png)
+![](../../../.gitbook/assets/2%20%28101%29.png)
 
 ### **Chart toolbar** 
 
