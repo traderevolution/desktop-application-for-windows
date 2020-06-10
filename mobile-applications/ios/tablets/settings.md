@@ -6,7 +6,7 @@
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../.gitbook/assets/1%20%28118%29.png)
+![](../../../.gitbook/assets/1%20%28119%29.png)
 
 * Order quantity – displays amount of lots for opening an order;
 * TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, FOK, GTD;
@@ -19,7 +19,7 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ‘Confirmations’ settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
-![](../../../.gitbook/assets/2%20%2897%29.png)
+![](../../../.gitbook/assets/2%20%2898%29.png)
 
 * Order sending;
 * Order modifying;

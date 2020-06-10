@@ -2,13 +2,13 @@
 
 The Chart screen is the most important tool for active trading and market analyzing. The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%28113%29.png)
+![](../../../.gitbook/assets/1%20%28114%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart:
 
-![](../../../.gitbook/assets/2%20%28104%29.png)
+![](../../../.gitbook/assets/2%20%28105%29.png)
 
 ### **Chart toolbar** 
 
@@ -35,7 +35,7 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 Open the chart to see the added indicators.
 
-![](../../../.gitbook/assets/6%20%2840%29.png)
+![](../../../.gitbook/assets/6%20%2841%29.png)
 
 ### **Order entry**
 
