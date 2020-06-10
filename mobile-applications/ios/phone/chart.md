@@ -2,7 +2,7 @@
 
 The Chart screen is the most important tool for active trading and market analyzing. The Chart screen can be accessed only from the Watchlist screen.
 
-![](../../../.gitbook/assets/1%20%28112%29.png)
+![](../../../.gitbook/assets/1%20%28113%29.png)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
 
