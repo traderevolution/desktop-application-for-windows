@@ -2,7 +2,7 @@
 
 In this tab menu, users can access the app settings, view the app info and use additional features:
 
-![](../../../.gitbook/assets/iphone.png)
+![](../../../.gitbook/assets/screen-shot-2020-06-05-at-7.32.39-pm.png)
 
 * Settings – allows accessing the app settings;
 * Event log – opens the app event log;
