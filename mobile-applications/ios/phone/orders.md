@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists \(slide button to change the list\) of orders:
 
-![](../../../.gitbook/assets/1%20%28111%29.png)
+![](../../../.gitbook/assets/1%20%28112%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -37,7 +37,7 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
 
-![](../../../.gitbook/assets/3%20%2882%29.png)
+![](../../../.gitbook/assets/3%20%2883%29.png)
 
 ![](../../../.gitbook/assets/4%20%2858%29.png)
 
