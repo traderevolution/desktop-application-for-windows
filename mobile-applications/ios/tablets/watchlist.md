@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the application.
 
-![](../../../.gitbook/assets/img_1582.PNG)
+![](../../../.gitbook/assets/1%20%28116%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -10,6 +10,8 @@
 * Change, % – the price deviation from current day's opening price in a percentage.
 
 In order to get full symbol information and open the chart, tap the Symbol name. Tap the button![](../../../.gitbook/assets/2.jpg)at the top right corner of the Chart to open the Info window:
+
+![](../../../.gitbook/assets/2%20%2899%29.png)
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
@@ -21,13 +23,13 @@ In order to get full symbol information and open the chart, tap the Symbol name.
 
 In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/5%20%281%29.png)
+![](../../../.gitbook/assets/3%20%2883%29.png)
 
 ### **Watchlist Filter** 
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange and symbol group from the lists of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/6.jpg), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/7%20%286%29.png)
+![](../../../.gitbook/assets/4%20%2857%29.png)
 
 ### **Symbol menu**
 

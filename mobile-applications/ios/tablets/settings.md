@@ -6,7 +6,7 @@
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../.gitbook/assets/1%20%28117%29.png)
+![](../../../.gitbook/assets/1%20%28118%29.png)
 
 * Order quantity – displays amount of lots for opening an order;
 * TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, FOK, GTD;
