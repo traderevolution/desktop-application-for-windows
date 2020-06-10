@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists \(slide button to change the list\) of orders:
 
-![](../../../.gitbook/assets/1%20%28112%29.png)
+![](../../../.gitbook/assets/1%20%28113%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
