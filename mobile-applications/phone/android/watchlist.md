@@ -35,7 +35,7 @@ For Options the detailed symbols' information \(description\) is also available 
 
 ### **Watchlist Filter** 
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%281%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%282%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
 ![](../../../.gitbook/assets/7%20%2831%29.png)
 
