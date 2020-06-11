@@ -2,7 +2,7 @@
 
 The Orders screen can be accessed through the Main menu of the platform. It allows to view three lists of orders:
 
-![](../../../.gitbook/assets/for-the-article.jpg)
+![](../../../.gitbook/assets/1%20%28120%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -35,9 +35,13 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%282%29.jpg).
 
+![](../../../.gitbook/assets/2%20%28107%29.png)
+
+![](../../../.gitbook/assets/3%20%2888%29.png)
+
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/modify-new.png)
+![](../../../.gitbook/assets/4%20%2861%29.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
