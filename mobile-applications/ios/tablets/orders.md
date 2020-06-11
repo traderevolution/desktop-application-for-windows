@@ -2,7 +2,7 @@
 
 The Orders screen can be accessed through the Main menu of the platform. It allows to view three lists of orders:
 
-![](../../../.gitbook/assets/1%20%28120%29.png)
+![](../../../.gitbook/assets/1%20%28121%29.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -37,7 +37,7 @@ Filled orders and Orders history sections can be viewed by selected date range, 
 
 ![](../../../.gitbook/assets/2%20%28107%29.png)
 
-![](../../../.gitbook/assets/3%20%2888%29.png)
+![](../../../.gitbook/assets/3%20%2889%29.png)
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
