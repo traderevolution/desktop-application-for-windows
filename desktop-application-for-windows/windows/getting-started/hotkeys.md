@@ -158,11 +158,11 @@ Modifier: Stop order when mouse click – allows stopping the order when mouse c
 
 Modifier: Group actions with orders – allows grouping actions with orders.
 
-Autocenter – allows autocentering Bid/Ask while scrolling the panel.
+Recenter – allows recentering Bid/Ask while scrolling the panel.
 
-Set autocenter type to ask – allows setting autocenter type to ask.
+Set recenter type to ask – allows setting recenter type to ask.
 
-Set autocenter type to bid – allows setting autocenter type to bid.
+Set recenter type to bid – allows setting recenter type to bid.
 
 Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
 
@@ -202,7 +202,7 @@ Mouse trading – activates trading using mouse.
   
 Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
 
-Autocenter – allows autocentering Bid/Ask while scrolling the panel.  
+Recenter – allows recentering Bid/Ask while scrolling the panel.  
   
 Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.  
 

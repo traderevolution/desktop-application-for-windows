@@ -69,9 +69,7 @@ Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
 
 P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
 
-P/L per Tick - no information for Index;
-
-* Allow short positions – shows whether short positions opening is allowed for the symbol. Available for Equities and ETF \(Exchange-traded fund\) symbols;
+P/L per Tick - no information for Index.
 
 **Fees** part shows commission for a trade:
 
