@@ -105,7 +105,7 @@
       * [Time & Sales](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/time-and-sales.md)
     * [Trading panels](desktop-application-for-windows/desktop-application-for-mac/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/desktop-application-for-mac/trading-panels/order-entry.md)
-      * [Matrix](desktop-application-for-windows/desktop-application-for-mac/trading-panels/matrix.md)
+      * [Super DOM](desktop-application-for-windows/desktop-application-for-mac/trading-panels/matrix.md)
       * [Market depth](desktop-application-for-windows/desktop-application-for-mac/trading-panels/market-depth.md)
       * [Visual trading](desktop-application-for-windows/desktop-application-for-mac/trading-panels/visual-trading.md)
     * [Account management](desktop-application-for-windows/desktop-application-for-mac/account-management/README.md)

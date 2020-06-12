@@ -147,7 +147,7 @@ N - quantity of years before a bond redemption date.
 * Allowed order types – shows order types allowed for a current symbol;
 * High limit – is an upper limit of an allowable price band above which delayed orders are not accepted;
 * Low limit – is a lower limit of an allowable price band below which delayed orders are not accepted;
-* Allow short positions – this parameter shows whether opening short positions using the current symbol is allowed;
+* Allow short positions – this parameter shows whether opening short positions using the current symbol is allowed. Available for Equities and ETF \(Exchange-traded fund\) symbols;
 * Tick size – minimal price change;
 * Tick cost – amount of base asset for one tick.
 
@@ -184,7 +184,8 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 * VAT – trader pays VAT from each fee operation;
 * Order volume % \(Buy/Sell/Open/Close\) – trader pays fee per each part of order volume that was filled;
 * Long swap – shows the swap value applied to overnight long positions of an instrument;
-* Short swap – shows the swap value applied to overnight short positions of an instrument.
+* Short swap – shows the swap value applied to overnight short positions of an instrument;
+* Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available.
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 

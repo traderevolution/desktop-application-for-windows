@@ -1,14 +1,14 @@
-# Matrix
+# Super DOM
 
-The Matrix panel allows to view open positions, pending orders, market prices, quantity and P/L. Furthermore, a trader can place an order just in 1 click using this panel. 
+The Super DOM panel allows to view open positions, pending orders, market prices, quantity and P/L. Furthermore, a trader can place an order just in 1 click using this panel. 
 
-To open the Matrix panel, go to Terminal -&gt; Matrix:
+To open the Super DOM panel, go to Terminal -&gt; Super DOM:
 
-![](../../../.gitbook/assets/matrix%20%281%29.png)
+![](../../../.gitbook/assets/1pic.png)
 
-The Symbol lookup is at the top of the Matrix panel.
+The Symbol lookup is at the top of the Super DOM panel.
 
-![](../../../.gitbook/assets/toolbar.png)
+![](../../../.gitbook/assets/2%20%28113%29.png)
 
 * Compress spread – allows skipping empty levels between the best bid and best ask;
 * Recentring button – allows manually recentering the panel relatively to spread;
@@ -16,32 +16,31 @@ To open the Matrix panel, go to Terminal -&gt; Matrix:
 
 Day high/low – allows showing current high/low levels.
 
-![](../../../.gitbook/assets/super-dom.png)
+![](../../../.gitbook/assets/3%20%2890%29.png)
 
 Right-clicking within the Market depth section evokes the Context menu of the panel.
 
-![](../../../.gitbook/assets/matrix-context-menu1.png)
+![](../../../.gitbook/assets/4%20%2862%29.png)
 
 * View – allows to show/hide Position bar and built-in Order entry;
 * Set hotkeys – allows to open the ‘General’ tab in the ‘Hotkeys Preferences’ window;  
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Last price indicator – allows to show last price indicator;
-* Auto-centring – allows auto-centring the panel relatively to spread;
 * Show day high/low – allows showing current high/low levels;
 * Settlement price – allows displaying settlement price;
 * Previous settlement price – allows displaying previous settlement price;
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms appear from the different boundaries of the column ‘Size’. If false, the histograms appear from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
 
-![](../../../.gitbook/assets/small-size.png)
+![](../../../.gitbook/assets/5%20%2854%29.png)
 
-![](../../../.gitbook/assets/full-size.png)
+![](../../../.gitbook/assets/6%20%2842%29.png)
 
-* Preferences – allows opening ‘Matrix Preferences’ dialog box.
+* Preferences – allows opening ‘Super DOM Preferences’ dialog box.
 
 The bottom position bar shows the current state of the position: open price, open position quantity, current profit and loss.
 
-![](../../../.gitbook/assets/screen-shot1-2018-12-19-at-6.10.png)
+![](../../../.gitbook/assets/7%20%2833%29.png)
 
 When clicking on the P/L value, the following options can be selected: Ticks/Points.
 
@@ -61,7 +60,7 @@ QTY cell changes its color depending on the side of the position:
 * Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account;
 * Close position button allows closing the current position by selected symbol and account.
 
-On the right side of the Matrix panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the TIF of the order, SL/TP offset and Trailing stop.
+On the right side of the Super DOM panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the TIF of the order, SL/TP offset and Trailing stop.
 
 Click on Buy Market or Sell Market to Buy/Sell at market price.
 
@@ -79,29 +78,28 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 ![](../../../.gitbook/assets/orders.png)
 
-### **Matrix Preferences**
+### **Super DOM Preferences**
 
-‘Matrix Preferences’ dialog box consists of 3 tabs: View, Columns, Colors. 
+‘Super DOM Preferences’ dialog box consists of 3 tabs: View, Columns, Colors. 
 
 **View**
 
-![](../../../.gitbook/assets/1%20%2837%29.png)
+![](../../../.gitbook/assets/9%20%2815%29.png)
 
 * Font – allows to choose the style of the font;
 * Show position bar – allows showing position bar;
 * Show toolbar – allows showing the toolbar;
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
 * Full-size bars – allows extending the bars;
-* Auto-centring – activates auto-centring function;
 * Compress spread – allows skipping empty levels between the best Bid and the best Ask;
 * Show day high/low – allows showing high/low levels for one day;
 * Show last price indicator – allows showing last price indicator;
 * Settlement price – allows displaying settlement price**;**
 * Previous settlement price – allows displaying previous settlement price.
 
-![](../../../.gitbook/assets/2%20%289%29.png)
+![](../../../.gitbook/assets/10%20%2813%29.png)
 
-Check/uncheck the needed hot buttons in order to display them in the built-in Order entry of the Matrix panel:
+Check/uncheck the needed hot buttons in order to display them in the built-in Order entry of the Super DOM panel:
 
 * Show close orders \(SL/TP\);
 * Buy/Sell Market;
@@ -115,13 +113,13 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
  **** **Columns**
 
-![](../../../.gitbook/assets/3%20%2853%29.png)
+![](../../../.gitbook/assets/11%20%289%29.png)
 
 ‘Columns’ tab allows to select colors of the columns located in the panel: Buy, Price, Size, Sell.
 
 **Colors**
 
-![](../../../.gitbook/assets/4%20%2841%29.png)
+![](../../../.gitbook/assets/12%20%285%29.png)
 
 _Table colors:_
 
@@ -141,7 +139,7 @@ _Mouse trading:_
 
 Hover – color and style of the line for sliding the cursor through each price level.
 
-![](../../../.gitbook/assets/5%20%2834%29.png)
+![](../../../.gitbook/assets/13%20%285%29.png)
 
 _Position bar:_
 

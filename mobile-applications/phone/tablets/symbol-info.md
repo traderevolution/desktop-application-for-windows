@@ -47,7 +47,7 @@ The Symbol info screen allows displaying all information about the selected symb
 * Maximum lot – the largest trade allowed in lots;
 * Max position qty. – shows maximum quantity of positions per selected symbol;
 * Lot step – step of lot changes;
-* Allow short positions – this parameter shows if it is allowed or not to open short positions by a given instrument. Available for Equities and ETF \(Exchange traded fund\);
+* Allow short positions – this parameter shows if it is allowed or not to open short positions by a given instrument. Available for Equities and ETF \(Exchange-traded fund\);
 * High limit – maximum limit price which is set for pending orders, any price higher than the High limit is rejected. Available for Futures CFDs, Futures, Equities, Indices, Crypto and ETF \(Exchange traded fund\);
 * Low limit – minimum limit price which is set for pending orders, any price lower than the Low limit is rejected. Available for Futures CFDs, Futures, Equities, Indices, Crypto and ETF \(Exchange traded fund\);
 * Delivery status - status of asset delivery;
@@ -83,6 +83,7 @@ The fee value for the fee types such as 'Fill per lot', 'Fill volume, %', 'Per f
 * Short swap – shows the swap value applied to overnight short positions of an instrument;
 * Order per lot – a trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for a whole order;
 * Custody – displays the Custodial fee measure in basis points \(bp\) for the Instrument, if available;
+* Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available;
 
 Rebates:
 
