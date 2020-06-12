@@ -15,7 +15,7 @@ The menu Preferences can be opened through the Context menu, right click anywher
 
  The ****'Columns' tab ****allows changing columns settings.
 
-![](../../../.gitbook/assets/quantity-small.png)
+![](../../../.gitbook/assets/mac-settings%20%281%29.png)
 
 **Displaying and hiding columns**
 
@@ -43,7 +43,7 @@ The Column category lists the following settings:
 
 Show total – if checked, the total value is shown.
 
-Calculation method – allows to choose the calculation method of Total value \(Sum, Average, Count, Absolute sum\).
+Calculation method – allows to choose the calculation method of Total value \(Net Qty, Average, Count, Absolute sum\).
 
 ### **Colors**
 
