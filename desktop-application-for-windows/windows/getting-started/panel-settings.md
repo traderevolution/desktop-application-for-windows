@@ -23,7 +23,7 @@ The Colors sub-menu allows configuring the color scheme for tables:
 
  **Columns tab** allows changing columns settings.
 
-![](../../../.gitbook/assets/3%20%2826%29.png)
+![](../../../.gitbook/assets/.net-settings.png)
 
 #### **Displaying and hiding columns**
 
@@ -52,7 +52,7 @@ The Column category lists the following settings:
 
 Show total - if checked, the total price value is shown.
 
-Calculation method - allows to choose the calculation method of Total value \(Sum, Average, Count, Absolute sum\).
+Calculation method - allows to choose the calculation method of Total value \(Net Qty, Average, Count, Absolute sum\).
 
 **Coloring rows tab** allows selecting different color settings for rows on base of different conditions.
 
@@ -67,21 +67,6 @@ Then select colors for marking rows \(font and background colors\) and choose co
 You can see the example of rows marking by conditions below:
 
 ![](../../../.gitbook/assets/11%20%287%29.png)
-
-**Alerts Tab** allows creating alerts settings for each panel.
-
-Alerts setup is described in details in the chapter Tools -&gt; Table alerts.
-
-Use the button **Apply** for applying changes which were done after opening the settings panel. In the menu of this control you can select the following options:
-
-* Apply to all – allows applying the changes to all panels of the chosen type in all workspaces.
-* Apply to workspace – allows applying the changes to all panels of the chosen type in the current workspace. 
-
-Or you can choose the following options from the **More actions** menu:
-
-* Set as default – allows to set the changes in settings as default;
-* Reset to default –allows to reset the settings to those which user set as default;
-* Reset to factory – allows to reset settings to the factory ones.
 
 ### Exporting from table panels
 
