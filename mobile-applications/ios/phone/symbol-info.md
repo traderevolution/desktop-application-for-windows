@@ -83,6 +83,7 @@ The fee value for the fee types such as 'Fill per lot', 'Fill volume, %', 'Per f
 * Short swap – shows the swap value applied to overnight short positions of an instrument;
 * Order per lot – a trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for a whole order;
 * Custody – displays the Custodial fee measure in basis points \(bp\) for the Instrument, if available;
+* Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available;
 
 Rebates:
 

@@ -34,6 +34,10 @@ Shows a list of balance-affecting operations performed on the selected user acco
 
 Shows detailed balance information on selected users, including settled and unsettled stock operations. By default, this report shows information as follows: Account\(s\), Account, Group, Balance before, Trading in, Trading out, Deposit, Withdrawal, Fee out, Swap in, Swaps out, Interest, Dividends, Other account operations, Total, Balance after, Currency.
 
+**Daily short trading by instrument report**
+
+Shows the info on available Short sell shares for the symbol. The report displays information as follows: Instrument, Route, Instrument group, Trading exchange, Start of day borrowed qty, Utilized qty, Available qty, Borrowed fee, %.
+
 **Executed orders report**
 
 Shows information about all executed orders within a specified period. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Position ID, Symbol, Operation type, Order type, Price, Stop price, Actual price, Execute, Quantity, Execution fee, TIF, Updated time, Auto trade, Terminal type, tradingmode.
