@@ -126,7 +126,7 @@ Modify order – allows modifying an order.
 
 Change to Market – allows changing order type to Market for selected orders.
 
-### **Matrix**
+### Super DOM
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 
@@ -137,4 +137,10 @@ Cancel Buy order\(s\) closest to the last price – in case of existence of two 
 Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
 
 Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
+
+Recenter – allows recentering Bid/Ask while scrolling the panel.
+
+Set recenter type to ask – allows setting recenter type to ask.
+
+Set recenter type to bid – allows setting recenter type to bid.
 
