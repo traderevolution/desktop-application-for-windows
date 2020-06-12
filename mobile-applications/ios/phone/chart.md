@@ -39,7 +39,7 @@ In order to add a new indicator, choose the category of indicators \(Channels, M
 
 ### **Order entry**
 
- The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/1-kopiya%20%288%29.png)is located at the top right corner of the Chart screen.
+ The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/1-kopiya%20%289%29.png)is located at the top right corner of the Chart screen.
 
 ![](../../../.gitbook/assets/7%20%2832%29.png)
 
