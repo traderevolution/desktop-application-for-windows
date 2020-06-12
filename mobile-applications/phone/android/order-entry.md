@@ -2,7 +2,7 @@
 
 The Order entry screen enables users to send orders. The Order entry button![](../../../.gitbook/assets/oe.jpg)is located at the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
 
-                                            ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2816%29.png) 
+                                            ![](../../../.gitbook/assets/watchlist-symbol-swipe-copy%20%281%29.png) 
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask. 
 
