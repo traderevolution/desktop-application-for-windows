@@ -4,7 +4,7 @@ The Chart panel allows to view quotes history and analyze market patterns.
 
 To open the Chart panel, select 'Terminal -&gt; Chart'.
 
-![](../../../../.gitbook/assets/test-chart.png)
+![](../../../../.gitbook/assets/test-chart%20%281%29.png)
 
 ### Chart parameters
 
