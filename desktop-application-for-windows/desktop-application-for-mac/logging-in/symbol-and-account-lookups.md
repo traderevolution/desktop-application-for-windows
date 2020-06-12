@@ -4,7 +4,7 @@ In the platform there are two kinds of lookups – 'Account lookup' and 'Symbol 
 
 ### Symbol lookup
 
-The Symbol lookup panel shows all symbols which are available through the broker. The Symbol lookup can be opened in each panel which requires symbol selection through context menu or by clicking on the button![](../../../.gitbook/assets/artboard1.png)next to the symbol scroll down menu.
+The Symbol lookup window shows all symbols which are available through the broker. The Symbol lookup window can be opened in each panel which requires symbol selection through the context menu or by clicking on the button![](../../../.gitbook/assets/artboard1.png). Hover the symbol name![](../../../.gitbook/assets/regular-mac.png)in the toolbar of the chosen panel to see this button![](../../../.gitbook/assets/hover-mac.png). 
 
 ![](../../../.gitbook/assets/symbol-lookup-copy.jpg)
 
