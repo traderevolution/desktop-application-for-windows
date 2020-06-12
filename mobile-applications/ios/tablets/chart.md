@@ -14,10 +14,12 @@ Tap the button![](../../../.gitbook/assets/2-kopiya%20%282%29.png)to open Chart 
 
 ![](../../../.gitbook/assets/2%20%2897%29.png)
 
-The Chart toolbar consists of 2 items:
+The Chart toolbar consists of 4 items:
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
-* Indicators – allows to choose the needed indicator for technical analysis.
+* Indicators – allows to choose the needed indicator for technical analysis;
+* Chart templates – allows to create a chart template;
+* Settings – allows to open the Chart settings screen.
 
 ### **Indicators**
 
