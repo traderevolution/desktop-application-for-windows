@@ -90,7 +90,7 @@ P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol typ
 
 P/L per Tick - no information for Index;
 
-* Allow short positions – shows whether short positions opening is allowed for the symbol. Available for Equities and ETF \(Exchange-traded fund\) symbols; 
+* Allow short positions – shows whether short positions opening is allowed for the symbol; 
 
 **Fees** part shows commission for a trade:
 

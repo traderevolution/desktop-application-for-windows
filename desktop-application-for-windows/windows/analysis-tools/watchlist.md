@@ -147,7 +147,7 @@ N - quantity of years before a bond redemption date.
 * Allowed order types – shows order types allowed for a current symbol;
 * High limit – is an upper limit of an allowable price band above which delayed orders are not accepted;
 * Low limit – is a lower limit of an allowable price band below which delayed orders are not accepted;
-* Allow short positions – this parameter shows whether opening short positions using the current symbol is allowed. Available for Equities and ETF \(Exchange-traded fund\) symbols;
+* Allow short positions – this parameter shows whether opening short positions using the current symbol is allowed;
 * Tick size – minimal price change;
 * Tick cost – amount of base asset for one tick.
 
