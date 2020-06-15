@@ -46,5 +46,35 @@ TIF \(Time-in-force\) – allows traders to be more specific about time paramete
 
 Note: SL price and Trailing SL offset cannot be checked together.
 
+**Margin**
+
+Swiping down the "Margin" shade located under the Order entry menu header opens the info menu with the following account parameters:
+
+* Balance - the account balance;
+* Available funds – available funds for placing new orders;
+* Margin available – available margin for the trading;
+* Initial margin – minimum account balance required to open a position;
+* Maintenance margin – minimum account balance required to keep the position open;
+* Warn. margin  – margin value, for which the warning is triggered;
+* Impact on portfolio – shows an impact of the order fill on the available funds, considering all other positions/orders;
+* After trade funds – shows the available funds value remaining after filling the order:
+
+After trade funds = Available funds + Impact on portfolio - Fee;
+
+* Blocked for stocks – shows the amount debited from the balance in case of trading using symbols with the Stocks pre-paid margin type;
+* Spread initial loss – shows initial loss on the spread:
+
+Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
+
+* P/L per Tick – displays data for Symbols:
+
+P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
+
+P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
+
+P/L per Tick - no information for Index;
+
+* Allow short positions – shows whether short positions opening is allowed for the symbol;
+
 After setting all the parameters, tap the button 'Send order'.
 
