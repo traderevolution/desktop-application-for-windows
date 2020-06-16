@@ -97,5 +97,5 @@ Read more about RSS panel here:
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
 
-![](../../../.gitbook/assets/6.png)
+![](../../../.gitbook/assets/6%20%2844%29.png)
 
