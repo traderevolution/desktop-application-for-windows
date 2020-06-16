@@ -67,9 +67,9 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Warnings**
 
-![](../../../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/warnings-windows.png)
 
-* Warn if wrong order – if checked, you get a warning message in case of placing order with incorrect parameters;
+* Warn if wrong order – if checked, you will get a warning message in case of placing order with incorrect parameters;
 * Warn if today's volume exceeds - allows to select today volume level at which the system will display a warning message;
 * Warn if order quantity exceeds – allows to select a quantity level at which the system will display a warning message;
 * Warn if order capital exceeds – allows to select an order capital level at which the system will display a warning message;
@@ -77,6 +77,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Warn if today's gross less – allows to get a warning message in case if a level of today gross is less than in set parameter;
 * Show symbol halt warnings – if checked, you will get a warning message in case a trading halt on symbol occurs;
 * Warn if close Strategy manager with active strategies – if checked, you will get a warning message in case Strategy manager is closed with active strategies;
+* Warn if identical subsequent order is placed \(sec\) – if checked, you will get a warning message in case of placing an identical subsequent order during the specified time period. 
 * Show overnight margin notification message – if checked, you will get a warning message in case if a position is transferred overnight.
 
 ![](../../../.gitbook/assets/10f.png)
