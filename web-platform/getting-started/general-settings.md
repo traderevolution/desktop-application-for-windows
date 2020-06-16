@@ -67,14 +67,8 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Warnings**
 
-![](../../.gitbook/assets/screenshot_7%20%281%29.png)
+![](../../.gitbook/assets/veb.png)
 
-* Warn if wrong order – if checked, you get a warning message in case of placing order with incorrect parameters;
-* Show overnight margin notification message – if checked, you will get a warning message in case if a position is transferred overnight.
-
-If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
-
-The overnight warning message shows the following items: Account \(Account for which the margin coefficients are switched to overnight\), Margin available, Maintenance margin \(based on overnight coefficients\), Overnight margin available.
-
-Overnight margin available = Balance + all risks - Overnight total maint. req. If Overnight margin available &lt; 0, user will get a message "You don’t have enough margin for overnight, we force close some positions and cancel orders".
+* Warn if wrong order – if checked, you ****will get a warning message in case of placing order with incorrect parameters;
+* Warn if identical subsequent order is placed \(sec\) – if checked, you will get a warning message in case of placing an identical subsequent order during the specified time period.
 
