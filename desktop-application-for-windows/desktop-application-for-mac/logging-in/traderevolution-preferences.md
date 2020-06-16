@@ -92,9 +92,8 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ### **Warnings:**
 
-The checkbox allows to enable the option 'Warn if application is closed'.
+![](../../../.gitbook/assets/mac%20%281%29.png)
 
-![](../../../.gitbook/assets/7%20%2813%29.png)
-
-
+* Warn if application is closed – if checked, you will get a warning message in case of closing of the application.
+* Warn if identical subsequent order is placed \(sec\) – if checked, you will get a warning message in case of placing an identical subsequent order during the specified time period.
 
