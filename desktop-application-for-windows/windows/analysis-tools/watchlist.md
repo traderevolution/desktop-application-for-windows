@@ -157,7 +157,7 @@ Note: The variable tick cost/size value for the Futures, Futures CFD, Options sy
 
 * Margin type – type of margin calculation. Can be different for different assets;
 * Margin by account – shows margin requirements based on account coefficients;
-* Margin req. – shows margin requirements, which depend on the margin calculation type. When the 'None' margin calculation type is selected for the instrument, the "-" is displayed;
+* Margin req. – shows margin requirements, which depend on the margin calculation type. When the 'None' margin calculation type is selected for the instrument, the "-" is displayed. When the 'Tiered price based custom coeffieicent' margin calculation type is selected, the margin req. values are displayed for all the Tiers set;
 * Buy – shows margin requirements for long positions which use different long/short margin and don’t depend on overnight margin;
 * Sell – shows margin requirements for short positions which use different long/short margin and don’t depend on overnight margin;
 * Day – shows day margin requirements which don’t depend on long/short margin;
@@ -169,7 +169,7 @@ Note: The variable tick cost/size value for the Futures, Futures CFD, Options sy
 * Day buy – amount of margin which is necessary for holding a long position during a trade session;
 * Day sell – amount of margin which is necessary for holding a short position during a trade session.
 
-Note: if coefficients of initial and maintenance margin have the same value, for example 2%, then they will be displayed as one value in the Margin requirements section – Margin req. – 2 %.
+Note: if coefficients of initial and maintenance margin have the same value, for example 2%, then they will be displayed as one value in the Margin requirements section – Margin req. – 2 %. The same is true for each Tier.
 
 4\) Fees:
 

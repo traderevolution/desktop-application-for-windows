@@ -57,7 +57,7 @@ The Symbol info screen allows displaying all information about the selected symb
 3\) Margin requirements:
 
 * Margin by account – shows margin requirements based on account coefficients;
-* Margin req. – shows margin requirements, which depend on the margin calculation type. When the "None" margin calculation type is selected for the instrument, the "-" is displayed;
+* Margin req. – shows margin requirements, which depend on the margin calculation type. When the "None" margin calculation type is selected for the instrument, the "-" is displayed. When the 'Tiered price based custom coeffieicent' margin calculation type is selected, the margin req. values are displayed for all the Tiers set. If initial and maintenance margin coefficients are the same, they will be displayed as one value in the Margin requirements section. The same is true for each Tier;
 * Buy – shows margin requirements for long positions which use different long/short margin and don’t depend on overnight margin;
 * Sell – shows margin requirements for short positions which use different long/short margin and don’t depend on overnight margin;
 * Day – shows day margin requirements which don’t depend on long/short margin;

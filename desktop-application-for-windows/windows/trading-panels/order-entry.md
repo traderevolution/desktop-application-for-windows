@@ -72,6 +72,11 @@ Risks details section shows all values in account currency:
 * Initial margin – minimum account balance required to open the position;
 * Maintenance margin – minimum account balance required to keep this position open;
 * Warn. margin  – margin value, for which the warning is triggered;
+
+{% hint style="info" %}
+When the 'Tiered price based custom coeffieicent' margin calculation type is selected for the symbol, the margin req. values are displayed for all the Tiers set
+{% endhint %}
+
 * Impact on portfolio – shows impact of the order fill on available funds considering all other positions/orders;
 * After trade funds – shows value of available funds remaining after filling the order:
 

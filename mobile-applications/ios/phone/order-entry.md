@@ -53,6 +53,11 @@ Swiping down the "Margin" shade located under the Order entry menu header opens 
 * Initial margin – minimum account balance required to open a position;
 * Maintenance margin – minimum account balance required to keep the position open;
 * Warn. margin  – margin value, for which the warning is triggered;
+
+{% hint style="info" %}
+When the 'Tiered price based custom coeffieicent' margin calculation type is selected for the symbol, the margin req. values are displayed for all the Tiers set
+{% endhint %}
+
 * Impact on portfolio – shows an impact of the order fill on the available funds, considering all other positions/orders;
 * After trade funds – shows the available funds value remaining after filling the order:
 
