@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../.gitbook/assets/sending-with-product-type.png)
+![](../.gitbook/assets/1%20%28130%29.png)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
@@ -33,7 +33,12 @@ If there is only one product type available to the User subscriber and it differ
 * TP price – Take Profit price of the order;
 * TP offset – field that shows the TP offset value;
 * Current price – field that shows the current symbol price \(if available\);
-* Lifetime – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. Format: “hh:mm” \(hours:minutes\). \(min = 00 hours : 01 minutes; max = 24 hours : 00 minutes\);
+* Expiration date – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. The expiration date is set in the corresponding calendar control:
+
+![](../.gitbook/assets/calendar-en%20%281%29.png)
+
+Format: “dd.mm.yyyy hh:mm” \(day.month.year hours:minutes\). \(min = 00 hours : 01 minutes; max = 30 days 24 hours : 00 minutes\);
+
 * Title – allows entering a title of the Idea. The title cannot contain more than 50 symbols.
 
 The following options are not mandatory:
@@ -47,7 +52,7 @@ After specifying all the parameters of the Idea, the user-analyst needs to click
 
 **Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Ideas, which lifetime is not expired:
 
-![](../.gitbook/assets/trading-idea2.png)
+![](../.gitbook/assets/1%20%28128%29.png)
 
 The sent Idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
 
@@ -55,7 +60,7 @@ After specifying all the parameters of the Idea, the user-analyst needs to click
 
 After expiration of the Idea, it will be removed from the panel. In order to delete the Idea, click on the 'Delete' button located next to its lifetime.
 
-![](../.gitbook/assets/screenshot_2%20%2813%29.png)
+![](../.gitbook/assets/1%20%28127%29.png)
 
 ### **User-subscriber** 
 
@@ -67,7 +72,7 @@ To receive an Idea and place the order based on this idea, the instrument used i
 
 A user-subscriber can see the sent Ideas in the panel:
 
-![](../.gitbook/assets/trading-idea1.png)
+![](../.gitbook/assets/1%20%28129%29.png)
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the Idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity for the Idea order to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Idea, an order placement confirmation dialog box is displayed:
 
@@ -79,7 +84,7 @@ Click on the ‘Yes’ button to place an order based on the Idea. After the ord
 
 When creating an Idea, a User-analyst can attach a snapshot of a Chart of the Instrument used in the Idea and a jpeg, jpg, png or PDF file \(10 Mb or smaller\) containing relevant information by clicking the icons under the Lifetime setting field of the Idea creation menu:
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/1%20%28126%29.png)
 
 Clicking the chart symbol icon ![](../.gitbook/assets/attachment6.png) \(on the left\) opens the Chart window for taking a snapshot, in which the User-analyst can select the needed Instrument and configure the Chart parameters:
 
@@ -93,7 +98,7 @@ Clicking the ![](../.gitbook/assets/attachment7.png) symbol in the main Idea cre
 
 After the Chart snapshot and file are attached to the Idea, their symbols become highlighted:
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/1%20%28131%29.png)
 
 The User-analyst can remove a snapshot or an attached file by clicking the cross icon near the corresponding symbol.
 
