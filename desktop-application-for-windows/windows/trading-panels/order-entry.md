@@ -97,9 +97,10 @@ P/L per Tick - no information for Index;
 
 * Allow short positions – shows whether short positions opening is allowed for the symbol; 
 
-**Fees** part shows commission for a trade:
+**Fees** part shows commission for a trade. The fees shown depend on the Commission plan settings of the User:
 
-Total fee – shows the commission total on the trade. It is displayed depending upon commission plan settings on the Server. 
+* Fill per lot – shows the fee paid for each traded lot.
+* Total fee – shows the commission total on the trade. 
 
 Information of the Margin section can be updated by clicking on the button![](../../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
