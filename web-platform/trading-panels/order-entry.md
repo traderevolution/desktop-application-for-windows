@@ -2,7 +2,7 @@
 
 Order entry panel allows to place market or pending orders. To open the Order entry panel select Terminal -&gt; Order entry.
 
-![](../../.gitbook/assets/oe-big-web.png)
+![](../../.gitbook/assets/oe-web-live.png)
 
 This panel contains the following settings:
 
@@ -42,4 +42,48 @@ It is always possible to manage risks by setting Trailing stop on the order by c
 Order entry panel has the additional VWAP section which displays important information. VWAP section allows displaying VWAP prices section \(Bid, Spread, Ask\) in the Order entry panel.
 
 ![](../../.gitbook/assets/5%20%2840%29.png)
+
+* Margin section - allows displaying Margin section in the Order entry panel.
+
+The **Margin** section is divided on two parts: Risks and Fees.
+
+Risks details section shows all values in account currency:
+
+* Balance - an account's balance;
+* Available funds – amount of funds for placing new orders;
+* Margin available – available margin for trading;
+* Initial margin – minimum account balance required to open the position;
+* Maintenance margin – minimum account balance required to keep this position open;
+* Warn. margin  – margin value, for which the warning is triggered;
+
+{% hint style="info" %}
+When the 'Tiered price based custom coeffieicent' margin calculation type is selected for the symbol, the margin req. values are displayed for all the Tiers set
+{% endhint %}
+
+* Impact on portfolio – shows impact of the order fill on available funds considering all other positions/orders;
+* After trade funds – shows value of available funds remaining after filling the order:
+
+After trade funds = Available funds + Impact on portfolio - Fee;
+
+* Blocked for stocks – amount of funds debited from the balance in the case of trading with symbols with Stocks pre-paid margin type;
+* Spread initial loss – shows initial loss on the spread:
+
+Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
+
+* P/L per Tick – displays data for Symbols:
+
+P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
+
+P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
+
+P/L per Tick - no information for Index;
+
+* Allow short positions – shows whether short positions opening is allowed for the symbol; 
+
+**Fees** part shows commission for a trade. The fees shown depend on the Commission plan settings of the User:
+
+* Fill per lot – shows the fee paid for each traded lot.
+* Total fee – shows the commission total on the trade. 
+
+Information of the Margin section can be updated by clicking on the button![](../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
