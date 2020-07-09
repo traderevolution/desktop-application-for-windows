@@ -14,7 +14,7 @@ Clicking the icon opens the Ideas panel, which shows all the currently received 
 
 By clicking on an Idea space in the Ideas panel, User can open the Idea expanded view and see its details:
 
-![](../../../.gitbook/assets/group-1393.png)
+![](../../../.gitbook/assets/group-1717.png)
 
 The expanded view of an Idea contains the chart of the Instrument used \(if the data on the Instrument is available to the User\), Idea text description, remaining lifetime, Take profit, Limit price and Stop loss values and the Idea remaining Life time. With that, the chart of the Instrument used in the Idea is refreshed with the same frequency as the chart panel. 
 
