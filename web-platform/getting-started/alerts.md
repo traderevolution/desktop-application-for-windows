@@ -4,7 +4,7 @@ To open the Alerts panel, click on the![](../../.gitbook/assets/1%20%2826%29.png
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../.gitbook/assets/3%20%2850%29.png)
+![](../../.gitbook/assets/web-alerts.png)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Alert type – allows to set an alert type. Available options are the following: Ask, Bid, Last, Change%, Volume;
@@ -26,7 +26,9 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
               -    Sound – the sound notifies a user about execution of the alert. The sound depends on importance of the alert;
 
-              -    Sound+Pop-up – both pop-up window and sound are used to notify a user.
+              -    Sound+Pop-up – both pop-up window and sound are used to notify a user;
+
+              -    Place order – if the alert condition is executed, the order with pre-set parameters will be sent. To open the Order entry window and select order parameters, click on the "Order entry" button. The alert will be active only while the application is running.
 
 * Alert message – allows to type the text of the alert message. The text in the Message box is generated automatically but a user can customize the text of the notification;
 * Create button – allows to create an alert. The button is colored according to importance of the alert.
