@@ -9,7 +9,7 @@ This functionality allows to organize and analyze vertical volumes on the chart.
 ![](../../../../../.gitbook/assets/67.png)
 
 * Visible – controls visibility of the volume bars on the chart; this option is inactive by default, which means the volume bars are not visible on the chart, to make them visible mark the option as active;
-* Use real tick volume – this option is inactive by default, so volume is taken from the minute history; if marked as active, then volume is taken from tick history;
+* Use real tick volume – this option is inactive by default, so volume is taken from the minute history; if it is marked as active, then volume is taken from the tick history;
 * Value filter – when checked, such elements as Operator and 'Filter value' appear. They allow to set up a constraint for renderers' displaying:
   * Operator – allows to select one of the comparison characters: =, &gt;, &gt;=, &lt;, &lt;=;
   * Filter value – allows to specify value to compare renderers' values with. Renderers' values, which don't correspond to a given condition, will not be displayed on the chart.
