@@ -31,7 +31,7 @@ In order to open Symbol lookup, tap the Search field. Check/uncheck the desired
 
 Swipe left the selected symbol to open Market depth/Order entry/Chart screen by this instrument.
 
-![](../../../.gitbook/assets/3%20%2892%29.png)
+![](../../../.gitbook/assets/3%20%2893%29.png)
 
 For Options the detailed symbols' information \(description\) is also available in the lookup:
 
