@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/1%20%2898%29.png)
+![](../../../.gitbook/assets/1%20%28132%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -25,9 +25,13 @@ Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info wind
 
 ### **Symbol lookup** 
 
-In order to open Symbol lookup, tap the![](../../../.gitbook/assets/add%20%282%29.jpg)button. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
+In order to open Symbol lookup, tap the Search field. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/5%20%2846%29.png)
+![](../../../.gitbook/assets/2%20%28114%29.png)
+
+Swipe left the selected symbol to open Market depth/Order entry/Chart screen by this instrument.
+
+![](../../../.gitbook/assets/3%20%2892%29.png)
 
 For Options the detailed symbols' information \(description\) is also available in the lookup:
 
