@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/1%20%28132%29.png)
+![](../../../.gitbook/assets/1%20%28133%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
