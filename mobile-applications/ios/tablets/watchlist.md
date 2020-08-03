@@ -11,7 +11,7 @@
 
 In order to get full symbol information and open the chart, tap the Symbol name. Tap the button![](../../../.gitbook/assets/2.jpg)at the top right corner of the Chart to open the Info window:
 
-![](../../../.gitbook/assets/2%20%28100%29.png)
+![](../../../.gitbook/assets/2%20%28116%29.png)
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
@@ -21,15 +21,19 @@ In order to get full symbol information and open the chart, tap the Symbol name.
 
 ### **Symbol lookup** 
 
-In order to open Symbol lookup, tap the button![](../../../.gitbook/assets/4.jpg)at the top right corner of the Watchlist. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
+In order to open Symbol lookup, tap the Search field. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/3%20%2883%29.png)
+![](../../../.gitbook/assets/3%20%2894%29.png)
+
+Swipe left the selected symbol to open Market depth/Order entry/Chart screen by this instrument.
+
+![](../../../.gitbook/assets/4%20%2865%29.png)
 
 ### **Watchlist Filter** 
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/4%20%2857%29.png)
+![](../../../.gitbook/assets/5%20%2857%29.png)
 
 ### **Symbol menu**
 

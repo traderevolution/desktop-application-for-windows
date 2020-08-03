@@ -11,7 +11,7 @@
 
 Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top right corner of the Chart to open the Info window:
 
-![](../../../.gitbook/assets/2%20%28116%29.png)
+![](../../../.gitbook/assets/2%20%28117%29.png)
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
@@ -23,7 +23,7 @@ Tap the button![](../../../.gitbook/assets/arrow-right%20%281%29.jpg)at the top
 
 In order to open Symbol lookup, tap the Search field. Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/3%20%2894%29.png)
+![](../../../.gitbook/assets/3%20%2895%29.png)
 
 Swipe left the selected symbol to open Market depth/Order entry/Chart screen by this instrument.
 
