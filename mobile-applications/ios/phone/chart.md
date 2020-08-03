@@ -4,7 +4,7 @@
 
 ![](../../../.gitbook/assets/1%20%28132%29.png)
 
-In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the timeframe.
+In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the time frame.
 
 Tap the name of the symbol at the list of added symbols to open the chart:
 
