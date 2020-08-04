@@ -416,6 +416,24 @@ The following information about Accounts and calculation formulas are available:
         for an account.</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">Max order amount</td>
+      <td style="text-align:left">Maximum opening order amount (in the Instrument absolute units)</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Max orders count per day</td>
+      <td style="text-align:left">Number of orders that the User can place or modify during a day</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Max drawdown level</td>
+      <td style="text-align:left">Minimum allowed Projected balance value that an Account can have</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
