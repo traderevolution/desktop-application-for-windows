@@ -43,7 +43,7 @@ The Watchlist screen enables a user to create custom sets of symbols lists. In o
 
 ![](../../../.gitbook/assets/1%20%28139%29.png)
 
-Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new" button to create new symbol lists. In this list all created instruments lists will be displayed. Buttons for list renaming or deleting are located next to each list.
+Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new" button to create new symbol lists. Buttons for list renaming or deleting are located next to each list.
 
 ![](../../../.gitbook/assets/2%20%28118%29.png)
 
