@@ -418,7 +418,7 @@ The following information about Accounts and calculation formulas are available:
     </tr>
     <tr>
       <td style="text-align:left">Max order amount</td>
-      <td style="text-align:left">Maximum opening order amount (in the Instrument absolute units)</td>
+      <td style="text-align:left">Maximum allowed opening order amount (in the Instrument absolute units)</td>
       <td
       style="text-align:left"></td>
     </tr>
