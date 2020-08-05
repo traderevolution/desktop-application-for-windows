@@ -39,7 +39,7 @@ For Options the detailed symbols' information \(description\) is also available 
 
 The Watchlist screen enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, tap the![](../../../.gitbook/assets/1-1-.png)button.
 
-![](../../../.gitbook/assets/unnamed.png)
+![](../../../.gitbook/assets/unnamed%20%281%29.png)
 
 Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new" button to create new symbol lists. Buttons for list renaming or deleting are located next to each list.
 

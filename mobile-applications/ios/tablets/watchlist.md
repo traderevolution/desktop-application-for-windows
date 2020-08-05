@@ -29,7 +29,17 @@ Swipe left the selected symbol to open Market depth/Order entry/Chart screen by 
 
 ![](../../../.gitbook/assets/4%20%2865%29.png)
 
-### **Watchlist Filter** 
+### **Symbols list creation**
+
+The Watchlist screen enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, tap the![](../../../.gitbook/assets/1-1-.png)button.
+
+![](../../../.gitbook/assets/unnamed.png)
+
+Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new" button to create new symbol lists. Buttons for list renaming or deleting are located next to each list.
+
+![](../../../.gitbook/assets/unnamed-2-.png)
+
+### **Watchlist Filter** 
 
 In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
