@@ -67,9 +67,13 @@ The Watchlist panel enables user to create custom sets of symbols lists. In orde
 
 ### **Symbol Info**
 
-Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../../.gitbook/assets/info1.png)of a certain symbol in the Watchlist.
+Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option.
 
-![](../../../.gitbook/assets/w1.png)
+![](../../../.gitbook/assets/menu%20%285%29.png)
+
+The Symbol info window will be opened:
+
+![](../../../.gitbook/assets/symbol-info%20%282%29.png)
 
 All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../../.gitbook/assets/2v.png).
 
