@@ -8,6 +8,8 @@ The Symbol lookup window shows all symbols which are available through the broke
 
 ![](../../../.gitbook/assets/symbol-lookup-copy.jpg)
 
+Note: click on the symbol icon in the lookup of the chosen panel to open the Symbol info panel.
+
 The Symbol lookup contains two drop-down lists with exchanges![](../../../.gitbook/assets/all-exchanges_116_22.png)and symbols grouped according to their types, which are used on the server and available to the user![](../../../.gitbook/assets/all-types_116_22.png). All symbols are shown in the default sequence. To filter the Symbol lookup by an exchange or symbol name, you need to select the required exchange and/or symbol type from the lists.
 
 ![](../../../.gitbook/assets/short-list-exchanges_196_292.png)
