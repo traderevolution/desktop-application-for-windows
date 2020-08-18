@@ -64,11 +64,15 @@ Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist 
 
 ### **Symbol info**
 
-Symbol info panel displays information for a selected symbol. To open the panel, click on the info button![](../../../.gitbook/assets/info1%20%281%29.png)of a certain symbol in the Watchlist. 
+Symbol info panel displays information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option.
 
-![](../../../.gitbook/assets/symbol-info-small.png)
+![](../../../.gitbook/assets/unnamed-1-%20%281%29.png)
 
-All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following buttons appear in a header of a group when it is hidden or opened![](../../../.gitbook/assets/mac-buttons-small.png). 
+The Symbol info window will be opened:
+
+![](../../../.gitbook/assets/unnamed%20%282%29.png)
+
+All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following buttons appear in a header of a group when it is hidden or opened![](../../../.gitbook/assets/mac-buttons-small.png). 
 
 The following information is available in each group:
 
