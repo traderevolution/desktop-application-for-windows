@@ -29,7 +29,7 @@ Swipe left the selected symbol to open Market depth/Order entry/Chart screen by 
 
 ![](../../../.gitbook/assets/4%20%2864%29.png)
 
-### **Symbols lists creation**
+### **Symbols list creation**
 
 The Watchlist screen enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, tap the![](../../../.gitbook/assets/1-1-.png)button.
 

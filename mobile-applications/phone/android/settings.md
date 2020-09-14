@@ -47,27 +47,9 @@ After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authent
 
 ![](../../../.gitbook/assets/3%20%2896%29.png)
 
-The user authentication occurs after putting a finger on the sensor and successful fingerprint recognition.  
+The user authentication occurs after putting a finger on the sensor and successful fingerprint recognition.
 
+In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint:
 
-  
-
-
-  
-
-
-  
-
-
-\*\*\*\*
-
-  
-
-
-  
-
-
-
-
-
+![](../../../.gitbook/assets/screenshot_20200914-103751_trader-evolution.jpg)
 

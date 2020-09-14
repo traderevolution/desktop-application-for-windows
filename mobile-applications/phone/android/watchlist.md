@@ -37,7 +37,7 @@ For Options the detailed symbols' information \(description\) is also available 
 
 ![](../../../.gitbook/assets/6%20%281%29.jpg)
 
-### **Symbols lists creation**
+### **Symbols list creation**
 
 The Watchlist screen enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, tap the![](../../../.gitbook/assets/1-1-.png)button.
 
