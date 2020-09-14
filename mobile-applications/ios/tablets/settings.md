@@ -28,3 +28,27 @@ In ‘Defaults’ settings section you can adjust the following:
 * Position modifying;
 * Position closing.
 
+### Other
+
+![](../../../.gitbook/assets/simulator-screen-shot-ipad-pro-11-inch-2nd-generation-2020-09-14-at-13.46.16.png)
+
+The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked. 
+
+Biometric authentication enables a user to log in to the mobile application more securely by using the Fingerprint or FaceID features.
+
+![](../../../.gitbook/assets/1%20%28143%29.png)
+
+To apply Fingerprint in the application for subsequent logins, a user should put his finger on the sensor.
+
+![](../../../.gitbook/assets/2%20%28122%29.png)
+
+After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
+
+![](../../../.gitbook/assets/id.png)
+
+The user authentication occurs after putting a finger on the sensor and successful fingerprint recognition.
+
+In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint.
+
+
+
