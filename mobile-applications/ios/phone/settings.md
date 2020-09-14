@@ -41,7 +41,7 @@ Biometric authentication enables a user to log in to the mobile application more
 
 To apply Fingerprint in the application for subsequent logins, a user should put his finger on the sensor.
 
-![](../../../.gitbook/assets/simulator-screen-shot-iphone-11-tolko-1-raz.png)
+![](../../../.gitbook/assets/111111111.png)
 
 After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
 
