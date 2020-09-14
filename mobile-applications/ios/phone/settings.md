@@ -31,6 +31,8 @@ In ‘Defaults’ settings section you can adjust the following:
 
 ### Other
 
+![](../../../.gitbook/assets/simulator-screen-shot-iphone-8-2020-09-14-at-13.49.05.png)
+
 The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked. 
 
 Biometric authentication enables a user to log in to the mobile application more securely by using the Fingerprint or FaceID features.
