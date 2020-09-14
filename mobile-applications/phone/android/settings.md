@@ -51,5 +51,5 @@ The user authentication occurs after putting a finger on the sensor and successf
 
 In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint:
 
-![](../../../.gitbook/assets/screenshot_20200914-103751_trader-evolution.jpg)
+![](../../../.gitbook/assets/feis.jpg)
 
