@@ -8,20 +8,21 @@
 
 Tap the name of the symbol at the list of added symbols to open the chart:
 
-![](../../../.gitbook/assets/2%20%28105%29.png)
+![](../../../.gitbook/assets/simulator-screen-shot-iphone-11-2020-09-29-at-17.54.07.png)
 
 ### **Chart toolbar** 
 
 Tap the button![](../../../.gitbook/assets/2-kopiya%20%283%29.png)to open Chart toolbar.
 
-![](../../../.gitbook/assets/3%20%2886%29.png)
+![](../../../.gitbook/assets/simulator-screen-shot-iphone-11-2020-09-29-at-17.54.20.png)
 
-The Chart toolbar consists of 4 items:
+The Chart toolbar consists of 3 items:
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
-* Indicators – allows to choose the needed indicator for technical analysis;
 * Chart templates – allows to create a chart template;
-* Settings – allows to open the Chart settings screen.
+* Settings – allows to open the Chart settings screen and configure the following items:
+
+![](../../../.gitbook/assets/simulator-screen-shot-iphone-11-2020-09-29-at-17.54.35.png)
 
 ### **Indicators**
 
