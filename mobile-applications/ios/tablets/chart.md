@@ -2,7 +2,7 @@
 
 The Chart is the most important tool for active trading and market analyzing. The Chart screen can be accessed from the main menu of the application through the Watchlist screen, and also from Orders and Positions screens.
 
-![](../../../.gitbook/assets/1%20%28137%29.png)
+![](../../../.gitbook/assets/simulator-screen-shot-ipad-pro-11-inch-2nd-generation-2020-09-29-at-18.03.18.png)
 
 In the ‘Indices’ section of the Watchlist swipe left or right the chart to change the symbol and choose the time frame.
 
@@ -12,14 +12,15 @@ Tap the name of the symbol at the list of added symbols to open the chart by thi
 
 Tap the button![](../../../.gitbook/assets/2-kopiya%20%282%29.png)to open Chart toolbar.
 
-![](../../../.gitbook/assets/2%20%2897%29.png)
+![](../../../.gitbook/assets/simulator-screen-shot-ipad-pro-11-inch-2nd-generation-2020-09-29-at-18.03.26.png)
 
-The Chart toolbar consists of 4 items:
+The Chart toolbar consists of 3 items:
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
-* Indicators – allows to choose the needed indicator for technical analysis;
 * Chart templates – allows to create a chart template;
-* Settings – allows to open the Chart settings screen.
+* Settings – allows to open the Chart settings screen and configure the following items:
+
+![](../../../.gitbook/assets/simulator-screen-shot-ipad-pro-11-inch-2nd-generation-2020-09-29-at-18.03.37.png)
 
 ### **Indicators**
 
