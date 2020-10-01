@@ -14,16 +14,15 @@
 
 ![](../../../../.gitbook/assets/view1-desktop.png)
 
-* Back color - allows setting up the color of chart background.
+* Back color - allows setting up the color of the chart background.
 * Watermark color - allows setting up the color of the watermark color.
 * Watermark mode - allows displaying watermark by symbol/description \(or both\) as well as hiding it.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
+* Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
 
 ![](../../../../.gitbook/assets/view2-desktop.png)
-
-* Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
 
 #### **Time scale**
 
