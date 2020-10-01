@@ -16,7 +16,7 @@ The ‘Chart Preferences’ window contains the following sections, stored into 
 
 ### **View**
 
-![](../../../../.gitbook/assets/2-2.png)
+![](../../../../.gitbook/assets/mac-watermark.png)
 
 The following adjustments are available here:
 
