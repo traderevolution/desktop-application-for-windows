@@ -14,7 +14,9 @@
 
 ![](../../../../.gitbook/assets/screenshot_1%20%285%29.png)
 
-* Window colors - allows setting up the color of chart background and the watermark color.
+* Back color - allows setting up the color of chart background.
+* Watermark color - allows setting up the color of the watermark color.
+* Watermark mode - allows displaying watermark by symbol/description \(or both\) as well as hiding it.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
