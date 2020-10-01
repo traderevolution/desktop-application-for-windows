@@ -12,13 +12,15 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ### **View**
 
-![](../../../.gitbook/assets/2%20%2874%29.png)
+![](../../../.gitbook/assets/veb-votermark1.png)
 
-* Background colors - allows setting up color of the chart background and watermark color.
+* Back color - allows setting up the color of the chart background.
+* Watermark mode - allows displaying the Symbol/Description watermark \(or both\) as well as hiding it.
+* Watermark color - allows setting up the color of the watermark.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 
-![](../../../.gitbook/assets/3%20%287%29.png)
+![](../../../.gitbook/assets/veb-votermark2.png)
 
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
 * Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
