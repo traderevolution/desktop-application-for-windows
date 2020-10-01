@@ -8,20 +8,21 @@ The Chart screen can be accessed only from the Watchlist screen.
 
 Tap the name of the symbol at the list of added symbols to open the chart:
 
-![](../../../.gitbook/assets/2%20%2883%29.png)
+![](../../../.gitbook/assets/1%20%286%29.jpeg)
 
 ### **Chart toolbar** 
 
 Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 
-![](../../../.gitbook/assets/3%20%2876%29.png)
+![](../../../.gitbook/assets/2%20%284%29.jpeg)
 
-The Chart toolbar consists of 4 items:
+The Chart toolbar consists of 3 items:
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
-* Indicators – allows to choose the needed indicator for technical analysis; 
 * Chart templates – allows to create a chart template;
-* Settings – allows to open the Chart settings screen.
+* Settings – allows to open the Chart settings screen and configure the following items:
+
+![](../../../.gitbook/assets/3%20%284%29.jpeg)
 
 ### **Indicators**
 
