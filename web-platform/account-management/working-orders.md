@@ -16,7 +16,7 @@ To open a new Working orders panel, select Terminal -&gt; Working orders.
 * Price – price, at which the order is to be executed.
 * Stop price – stop price for special stop order.
 * Current price – market price obtainable from broker.
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK.
+* TIF – the order's time in force.
 * Qty. filled – executed quantity of the order when only part of the order was executed.
 * Qty. remaining – difference between quantity and executed quantity when only part of the order was executed.
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
@@ -51,8 +51,8 @@ The most important functions related to Working orders can be viewed as buttons 
 * Cancel Sell – cancels all sell orders.
 * Cancel Stops – cancels all stop orders.
 * Cancel Limits – cancels all limit orders.
-* Cancel Days – cancels all day orders \(Validity=Day\).
-* Cancel GTCs – cancels all GTC orders \(Validity=GTC\).
+* Cancel Days – cancels all day orders \(TIF=Day\).
+* Cancel GTCs – cancels all GTC orders \(TIF=GTC\).
 * Cancel selected – cancels all selected orders.
 * Cancel – cancels all orders by selected symbol and account.
 * Modify order – allows modification of the selected order.
