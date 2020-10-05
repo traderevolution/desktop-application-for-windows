@@ -9,7 +9,7 @@ In ‘Defaults’ settings section you can adjust the following:
 ![](../../../.gitbook/assets/1%20%28107%29.png)
 
 * Order quantity – displays amount of lots for opening an order;
-* TIF \(Time-in-force\) – allows to specify order activation time-frames by selecting among the following: Day, GTC, IOC, FOK, GTD;
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
 * Order type – allows to select one of the following orders: Market, Limit, Stop, Stop limit, Trailing stop;
 * Quantity in lots - if checked, quantity is displayed in lots, if unchecked – in units;
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
