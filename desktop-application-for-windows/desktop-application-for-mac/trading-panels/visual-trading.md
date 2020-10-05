@@ -14,7 +14,7 @@ In order to start visual trading, click on the 'Chart Order entry' button![](../
 
 1.  Quantity – the order quantity;
 
-2.  Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
+2.  TIF – for specifying Time-in-force parameter. The following TIFs are available: Day, GTC, IOC, FOK, GTD.
 
 3.  SL – for specifying Stop Loss parameters;
 
