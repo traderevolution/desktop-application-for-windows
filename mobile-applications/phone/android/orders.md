@@ -17,7 +17,7 @@ Each section consists of the cards list with short information about the orders:
 * Date/Time – date and time when the order was placed \(executed, filled, modified, or cancelled\).
 * Current price – market price obtainable from broker.
 * Stop price – stop price for special Stop and Trailing stop orders.
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK.
+* TIF – the order's time in force.
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
 * Stop loss – stop loss price set for the order.
 * Take profit – take profit price set for the order.
@@ -45,7 +45,7 @@ In order to modify active order, tap the ‘Modify’ button and the following s
 
 ![](../../../.gitbook/assets/5%20%2845%29.png)
 
-Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
+Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
 Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
 
