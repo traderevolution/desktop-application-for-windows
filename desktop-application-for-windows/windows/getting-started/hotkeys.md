@@ -132,9 +132,9 @@ Place Sell order – allows placing Sell order according to the parameters of th
 
 Prepare LMT Order – allows activating the field for entering the value of LMT order.
 
-Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
 
-Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
 
 Modifier: Stop order when mouse click – allows stopping an order after mouse click.
 
