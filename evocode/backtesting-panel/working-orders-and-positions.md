@@ -64,7 +64,7 @@ The following columns are available for the Positions panel:
 * Price – price, at which the order is to be executed.
 * Stop price – stop price for special stop order.
 * Current price – market price obtainable from broker.
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK.
+* TIF – the order's time in force.
 * Qty. filled – executed quantity of the order when only part of the order was executed.
 * Qty. remaining – difference between quantity and executed quantity when only part of the order was executed.
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
@@ -84,6 +84,6 @@ The following columns are available for the Positions panel:
 The following functions can be realized through the context menu:
 
 * Export – allows to export table to CSV or Excel format.
-* Group by – allows to group positions by symbol, account, expiry date, side, symbol type, symbol description, and to group working orders by the same parameters as well as by date, time, Validity, Qty. filled, Qty. remaining, exchange, status.
+* Group by – allows to group positions by symbol, account, expiry date, side, symbol type, symbol description, and to group working orders by the same parameters as well as by date, time, TIF, Qty. filled, Qty. remaining, exchange, status.
 * Show close orders \(SL/TP\) – if checked, closing orders will be shown \(only for Working orders panel\).
 

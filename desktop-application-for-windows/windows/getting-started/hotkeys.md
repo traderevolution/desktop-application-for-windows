@@ -114,9 +114,9 @@ Cancel last order on selected instrument – allows cancelling the last order on
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 
-Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel.
+Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel.
 
-Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel.
+Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel.
 
 Buy market with amount equal to existed position – allows to open a position with parameters equal to the existed position with Buy side.
 
