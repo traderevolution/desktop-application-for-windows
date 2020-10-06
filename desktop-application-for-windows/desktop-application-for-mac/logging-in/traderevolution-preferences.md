@@ -72,7 +72,7 @@ The full information about Hotkeys preferences is represented in the article bel
   * FOK \(Fill or kill\) – an order will be immediately fully executed or not executed at all.
 
 * Limit/Stop Limit Validity – allows to set up a default validity of Limit and Stop Limit orders;
-* Stop Validity – allows to set up a default time-in-force of a Stop order;
+* Stop Validity – allows to set up a default validity of a Stop order;
 * Default qty in lots – allows to indicate the default qty of lots for trading;
 * Show offset in – allows to show offset in Ticks or Points;
 * Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the 'Limit offset, ticks' field;
