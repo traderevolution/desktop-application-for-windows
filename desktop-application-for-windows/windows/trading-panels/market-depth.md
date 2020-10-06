@@ -37,7 +37,7 @@ The color of QTY cell depends on a side of a position:
 
 * Quick trading bar - this function makes placing Stop or Limit orders very simple. Just choose the offset and click the corresponding button. The step option adjusts the offset buttons. In order to activate quick trading, click on the 'Quick trading' button located near 'Mouse trading' button, or choose the same option from the context menu;
 * Detail quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows the total volume at each price level. On the left side are bid volumes, and on the right one – ask volumes;
-* Order entry is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). The quantity, type and Validity of an order, limit and stop price can all be adjusted here.
+* Order entry is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). The quantity, type and TIF of an order, limit and stop price can all be adjusted here.
 
 The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose the way the panel looks, open context menu -&gt; View:
 
