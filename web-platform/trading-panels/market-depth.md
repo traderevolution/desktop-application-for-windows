@@ -8,7 +8,7 @@ The Market depth panel allows traders to view and trade Level II quotes. To open
 
 * Level I - only Level I quotes;
 * Position bar - short information about opened positions \(quantity, average price, current profit and loss\);
-* Order entry is a compact bar similar to the Order entry panel. The quantity, type and TIF of an order, limit and stop price can all be adjusted here.
+* Order entry is a compact bar similar to the Order entry panel. The quantity, type and Validity of an order, limit and stop price can all be adjusted here.
 * Detailed quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows the total volume at each price level. On the left side are Bid volumes, and on the right one – Ask volumes;
 
  The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To select the way the panel looks, open context menu -&gt; View:

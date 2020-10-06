@@ -54,7 +54,7 @@ c\) If positions are multidirectional, then qty. cell is not colored;
 
 d\) If there are no positions, qty. cell will not be colored and qty. value will have an empty value \( '---' \).
 
-* 'Order entry' is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). An order entry mode can be adjusted in the 'Market depth Preferences -&gt; View'. An 'Order entry' bar allows you to adjust the following: quantity, type and Validity of an order, limit and stop price;
+* 'Order entry' is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). An order entry mode can be adjusted in the 'Market depth Preferences -&gt; View'. An 'Order entry' bar allows you to adjust the following: quantity, type and TIF of an order, limit and stop price;
 * Detailed quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows a total volume at each price level. On the left side are bid volumes and on the right one – ask volumes.
 
 The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose panel's elements to be visible, open 'context menu -&gt; View':
