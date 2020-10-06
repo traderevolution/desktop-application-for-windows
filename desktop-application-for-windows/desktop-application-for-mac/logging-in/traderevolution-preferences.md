@@ -63,7 +63,7 @@ The full information about Hotkeys preferences is represented in the article bel
     * Buy trailing stop orders are the mirror image of sell trailing stop orders.
   * OCO \(One cancels other\) – an order containing two parts, if one part is executed, then the other part is automatically canceled;
 
-* Market TIF – allows to set up a default time-in-force of a Market order. The following types of TIF are available:
+* Market Validity – allows to set up a default time-in-force of a Market order. The following types of Validity are available:
 
   * Day – an order will be valid for a current trading day;
   * GTC \(Good till canceled\) – an order will remain active until it is canceled or a contract expires;
@@ -71,8 +71,8 @@ The full information about Hotkeys preferences is represented in the article bel
   * GTD \(Good till date\) – an order will be cancelled on a specified date, if not executed, or will remain active until a contract expiration;
   * FOK \(Fill or kill\) – an order will be immediately fully executed or not executed at all.
 
-* Limit/Stop Limit TIF – allows to set up a default time-in-force of Limit and Stop Limit orders;
-* Stop TIF – allows to set up a default time-in-force of a Stop order;
+* Limit/Stop Limit Validity – allows to set up a default time-in-force of Limit and Stop Limit orders;
+* Stop Validity – allows to set up a default time-in-force of a Stop order;
 * Default qty in lots – allows to indicate the default qty of lots for trading;
 * Show offset in – allows to show offset in Ticks or Points;
 * Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the 'Limit offset, ticks' field;
