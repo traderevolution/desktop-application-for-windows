@@ -60,7 +60,7 @@ QTY cell changes its color depending on the side of the position:
 * Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account;
 * Close position button allows closing the current position by selected symbol and account.
 
-On the right side of the Super DOM panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the Validity of the order, SL/TP offset and Trailing stop.
+On the right side of the Super DOM panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the TIF of the order, SL/TP offset and Trailing stop.
 
 Click on Buy Market or Sell Market to Buy/Sell at market price.
 
