@@ -4,7 +4,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 
                                               ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2812%29.png)                    ****     
 
-In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.
+In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask.
 
 ![](../../../.gitbook/assets/oe++%20%282%29.png)
 
@@ -27,9 +27,9 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 
 5.    "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders.
 
-**Validity:**
+**TIF:**
 
-Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK. This is especially important for active traders:
+TIF \(Time-in-force\) – allows traders to be more specific about time parameters in which an order is placed. This is especially important for active traders. It can be Day, GTC, IOC, FOK, GTD:
 
 1.    Day order, as the name implies, is valid for the current trading day.
 
