@@ -4,7 +4,7 @@ Orders history panel allows to view system actions related to opening and closin
 
 To open Orders history panel, select ‘Terminal -&gt; Orders history’:
 
-![](../../../.gitbook/assets/orders-history-small.png)
+![](../../../.gitbook/assets/history%20%281%29.png)
 
 ### Columns
 
