@@ -78,7 +78,7 @@
       * [Event log](desktop-application-for-windows/windows/informative-panels/event-log.md)
     * [Strategy manager](desktop-application-for-windows/windows/strategy-manager/README.md)
       * [Overview](desktop-application-for-windows/windows/strategy-manager/overview.md)
-      * [Strategy list section](desktop-application-for-windows/windows/strategy-manager/strategy-list-section.md)
+      * [Strategy list](desktop-application-for-windows/windows/strategy-manager/strategy-list-section.md)
     * [Trading ideas](desktop-application-for-windows/windows/trading-ideas.md)
     * [MAM system](desktop-application-for-windows/windows/mam-system/README.md)
       * [MAM basics](desktop-application-for-windows/windows/mam-system/mam-basics.md)

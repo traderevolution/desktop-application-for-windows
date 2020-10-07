@@ -1,4 +1,4 @@
-# Strategy list section
+# Strategy list
 
 To add the strategy click the ![](https://lh5.googleusercontent.com/isWhcrXfFRheDnXKkbMQHAiCau5nSDa6Bo4ANgeHrl_xNjKhQCcqHChg22KjICj4HI6V9s0kKwNYxMiSqzZ4ca5ySF_PQBDSrwPXvcrTTzugRiHd3NMoqK0tOUWCblwUB4kQC-Pp) button at the bottom of the Strategy list. The following window will open:
 
