@@ -77,6 +77,7 @@
       * [Economic calendar](desktop-application-for-windows/windows/informative-panels/economic-calendar.md)
       * [Event log](desktop-application-for-windows/windows/informative-panels/event-log.md)
     * [Strategy manager](desktop-application-for-windows/windows/strategy-manager/README.md)
+      * [Strategy list section](desktop-application-for-windows/windows/strategy-manager/strategy-list-section.md)
       * [Overview](desktop-application-for-windows/windows/strategy-manager/overview.md)
     * [Trading ideas](desktop-application-for-windows/windows/trading-ideas.md)
     * [MAM system](desktop-application-for-windows/windows/mam-system/README.md)
