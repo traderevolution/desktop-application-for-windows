@@ -114,9 +114,9 @@ Cancel last order on selected instrument – allows cancelling the last order on
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 
-Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel.
+Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel.
 
-Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel.
+Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel.
 
 Buy market with amount equal to existed position – allows to open a position with parameters equal to the existed position with Buy side.
 
@@ -132,9 +132,9 @@ Place Sell order – allows placing Sell order according to the parameters of th
 
 Prepare LMT Order – allows activating the field for entering the value of LMT order.
 
-Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
 
-Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, TIF, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
 
 Modifier: Stop order when mouse click – allows stopping an order after mouse click.
 

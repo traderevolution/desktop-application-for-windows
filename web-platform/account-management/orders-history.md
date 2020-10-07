@@ -18,7 +18,7 @@ The following columns are available in the panel:
 * Route – name of a route;
 * Date/Time – date and time of an order placement;
 * Order ID – an order's unique identifier. If a position is opened based on an order, this position will have the same number;
-* TIF – an order's time in force;
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
 * Stop price – stop price for a special stop order;
 * Login – a user's login;
 * Symbol type – a symbol's market category \(CFD, Spot, Stocks, etc.\);

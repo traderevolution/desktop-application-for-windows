@@ -16,7 +16,7 @@ Right-click on the table's column name in order to open the menu of available co
 * Price – price, at which the order is to be executed;
 * Stop price – stop price for special stop order;
 * Current price – market price obtainable from broker;
-* TIF – the order's time in force;
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
 * Quantity filled – executed quantity of the order when only part of the order was executed;
 * Quantity remaining – difference between quantity and executed quantity when only part of the order was executed;
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number;
@@ -57,8 +57,8 @@ The most important functions related to Working orders can be viewed as buttons 
 * Cancel Sell – cancels all sell orders.
 * Cancel Stops – cancels all stop orders. 
 * Cancel Limits – cancels all limit orders.
-* Cancel Days – cancels all day orders \(TIF=Day\).
-* Cancel GTCs – cancels all GTC orders \(TIF=GTC\).
+* Cancel Days – cancels all day orders \(Validity=Day\).
+* Cancel GTCs – cancels all GTC orders \(Validity=GTC\).
 * Cancel selected – cancels all selected orders.
 * Cancel symbol – cancels all orders by selected symbol.
 * Modify order – allows modification of the selected order.
@@ -99,7 +99,7 @@ The following actions can be performed via the Context menu:
 
   -       Type;
 
-  -       TIF.
+  -       Validity.
 
 * ​Duplicate panel – allows to duplicate a panel;
 * Preferences – allows to open 'Working orders Preferences' dialog box.

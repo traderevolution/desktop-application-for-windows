@@ -16,7 +16,7 @@ Orders history panel shows all orders sent during the backtesting. History range
 * Quantity – a filled amount of an order, in lots or in currency units, depending on what is selected in the settings dialog box;
 * Date/Time – date and time of an order placement;
 * Order ID – an order's unique identifier. If a position is opened based on an order, this position will have the same number;
-* TIF – an order's time in force;
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
 * Stop price – stop price for a special stop order;
 * Bought
 

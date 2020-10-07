@@ -21,7 +21,7 @@ The following columns are available in the panel:
 * Quantity – a filled amount of an order, in lots or in currency units, depending on what is selected in the Preferences dialog box;
 * Order ID – an order's unique identifier. If a position is opened based on an order, this position will have the same number;
 * Date/Time – an order's placement date and time;
-* TIF – an order's time in force;
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
 * Stop price – stop price for a special stop order;
 * Login – a user's login;
 * Symbol type – a symbol's market category \(CFD, Spot, Stocks, etc.\);
