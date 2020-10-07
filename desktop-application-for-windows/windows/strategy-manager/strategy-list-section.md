@@ -12,18 +12,17 @@ Using the Add folder and Add files buttons, the user can add folders or individu
 
 After clicking the Info icon, the user will see a tooltip, which shows the strategy name, comments to this strategy, copyrights, strategy author's name, his company, and strategy version.
 
-After clicking the Properties button, a modal window of strategy settings will open:  
+After clicking the Properties button, a modal window of strategy settings will open:
 
-
-![](https://lh4.googleusercontent.com/WaZjDnGZMt4AobWVNQnuRxu6A6DaV3Q1z1BeQjjWD6NPcCE7pXI-wc0n1TJQG5gICr-op301ZcMPPMozQddZbqRlcSp-DJnftrA95GBYhMoudkRfTD30oHuZCRu37RcvQ06ds79N)
+![](https://lh5.googleusercontent.com/a2p9nqjWJHQrNor249LLWE54ZpkuYpyxtwwUGr652QzelWsDNBHbLqYaZ9RfLNyw8jEO3Ormdw_JE-rrBe4HkVWld4lzmXslbCySqYXMErE-8kIjqq4rW8OXyJGJxbtfFkCCJtXv)
 
 There are two tabs in this window: "Main parameters", where the user can select the main instrument and its time frame, and the "Strategy inputs" tab, which allows selecting a hedge instrument and configure it by specifying the "Hedge amount" as well as "Take profit offse"t and "Stop loss offset":
 
-![](https://lh3.googleusercontent.com/JVA1s4Nc_THWx-HW-Wob0gtti00cMWcgUdu6MxF4oAmtsnU5WOYzbPkAy_HgR1muObkNXo1C_HD5vwena_1STrmd1yOaLYtZh5k80yOtPme1Ui3VdQ5QpaUBMGqGCsrBN32PJSIy)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 
 Please note that settings for the strategy and for index are different. The editable settings for index are short, middle, and long "Moving average periods":
 
-![](https://lh5.googleusercontent.com/r8cRugraKcmsVtXMo4pfwQpaYAo6b0PzQ1HkLwbmJG3ata1hZYQ9wsiHw543psrf16Oxt9FzSIVfLZbJ7wuuiLM-KD9ghJO2Nz3jM1QCZp_YQrCopeNVTnS2ziA4MTILTo_6Gw3a)
+![](https://lh5.googleusercontent.com/IX10obEfgkkiam8ix8oddzJPjque214zZlCPiGx3z5QRKq2IlW5sSepqppQTnwRG_ycZ6X8B-kpu0pnik4qIZ_PCRyiqnVLcC7ZDar_TOpR6UtKS1xDt3idEvlxQYEWVO8oWH493)
 
 The settings for the strategy are applied using the "Apply" button. To cancel the selected settings, or close the Settings window, click the "Cancel" button.   
 Next after the Properties button goes the Start/Stop button. After pressing the button, the strategy will start working, and the Start ![](https://lh6.googleusercontent.com/k5D7Eyf3-JDzaOehvho_Ex4_nevr5YC5gLn3zeJGSTnbFDYrSXmtEj16dMGATTmzijjtXyJKeffj977WjG5nDmepDMV3VBpnkvFvxoEk9BPusj_00lVGtXh8eMkHmGl9CTdqRZNA) button will change its icon to Stop ![](https://lh3.googleusercontent.com/Iqa8WKsS7WQb-diHEgCaoRKxouw0atLulDUnyHodlPnQE4XUuELhYMgTOjtEyR66PkhF37ptLGj_v6O05ePG9fnLQNEDYuYy3avGLOzDHBGNo2q1g7MHraFSUPE0xxpsxnocftuX).

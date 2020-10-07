@@ -24,7 +24,7 @@ Shows a detailed account statement for selected account\(s\). This report displa
 
 **Active orders report**
 
-Shows pending orders of the selected users, which are/were active within the specified period. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Symbol, Operation type, Order type, Price, Stop price, Quantity, Filled amount, remaining\_amount, Fee, TIF, Updated time, Route, Auto trade, Terminal type, tradingmode.
+Shows pending orders of the selected users, which are/were active within the specified period. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Symbol, Operation type, Order type, Price, Stop price, Quantity, Filled amount, remaining\_amount, Fee, Validity, Updated time, Route, Auto trade, Terminal type, tradingmode.
 
 **Balance report \(settled\)**
 
@@ -40,7 +40,7 @@ Shows the info on available Short sell shares for the symbol. The report display
 
 **Executed orders report**
 
-Shows information about all executed orders within a specified period. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Position ID, Symbol, Operation type, Order type, Price, Stop price, Actual price, Execute, Quantity, Execution fee, TIF, Updated time, Auto trade, Terminal type, tradingmode.
+Shows information about all executed orders within a specified period. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Position ID, Symbol, Operation type, Order type, Price, Stop price, Actual price, Execute, Quantity, Execution fee, Validity, Updated time, Auto trade, Terminal type, tradingmode.
 
 **Open positions report**
 
@@ -48,11 +48,11 @@ Shows data about all the positions opened at the current moment. The report disp
 
 **Order history report**
 
-Shows all orders and their change history. The report displays parameters as follows: Account name, Symbol group, Symbol, Side, Event, Side, Event, Order ID, Type, Price, Stop price, Quantity, Route, Actual time, TIF, Trader, Auto trade, Terminal type, expyear, expmonth, expday, derivativetype, strikeprice, ordertime, tradingmode.
+Shows all orders and their change history. The report displays parameters as follows: Account name, Symbol group, Symbol, Side, Event, Side, Event, Order ID, Type, Price, Stop price, Quantity, Route, Actual time, Validity, Trader, Auto trade, Terminal type, expyear, expmonth, expday, derivativetype, strikeprice, ordertime, tradingmode.
 
 **Order book report**
 
-Shows all orders and their current state - created or filled. The report displays information as follows: Account, Symbol, Side, Event, Order ID, Type, Price, Stop price, Quantity, order\_book\_disclosed\_qty, Route, Date, TIF, Modified, Login, Symbol type, expyear, expmonth, expdate, derivativetype, strikeprice, order\_book\_bought, order\_book\_sold, ordertime, tradingmode, External order id.
+Shows all orders and their current state - created or filled. The report displays information as follows: Account, Symbol, Side, Event, Order ID, Type, Price, Stop price, Quantity, order\_book\_disclosed\_qty, Route, Date, Validity, Modified, Login, Symbol type, expyear, expmonth, expdate, derivativetype, strikeprice, order\_book\_bought, order\_book\_sold, ordertime, tradingmode, External order id.
 
 **Position history report**
 
@@ -60,7 +60,7 @@ Show the list of all positions \(both, open and closed\). For Options, the Instr
 
 **Removed orders report**
 
-Show the list of removed \(canceled\) orders in the system. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Symbol, Operation type, Order type, Price, Stop price, Quantity, TIF, Removed, Auto trade, Terminal type, tradingmode.
+Show the list of removed \(canceled\) orders in the system. The report displays parameters as follows: Account\(s\), Account, Group, Order ID, Created at, Bound order ID, Symbol, Operation type, Order type, Price, Stop price, Quantity, Validity, Removed, Auto trade, Terminal type, tradingmode.
 
 **Trades report**
 
