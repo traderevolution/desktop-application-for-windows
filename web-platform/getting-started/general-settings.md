@@ -37,7 +37,7 @@ The General settings menu is used to customize and change general properties of 
 * Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked activates the 'Limit offset, ticks' field;
 * Limit offset, ticks – use to adjust the default quantity of ticks for offset of a limit price. Active only if 'Use stop limit instead stop' is checked;
 * Order type – allows specifying order type, available values: Market, Limit, Stop, Stop limit, Trailing stop, OCO;
-* Market/Limit\(Stop limit\)/Stop Validity – allows setting up validity for market/limit \(stop limit\)/stop orders respectively;
+* Market/Limit\(Stop limit\)/Stop TIF – allows setting up TIF for market/limit \(stop limit\)/stop orders respectively;
 * Types manager – allows setting defaults.
 
 To specify additional settings for orders you need to open 'Types manager' and select a symbol type - Forex, Futures, Equities, etc. for which you want to set up default lots values. It is also possible to override default lots values for separate symbols by adding them to the symbol types tree using "+" button. In order to apply symbol type default lots settings, just delete symbol from the tree using context menu:
