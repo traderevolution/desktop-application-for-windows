@@ -2,7 +2,7 @@
 
 Order entry panel allows a user to place market or pending orders. To open the panel, select Terminal -&gt; Order entry. Additionally, this panel can be seen within Chart:
 
-![](../../../.gitbook/assets/oe-mac-3.92.png)
+![](../../../.gitbook/assets/screenshot-2020-10-07-at-16.14.34.png)
 
 This panel contains the following settings:
 
