@@ -16,7 +16,7 @@ In order to send an Idea, a user-analyst has to specify mandatory order paramete
 
 * Symbol – allows selecting the instrument that will be used in the Idea;
 * Side – allows selecting Idea operation side: buy or sell;
-* TIF – dropdown list for selecting the order TIF type \(Day, GTC, IOC, FOK, GTD\);
+* Validity – dropdown list for selecting the order validity type \(Day, GTC, IOC, FOK, GTD\);
 * Product type – dropdown list for selecting the type of the product for the Idea. This parameter becomes available, when the product type for the symbol used differs from the General. Available options: Intraday, Delivery.
 
 With that, if the product type available to the User subscriber differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "_Delivery"_ to "_Intraday"_ product type:

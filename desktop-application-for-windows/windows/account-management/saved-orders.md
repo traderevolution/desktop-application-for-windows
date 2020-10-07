@@ -22,7 +22,7 @@ The following columns are available in the panel:
 * Bid/Ask - current Bid and Ask prices.
 * Last - the latest \(most up-to-date\) price for the symbol.
 * Quantity - quantity of trade for the symbol.
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK.
+* TIF - order's time in force.
 * Status - status of an order.
 * Place – button to assist in one click placing of individual orders.
 * SL offset - option used to set Stop loss as an offset.
