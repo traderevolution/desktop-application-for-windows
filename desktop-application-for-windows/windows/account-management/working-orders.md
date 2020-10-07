@@ -4,7 +4,7 @@
 
 To open a new Working orders panel, select Terminal -&gt; Working orders.
 
-![](../../../.gitbook/assets/92.png)
+![](../../../.gitbook/assets/92%20%281%29.png)
 
 The following columns are available in the panel:
 
