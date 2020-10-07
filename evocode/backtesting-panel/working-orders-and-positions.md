@@ -53,7 +53,7 @@ The following columns are available for the Positions panel:
 
     And for the Working orders panel:
 
-![](../../.gitbook/assets/screenshot_2.png)
+![](../../.gitbook/assets/screenshot_2-1-.png)
 
 * Symbol – name of the instrument to be traded.
 * Side – type of the trade to be performed \(Buy or Sell\).
