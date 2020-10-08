@@ -8,7 +8,7 @@ In this window, the user can select a strategy to add. In addition, it is possib
 
 ![](https://lh3.googleusercontent.com/amjOg4uThuXHCV4BkbOlO_4JCfWAC5w1ORfrpXq4KqkrtMkCmniZ6sQLxvvdXKAStZrRqsEHvUaGvq-La-Wx3DVPuK8P9OdFd9DhtXE81ZZTfg4aVMod4EF1b_Y1NK-2k-7DszaS)
 
-Using the Add folder and Add files buttons, the user can add folders or individual files for import into Strategy manager. After adding, the strategy will be displayed in the Strategy list. On the right side of each strategy there are "Info", "Settings", "Start", "View more actions" and "Remove" buttons![](https://lh3.googleusercontent.com/GhFv60z9eP5tdLJE8JBhLuu2dan5sRd9Mcf9r4k4pSDxzpc6i5hChnAOAW2hRgeKc9aRKx3wU7ZzlqmDiXLeuSEd_SEP0Pg4-mOoD7yh56RBAr0asyHgemC-7eTDjtkE-ssrZwdg). ****
+Using the Add folder and Add files buttons, the user can add folders or individual files for import into Strategy manager. After adding, the strategy will be displayed in the Strategy list. On the right side of each strategy there are "Info", "Settings", "Start", "View more actions" and "Remove" buttons![](https://lh3.googleusercontent.com/GhFv60z9eP5tdLJE8JBhLuu2dan5sRd9Mcf9r4k4pSDxzpc6i5hChnAOAW2hRgeKc9aRKx3wU7ZzlqmDiXLeuSEd_SEP0Pg4-mOoD7yh56RBAr0asyHgemC-7eTDjtkE-ssrZwdg).
 
 After clicking the Info icon, the user will see a tooltip, which shows the strategy name, comments to this strategy, copyrights, strategy author's name, his company, and strategy version.
 
