@@ -4,7 +4,7 @@ This section displays information on Positions, Filled Orders, Working Orders, O
 
 ![](https://lh6.googleusercontent.com/LYhd1cNEnreWFEmREptgGiQQRMf0gVr2onlW5HJzpn_tJEecx-x6Qktt0f1Q32z4IQJpK-vWjyx5Xy0Rkbn_jV8Jt8vrCS1E7yb7pHw1uFUrkgFQcRSrtnLFtdCyB1JqJr90-Y1i)
 
-Each of these tabs provides specific information on positions and orders. On the "Positions" tab \(pictured above\), it is also a possibility to close a specific position by pressing![](https://lh5.googleusercontent.com/xZ_VlmjdpMJksbvBrLP_l22mBl3oBFTVdB86dZhX6J_YSeq9mqWcqb3M6o91GqUbjmDyWKD42mm8U3FJ4EXRuJxg7CD4AHRB5L7apLOSh7dLQOVJgVVlFNmpJywo4xQYC9iPyQaJ)button in the Close column. After clicking this button, a window allowing to fully or partially close a position, as well as to use the "Manual Trade" function, will open.
+Each of these tabs provides specific information on positions and orders. On the "Positions" tab \(pictured above\), it is also a possibility to close a specific position by pressing![](https://lh5.googleusercontent.com/xZ_VlmjdpMJksbvBrLP_l22mBl3oBFTVdB86dZhX6J_YSeq9mqWcqb3M6o91GqUbjmDyWKD42mm8U3FJ4EXRuJxg7CD4AHRB5L7apLOSh7dLQOVJgVVlFNmpJywo4xQYC9iPyQaJ)button in the Close column. After clicking this button, a window allowing to fully or partially close a position, as well as to use the "Manual Trade" function, will be opened.
 
 ![](https://lh3.googleusercontent.com/Qhcu265qm1xoyP7gDJmaEmhU75YtueJ5c8lFz6dLCJFROGzJAbLMat8rmZ112p9xS4BmuqjG_8TA1l7dj8QdyvuMUgDKHv3uROcVigaJd3Dd1Ns3ObpB5JybUXuNaVQdZHSu939Q)
 
