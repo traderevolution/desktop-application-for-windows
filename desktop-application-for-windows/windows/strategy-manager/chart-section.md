@@ -1,6 +1,6 @@
 # Chart section
 
-The Chart panel displays the current chart for the selected strategy. At the top of the panel, the user can switch between tabs that display the chart itself or its statistics. 
+The Chart panel displays the current chart for the selected strategy. At the top of the panel, the user can switch between tabs that display the chart itself or its statistics.
 
 ![](https://lh5.googleusercontent.com/WzZ3a9fARiR-oyDBTe4unuT0gpuafp9evZCwTISiu9m8cpHMGc21W_Qcw6xivKIzDEoH-Oaw6Kv08Yi3jFNXwp3-3nuCh6o2lo95MAJIsGpMUi8HqsP37ofARQmM-TmH3mXVEXRe)
 
