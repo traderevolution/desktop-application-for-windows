@@ -4,7 +4,7 @@ Working orders panel lists all created orders which are visible for a user.
 
 To open a new Working orders panel, select Terminal -&gt; Working orders.
 
-![](../../.gitbook/assets/screenshot_6%20%284%29.png)
+![](../../.gitbook/assets/screenshot_6-1-.png)
 
 The following columns are available in the panel:
 

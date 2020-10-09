@@ -37,7 +37,7 @@ Filled orders and Orders history sections can be viewed by selected date range, 
 
 ![](../../../.gitbook/assets/2%20%2888%29.png)
 
-![](../../../.gitbook/assets/2%20%28125%29.png)
+![](../../../.gitbook/assets/2%20%28126%29.png)
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
