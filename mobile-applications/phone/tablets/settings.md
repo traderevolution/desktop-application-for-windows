@@ -6,7 +6,7 @@ You can access the ‘Settings’ screen from the application's main menu in ord
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../.gitbook/assets/1%20%28102%29.png)
+![](../../../.gitbook/assets/55%20%282%29.png)
 
 * Order quantity – displays amount of lots for opening an order;
 * Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
