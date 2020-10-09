@@ -4,7 +4,7 @@ A user can access the "Settings" tab from the application’s "More" menu in ord
 
 ### Defaults
 
-![](../../../.gitbook/assets/4%20%2868%29.png)
+![](../../../.gitbook/assets/4%20%2869%29.png)
 
 In "Defaults" settings section you can adjust the following:
 
