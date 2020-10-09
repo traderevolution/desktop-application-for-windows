@@ -83,6 +83,7 @@
       * [Active positions/orders section](desktop-application-for-windows/windows/strategy-manager/active-positions-orders-section.md)
     * [Omnibus account management](desktop-application-for-windows/windows/omnibus-account-management/README.md)
       * [Overview](desktop-application-for-windows/windows/omnibus-account-management/overview.md)
+      * [Accounts section](desktop-application-for-windows/windows/omnibus-account-management/accounts-section.md)
     * [Trading ideas](desktop-application-for-windows/windows/trading-ideas.md)
     * [MAM system](desktop-application-for-windows/windows/mam-system/README.md)
       * [MAM basics](desktop-application-for-windows/windows/mam-system/mam-basics.md)
