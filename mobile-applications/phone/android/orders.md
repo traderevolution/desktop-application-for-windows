@@ -43,7 +43,7 @@ Filled orders and Orders history sections can be viewed by selected date range, 
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/5%20%2845%29.png)
+![](../../../.gitbook/assets/3%20%2899%29.png)
 
 Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
