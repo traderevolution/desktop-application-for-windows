@@ -76,8 +76,6 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 * Total size – when clicking on the Total size column, the price and total size values will be substituted in OE;
 * Price – when clicking on the Price column, only the price value will be substituted in OE \(for Limit order – limit price, for the Stop limit order, Stop order, Tr. stop – stop price\).
 
-![](../../../.gitbook/assets/md.jpg)
-
 ### **Market depth settings**
 
 #### **General settings**
