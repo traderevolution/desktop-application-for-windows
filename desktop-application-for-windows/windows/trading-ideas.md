@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../../.gitbook/assets/idea-sending-gen.png)
+![](../../.gitbook/assets/trading-ideas-new.png)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
