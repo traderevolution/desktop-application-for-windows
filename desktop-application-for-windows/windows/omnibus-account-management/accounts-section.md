@@ -32,6 +32,6 @@ The following information is available for viewing:
 * \#Positions - number of account positions;
 * \#Orders - number of account orders.
 
-By right-clicking any place in this panel, the user will be able to bring up two additional menus - Settings and Export. The “Settings” menu allows to customize the appearance of the panel and columns, as well as disable the displaying of needless columns. The “Export” menu allows exporting the necessary account information into .csv or .xlsx files. Also, in the upper right part of the panel there is![](https://lh6.googleusercontent.com/3PlmYuhV7RF2-rlRsezdzzbajQyvWX80FsdOwmuyzwDsjhhNCaPDVhXoY0ej2bxdWvWEkYj-d15WoV1alKQv390qIv7SfUZtHImuzUNohq2G23NPT3bhVpS20dWVwESKlv_z0wGQ)button. This button is intended for manual refreshing of data.  
+By right-clicking on any place in this panel, the user will be able to bring up two additional menus - Settings and Export. The “Settings” menu allows to customize the appearance of the panel and columns, as well as disable the displaying of needless columns. The “Export” menu allows exporting the necessary account information into .csv or .xlsx files. Also, in the upper right part of the panel there is![](https://lh6.googleusercontent.com/3PlmYuhV7RF2-rlRsezdzzbajQyvWX80FsdOwmuyzwDsjhhNCaPDVhXoY0ej2bxdWvWEkYj-d15WoV1alKQv390qIv7SfUZtHImuzUNohq2G23NPT3bhVpS20dWVwESKlv_z0wGQ)button. This button is intended for manual refreshing of data.  
 
 
