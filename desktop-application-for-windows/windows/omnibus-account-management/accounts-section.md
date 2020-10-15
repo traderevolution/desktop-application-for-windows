@@ -2,7 +2,7 @@
 
 In the upper part the user can find the added Omnibus accounts, switch between them, thereby selecting the active account for which the data will be displayed. Also, the user can open a window that allows displaying the needed accounts or all accounts at once. This window is opened using the![](https://lh5.googleusercontent.com/to8h8q1B1K7bcD5khrEX7kK5cSBIaOyNZJkB1suM7rdYfwRCWFHVaQXNXLZItSA7I0JPZPGlnUuIiRUcDfBXMcr6_OV5gUgvR9q4-ND7fcL4De6Akz2kRnkxBGzZrcUD7i27jMa9)button in the upper left part of the “Omnibus account management” panel.
 
-![](https://lh6.googleusercontent.com/8xy9AuO2VvxxY_ASHa9PDPRH6n68n0mB3tqrEpnahahE8NjbKXypkPvRGIebFCmL8y68sJ2ez5fyNHFmvsKNLKDL_YOfCYcrc9betQciPPSMGQHUHarnue14NkACPKb45gxf2mQx)
+![](../../../.gitbook/assets/screenshot_3.jpg)
 
 This window contains the following elements:
 
@@ -15,7 +15,7 @@ Depending on the added accounts and the activation of the “Multiselect” chec
 
 Accounts section contains information on the added accounts:
 
-![](https://lh4.googleusercontent.com/gsmXJdyEaT0YIyxDfIoc21P6tsGsNyp-B5uDgQZu_sKxbeAwmqZbF_x0URIkWIlzJexX4FZX2QLdkb1qOc88AK6P7HbeQ7sacuZ6-0ZyhlSoiFIFphwoKMHw3CH3r0pYmg5Hlgw1)
+![](../../../.gitbook/assets/screenshot_4.jpg)
 
 The following information is available for viewing:
 
