@@ -12,7 +12,7 @@ Using the Add folder and Add files buttons, the user can add folders or individu
 
 ![](../../../.gitbook/assets/5%20%281%29.jpg)
 
-After howering over the Info icon, the user will see a tooltip, which shows the strategy name, comments to this strategy, copyrights, strategy author's name, his company, and strategy version.
+After hovering over the Info icon, the user will see a tooltip, which shows the strategy name, comments to this strategy, copyrights, strategy author's name, his company, and strategy version.
 
 After clicking the Properties button, a modal window of strategy settings will open:
 
