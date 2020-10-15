@@ -18,7 +18,7 @@ After clicking the Properties button, a modal window of strategy settings will o
 
 ![](https://lh5.googleusercontent.com/a2p9nqjWJHQrNor249LLWE54ZpkuYpyxtwwUGr652QzelWsDNBHbLqYaZ9RfLNyw8jEO3Ormdw_JE-rrBe4HkVWld4lzmXslbCySqYXMErE-8kIjqq4rW8OXyJGJxbtfFkCCJtXv)
 
-There are two tabs in this window: "Main parameters", where the user can select the main instrument and its time frame, and the "Strategy inputs" tab, which allows selecting a hedge instrument and configure it by specifying the "Hedge amount" as well as "Take profit offse"t and "Stop loss offset":
+There are two tabs in this window: "Main parameters", where the user can select the main instrument and its time frame, and the "Strategy inputs" tab, which allows selecting a hedge instrument and configure it by specifying the "Hedge amount" as well as "Take profit offset" and "Stop loss offset":
 
 ![](../../../.gitbook/assets/image%20%2830%29.png)
 
