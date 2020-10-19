@@ -8,7 +8,7 @@ In order to open the “Omnibus account management” panel, select it from the 
 
 The following panel will be opened:
 
-![](../../.gitbook/assets/screenshot_3%20%282%29.jpg)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 This panel consists of two parts: 
 
