@@ -1,6 +1,6 @@
 # Strategy list
 
-To add the strategy click the![](https://lh5.googleusercontent.com/isWhcrXfFRheDnXKkbMQHAiCau5nSDa6Bo4ANgeHrl_xNjKhQCcqHChg22KjICj4HI6V9s0kKwNYxMiSqzZ4ca5ySF_PQBDSrwPXvcrTTzugRiHd3NMoqK0tOUWCblwUB4kQC-Pp)button at the bottom of the Strategy list. The following window will open:
+To add the strategy click the![](https://lh5.googleusercontent.com/isWhcrXfFRheDnXKkbMQHAiCau5nSDa6Bo4ANgeHrl_xNjKhQCcqHChg22KjICj4HI6V9s0kKwNYxMiSqzZ4ca5ySF_PQBDSrwPXvcrTTzugRiHd3NMoqK0tOUWCblwUB4kQC-Pp)button at the bottom of the Strategy list. The following window will be opened:
 
 ![](https://lh6.googleusercontent.com/RqCS8Pad-xSi_2tvayygIUSeAwRjKG2pMzV8JKg_fwJuWE4uHQg-s7gOlxyf-kvc-SMPMjK7uF7pEA8s0NCVcpY3joNyMHJajkAk93huoanwFvo7oPFym6LgcwoJbcmnzjTATaKP)
 
