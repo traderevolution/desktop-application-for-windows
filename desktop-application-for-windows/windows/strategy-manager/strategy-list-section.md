@@ -4,7 +4,7 @@ To add the strategy click the![](https://lh5.googleusercontent.com/isWhcrXfFRheD
 
 ![](https://lh6.googleusercontent.com/RqCS8Pad-xSi_2tvayygIUSeAwRjKG2pMzV8JKg_fwJuWE4uHQg-s7gOlxyf-kvc-SMPMjK7uF7pEA8s0NCVcpY3joNyMHJajkAk93huoanwFvo7oPFym6LgcwoJbcmnzjTATaKP)
 
-In this window, the user can select a strategy to add. In addition, it is possible to import a strategy from an external source. To import a strategy, click the![](https://lh6.googleusercontent.com/26tY-yBeRNZLu8S2pY1oYcMHoBP_n4fSKi7U2_pLHkE0JpDsLt0BhxeqUJpFrfvqmg6O1N0pBu-n4Bzza1i0Dej0bPi-yNX11btmBzVNwt0rj09_FzKiUJBTtVMyZ7Wnu6UP6iYy)button. The window for import will open:
+In this window, the user can select a strategy to add. In addition, it is possible to import a strategy from an external source. To import a strategy, click the![](https://lh6.googleusercontent.com/26tY-yBeRNZLu8S2pY1oYcMHoBP_n4fSKi7U2_pLHkE0JpDsLt0BhxeqUJpFrfvqmg6O1N0pBu-n4Bzza1i0Dej0bPi-yNX11btmBzVNwt0rj09_FzKiUJBTtVMyZ7Wnu6UP6iYy)button. The window for import will be opened:
 
 ![](https://lh3.googleusercontent.com/amjOg4uThuXHCV4BkbOlO_4JCfWAC5w1ORfrpXq4KqkrtMkCmniZ6sQLxvvdXKAStZrRqsEHvUaGvq-La-Wx3DVPuK8P9OdFd9DhtXE81ZZTfg4aVMod4EF1b_Y1NK-2k-7DszaS)
 
@@ -14,7 +14,7 @@ Using the Add folder and Add files buttons, the user can add folders or individu
 
 After hovering over the Info icon, the user will see a tooltip, which shows the strategy name, comments to this strategy, copyrights, strategy author's name, his company, and strategy version.
 
-After clicking the Properties button, a modal window of strategy settings will open:
+After clicking the Properties button, a modal window of strategy settings will be opened:
 
 ![](https://lh5.googleusercontent.com/a2p9nqjWJHQrNor249LLWE54ZpkuYpyxtwwUGr652QzelWsDNBHbLqYaZ9RfLNyw8jEO3Ormdw_JE-rrBe4HkVWld4lzmXslbCySqYXMErE-8kIjqq4rW8OXyJGJxbtfFkCCJtXv)
 
