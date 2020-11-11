@@ -4,7 +4,7 @@ Statement panel displays the logs of all account operations performed by the use
 
 ![](../../../.gitbook/assets/screenshot_1%20%284%29.jpg)
 
-For adding or removing a column right-click the table header. The following information columns are available on this panel:
+For adding or removing a column, right-click the table header. The following information columns are available on this panel:
 
 * Account – displays the account name;
 * Instrument name – displays the name of the traded instrument;
