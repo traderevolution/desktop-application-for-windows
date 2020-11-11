@@ -2,7 +2,7 @@
 
 Statement panel displays the logs of all account operations performed by the user for the present day or for a certain period of time. In order to open the Working orders panel, select it from the Terminal drop-down list, which is located in the header of the terminal. The panel itself looks as follows:
 
-![](../../../.gitbook/assets/screenshot_1%20%283%29.jpg)
+![](../../../.gitbook/assets/screenshot_1%20%284%29.jpg)
 
 For adding or removing a column right-click the table header. The following information columns are available on this panel:
 
