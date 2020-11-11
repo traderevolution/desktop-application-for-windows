@@ -67,6 +67,7 @@
       * [Account statistics](desktop-application-for-windows/windows/account-information/account-statistics.md)
       * [Positions balance](desktop-application-for-windows/windows/account-information/positions-balance.md)
       * [Currencies exposure](desktop-application-for-windows/windows/account-information/currencies-exposure.md)
+      * [Statement](desktop-application-for-windows/windows/account-information/statement.md)
       * [Reports](desktop-application-for-windows/windows/account-information/reports.md)
     * [Informative panels](desktop-application-for-windows/windows/informative-panels/README.md)
       * [Gainers/Losers list](desktop-application-for-windows/windows/informative-panels/gainers-losers-list.md)
