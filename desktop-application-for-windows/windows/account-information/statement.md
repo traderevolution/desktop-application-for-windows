@@ -1,6 +1,6 @@
 # Statement
 
-Statement panel displays the logs of all account operations performed by the user for the present day or for a certain period of time. In order to open the Working orders panel, select it from the Terminal drop-down list, which is located in the header of the Dealer terminal. The panel itself looks as follows:
+Statement panel displays the logs of all account operations performed by the user for the present day or for a certain period of time. In order to open the Working orders panel, select it from the Terminal drop-down list, which is located in the header of the terminal. The panel itself looks as follows:
 
 ![](../../../.gitbook/assets/screenshot_1%20%283%29.jpg)
 
@@ -33,7 +33,7 @@ In order to bring up the context menu, right-click anywhere within the panel; th
 
 * View – this item allows to show/hide the Totals \(Total amount and Total quantity\);
 * Search – enables the search bar in the upper right corner of the panel;
-* Export – allows exporting statement data into a separate file of .csv or .xlsx format;
+* Export – allows exporting statement data into a separate file of .csv or .xlsx format or immediately send it to print using the "Print to" option;
 * Settings – opens the Settings panel.
 
 ### Settings
