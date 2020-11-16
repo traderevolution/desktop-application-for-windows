@@ -21,8 +21,7 @@ For adding or removing a column, right-click the table header. The following inf
 
 ### Toolbar
 
-The toolbar of the Statement panel looks as follows:  
-
+The toolbar of the Statement panel looks as follows:
 
 ![](../../.gitbook/assets/screenshot_2%20%283%29.jpg)
 

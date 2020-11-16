@@ -48,12 +48,19 @@ The following sub-groups of elements displaying account details are available he
 
 To select element\(s\) from the sub-group\(s\), check needed element\(s\) and press the button 'OK'. Press the button 'Close' to cancel the selection and to quit the 'Customize account details' menu.
 
-* Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
-*  Clocks – shows a list of clocks:
+* Symbols –   opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. ****After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will open to add the necessary instruments. Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
 
-![](../../../.gitbook/assets/6%20%2829%29.png)
+![](../../../.gitbook/assets/screenshot_1%20%285%29.jpg)
 
-Check needed clock\(s\) to be displayed in the 'Info bar'.
+In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in this case, the user will have access to all the info in the Info bar.
+
+*  Clocks – shows a list of time zones:
+
+![](../../../.gitbook/assets/screenshot_3%20%286%29.jpg)
+
+Check needed clock\(s\) to be displayed in the 'Info bar'. There is also the Customize item in the list of time zones. This item allows access to the full list of available time zones, in order to add the necessary ones to the Clocks list, just tick the necessary checkboxes in the ‘Use time zone’ column. At the bottom of this window there is a button that allows resetting the displayed time zones to default:
+
+![](../../../.gitbook/assets/screenshot_4%20%281%29.jpg)
 
 All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../../.gitbook/assets/7%20%287%29.png).
 
