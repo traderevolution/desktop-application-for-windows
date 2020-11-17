@@ -52,7 +52,7 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 
 ![](../../../.gitbook/assets/screenshot_1%20%285%29.jpg)
 
-In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value.
+In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value. 
 
 *  Clocks – shows a list of time zones:
 
