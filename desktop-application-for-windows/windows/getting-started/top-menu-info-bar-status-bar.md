@@ -89,3 +89,26 @@ The Status bar displays \(from left to right\):
 * Lock trading – disables making all trading operations. After pressing the button, the notification in the center of the screen and the warning signs appear and it shows that trading is locked.
 * Date/Time – the current time or date; or both date and time.
 
+Clicking the date and time section will open the window for selecting the Terminal time zone:
+
+![](../../../.gitbook/assets/screenshot_1%20%287%29.jpg)
+
+This window contains the time zones available for the user, the first in the list is the user's local time zone, the second is the time zone of the server. The last on the list is the ‘Customize’ item, to get to this point, scroll down the list of time zones. Select the ‘Customize’ item in order to open the ‘Select time zones’ window where the user can redefine the default list of time zones:
+
+![](../../../.gitbook/assets/screenshot_2%20%286%29.jpg)
+
+
+
+Check the required time zones in order to include them in the default list and click ‘OK’. It is also possible to return the list to its default state by clicking the ‘Reset to default’ button.
+
+Please note that after changing the time zone, the time display will immediately change in the following panels:
+
+* Event log – time in the ‘Date’ column for Daily and Range query;
+* Symbol info – instrument trading session time;
+* Watchlist/Market depth – time in the ‘Last date’ column;
+* Chart – time displayed at the bottom of the chart, also, when the time zone is changed, the display of trades on the chart will be automatically redrawn in accordance with the selected time zone;
+* Time & Sales – time in the ‘Time’ column;
+* Position/Working orders – time in the ‘Date/Time’ column;
+* Filled orders/Orders history – time in the ‘Date’ column for Daily and Range query;
+* High/Low list – time in the ‘Time’ column.
+

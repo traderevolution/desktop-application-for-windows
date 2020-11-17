@@ -10,7 +10,7 @@ When viewing a position, the user can quickly switch to the chart to view its cu
 
 ![](../../../.gitbook/assets/screenshot_2%20%285%29.jpg)
 
-To quickly go to the chart, just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI).
+To quickly go to the chart, just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI)in the upper left part of the chart. The same actions can be performed with superpositions as well.
 
 In order to get full information about a symbol, tap a symbol's name.
 

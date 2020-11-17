@@ -12,12 +12,13 @@ For each asset the following information is available:
 * Start day qty. \(SOD qty\)  – asset quantity at the user’s account at the beginning of a day. While logging in it is sent from a server.
 * Current value for sell – allows showing the price of the asset, which is available for the sell by Current price.
 
-Current value for sell = Available for sell \*Current price \* CrossPrice  
+Current value for sell = Available for sell \*Current price \* CrossPrice
 
+When viewing an asset, the user can sell it or quickly switch to the chart to view its current state and return to the viewed asset. In order to do this swipe left the card of the selected asset and the following buttons will become available:
 
-Swipe left a chosen asset and tap ‘Sell Asset’ button to make a corresponding action.
+![](../../../.gitbook/assets/screenshot_7%20%283%29.png)
 
-![](../../../.gitbook/assets/2%20%2879%29.png)
+To quickly go to the chart or sell the asset, just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI)in the upper left part of the chart.
 
 To open additional data by the chosen asset, tap on it and the table with data will be displayed.
 

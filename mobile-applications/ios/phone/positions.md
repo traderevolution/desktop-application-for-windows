@@ -30,6 +30,12 @@ In order to get full information about a symbol, tap a symbol's name.
 
 In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions screen.
 
+When viewing a position, the user can quickly switch to the chart to view its current state and return to the viewed position. In order to do this swipe left the card of the selected position and the following buttons will become available:
+
+![](../../../.gitbook/assets/screenshot_5%20%286%29.png)
+
+To quickly go to the chart, just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI)in the upper left part of the chart. The same actions can be performed with superpositions as well.
+
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
 ![](../../../.gitbook/assets/3%20%2882%29.png)
