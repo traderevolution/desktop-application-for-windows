@@ -6,6 +6,12 @@ The Positions screen displays all opened positions. Every new opened position ap
 
 The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
 
+When viewing a position, the user can quickly switch to the chart to view its current state and return to the viewed position. In order to do this swipe left the card of the selected position and the following buttons will become available:
+
+![](../../../.gitbook/assets/screenshot_2%20%285%29.jpg)
+
+To quickly go to the chart, just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI).
+
 In order to get full information about a symbol, tap a symbol's name.
 
 ![](../../../.gitbook/assets/2%20%2886%29.png)
