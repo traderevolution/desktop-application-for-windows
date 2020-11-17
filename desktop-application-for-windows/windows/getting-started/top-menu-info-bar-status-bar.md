@@ -97,8 +97,6 @@ This window contains the time zones available for the user, the first in the lis
 
 ![](../../../.gitbook/assets/screenshot_2%20%286%29.jpg)
 
-
-
 Check the required time zones in order to include them in the default list and click ‘OK’. It is also possible to return the list to its default state by clicking the ‘Reset to default’ button.
 
 Please note that after changing the time zone, the time display will immediately change in the following panels:
