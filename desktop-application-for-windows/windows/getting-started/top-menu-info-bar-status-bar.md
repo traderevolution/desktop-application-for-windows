@@ -110,5 +110,5 @@ Please note that after changing the time zone, the time display will immediately
 * Time & Sales – time in the ‘Time’ column;
 * Position/Working orders – time in the ‘Date/Time’ column;
 * Filled orders/Orders history – time in the ‘Date’ column for Daily and Range query;
-* High/Low list – time in the ‘Time’ column.
+* High/Low list – time in the ‘Time’ column. 
 
