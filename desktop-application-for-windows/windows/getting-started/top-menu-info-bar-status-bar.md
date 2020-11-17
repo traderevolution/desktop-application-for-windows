@@ -48,11 +48,11 @@ The following sub-groups of elements displaying account details are available he
 
 To select element\(s\) from the sub-group\(s\), check needed element\(s\) and press the button 'OK'. Press the button 'Close' to cancel the selection and to quit the 'Customize account details' menu.
 
-* Symbols –   opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. ****After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will open to add the necessary instruments. Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
+* Symbols –   opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. ****After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments. Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
 
 ![](../../../.gitbook/assets/screenshot_1%20%285%29.jpg)
 
-In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in this case, the user will have access to all the info in the Info bar.
+In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value.
 
 *  Clocks – shows a list of time zones:
 
