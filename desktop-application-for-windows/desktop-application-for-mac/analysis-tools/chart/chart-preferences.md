@@ -44,7 +44,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/3%20%2855%29.png)
+![](../../../../.gitbook/assets/screenshot_1%20%286%29.jpg)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -60,7 +60,12 @@ Zoom:
 * Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
 * Fit settlement prices – if checked, the settlement prices will be fit into chart scaling.
 
-Highlighted prices:
+Show:
+
+* Show extended session – if checked, then all data received from the server will be displayed on the chart, if unchecked, then only data related to the Main session will be displayed;
+* Highlight extended sessions – color picker for selecting the background color of the area, which falls within the extended session.
+
+Highlighted prices:
 
 * Show settlement price – allows to show the current settlement price on the chart;
 * Settlement price style – allows to choose the style of the 'Settlement price' line;

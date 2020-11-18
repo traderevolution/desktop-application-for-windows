@@ -91,7 +91,7 @@ The Status bar displays \(from left to right\):
 
 Clicking the date and time section will open the window for selecting the Terminal time zone:
 
-![](../../../.gitbook/assets/screenshot_1%20%287%29.jpg)
+![](../../../.gitbook/assets/screenshot_1%20%288%29.jpg)
 
 This window contains the time zones available for the user, the first in the list is the user's local time zone, the second is the time zone of the server. The last on the list is the ‘Customize’ item, to get to this point, scroll down the list of time zones. Select the ‘Customize’ item in order to open the ‘Select time zones’ window where the user can redefine the default list of time zones:
 
@@ -108,5 +108,5 @@ Please note that after changing the time zone, the time display will immediately
 * Time & Sales – time in the ‘Time’ column;
 * Position/Working orders – time in the ‘Date/Time’ column;
 * Filled orders/Orders history – time in the ‘Date’ column for Daily and Range query;
-* High/Low list – time in the ‘Time’ column. 
+* High/Low list – time in the ‘Time’ column.  
 

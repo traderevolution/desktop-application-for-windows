@@ -37,7 +37,7 @@ Additional columns for Filled orders section:
 
 If, when viewing a Working order, the user needs to quickly switch to the Chart, modify the order or close it altogether, then it is necessary to swipe left the card of this order and the following buttons will become available:
 
-![](../../../.gitbook/assets/screenshot_1%20%286%29.jpg)
+![](../../../.gitbook/assets/screenshot_1%20%287%29.jpg)
 
 To quickly go to the chart, modify, or cancel the order just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI)in the upper left part of the chart.
 
