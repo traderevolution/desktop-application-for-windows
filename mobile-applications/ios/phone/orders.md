@@ -35,7 +35,7 @@ Additional columns for Filled orders section:
 * Trade volume – shows total volume of the trade.
 * Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. 
 
-If the user needs to quickly switch to the Chart, modify the order or close it altogether when viewing a Working order, then it is necessary to swipe left the card of this order and the following buttons will become available:
+If, when viewing a Working order, the user needs to quickly switch to the Chart, modify the order or close it altogether, then it is necessary to swipe left the card of this order and the following buttons will become available:
 
 ![](../../../.gitbook/assets/screenshot_6%20%287%29.png)
 
