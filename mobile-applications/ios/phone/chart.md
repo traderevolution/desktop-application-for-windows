@@ -1,6 +1,6 @@
 # Chart
 
-The Chart screen is the most important tool for active trading and market analyzing. The Chart screen can be accessed only from the Watchlist screen.
+The Chart screen can be accessed from the Watchlist screen. Also, it is possible to open a chart from the Orders, Positions, and Assets panels by swiping the desired instrument or asset to the left and tapping the ‘Chart’ button.
 
 ![](../../../.gitbook/assets/1%20%28132%29.png)
 
