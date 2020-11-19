@@ -105,7 +105,7 @@ In order to place a tool:
 
 Each drawing has its horizontal Settings bar:
 
-![](../../../.gitbook/assets/screenshot_2%20%287%29.jpg)
+![](../../../.gitbook/assets/screenshot_2%20%288%29.jpg)
 
 This bar allows the user to configure the following settings:
 

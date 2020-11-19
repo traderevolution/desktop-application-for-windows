@@ -43,6 +43,7 @@
     * [Technical indicators](desktop-application-for-windows/windows/technical-indicators/README.md)
       * [Channels](desktop-application-for-windows/windows/technical-indicators/channels/README.md)
         * [BB \(Bollinger bands\)](desktop-application-for-windows/windows/technical-indicators/channels/bb-bollinger-bands.md)
+        * [BBF \(Bollinger bands flat\)](desktop-application-for-windows/windows/technical-indicators/channels/bbf-bollinger-bands-flat.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
