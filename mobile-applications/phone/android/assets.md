@@ -14,9 +14,9 @@ For each asset the following information is available:
 
 Current value for sell = Available for sell \*Current price \* CrossPrice
 
-When viewing an asset, the user can sell it or quickly switch to the chart to view its current state and return to the viewed asset. In order to do this swipe left the card of the selected asset and the following buttons will become available:
+When viewing an asset, the user can sell it or quickly switch to the chart to assess its current state and return back to the selected asset. In order to do this swipe left the card of the selected asset and the following buttons will become available:
 
-![](../../../.gitbook/assets/screenshot_3%20%287%29.jpg)
+![](../../../.gitbook/assets/screenshot_3%20%289%29.jpg)
 
 To quickly go to the chart or sell the asset, just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI)in the upper left part of the chart.
 
