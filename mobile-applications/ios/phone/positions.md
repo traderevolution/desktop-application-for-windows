@@ -30,7 +30,7 @@ In order to get full information about a symbol, tap a symbol's name.
 
 In addition, you can close all positions by tapping the button ‘Close all’ located at the top right corner of the Positions screen.
 
-When viewing a position, the user can quickly switch to the chart to view its current state and return to the viewed position. In order to do this swipe left the card of the selected position and the following buttons will become available:
+When viewing a position, the user can quickly switch to the chart to assess its current state and return back to the selected position. In order to do this swipe left the card of the selected position and the following buttons will become available:
 
 ![](../../../.gitbook/assets/screenshot_5%20%286%29.png)
 
