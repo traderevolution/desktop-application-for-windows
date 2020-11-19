@@ -46,7 +46,7 @@ SMA — Simple Moving Average;
 SQRT — square root;  
 SD — standard deviation:
 
-        SD = SQRT \(SUM \(\(CLOSE — SMA \(CLOSE, N\)\)^2, N\)/N\)
+SD = SQRT \(SUM \(\(CLOSE — SMA \(CLOSE, N\)\)^2, N\)/N\)
 
 It is recommended to use 20-period Simple Moving Average as the middle line, and plot the top and bottom lines two standard deviations away from it. Besides, moving averages of less than 10 periods are of little effect.
 
