@@ -22,7 +22,7 @@ Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen and configure the following items:
 
-![](../../../.gitbook/assets/3%20%283%29.jpg)
+![](../../../.gitbook/assets/3%20%284%29.jpg)
 
 ### **Indicators**
 
@@ -105,7 +105,7 @@ In order to place a tool:
 
 Each drawing has its vertical Settings bar:
 
-![](../../../.gitbook/assets/screenshot_2%20%287%29.jpg)
+![](../../../.gitbook/assets/screenshot_2%20%288%29.jpg)
 
 This bar allows the user to configure the following settings:
 

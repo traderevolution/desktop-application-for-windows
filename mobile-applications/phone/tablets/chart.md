@@ -48,3 +48,74 @@ Read more information about Order entry screen here:
 
 [https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry)
 
+### Drawings
+
+A set of graphical tools is available to assist in price movements analysis:
+
+![](../../../.gitbook/assets/3%20%281%29.jpg)
+
+All of these tools are accessible via the Drawings panel. In order to open this panel tap the![](https://lh5.googleusercontent.com/Cy2wX4HhhifU3wXGFvNYsq67rneT1HGIpdDBRVl4jhTqo9Da1hma5yEi6otbQJzs6vPN0IzUyFxe90qFEvhMn3FnnHRHR8OlC9I2jhGzmr-2oPqsni3m3mLhwCNHe1LTgMMRT6ZH)icon. The following panel will be opened:
+
+![](../../../.gitbook/assets/2%20%286%29.jpg)
+
+
+
+The following list of graphical tools is currently available:
+
+Added drawings – this group includes all drawings that were added to the chart for the selected instrument. Opposite each drawing in this group there are controls:
+
+* Settings - tap to open the drawing settings;
+* Remove - tap to remove the drawing from the chart.
+
+Recently used – group that contains the 5 last used drawings.
+
+Fibonacci drawings:
+
+* Fibonacci retracement – retracement and price goals;
+* Fibonacci expansion – estimating support and resistance levels;
+* Fibonacci fans – places Fibonacci angles;
+* Fibonacci phi-channel – places Fibonacci levels on a trend line;
+* Fibonacci time goal analysis – places time goals.
+
+Gann drawings:
+
+* Gann line – places a line drawn at the angle of 45 degrees;
+* Gann fans – places a series of diagonal lines;
+* Gann grid – places trends at the angle of 45 degrees.
+
+Lines drawings:
+
+* Horizontal line – places a horizontal line on the chart;
+* Vertical line – places a vertical line on the chart;
+* Line – places a line on the chart;
+* Price channel – places levels on a trend line;
+* Andrew's pitchfork – places Andrew's channel Polygon.
+
+Polygon drawings:
+
+* Rectangle – places a simple rectangle on the chart;
+* Triangle – places a simple triangle on the chart.
+
+In order to place a tool:
+
+* Open the Drawings panel and select the desired drawing tool;
+* If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), the user can place these points on the chart by tapping the required places.
+
+#### Settings
+
+Each drawing has its horizontal Settings bar:
+
+![](../../../.gitbook/assets/screenshot_2%20%287%29.jpg)
+
+This bar allows the user to configure the following settings:
+
+* Line thickness;
+* Line type;
+* Line color;
+* Add a color fill to the drawing;
+* Lock/unlock the drawing on the chart;
+* Open the menu that allows to adjust the levels of drawing, extend it to the left or right side, and select the time and price plotting points;
+* Delete the drawing.
+
+By pressing the left side of the menu, the user can move it within the chart to any convenient place.
+
