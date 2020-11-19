@@ -14,7 +14,7 @@ Tap the name of the symbol at the list of added symbols to open the chart:
 
 Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 
-![](../../../.gitbook/assets/2%20%284%29.jpg)
+![](../../../.gitbook/assets/2%20%285%29.jpg)
 
 The Chart toolbar consists of 3 items:
 
@@ -22,7 +22,7 @@ Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen and configure the following items:
 
-![](../../../.gitbook/assets/3%20%282%29.jpg)
+![](../../../.gitbook/assets/3%20%283%29.jpg)
 
 ### **Indicators**
 
