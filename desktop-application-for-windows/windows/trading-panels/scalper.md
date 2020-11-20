@@ -97,11 +97,12 @@ Scalper settings have six sections to setup.
 
 **General**
 
-![](../../../.gitbook/assets/scalper.png)
+![](../../../.gitbook/assets/screenshot_4%20%282%29.jpg)
 
 Line types, colors and steps for the horizontal grid that are used in the charting area can be set here. General color of the panel background is also set here.
 
-* Recenter type – allows choosing recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
+* Recenter – if checked, then re-centering will occur when hovering cursor over the panel area;
+* Recenter type – allows selecting the recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
 
 Show toolbar – allows showing toolbar.
 
