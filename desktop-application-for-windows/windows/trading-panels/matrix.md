@@ -147,12 +147,15 @@ The list of hotkeys to set for the Matrix panel is available in the General sett
 
 Matrix hotkeys have the following functions:
 
-*  Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
-*  Cancel last order on selected instrument – allows cancelling last order on the selected instrument.
-*  Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
-*  Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
-*  Modifier: Stop order when mouse click – allows stopping the order when mouse click.
-*  Modifier: Group actions with orders – allows grouping actions with orders.
+*  Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument;
+*  Cancel last order on selected instrument – allows cancelling last order on the selected instrument;
+*  Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price;
+*  Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price;
+*  Modifier: Stop order when mouse click – allows stopping the order when mouse click;
+*  Modifier: Group actions with orders – allows grouping actions with orders;
+* Set recenter type to Bid \(+Ask\) / 2 – allows setting the Bid \(+Ask\) / 2 recenter type;
+* Set recenter type to ask – ****allows recentering the panel relatively to Ask;
+* Set recenter type to bid – allows recentering the panel relatively to Bid;
 *  Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
 
 
