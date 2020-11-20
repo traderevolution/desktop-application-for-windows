@@ -266,6 +266,7 @@ Scalper hotkeys have the following functions:
 * Cancel orders and close positions – allows closing the position and cancelling all orders.
 * Cancel all orders – allows cancelling all orders.
 * Close position – allows closing the current position.
+* Set recenter type to Bid \(+Ask\) / 2 – allows setting the recenter type to Bid \(+Ask\) / 2;
 * Add SL/TP to position – allows placing SL/TP order manually.
 * Add Trailing stop to position - allows placing Trailing stop order manually.
 * Add Sell limit to Ask – allows placing Sell limit order by current Ask price.
