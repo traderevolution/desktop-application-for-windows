@@ -7,7 +7,7 @@ This indicator consists of:
 * Zero line – shows zero on the chart for user convenience;
 * Positive deviation – shows the value of the positive standard deviation, shifted N times up;
 * Negative deviation – shows the value of the negative standard deviation shifted N times down;
-* Delta – shows the difference between the current value and the value of the moving average at a given point.
+* Delta – shows the difference between the current value and the value of the moving average at a given point. 
 
 ### Calculation
 
