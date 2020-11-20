@@ -94,7 +94,7 @@ Super DOM settings have 2 tabs, each of them consists of several parts:
 
 **View**
 
-![](../../../.gitbook/assets/superdom-settings.png)
+![](../../../.gitbook/assets/screenshot_1%20%2815%29.jpg)
 
 Base settings:
 
@@ -102,7 +102,8 @@ Base settings:
 * Grid – allows activating and setting up grid. The folllowing options are available: Vertical, Horizontal, Vertical & horizontal, None.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
-* Recenter type – allows choosing recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
+* Recenter – if checked, then re-centering will occur when hovering the cursor over the panel area; 
+* Recenter type – allows selecting the recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Show day high/low – allows showing high/low levels for one day;
 * Settlement price – allows displaying settlement price;
