@@ -26,5 +26,5 @@ KAMA = Kamat-1 + \[\(C \* \(Closet – Kamat-1\)\]
 
 Compared to the Simple moving average \(MVA, SMA\), KAMA has less lag and generates fewer false signals. KAMA can also be used to smooth out some other technical indicators. This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2812%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2813%29.jpg)
 

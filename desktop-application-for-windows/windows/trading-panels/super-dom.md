@@ -20,7 +20,7 @@ Day high/low – allows showing current high/low levels.
 
 Right click tapping within the Market depth section, evokes the Context menu of the panel.
 
-![](../../../.gitbook/assets/superdom.png)
+![](../../../.gitbook/assets/screenshot_2%20%2812%29.jpg)
 
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Recenter – allows recentering the panel relatively to spread;
