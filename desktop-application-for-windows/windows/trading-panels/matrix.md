@@ -66,10 +66,11 @@ Matrix settings have three sections to setup.
 
 **General**
 
-![](../../../.gitbook/assets/matrix.png)
+![](../../../.gitbook/assets/screenshot_3%20%2812%29.jpg)
 
 * Line types, colors and steps for the horizontal grid that are used in the panel can be set here. General color of the panel background is also set here;
-* Recenter type – allows choosing recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
+* Recenter – if checked, then re-centering will occur when hovering the cursor over the panel area;
+* Recenter type – allows selecting the recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2.
 * Show toolbar – allows showing toolbar.
 
 **Trading**
