@@ -37,5 +37,5 @@ If none of the conditions is met, then the indicator value for this calculation 
 
 This technical indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2816%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2817%29.jpg)
 
