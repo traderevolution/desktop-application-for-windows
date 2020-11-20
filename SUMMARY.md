@@ -50,6 +50,7 @@
       * [Moving averages](desktop-application-for-windows/windows/technical-indicators/moving-averages/README.md)
         * [EMA \(Exponential moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/ema-exponential-moving-average.md)
         * [KAMA \(Kaufman adaptive moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/kama-kaufman-adaptive-moving-average.md)
+        * [LWMA \(Linear weighted moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/lwma-linear-weighted-moving-average.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
