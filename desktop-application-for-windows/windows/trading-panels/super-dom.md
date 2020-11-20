@@ -175,5 +175,6 @@ The Super DOM hotkeys have the following functions:
 * Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
 * Mouse trading – activates trading using mouse.
 * Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
+* Set recenter type to Bid \(+Ask\) / 2 – allows setting the Bid \(+Ask\) / 2 recenter type;
 * Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.
 
