@@ -14,7 +14,7 @@ The Kairi relative index chart can also show the investor entry points, which ar
 
 KRI is calculated by the formula:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2819%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2820%29.jpg)
 
 where:
 

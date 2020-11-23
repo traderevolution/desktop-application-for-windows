@@ -35,5 +35,5 @@ sum XX – sum of squared price.
 
 The Regression line indicator is actually tomorrow's price prediction plotted today. If prices are consistently above or below the forecast price, expect them to quickly return to more realistic levels. In other words, the Regression line indicator shows where prices "should" trade on a statistical basis, and any excessive deviation from the Regression line is likely to be short-lived. The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2821%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2822%29.jpg)
 
