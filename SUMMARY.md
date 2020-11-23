@@ -58,6 +58,8 @@
         * [Regression line](desktop-application-for-windows/windows/technical-indicators/moving-averages/regression-line.md)
         * [SMA \(Simple moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/sma-simple-moving-average.md)
         * [SMMA \(Smoothed moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/smma-smoothed-moving-average.md)
+      * [Oscillators](desktop-application-for-windows/windows/technical-indicators/oscillators/README.md)
+        * [AC \(Acceleration oscillator\)](desktop-application-for-windows/windows/technical-indicators/oscillators/ac-acceleration-oscillator.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
