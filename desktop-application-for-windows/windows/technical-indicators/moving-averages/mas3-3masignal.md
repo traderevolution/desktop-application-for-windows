@@ -32,7 +32,7 @@ If none of the conditions is met, then the indicator value for this calculation 
 
 * Short moving average – the number of periods involved in calculating the moving average;
 * Middle moving average – the number of periods involved in calculating the moving average;
-* long moving average – the number of periods involved in calculating the moving average;
+* Long moving average – the number of periods involved in calculating the moving average;
 * Amount of bars passed before opening positions – the number of bars that are taken into account in calculating the current value.
 
 This technical indicator looks as follows on the chart:
