@@ -56,6 +56,7 @@
         * [MMA \(Modified moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/mma-modified-moving-average.md)
         * [PPMA \(Pivot point moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/ppma-pivot-point-moving-average.md)
         * [Regression line](desktop-application-for-windows/windows/technical-indicators/moving-averages/regression-line.md)
+        * [SMA \(Simple moving average\)](desktop-application-for-windows/windows/technical-indicators/moving-averages/sma-simple-moving-average.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
