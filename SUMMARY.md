@@ -64,6 +64,7 @@
         * [Aroon](desktop-application-for-windows/windows/technical-indicators/oscillators/aroon.md)
         * [CCI \(Commodity channel index\)](desktop-application-for-windows/windows/technical-indicators/oscillators/cci-commodity-channel-index.md)
         * [CMO \(Chande momentum oscillator\)](desktop-application-for-windows/windows/technical-indicators/oscillators/cmo-chande-momentum-oscillator.md)
+        * [KRI \(Kairi relative index\)](desktop-application-for-windows/windows/technical-indicators/oscillators/kri-kairi-relative-index.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
