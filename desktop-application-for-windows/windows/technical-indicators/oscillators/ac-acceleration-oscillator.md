@@ -19,7 +19,7 @@ The main parameters concern the appearance of the histogram, the user can select
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2815%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2816%29.jpg)
 
 
 

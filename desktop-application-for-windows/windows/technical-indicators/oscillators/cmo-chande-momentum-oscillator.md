@@ -8,5 +8,12 @@ The CMO amplitude is limited to -100 and +100. The higher the oscillator rises, 
 
 ### Main parameters
 
+* Periods of MA for envelopes, 8 by default;
+* Sources prices for MA, available values: Close, Open, High, Low, Typical, Medium, Weighted.
+
+This indicator looks as follows on the chart:
+
+![](../../../../.gitbook/assets/screenshot_2%20%2817%29.jpg)
+
 
 

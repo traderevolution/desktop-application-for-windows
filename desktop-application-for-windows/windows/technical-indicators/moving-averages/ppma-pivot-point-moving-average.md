@@ -21,7 +21,7 @@ period = calculation time period
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2817%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2819%29.jpg)
 
 
 
