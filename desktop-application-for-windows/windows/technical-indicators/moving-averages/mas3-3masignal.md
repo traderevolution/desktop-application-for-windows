@@ -8,7 +8,7 @@ This indicator is calculated in three stages. At the first stage, the number of 
 
 At the second stage, a moving average is calculated for all three periods. 
 
-At the third stage, the indicator value is calculated cyclically. The number of calculation cycles is equal to the number of bars passed before the opening position. If the number of bars passed before an opening position is a negative number or equal to zero, then the indicator value at any point is equal to zero. 
+At the third stage, the indicator value is calculated cyclically. The number of calculation cycles is equal to the number of bars passed before the opening position. If the number of bars passed before an opening position is negative or equal to zero, then the indicator value at any point is equal to zero. 
 
 During the first calculation cycle of the current indicator value, the following conditions are checked:
 
