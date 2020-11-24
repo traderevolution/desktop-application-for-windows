@@ -25,5 +25,5 @@ QStick can provide many informative trading signals. Extremely low QStick values
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2826%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2827%29.jpg)
 

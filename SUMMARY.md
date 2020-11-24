@@ -80,6 +80,7 @@
         * [ADX \(Average directional movement index\)](desktop-application-for-windows/windows/technical-indicators/trend/adx-average-directional-movement-index.md)
         * [Alligator](desktop-application-for-windows/windows/technical-indicators/trend/alligator.md)
         * [DMI \(Directional movement index\)](desktop-application-for-windows/windows/technical-indicators/trend/dmi-directional-movement-index.md)
+        * [ICH \(Ichimoku\)](desktop-application-for-windows/windows/technical-indicators/trend/ich-ichimoku.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
