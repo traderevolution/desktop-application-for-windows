@@ -75,6 +75,7 @@
         * [RSI \(Relative strength index\)](desktop-application-for-windows/windows/technical-indicators/oscillators/rsi-relative-strength-index.md)
         * [Stochastic \(Stochastic slow\)](desktop-application-for-windows/windows/technical-indicators/oscillators/stochastic-stochastic-slow.md)
         * [Stochastic RSI](desktop-application-for-windows/windows/technical-indicators/oscillators/stochastic-rsi.md)
+        * [TSI \(True strength index\)](desktop-application-for-windows/windows/technical-indicators/oscillators/tsi-true-strength-index.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
