@@ -20,5 +20,5 @@ Crossing the center line also generates trading signals. Traders view a move fro
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2822%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2823%29.jpg)
 
