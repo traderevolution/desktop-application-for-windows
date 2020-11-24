@@ -72,6 +72,7 @@
         * [QStick](desktop-application-for-windows/windows/technical-indicators/oscillators/qstick.md)
         * [RLW \(%R Larry Williams\)](desktop-application-for-windows/windows/technical-indicators/oscillators/rlw-r-larry-williams.md)
         * [ROC \(Rate of change\)](desktop-application-for-windows/windows/technical-indicators/oscillators/roc-rate-of-change.md)
+        * [RSI \(Relative strength index\)](desktop-application-for-windows/windows/technical-indicators/oscillators/rsi-relative-strength-index.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
