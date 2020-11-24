@@ -58,5 +58,5 @@ N — number of periods used for the calculation.
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2821%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2822%29.jpg)
 

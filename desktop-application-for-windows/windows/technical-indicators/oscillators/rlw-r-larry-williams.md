@@ -30,5 +30,5 @@ WPR period – for selecting the period of Williams Percent Range that compares 
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2822%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2823%29.jpg)
 

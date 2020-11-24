@@ -32,5 +32,5 @@ Period of momentum – allows setting the past period for which the data will be
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2819%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2820%29.jpg)
 

@@ -21,5 +21,5 @@ The main parameters concern the appearance of the histogram, the user can select
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2826%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2827%29.jpg)
 
