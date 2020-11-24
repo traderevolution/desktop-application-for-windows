@@ -68,6 +68,7 @@
         * [MACD \(Moving average/convergence divergence\)](desktop-application-for-windows/windows/technical-indicators/oscillators/macd-moving-average-convergence-divergence.md)
         * [Momentum](desktop-application-for-windows/windows/technical-indicators/oscillators/momentum.md)
         * [PO \(Price oscillator\)](desktop-application-for-windows/windows/technical-indicators/oscillators/po-price-oscillator.md)
+        * [PPO \(Percentage price oscillator\)](desktop-application-for-windows/windows/technical-indicators/oscillators/ppo-percentage-price-oscillator.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
