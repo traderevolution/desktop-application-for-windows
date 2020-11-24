@@ -76,6 +76,8 @@
         * [Stochastic \(Stochastic slow\)](desktop-application-for-windows/windows/technical-indicators/oscillators/stochastic-stochastic-slow.md)
         * [Stochastic RSI](desktop-application-for-windows/windows/technical-indicators/oscillators/stochastic-rsi.md)
         * [TSI \(True strength index\)](desktop-application-for-windows/windows/technical-indicators/oscillators/tsi-true-strength-index.md)
+      * [Trend](desktop-application-for-windows/windows/technical-indicators/trend/README.md)
+        * [ADX \(Average directional movement index\)](desktop-application-for-windows/windows/technical-indicators/trend/adx-average-directional-movement-index.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
