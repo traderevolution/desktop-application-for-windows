@@ -47,5 +47,5 @@ D — average number of negative price changes.
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2826%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2827%29.jpg)
 

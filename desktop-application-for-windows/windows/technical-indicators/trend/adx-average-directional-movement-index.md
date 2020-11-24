@@ -39,5 +39,5 @@ SUM \(..., N\) — sum for N periods;
 
 This technical indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2828%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2829%29.jpg)
 
