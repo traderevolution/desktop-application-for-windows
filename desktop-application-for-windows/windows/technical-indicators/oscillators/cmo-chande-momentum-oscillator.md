@@ -13,7 +13,7 @@ The CMO amplitude is limited to -100 and +100. The higher the oscillator rises, 
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2818%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2819%29.jpg)
 
 
 

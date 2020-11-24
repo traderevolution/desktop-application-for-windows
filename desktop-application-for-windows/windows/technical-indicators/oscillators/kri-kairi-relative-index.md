@@ -28,5 +28,5 @@ Period: averaging period for calculation, default is 13.
 
 KRI calculates the deviation of the current price from its simple average as a percentage of the moving average. If the percentage is sufficiently high and positive, these are signals to sell, large and negative - to buy. This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2821%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2822%29.jpg)
 

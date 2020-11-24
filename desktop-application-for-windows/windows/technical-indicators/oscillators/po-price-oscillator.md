@@ -28,5 +28,5 @@ MA \(P, n2\) - moving average of the P price within n2 periods.
 
 This technical indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2819%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2820%29.jpg)
 
