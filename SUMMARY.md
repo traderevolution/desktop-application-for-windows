@@ -93,6 +93,7 @@
       * [Volume](desktop-application-for-windows/windows/technical-indicators/volume/README.md)
         * [MFI \(Money flow index\)](desktop-application-for-windows/windows/technical-indicators/volume/mfi-money-flow-index.md)
         * [OBV \(On balance volume\)](desktop-application-for-windows/windows/technical-indicators/volume/obv-on-balance-volume.md)
+        * [PVI \(Positive volume index\)](desktop-application-for-windows/windows/technical-indicators/volume/pvi-positive-volume-index.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
