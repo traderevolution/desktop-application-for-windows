@@ -21,5 +21,5 @@ MFI period – allows setting the time period for which the MFI will be plotted.
 
 The indicator looks as follows:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2833%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2834%29.jpg)
 

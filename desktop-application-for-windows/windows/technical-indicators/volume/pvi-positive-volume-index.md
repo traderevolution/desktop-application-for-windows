@@ -31,5 +31,5 @@ Sources prices for MA: Close, Open, High, Low, Median, Typical, and Weighted.
 
 Below is the appearance of the indicator with a 255-period Simple Moving Average added to the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2835%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2836%29.jpg)
 

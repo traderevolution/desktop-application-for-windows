@@ -53,5 +53,5 @@ T -  move limit value in one direction, default is 300.0
 
 The indicator looks as follows on the chart
 
-![](../../../../.gitbook/assets/screenshot_1%20%2832%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2833%29.jpg)
 

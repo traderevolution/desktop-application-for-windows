@@ -96,6 +96,7 @@
         * [PVI \(Positive volume index\)](desktop-application-for-windows/windows/technical-indicators/volume/pvi-positive-volume-index.md)
       * [Other](desktop-application-for-windows/windows/technical-indicators/other/README.md)
         * [Didi index](desktop-application-for-windows/windows/technical-indicators/other/didi-index.md)
+        * [EATR \(Envelopes ATR\)](desktop-application-for-windows/windows/technical-indicators/other/eatr-envelopes-atr.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)

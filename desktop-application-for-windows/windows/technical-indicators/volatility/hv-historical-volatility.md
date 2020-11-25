@@ -35,5 +35,5 @@ Generally, the standard deviation is calculated either in absolute values, i.e. 
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2831%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2832%29.jpg)
 
