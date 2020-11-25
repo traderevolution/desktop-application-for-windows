@@ -82,6 +82,7 @@
         * [DMI \(Directional movement index\)](desktop-application-for-windows/windows/technical-indicators/trend/dmi-directional-movement-index.md)
         * [ICH \(Ichimoku\)](desktop-application-for-windows/windows/technical-indicators/trend/ich-ichimoku.md)
         * [Pivot point](desktop-application-for-windows/windows/technical-indicators/trend/pivot-point.md)
+        * [SAR \(Parabolic time/price system\)](desktop-application-for-windows/windows/technical-indicators/trend/sar-parabolic-time-price-system.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
