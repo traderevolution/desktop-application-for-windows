@@ -41,6 +41,7 @@
       * [Watchlist](desktop-application-for-windows/windows/analysis-tools/watchlist.md)
       * [Time & Sales](desktop-application-for-windows/windows/analysis-tools/time-and-sales.md)
     * [Technical indicators](desktop-application-for-windows/windows/technical-indicators/README.md)
+      * [Settings](desktop-application-for-windows/windows/technical-indicators/settings.md)
       * [Channels](desktop-application-for-windows/windows/technical-indicators/channels/README.md)
         * [BB \(Bollinger bands\)](desktop-application-for-windows/windows/technical-indicators/channels/bb-bollinger-bands.md)
         * [BBF \(Bollinger bands flat\)](desktop-application-for-windows/windows/technical-indicators/channels/bbf-bollinger-bands-flat.md)
