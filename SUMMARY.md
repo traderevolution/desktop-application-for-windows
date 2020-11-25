@@ -86,6 +86,8 @@
         * [SI \(Swing index\)](desktop-application-for-windows/windows/technical-indicators/trend/si-swing-index.md)
         * [ZZ \(ZigZag\)](desktop-application-for-windows/windows/technical-indicators/trend/untitled.md)
         * [YHL \(Yesterday's high low\)](desktop-application-for-windows/windows/technical-indicators/trend/yhl-yesterdays-high-low.md)
+      * [Volatility](desktop-application-for-windows/windows/technical-indicators/volatility/README.md)
+        * [ATR \(Average true range\)](desktop-application-for-windows/windows/technical-indicators/volatility/atr-average-true-range.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
