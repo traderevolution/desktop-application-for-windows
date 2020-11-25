@@ -20,11 +20,11 @@ The true range is the largest of the:
 
 The ATR at the moment of time t is calculated using the following formula:
 
-![](../../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../../.gitbook/assets/image%20%2844%29.png)
 
 The first ATR value is calculated using the arithmetic mean formula:
 
-![](../../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../../.gitbook/assets/image%20%2841%29.png)
 
 **ATR analysis basics**
 

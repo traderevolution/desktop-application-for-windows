@@ -88,6 +88,7 @@
         * [YHL \(Yesterday's high low\)](desktop-application-for-windows/windows/technical-indicators/trend/yhl-yesterdays-high-low.md)
       * [Volatility](desktop-application-for-windows/windows/technical-indicators/volatility/README.md)
         * [ATR \(Average true range\)](desktop-application-for-windows/windows/technical-indicators/volatility/atr-average-true-range.md)
+        * [HV \(Historical volatility\)](desktop-application-for-windows/windows/technical-indicators/volatility/hv-historical-volatility.md)
     * [Trading panels](desktop-application-for-windows/windows/trading-panels/README.md)
       * [Order entry](desktop-application-for-windows/windows/trading-panels/order-entry.md)
       * [Super DOM](desktop-application-for-windows/windows/trading-panels/super-dom.md)
