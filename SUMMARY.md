@@ -94,6 +94,7 @@
         * [MFI \(Money flow index\)](desktop-application-for-windows/windows/technical-indicators/volume/mfi-money-flow-index.md)
         * [OBV \(On balance volume\)](desktop-application-for-windows/windows/technical-indicators/volume/obv-on-balance-volume.md)
         * [PVI \(Positive volume index\)](desktop-application-for-windows/windows/technical-indicators/volume/pvi-positive-volume-index.md)
+        * [Volume](desktop-application-for-windows/windows/technical-indicators/volume/volume.md)
       * [Other](desktop-application-for-windows/windows/technical-indicators/other/README.md)
         * [Didi index](desktop-application-for-windows/windows/technical-indicators/other/didi-index.md)
         * [EATR \(Envelopes ATR\)](desktop-application-for-windows/windows/technical-indicators/other/eatr-envelopes-atr.md)
