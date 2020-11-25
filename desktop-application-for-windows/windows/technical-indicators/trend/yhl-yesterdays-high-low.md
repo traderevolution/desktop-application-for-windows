@@ -8,5 +8,5 @@ Day's back – allows setting the number of past days for which the indicator wi
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2833%29.jpg)
+![](../../../../.gitbook/assets/screenshot_1%20%2834%29.jpg)
 
