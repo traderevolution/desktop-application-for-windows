@@ -16,7 +16,7 @@ Percent deviation – percentage of a price change that is required to change th
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2830%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2831%29.jpg)
 
 
 
