@@ -1,11 +1,11 @@
 # SI \(Swing index\)
 
-The Swing Index was developed by Wells Wilder to assess the direction of a price change and its strength in relation to price swings. The Swing Index uses data from the last two bars in order to determine a possible trend change over a longer period of time. Specifically, Swing Index helps identify moments when investors change their trading behavior - moments when price changes \(previously aligned with price swings\) begin to move in the opposite direction of swings when a previously strong and consistent group of investors \(Bulls or Bears\) becomes weaker and short-lived only. Since the Swing index uses data from only two bars to determine the possible development of a longer trend, it mainly attracts short-term intraday traders who are most interested in short-term price fluctuations.
+The Swing Index was developed by Wells Wilder to assess the direction of a price change and its strength in relation to price swings. The Swing Index uses data from the last two bars in order to determine a possible trend change over a longer period of time. Specifically, Swing Index helps identify moments when investors change their trading behavior - moments when price changes \(previously aligned with price swings\) begin to move in the opposite direction of swings when a previously strong and consistent group of investors \(Bulls or Bears\) becomes weaker and short-lived only. Since the Swing Index uses data from only two bars to determine the possible development of a longer trend, it mainly attracts short-term intraday traders who are most interested in short-term price fluctuations.
 
 According to Technical Analysis theory,
 
-* a buy signal can be considered when the Swing Index crosses the zero value - the trader can expect a short-term upward price movement - the price is not growing yet, but we have an upward swing;
-* a sell signal can be viewed when the swing index falls below zero - the trader can expect a short-term downward price movement - the price has not yet moved down, but we are starting to have a downward swing.
+* a buy signal can be considered when the Swing Index crosses over zero value - the trader can expect a short-term upward price movement - the price is not growing yet, but we have an upward swing;
+* a sell signal can be viewed when the Swing Index falls below zero - the trader can expect a short-term downward price movement - the price has not yet moved down, but we are starting to have a downward swing.
 
 ### Calculation
 
