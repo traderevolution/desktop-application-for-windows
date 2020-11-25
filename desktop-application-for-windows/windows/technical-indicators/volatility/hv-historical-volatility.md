@@ -12,11 +12,11 @@ In the classic sense, the historical volatility is determined by the following f
 
 Where:
 
- σstd – standard deviation of the asset prices, i.e. measure of the sweeping movement;
+ σ_std_ – standard deviation of the asset prices, i.e. measure of the sweeping movement;
 
 √T – bringing the volatility indicator to the specified period \(most often to the annual value\);
 
-Pi – price of the i-th value \(here can be one of four bar prices\).
+P_i_ – price of _i_ value \(here can be one of four bar prices\).
 
 Generally, the standard deviation is calculated either in absolute values, i.e. in the prices of the specific asset, or relative \(%\). The value of volatility allows assessing the riskiness of the asset based on the different factors:
 
