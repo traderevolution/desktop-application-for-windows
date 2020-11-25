@@ -45,5 +45,5 @@ ApPRICE \(i\) — applied price of the current bar.
 
 The Standard deviation technical indicator looks as follows:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2830%29.jpg)
+![](../../../../.gitbook/assets/screenshot_2%20%2831%29.jpg)
 
