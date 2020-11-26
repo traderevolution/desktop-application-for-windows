@@ -269,6 +269,7 @@
     * [Settings](web-platform/technical-indicators/settings.md)
     * [Moving avergae](web-platform/technical-indicators/moving-avergae/README.md)
       * [MD \(McGinley dynamic\)](web-platform/technical-indicators/moving-avergae/md-mcginley-dynamic.md)
+      * [Regression](web-platform/technical-indicators/moving-avergae/regression.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
