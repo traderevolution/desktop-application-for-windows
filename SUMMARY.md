@@ -271,6 +271,7 @@
       * [MD \(McGinley dynamic\)](web-platform/technical-indicators/moving-avergae/md-mcginley-dynamic.md)
       * [Regression](web-platform/technical-indicators/moving-avergae/regression.md)
       * [SMMA \(Smoothed moving average\)](web-platform/technical-indicators/moving-avergae/smma-smoothed-moving-average.md)
+      * [PPMA \(Pivot point moving average\)](web-platform/technical-indicators/moving-avergae/ppma-pivot-point-moving-average.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
