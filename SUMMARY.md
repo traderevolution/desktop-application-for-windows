@@ -273,6 +273,7 @@
       * [SMMA \(Smoothed moving average\)](web-platform/technical-indicators/moving-avergae/smma-smoothed-moving-average.md)
       * [PPMA \(Pivot point moving average\)](web-platform/technical-indicators/moving-avergae/ppma-pivot-point-moving-average.md)
       * [SMA \(Simple moving average\)](web-platform/technical-indicators/moving-avergae/sma-simple-moving-average.md)
+      * [MMA](web-platform/technical-indicators/moving-avergae/mma.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
