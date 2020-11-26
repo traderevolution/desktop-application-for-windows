@@ -279,6 +279,7 @@
     * [Oscillators](web-platform/technical-indicators/oscillators/README.md)
       * [MACD \(Moving average/Convergence divergence\)](web-platform/technical-indicators/oscillators/macd-moving-average-convergence-divergence.md)
       * [RSI \(Relative strength index\)](web-platform/technical-indicators/oscillators/rsi-relative-strength-index.md)
+      * [PO \(Price oscillator\)](web-platform/technical-indicators/oscillators/po-price-oscillator.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
