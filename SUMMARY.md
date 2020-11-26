@@ -267,6 +267,8 @@
     * [Time & Sales](web-platform/analysis-tools/time-and-sales.md)
   * [Technical indicators](web-platform/technical-indicators/README.md)
     * [Settings](web-platform/technical-indicators/settings.md)
+    * [Moving avergae](web-platform/technical-indicators/moving-avergae/README.md)
+      * [MD \(McGinley dynamic\)](web-platform/technical-indicators/moving-avergae/md-mcginley-dynamic.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
