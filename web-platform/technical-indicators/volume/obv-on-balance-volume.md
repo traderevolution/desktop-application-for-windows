@@ -16,7 +16,7 @@ Potential breakout or breakdown from the ranging market - during ranging market 
 
 ### Calculation
 
-![](../../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
 Where: 
 
@@ -32,5 +32,5 @@ Sources prices for OBV: Close, Open, High, Low, Typical, Medium, or Weighted.
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2829%29.jpg)
+![](../../../.gitbook/assets/obv.jpg)
 
