@@ -1,2 +1,2 @@
-# Moving avergae
+# Moving average
 
