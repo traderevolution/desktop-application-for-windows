@@ -25,7 +25,10 @@ Where:
 
 The main setting of this indicator, which differs from others, is Periods of smoothing i.e. the number of periods involved in smoothing the indicator.
 
-Bullish, Buy Signals and Bearish, Sell Signals.
+* Periods – number of periods involved in smoothing the indicator, 12 by default;
+* Smoothing – smoothing rate, 125 by default.
+
+**Bullish, Buy Signals and Bearish, Sell Signals.**
 
 McGinley indicator should be combined with moving averages to form a Forex trading system. This indicator should be used as the smoothing mechanism where the moving average is volatile or ranging:
 
