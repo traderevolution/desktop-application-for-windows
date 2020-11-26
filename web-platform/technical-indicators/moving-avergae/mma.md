@@ -1,4 +1,4 @@
-# MMA
+# MMA \(Modified moving average\)
 
 Modified moving average \(MMA\) is an algebraic tool that makes averages more susceptible to price shifts. The modified moving average is a special case of the exponential moving average, for which the smoothing constant is equal to the reciprocal of the smoothing interval. This average is a slope that helps it catch up with the rising or falling value of the currency's trading price.
 
