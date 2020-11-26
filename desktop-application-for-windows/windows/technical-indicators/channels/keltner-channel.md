@@ -8,14 +8,29 @@ Typical price = \(high + low + close\)/3
 
 The lines above and below are drawn at a distance from this centerline, a distance that is a simple moving average of trading ranges over the past 10 days \(i.e. a range from high to low on each day\).
 
-The trading strategy is to treat a close above the upper line as a strong bullish signal or a close below the lower line as a strong bearish sentiment and buy or sell with the trend accordingly, but perhaps with other indicators to confirm. Exits can be based on a very conservative Stop loss, a rather high Take profit, and a cross with the centerline. On the chart, this looks as follows:
+The trading strategy is to treat a close above the upper line as a strong bullish signal or a close below the lower line as a strong bearish sentiment and buy or sell with the trend accordingly, but perhaps with other indicators to confirm. Exits can be based on a very conservative Stop loss, a rather high Take profit, and a cross with the centerline. 
 
-![](../../../../.gitbook/assets/screenshot_1%20%2811%29.jpg)
+### Calculation
 
-### Input parameters
+Keltner Channel Middle Line=EMA 
 
-* Source prices for a Moving average \(Low, High, Close, Open, Typical, Medium, Weighted\);
-* Moving average type \(Simple, Exponential, Modified, Linear weighted\);
-* Moving average period;
-* Channel width coefficient.
+Keltner Channel Upper Band=EMA+2∗ATR
+
+Keltner Channel Lower Band=EMA−2∗ATR, where 
+
+EMA=Exponential moving average \(typically over 20 periods\) 
+
+ATR=Average True Range \(typically over 10 or 20 periods\) ​
+
+### Main parameters
+
+* Source prices for a Moving average: Low, High, Close, Open, Typical, Medium, Weighted;
+* Moving average type: Simple, Exponential, Modified, Linear weighted;
+* Moving average period for Keltner's channel, 5 by default;
+* Channel width coefficient, 2 by default;
+* Bands style: True range or Trading range.
+
+On the chart, this looks as follows:
+
+![](../../../../.gitbook/assets/screenshot_1%20%2837%29.jpg)
 
