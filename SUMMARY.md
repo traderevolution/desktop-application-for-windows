@@ -295,6 +295,8 @@
       * [Alligator](web-platform/technical-indicators/trend/alligator.md)
       * [SAR \(Parabolic time/price system\)](web-platform/technical-indicators/trend/sar-parabolic-time-price-system.md)
       * [Fractals](web-platform/technical-indicators/trend/fractals.md)
+    * [Volatility](web-platform/technical-indicators/volatility/README.md)
+      * [ATR \(Average true range\)](web-platform/technical-indicators/volatility/atr-average-true-range.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
