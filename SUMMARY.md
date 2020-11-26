@@ -265,6 +265,8 @@
       * [Context menu](web-platform/analysis-tools/chart/context-menu.md)
     * [Watchlist](web-platform/analysis-tools/watchlist.md)
     * [Time & Sales](web-platform/analysis-tools/time-and-sales.md)
+  * [Technical indicators](web-platform/technical-indicators/README.md)
+    * [Settings](web-platform/technical-indicators/settings.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
