@@ -286,6 +286,8 @@
       * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
       * [Price channel](web-platform/technical-indicators/channels/price-channel.md)
       * [MAE \(Moving average envelope\)](web-platform/technical-indicators/channels/mae-moving-average-envelope.md)
+    * [Volume](web-platform/technical-indicators/volume/README.md)
+      * [Volume](web-platform/technical-indicators/volume/volume.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
