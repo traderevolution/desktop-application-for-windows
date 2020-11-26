@@ -12,7 +12,7 @@ When setting up the indicator, it is important to select the correct period of t
 
 If the parameter is selected successfully, the channel will correspond to the state of market equilibrium, and all price outputs beyond its limit should be accompanied by a price return. About 5% of prices should go outside the lines, 95% - inside.
 
-### Price channel breakout
+**Price channel breakout**
 
 The breakout of trading channel boundaries can be an important signal for trading. A breakout implies a subsequent price movement in its direction. The breakout reliability can be assessed by the following factors:
 
@@ -20,7 +20,21 @@ The breakout of trading channel boundaries can be an important signal for tradin
 * Channel width: breakouts of narrow channels tend to provide particularly reliable trading signals;
 * Breakout confirmation: the presence of the fundamental reasons and supporting purchases \(sales\) strengthens the trend.
 
-All the forces of supply and demand are represented by price. The predominance of one force creates trend direction. Trend channels occur in all time frames and in every asset class, like futures, stocks, mutual funds, etc., and are useful for trading or investing. The Price channel indicator looks as follows on the chart:
+All the forces of supply and demand are represented by price. The predominance of one force creates trend direction. Trend channels occur in all time frames and in every asset class, like futures, stocks, mutual funds, etc., and are useful for trading or investing. 
+
+### Calculation
+
+The Price Channel calculations are simple:
+
+* The upper band \(line\) of the channel is constructed as the highest high over a specified period of time \(the specified number of price bars\);
+*  The lower band \(line\) of the channel is constructed as the lowest low over a specified period of time;
+*  The middle line is constructed as the average of the highest high and the lowest low.
+
+### Main parameters
+
+Period of price channel – allows setting the number of periods for which price highs and lows will be determined.
+
+The indicator looks as follows on the chart:
 
 ![](../../../../.gitbook/assets/screenshot_3%20%2811%29.jpg)
 
