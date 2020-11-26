@@ -297,6 +297,7 @@
       * [Fractals](web-platform/technical-indicators/trend/fractals.md)
     * [Volatility](web-platform/technical-indicators/volatility/README.md)
       * [ATR \(Average true range\)](web-platform/technical-indicators/volatility/atr-average-true-range.md)
+      * [SD \(Standard deviation\)](web-platform/technical-indicators/volatility/sd-standard-deviation.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
