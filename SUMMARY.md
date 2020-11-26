@@ -283,6 +283,7 @@
       * [Momentum](web-platform/technical-indicators/oscillators/momentum.md)
     * [Channels](web-platform/technical-indicators/channels/README.md)
       * [BB \(Bollinger bands\)](web-platform/technical-indicators/channels/bb-bollinger-bands.md)
+      * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
