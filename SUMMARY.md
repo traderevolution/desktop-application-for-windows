@@ -288,6 +288,7 @@
       * [MAE \(Moving average envelope\)](web-platform/technical-indicators/channels/mae-moving-average-envelope.md)
     * [Volume](web-platform/technical-indicators/volume/README.md)
       * [Volume](web-platform/technical-indicators/volume/volume.md)
+      * [VWAP \(Volume weighted average price\)](web-platform/technical-indicators/volume/vwap-volume-weighted-average-price.md)
   * [Trading panels](web-platform/trading-panels/README.md)
     * [Order entry](web-platform/trading-panels/order-entry.md)
     * [Market depth](web-platform/trading-panels/market-depth.md)
