@@ -197,6 +197,7 @@
           * [BBF \(Bollinger bands flat\)](mobile-applications/phone/android/technical-indicators/channels/bbf-bollinger-bands-flat.md)
         * [Moving averages](mobile-applications/phone/android/technical-indicators/moving-averages/README.md)
           * [EMA \(Exponential moving average\)](mobile-applications/phone/android/technical-indicators/moving-averages/ema-exponential-moving-average.md)
+          * [MMA \(Modified moving avergae\)](mobile-applications/phone/android/technical-indicators/moving-averages/mma-modified-moving-avergae.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Trading ideas](mobile-applications/phone/android/trading-ideas.md)
