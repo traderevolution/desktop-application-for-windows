@@ -55,7 +55,7 @@ It is recommended to use 20-period Simple Moving Average as the middle line, and
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%288%29.jpg)
+![](../../../../../.gitbook/assets/1%20%289%29.jpg)
 
 
 
