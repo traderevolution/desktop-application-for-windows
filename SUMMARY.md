@@ -194,6 +194,7 @@
         * [Channels](mobile-applications/phone/android/technical-indicators/channels/README.md)
           * [BB \(Bollinger bands\)](mobile-applications/phone/android/technical-indicators/channels/bb-bollinger-bands.md)
           * [Price channel](mobile-applications/phone/android/technical-indicators/channels/price-channel.md)
+          * [BBF \(Bollinger bands flat\)](mobile-applications/phone/android/technical-indicators/channels/bbf-bollinger-bands-flat.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Trading ideas](mobile-applications/phone/android/trading-ideas.md)
