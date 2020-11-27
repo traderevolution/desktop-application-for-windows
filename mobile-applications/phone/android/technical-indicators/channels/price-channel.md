@@ -38,5 +38,5 @@ Period of price channel – allows setting the number of periods for which price
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%285%29.jpg)
+![](../../../../../.gitbook/assets/1%20%286%29.jpg)
 

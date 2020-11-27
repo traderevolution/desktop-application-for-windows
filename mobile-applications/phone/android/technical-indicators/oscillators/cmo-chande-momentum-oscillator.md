@@ -12,5 +12,5 @@ Interval – the number of periods involved in the indicator calculation, 14 by 
 
 This indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%286%29.jpg)
+![](../../../../../.gitbook/assets/1%20%287%29.jpg)
 

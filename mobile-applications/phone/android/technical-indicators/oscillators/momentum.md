@@ -32,5 +32,5 @@ Interval – allows setting the past period for which the data will be taken whe
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%289%29.jpg)
+![](../../../../../.gitbook/assets/1%20%2810%29.jpg)
 
