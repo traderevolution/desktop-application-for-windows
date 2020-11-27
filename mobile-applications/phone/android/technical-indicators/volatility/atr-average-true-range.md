@@ -37,5 +37,5 @@ Interval – number of periods involved in the indicator calculation, 13 by defa
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%2822%29.jpg)
+![](../../../../../.gitbook/assets/1%20%2824%29.jpg)
 

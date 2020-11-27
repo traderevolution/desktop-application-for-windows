@@ -43,5 +43,5 @@ interval – period of indicator plotting, default is 20.
 
 The Standard deviation technical indicator looks as follows:
 
-![](../../../../../.gitbook/assets/1%20%2821%29.jpg)
+![](../../../../../.gitbook/assets/1%20%2822%29.jpg)
 
