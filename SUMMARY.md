@@ -161,6 +161,7 @@
       * [Channels](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/channels/README.md)
         * [BB \(Bollinger bands\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/channels/bb-bollinger-bands.md)
         * [BBF \(Bollinger bands flat\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/channels/bbf-bollinger-bands-flat.md)
+        * [Price channel](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/channels/price-channel.md)
     * [Analysis tools](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
