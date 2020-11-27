@@ -35,5 +35,5 @@ Negative deviation = \(-1\) __A \* D
 
 This looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%283%29.jpg)
+![](../../../../../.gitbook/assets/1%20%284%29.jpg)
 
