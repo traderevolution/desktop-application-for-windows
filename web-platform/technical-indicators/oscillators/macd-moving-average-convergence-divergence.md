@@ -30,7 +30,7 @@ Where:
 
 ### Main parameters
 
-* Sources prices for – MA determines the type of price at which the moving average is calculated, available values: Close, Open, High, Low, Median, Typical, Weighted;
+* Sources prices for MA – determines the type of price at which the moving average is calculated, available values: Close, Open, High, Low, Median, Typical, Weighted;
 * Period of FastEMA –number of periods for calculating the exponential moving average, 12 by default \(classic value for this indicator\);
 * Period of SlowEMA – number of periods for calculating the exponential moving average, 26 by default \(classic value for this indicator\);
 * Type of MA for signal – type of the moving average for a signal line: Simple, Exponential, Modified, Linear weighted;

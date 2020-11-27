@@ -1,4 +1,4 @@
-# Aroon
+# Aroon \(Dawn's early light\)
 
 The Aroon indicator was developed by Tushar Chande in 1995, it is an indicator system that determines whether a stock is trending or not and how strong is the trend. The Aroon indicators measure the number of periods during which the price has reached an x-day high or low. There are two separate indicators: Aroon-Up and Aroon-Down. Both lines fluctuate between 0 and 100. The lower the number for Aroon up, the weaker the uptrend, and the lower the number for Aroon down, the weaker the downtrend. When the rising Aroon line is above the falling Aroon line, an uptrend is indicated. When the down line is above the up line, a downtrend is indicated. High values ​​of the Aroon ascending line mean that the price is trading at new highs over a certain period of hindsight. High values ​​of the Aroon descending line mean that the price is trading at new lows for a certain period of hindsight. A value of 100 for an up line indicates a potential emerging uptrend, and a value of 100 for a down line indicates a potential developing downtrend.
 
@@ -18,13 +18,11 @@ P – period of looking back.
 
 ### Main parameters
 
-Period of looking back –allows setting the hindsight period.
+Interval –allows setting the indicator period, 14 by default.
 
 Chande states that when Aroon-up and Aroon-down move down in close proximity, it signals that there is a consolidation phase in progress and there is no obvious strong trend. When Aroon-up falls below 50, it indicates that the current trend has lost its upward momentum. Likewise, when Aroon-down falls below 50, the current downtrend loses its momentum. Values above 70 indicate a strong trend in the same direction as Aroon \(up or down\).
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_2%20%2828%29.jpg)
-
-
+![](../../../../../.gitbook/assets/1%20%284%29.jpg)
 
