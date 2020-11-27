@@ -211,6 +211,7 @@
           * [Momentum](mobile-applications/phone/android/technical-indicators/oscillators/momentum.md)
         * [Trend](mobile-applications/phone/android/technical-indicators/trend/README.md)
           * [ICH \(Ichimoku\)](mobile-applications/phone/android/technical-indicators/trend/ich-ichimoku.md)
+          * [SAR \(Parabolic time/price system\)](mobile-applications/phone/android/technical-indicators/trend/sar-parabolic-time-price-system.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Trading ideas](mobile-applications/phone/android/trading-ideas.md)

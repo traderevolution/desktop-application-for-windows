@@ -44,5 +44,5 @@ Interval – number of periods involved in the indicator calculation, the defaul
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%2814%29.jpg)
+![](../../../../../.gitbook/assets/1%20%2815%29.jpg)
 

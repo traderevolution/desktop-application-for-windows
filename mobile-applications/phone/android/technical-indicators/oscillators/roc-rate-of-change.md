@@ -26,5 +26,5 @@ Interval – period of momentum, 12 by default.
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%2813%29.jpg)
+![](../../../../../.gitbook/assets/1%20%2814%29.jpg)
 
