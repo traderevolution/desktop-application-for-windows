@@ -165,6 +165,7 @@
       * [Moving averages](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/moving-averages/README.md)
         * [SMA \(Simple moving average\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/moving-averages/sma-simple-moving-average.md)
         * [MMA \(Modified moving average\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/moving-averages/mma-modified-moving-average.md)
+        * [LWMA \(Linear weighted moving average\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/moving-averages/lwma-linear-weighted-moving-average.md)
     * [Analysis tools](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
