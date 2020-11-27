@@ -198,6 +198,7 @@
         * [Moving averages](mobile-applications/phone/android/technical-indicators/moving-averages/README.md)
           * [EMA \(Exponential moving average\)](mobile-applications/phone/android/technical-indicators/moving-averages/ema-exponential-moving-average.md)
           * [MMA \(Modified moving avergae\)](mobile-applications/phone/android/technical-indicators/moving-averages/mma-modified-moving-avergae.md)
+          * [SMMA \(Smoothed moving average\)](mobile-applications/phone/android/technical-indicators/moving-averages/smma-smoothed-moving-average.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Trading ideas](mobile-applications/phone/android/trading-ideas.md)
