@@ -213,6 +213,8 @@
           * [ICH \(Ichimoku\)](mobile-applications/phone/android/technical-indicators/trend/ich-ichimoku.md)
           * [SAR \(Parabolic time/price system\)](mobile-applications/phone/android/technical-indicators/trend/sar-parabolic-time-price-system.md)
           * [ADX \(Average directional index\)](mobile-applications/phone/android/technical-indicators/trend/adx-average-directional-index.md)
+        * [Volatility](mobile-applications/phone/android/technical-indicators/volatility/README.md)
+          * [ATR \(Average true range\)](mobile-applications/phone/android/technical-indicators/volatility/atr-average-true-range.md)
       * [Order entry](mobile-applications/phone/android/order-entry.md)
       * [Orders](mobile-applications/phone/android/orders.md)
       * [Trading ideas](mobile-applications/phone/android/trading-ideas.md)
