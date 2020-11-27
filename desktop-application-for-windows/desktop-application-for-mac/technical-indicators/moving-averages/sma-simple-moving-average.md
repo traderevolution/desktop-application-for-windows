@@ -24,7 +24,7 @@ N — number of calculation periods.
 
 ### Main parameters
 
-* Period of Simple moving average – number of periods involved in the indicator calculation;
+* Period of Simple moving average – number of periods involved in the indicator calculation, 200 by default;
 * Data type – type of price at which the indicator will be calculated. Available values: Low, Open, High, Close, Typical, Medium, Weighted.
 
 The indicator looks as follows on the chart:

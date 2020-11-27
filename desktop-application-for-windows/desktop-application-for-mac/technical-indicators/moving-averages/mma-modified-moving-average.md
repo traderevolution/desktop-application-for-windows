@@ -14,7 +14,7 @@ N - period of MA for calculation.
 
 ### Main parameters
 
-* Period of Modified MA – number of periods for calculating the modified moving average, 2 by default;
+* Period of Modified MA – number of periods for calculating the modified moving average, 9 by default;
 * Data type – determines the type of price at which the moving average will be calculated, available values: Close, Open, High, Low, Median, Typical, and Weighted.
 
 This indicator looks as follows on the chart:
