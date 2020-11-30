@@ -34,9 +34,9 @@ The first ATR value is calculated using the arithmetic mean formula:
 ### Main parameters
 
 * Period – number of periods involved in the indicator calculation, 13 by default;
-* Type of Moving average – Moving average calculation type, available values: Simple, Exponential, Modified, Linear weighted.
+* Type of moving average: Simple, Exponential, Modified, Linear weighted.
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/atr%20%282%29.jpg)
+![](../../../../.gitbook/assets/atr%20%281%29.jpg)
 
