@@ -285,6 +285,7 @@
       * [Symbol info](mobile-applications/ios/phone/symbol-info.md)
       * [Chart](mobile-applications/ios/phone/chart.md)
       * [Technical indicators](mobile-applications/ios/phone/technical-indicators/README.md)
+        * [Settings](mobile-applications/ios/phone/technical-indicators/settings.md)
         * [Channels](mobile-applications/ios/phone/technical-indicators/channels/README.md)
           * [BB \(Bollinger bands\)](mobile-applications/ios/phone/technical-indicators/channels/bb-bollinger-bands.md)
           * [BBF \(Bollinger bands flat\)](mobile-applications/ios/phone/technical-indicators/channels/bbf-bollinger-bands-flat.md)
