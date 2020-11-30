@@ -179,6 +179,7 @@
       * [Trend](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/README.md)
         * [ICH \(Ichimoku\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/ich-ichimoku.md)
         * [SAR \(Parabolic time/price system\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/sar-parabolic-time-price-system.md)
+        * [ADX \(Average directional index\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/adx-average-directional-index.md)
     * [Analysis tools](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
