@@ -9,7 +9,7 @@ Your first step is to confirm that the market is trending:
 * Use a trend indicator, or
 * Stop trading with the Parabolic SAR if you are whipsawed twice in a row and re-commence after you observe a breakout from the chart pattern.
 
-A trade is signaled when the price bars and stop levels intersect: 
+A trade is signaled, when the price bars and stop levels intersect:
 
 * Go long when price meets the Parabolic SAR stop level, while short;
 * Go short when price meets the Parabolic SAR stop level, while long.
@@ -44,10 +44,10 @@ Current SAR = Prior SAR – Prior AF \* \(Prior EP – Prior SAR\)
 
 ### Main parameters
 
-* Step period of parabolic SAR system i.e. the acceleration factor, 0.02 by default;
-* Maximum step i.e. the extreme point, 0.2 by default.
+* Step period i.e. the acceleration factor, 0.2 by default;
+* Max step period i.e. the extreme point, 0.2 by default.
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/sar%20%282%29.jpg)
+![](../../../../../.gitbook/assets/sar%20%281%29.jpg)
 

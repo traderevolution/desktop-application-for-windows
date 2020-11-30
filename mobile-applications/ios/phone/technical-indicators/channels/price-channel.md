@@ -32,9 +32,9 @@ The Price Channel calculations are simple:
 
 ### Main parameters
 
-Period of price channel – allows setting the number of periods for which price highs and lows will be determined.
+Period of price channel – allows setting the number of periods for which price highs and lows will be determined, 10 by default.
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/1%20%286%29.jpg)
+![](../../../../../.gitbook/assets/channel%20%281%29.jpg)
 

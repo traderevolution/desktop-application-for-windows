@@ -32,11 +32,12 @@ The Kumo \(or clouds\) is the area between Senkou Span A and Senkou Span B.
 
 ### Main parameters
 
-* Conversion inetrval i.e. Tenkan Sen period, default is 9;
-* Base interval i.e. Kijun Sen period, default is 26;
-* Lagging span interval i.e. Senkou Span B period, default is 52;
+* Period – the number of periods involved in the indicator calculation, 1 by default;
+* Conversion line period i.e. Tenkan Sen period, default is 9;
+* Base line period i.e. Kijun Sen period, default is 26;
+* Lagging span 2 period i.e. Senkou Span B period, default is 52;
 
 The Ichimoku chart looks as follows:
 
-![](../../../../../.gitbook/assets/3%20%286%29.jpg)
+![](../../../../../.gitbook/assets/ich%20%281%29.jpg)
 
