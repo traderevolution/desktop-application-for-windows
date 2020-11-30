@@ -306,6 +306,7 @@
         * [Trend](mobile-applications/ios/phone/technical-indicators/trend/README.md)
           * [ICH \(Ichimoku\)](mobile-applications/ios/phone/technical-indicators/trend/ich-ichimoku.md)
           * [SAR \(Parabolic time/price system\)](mobile-applications/ios/phone/technical-indicators/trend/sar-parabolic-time-price-system.md)
+          * [ADX \(Average directional index\)](mobile-applications/ios/phone/technical-indicators/trend/adx-average-directional-index.md)
       * [Order entry](mobile-applications/ios/phone/order-entry.md)
       * [Orders](mobile-applications/ios/phone/orders.md)
       * [Trading ideas](mobile-applications/ios/phone/trading-ideas.md)
