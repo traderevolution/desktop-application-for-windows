@@ -8,11 +8,11 @@ Oversold levels are usually found below 20 and overbought levels are above 80. T
 
 The Money Flow Index requires a series of calculations.
 
-* First, the period's Typical Price is calculated: Typical Price = \(High + Low + Close\)/3
-* Next, Money Flow \(not the Money Flow Index\) is calculated by multiplying the period's Typical Price by the volume: Money Flow = Typical Price \* Volume
+* First, the period's Typical Price is calculated: Typical Price = \(High + Low + Close\)/3;
+* Next, Money Flow \(not the Money Flow Index\) is calculated by multiplying the period's Typical Price by the volume: Money Flow = Typical Price \* Volume;
 * If today's Typical Price is greater than yesterday's Typical Price, it is considered Positive Money Flow. If today's price is less, it is considered Negative Money Flow;
-* Positive Money Flow is the sum of the Positive Money over the specified number of periods. Negative Money Flow is the sum of the Negative Money over the specified number of periods:
-* The Money Ratio is then calculated by dividing the Positive Money Flow by the Negative Money Flow: Money Ratio = Positive Money Flow / Negative Money Flow
+* Positive Money Flow is the sum of the Positive Money over the specified number of periods. Negative Money Flow is the sum of the Negative Money over the specified number of periods;
+* The Money Ratio is then calculated by dividing the Positive Money Flow by the Negative Money Flow: Money Ratio = Positive Money Flow / Negative Money Flow;
 * Finally, the Money Flow Index is calculated using the Money Ratio.
 
 ### Main parameters
