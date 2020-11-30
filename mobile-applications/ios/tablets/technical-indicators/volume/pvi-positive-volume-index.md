@@ -27,11 +27,11 @@ Because rising prices are usually associated with rising volume, the PVI usually
 
 ### Main parameters
 
-* Data type: Close, Open, High, Low, Median, Typical, and Weighted;
-* Period of SMA, 255 by default;
-* Start index, 1 is the default value.
+* Period – allows setting a time period for the Moving average, 255 by default;
+* Data type: Open, Close, High, Low, Median, Typical, Weighted;
+* Start index, 1 by default.
 
 Below is the appearance of the indicator with a 255-period Simple Moving Average added to the chart:
 
-![](../../../../.gitbook/assets/pvi%20%281%29.jpg)
+![](../../../../../.gitbook/assets/pvi.jpg)
 

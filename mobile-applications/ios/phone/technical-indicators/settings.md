@@ -13,9 +13,10 @@ These settings are considered in the context of individual indicators in the rel
 
 * Line – allows setting the line drawing characteristics: style, thickness, color;
 * Time shift – determines the shift of indicator line along the timeline by a specified number of minutes; 
+* Visible - determines the visibility of line on the chart;
 * Value – this field is intended for entering the value of the auxiliary lines according to which they will be drawn;
 * Background – allows selecting the indicator background color, that is, the color of the background between the two lines of the indicator;
 * Show line marker – allows to show/hide the line marker.
 
-To remove an indicator from the chart, just tap the![](https://lh3.googleusercontent.com/KFsilIcHZOln-cbOS3CPQgGUPZqvPgp1hA5CaWTPIuvLFEKukOxNXZnXNCzIxz2Vql_3--hyz-T_eJ5OwjkwJNfnCbhyzcYrl49xVKoPdnz-xXxZ-SZa0mPgTfadxZtprW-d_2l2)button. Please note that no more than seven indicators can be added to the chart at a time.
+To remove an indicator from the chart, just tap the![](https://lh3.googleusercontent.com/KFsilIcHZOln-cbOS3CPQgGUPZqvPgp1hA5CaWTPIuvLFEKukOxNXZnXNCzIxz2Vql_3--hyz-T_eJ5OwjkwJNfnCbhyzcYrl49xVKoPdnz-xXxZ-SZa0mPgTfadxZtprW-d_2l2)button. 
 

@@ -19,7 +19,7 @@ The Money Flow Index requires a series of calculations.
 
 MFI period – allows setting the time period for which the MFI will be plotted, 14 by default.
 
-The indicator looks as follows:
+The indicator inself looks as follows:
 
-![](../../../../../.gitbook/assets/mfi%20%281%29.jpg)
+![](../../../../../.gitbook/assets/mfi%20%282%29.jpg)
 

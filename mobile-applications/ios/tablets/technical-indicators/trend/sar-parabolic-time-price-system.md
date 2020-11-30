@@ -50,5 +50,5 @@ Current SAR = Prior SAR – Prior AF \* \(Prior EP – Prior SAR\)
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/sar%20%281%29.jpg)
+![](../../../../../.gitbook/assets/sar%20%282%29.jpg)
 

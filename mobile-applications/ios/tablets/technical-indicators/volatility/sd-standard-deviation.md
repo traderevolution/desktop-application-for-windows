@@ -39,11 +39,11 @@ ApPRICE \(i\) — applied price of the current bar.
 
 ### Main parameters
 
-* Period – period of indicator plotting, default is 20;
+* Period – period of indicator plotting, the default value is 20;
 * Data type: Open, Close, High, Low, Median, Typical, Weighted;
 * Type of moving average: Simple, Exponential, Modified, Linear weighted.
 
 The Standard deviation technical indicator looks as follows:
 
-![](../../../../../.gitbook/assets/sd%20%283%29.jpg)
+![](../../../../../.gitbook/assets/sd%20%282%29.jpg)
 
