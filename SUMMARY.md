@@ -176,6 +176,8 @@
         * [RSI \(Relative strength index\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/rsi-relative-strength-index.md)
         * [ROC \(Rate of change\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/roc-rate-of-change.md)
         * [Momentum](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/momentum.md)
+      * [Trend](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/README.md)
+        * [ICH \(Ichimoku\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/ich-ichimoku.md)
     * [Analysis tools](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
