@@ -16,7 +16,7 @@ Potential breakout or breakdown from the ranging market - during ranging market 
 
 ### Calculation
 
-![](../../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../../../.gitbook/assets/image%20%2846%29.png)
 
 Where: 
 
@@ -26,7 +26,11 @@ OBV prev = Previous on-balance volume level;
 
 Volume = Latest trading volume amount.
 
+### Main parameters
+
+Period – number of periods involved in the indicator calculation, 1 by default.
+
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/obv%20%282%29.jpg)
+![](../../../../../.gitbook/assets/obv%20%281%29.jpg)
 
