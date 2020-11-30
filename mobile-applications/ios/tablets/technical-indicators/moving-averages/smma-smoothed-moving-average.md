@@ -44,10 +44,10 @@ SMMA \(i\) = \(SMMA \(i - 1\) \* \(N - 1\) + CLOSE \(i\)\) / N
 
 ### Main parameters
 
-* Period of smoothed moving average – allows specifying the number of periods, over which the indicator is calculated;
+* Period of smoothed moving average – allows specifying the number of periods, over which the indicator is calculated, 9 by default;
 * Data type – determines the type of price at which the moving average is calculated, available values: Close, Open, High, Low, Median, Typical, Weighted.
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/smma%20%283%29.jpg)
+![](../../../../../.gitbook/assets/smma%20%282%29.jpg)
 
