@@ -183,6 +183,7 @@
         * [Untitled](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/untitled.md)
       * [Volatility](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volatility/README.md)
         * [ATR \(Average true range\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volatility/atr-average-true-range.md)
+        * [SD \(Standard deviation\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volatility/sd-standard-deviation.md)
     * [Analysis tools](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
