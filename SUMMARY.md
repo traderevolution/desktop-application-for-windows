@@ -186,6 +186,7 @@
         * [SD \(Standard deviation\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volatility/sd-standard-deviation.md)
       * [Volume](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volume/README.md)
         * [PVI \(Positive volume index\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volume/pvi-positive-volume-index.md)
+        * [OBV \(On balance volume\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/volume/obv-on-balance-volume.md)
     * [Analysis tools](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/README.md)
       * [Chart](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/README.md)
         * [Chart overview](desktop-application-for-windows/desktop-application-for-mac/analysis-tools/chart/chart-overview.md)
