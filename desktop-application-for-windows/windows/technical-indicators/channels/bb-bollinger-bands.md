@@ -4,7 +4,7 @@ Bollinger Bands is a technical analysis tool invented by John Bollinger in the 1
 
 Bollinger Bands are usually plotted on a price chart, but they can be displayed on the indicator chart as well. Interpretation of the Bollinger Bands is based on the fact that prices tend to stay within the upper and lower boundaries of the band. A distinctive feature of the Bollinger Bands is the spacing due to the price volatility. The second feature of the Bollinger Bands is their variable width due to the price volatility. During periods of significant price changes \(i.e. high volatility\), the bands widen to give more space for the prices. During periods of stagnation \(i.e., low volatility\), bands narrow to keep prices within their boundaries.
 
-Bollinger Bands indicator features are:
+Bollinger Bands indicator key points are:
 
 1. Abrupt price changes usually occur after the band narrows, which corresponds to a decrease in volatility.
 2. If prices go beyond the range, the continuation of the current trend should be expected.
