@@ -41,7 +41,7 @@ Where:
 
 SUM \(..., N\) — sum for N periods;  
 CLOSE — close price;  
-N — indicating the number of periods used in the calculation;  
+N — indicates the number of periods used in the calculation;  
 SMA — Simple Moving Average;  
 SQRT — square root;  
 SD — standard deviation:

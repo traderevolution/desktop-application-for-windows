@@ -10,7 +10,7 @@ ER \(Efficiency Ratio = Direction/Volatility\)
 
 ER = \[ABS \(Closet - Closet-n\]/ \[n ∑ \(ABS \(Closet – Closet-1\)\)\],
 
-n - is a selected number of days for the moving average calculation. If each day would close higher than the previous day, the ER would be 1. If the market moved sideways with any price change at all, ER would be  0.
+n - is a selected number of days for the moving average calculation. If each day would close higher than the previous day, the ER would be 1. If the market moved sideways with any price change at all, ER would be 0.
 
 Determine the shortest and longest moving average that will be used in the KAMA calculation to determine the Smoothing constant \(SC of these averages\). Kaufman recommended using a range of 2 to 30 days.
 

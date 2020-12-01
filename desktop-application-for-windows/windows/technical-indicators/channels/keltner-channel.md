@@ -8,7 +8,7 @@ Typical price = \(high + low + close\)/3
 
 The lines above and below are drawn at a distance from this centerline, a distance that is a simple moving average of trading ranges over the past 10 days \(i.e. a range from high to low on each day\).
 
-The trading strategy is to treat a close above the upper line as a strong bullish signal or a close below the lower line as a strong bearish sentiment and buy or sell with the trend accordingly, but perhaps with other indicators to confirm. Exits can be based on a very conservative Stop loss, a rather high Take profit, and a cross with the centerline. 
+The trading strategy is to treat a close above the upper line as a strong bullish signal or a close below the lower line as a strong bearish signal and buy or sell with the trend accordingly, but perhaps with other indicators to confirm. Exits can be based on a very conservative Stop loss, a rather high Take profit, and an intersection with the centerline.
 
 ### Calculation
 
