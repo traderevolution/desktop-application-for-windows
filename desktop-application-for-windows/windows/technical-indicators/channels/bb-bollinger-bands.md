@@ -13,7 +13,7 @@ Bollinger Bands indicator key points are:
 
 The latter observation is useful for predicting price benchmarks. The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/screenshot_1%20%2810%29.jpg)
+![](../../../../.gitbook/assets/screenshot_8.jpg)
 
 Bollinger Bands consist of:
 
