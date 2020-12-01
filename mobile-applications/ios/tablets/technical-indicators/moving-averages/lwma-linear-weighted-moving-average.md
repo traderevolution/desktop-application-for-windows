@@ -29,5 +29,5 @@ N — smoothing period.
 
 This indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/lwma%20%283%29.jpg)
+![](../../../../../.gitbook/assets/lwma%20%284%29.jpg)
 

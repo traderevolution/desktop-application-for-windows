@@ -29,5 +29,5 @@ P — the percentage of using the price value.
 
 This technical indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/ema%20%283%29.jpg)
+![](../../../../../.gitbook/assets/ema%20%284%29.jpg)
 

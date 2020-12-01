@@ -38,5 +38,5 @@ Period – Moving average period for calculation, 14 by default.
 
 This technical indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/adx%20%282%29.jpg)
+![](../../../../../.gitbook/assets/adx%20%283%29.jpg)
 

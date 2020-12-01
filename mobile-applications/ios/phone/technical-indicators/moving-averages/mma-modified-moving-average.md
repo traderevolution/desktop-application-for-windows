@@ -19,5 +19,5 @@ N - period of MA for calculation.
 
 This indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/mma%20%283%29.jpg)
+![](../../../../../.gitbook/assets/mma%20%284%29.jpg)
 

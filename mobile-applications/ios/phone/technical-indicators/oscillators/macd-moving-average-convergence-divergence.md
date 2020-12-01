@@ -37,5 +37,5 @@ Where:
 
 This indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/macd%20%283%29.jpg)
+![](../../../../../.gitbook/assets/macd%20%284%29.jpg)
 

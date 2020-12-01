@@ -10,7 +10,7 @@ The following buttons are available in the Properties window:
 
 * Set as default – saves the set indicator settings as default settings;
 * Reset – offers two options namely, Reset to my settings and Reset to factory settings. Depending on the option selected, the current settings will be reset to the user's or to the initial \(factory\);
-* OK – applies settings, closes the settings screen. The indicator will be plotted according to saved settings;
+* OK – applies settings, closes the settings screen. The indicator will be plotted in accordance with the saved settings;
 * Close – this button closes the Properties window.
 
 ### Parameters tab

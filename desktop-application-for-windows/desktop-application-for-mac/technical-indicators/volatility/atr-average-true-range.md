@@ -38,5 +38,5 @@ The first ATR value is calculated using the arithmetic mean formula:
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/atr%20%282%29.jpg)
+![](../../../../.gitbook/assets/atr%20%283%29.jpg)
 

@@ -26,5 +26,5 @@ Period – period of momentum, 12 by default.
 
 The indicator looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/roc%20%282%29.jpg)
+![](../../../../../.gitbook/assets/roc%20%283%29.jpg)
 

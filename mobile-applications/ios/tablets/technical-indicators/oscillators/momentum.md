@@ -31,5 +31,5 @@ Where: Close \(i\) — closing price of the current bar; Close \(i-N\) — closi
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/momentum%20%283%29.jpg)
+![](../../../../../.gitbook/assets/momentum%20%284%29.jpg)
 

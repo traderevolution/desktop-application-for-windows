@@ -19,18 +19,18 @@
 
 ### **Info bar**
 
-Info bar can be enabled or hidden via the tab General in General settings.
+Info bar can be enabled or hidden via the General tab in General settings.
 
 It looks as the following:
 
-![](../../../.gitbook/assets/1%20%2847%29.png)
+![](../../../.gitbook/assets/screenshot_7%20%281%29.jpg)
 
 You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2831%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
-![](../../../.gitbook/assets/3%20%289%29.png)
+![](../../../.gitbook/assets/screenshot_6%20%284%29.jpg)
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 

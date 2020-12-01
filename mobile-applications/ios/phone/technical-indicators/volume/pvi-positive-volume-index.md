@@ -33,5 +33,5 @@ Because rising prices are usually associated with rising volume, the PVI usually
 
 Below is the appearance of the indicator with a 255-period Simple Moving Average added to the chart:
 
-![](../../../../../.gitbook/assets/pvi%20%282%29.jpg)
+![](../../../../../.gitbook/assets/pvi%20%284%29.jpg)
 

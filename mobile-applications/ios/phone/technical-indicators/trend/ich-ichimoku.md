@@ -39,5 +39,5 @@ The Kumo \(or clouds\) is the area between Senkou Span A and Senkou Span B.
 
 The Ichimoku chart looks as follows:
 
-![](../../../../../.gitbook/assets/ich%20%282%29.jpg)
+![](../../../../../.gitbook/assets/ich%20%283%29.jpg)
 
