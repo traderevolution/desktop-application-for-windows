@@ -29,7 +29,7 @@ Bollinger bands are formed by three lines. The middle line \(ML\) is a usual Mov
 
 ML = SUM \(CLOSE, N\) / N = SMA \(CLOSE, N\)
 
-The top line \(TL\) coincides with the midline by a certain number of standard deviations \(D\).
+The top line \(TL\) coincides with the middle line by a certain number of standard deviations \(D\).
 
 TL = ML + \(D \* SD\)
 
