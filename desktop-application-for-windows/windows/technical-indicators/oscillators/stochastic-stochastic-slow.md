@@ -14,7 +14,7 @@ The Stochastic oscillator has four variables:
 
 1. %K periods. The number of time periods used in the stochastic calculation;
 2. %K slowing periods. This value controls the internal smoothing of %K. A value of 1 is considered a fast stochastic; a value of 3 is considered a slow stochastic;
-3. %D periods. this is the number of time periods used when calculating a moving average of %K;
+3. %D periods. This is the number of time periods used when calculating a moving average of %K;
 4. %D method. The method \(i.e., Exponential, Simple, Smoothed, or Weighted\) that is used to calculate %D.
 
 Stochastic is calculated by the following formulas:
