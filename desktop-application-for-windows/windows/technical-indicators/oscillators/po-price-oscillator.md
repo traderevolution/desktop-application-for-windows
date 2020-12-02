@@ -1,6 +1,6 @@
 # PO \(Price oscillator\)
 
-The Price oscillator uses two moving averages, one shorter-period, and one longer-period, and then calculates the difference between them. The Price oscillator technical indicator can be used to determine overbought and oversold conditions as well as to confirm bullish or bearish price moves. It is basically a MACD, but the Price Oscillator can use any time periods.
+The Price oscillator uses two moving averages, one shorter-period, and one longer-period, and then calculates the difference between the two moving averages. The Price oscillator technical indicator can be used to determine overbought and oversold conditions as well as to confirm bullish or bearish price moves. It is basically a MACD, but the Price Oscillator can use any time periods. 
 
 There are many trading methods for Price oscillator. Since the indicator is a trend following system, most traders follow a very simple buy rule when the shorter average crosses above the longer average, and vice versa, when the shorter average crosses below the longer average, a sell signal is triggered. Another method is to weaken the signals and go in the opposite direction. This generally works best in volatile markets as moving averages are not allowed to trend due to the bounded market range.
 
