@@ -1,7 +1,5 @@
 # Price channel
 
-
-
 The Price channel indicator is a trend indicator based on a simple and effective rule: in an uptrend, price forms higher highs, and in a downtrend, lower lows.
 
 The Price channel indicator is one of the most effective trend indicators. This is partly due to the mechanics of the indicator, which makes it impossible to miss a trend move. Consistently using price channels to find an entry point at the start of a trend ensures that you don't miss the trend.

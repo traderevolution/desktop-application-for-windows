@@ -1,6 +1,6 @@
 # QStick
 
-The QStick indicator is a technical analysis indicator developed by Tushar Chand as the candle quantifier. It is calculated by taking a moving average with an 'n' period of the difference between the opening and closing prices. A QStick value greater than zero means that most of the last 'n' days have been up, indicating that buying pressure is increasing. When the QStick indicator is less than zero selling pressure has been increasing. Thus, this indicator provides an approximation of the exponential moving average \(or EMA\) of the security, the opening price, the closing price, and their difference, as well as these values ​​of the simple moving averages \(or SMA\).
+The QStick indicator is a technical analysis indicator developed by Tushar Chande as the candle quantifier. It is calculated by taking a moving average with an 'n' period of the difference between the opening and closing prices. A QStick value greater than zero means that most of the last 'n' days have been up, indicating that buying pressure is increasing. When the QStick indicator is less than zero selling pressure has been increasing. Thus, this indicator provides an approximation of the exponential moving average \(or EMA\) of the security, the opening price, the closing price, and their difference, as well as these values ​​of the simple moving averages \(or SMA\).
 
 QStick, like many other technical indicators, provides a range of trading signals based on readings and divergences. Following are the three basic rules for trading with QStick:
 
@@ -10,7 +10,7 @@ QStick, like many other technical indicators, provides a range of trading signal
 
 ### Calculation
 
-The QSticks simply plots an n-period moving average that shows the difference between the close and open prices:
+The QStick simply plots an n-period moving average that shows the difference between the close and open prices:
 
 QStick = MA \(n, \(Close - Open\)\),
 
