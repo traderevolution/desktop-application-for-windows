@@ -1,6 +1,6 @@
 # SAR \(Parabolic time/price system\)
 
-The Parabolic Time/Price system, developed by Welles Wilder, is used to set trailing price stops and is usually referred to as the "SAR" \(stop-and-reversal\). This indicator is explained thoroughly in Wilder's book, 'New Concepts in Technical Trading Systems'. SAR trails price as the trend extends over time. The indicator is below prices when prices are rising and above prices when prices are falling. In this regard, the indicator stops and reverses when the price trend reverses and breaks above or below the indicator. 
+The Parabolic Time/Price system, developed by Welles Wilder, is used to set trailing price stops and is usually referred to as the "SAR" \(stop-and-reversal\). This indicator is explained thoroughly in Wilder's book, New Concepts in Technical Trading Systems. SAR trails price as the trend extends over time. The indicator is below prices when prices are rising and above prices when prices are falling. In this regard, the indicator stops and reverses when the price trend reverses and breaks above or below the indicator. 
 
 **Trading signals:**
 
