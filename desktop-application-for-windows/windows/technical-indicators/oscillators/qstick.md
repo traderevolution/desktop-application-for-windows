@@ -10,7 +10,7 @@ QStick, like many other technical indicators, provides a range of trading signal
 
 ### Calculation
 
-The QSticks simply plots an n-period moving average that shows the difference between the close and open prices:
+The QStick simply plots an n-period moving average that shows the difference between the close and open prices:
 
 QStick = MA \(n, \(Close - Open\)\),
 
