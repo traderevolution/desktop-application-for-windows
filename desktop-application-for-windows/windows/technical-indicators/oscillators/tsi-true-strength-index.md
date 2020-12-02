@@ -8,7 +8,7 @@ The indicator is primarily used to identify overbought and oversold conditions i
 
 Long Term is the First Period and Short Term is the Second Period used in the double exponential smoothing of momentum.
 
-While the TSI output is bound between +100 and −100, most values fall between +25 and −25. Blau suggests interpreting these values as overbought and oversold levels, respectively, at which point a trader may anticipate a market turn. Trend direction is indicated by the TSI slope; a rising TSI suggests an up-trend in the market, and a falling TSI suggests a down-trend.
+While the TSI output is bound between +100 and −100, most values fall between +25 and −25. Blau suggests interpreting these values as overbought and oversold levels, respectively, at which point a trader may anticipate a market turn. Trend direction is indicated by the slope of the TSI; a rising TSI suggests an up-trend in the market, and a falling TSI suggests a down-trend.
 
 ### Calculation
 

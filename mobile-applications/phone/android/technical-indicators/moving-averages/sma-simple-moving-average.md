@@ -1,12 +1,12 @@
 # SMA \(Simple moving average\)
 
-The Moving average technical indicator shows the average value of the instrument price over a certain period of time. When calculating the Moving average, the instrument price is averaged over this period of time. When the price changes, its Moving average either increases or decreases. When the instrument price rises above the Moving average value, a buy signal appears; if it falls below the indicator line, a sell signal appears.
+The Moving average technical indicator shows the average value of the instrument price over a certain period of time. When calculating the moving average, the instrument price is averaged over this period of time. When the price changes, its moving average either increases or decreases. When the instrument price rises above the Moving average value, a buy signal appears; if it falls below the indicator line, a sell signal appears.
 
 The SMA \(Simple moving average\) is calculated as follows: the closing prices of a currency taken over a certain period of time are summed up and divided by the number of these periods. Typically SMA is the average price over a period. 
 
 Volatility in the Forex market is much more smoothed over long periods of time due to the equal weight given to the daily SMA price. The long-term averages can be seen out of the long-term trends as far as any minor fluctuations are smoothed out. Short-term averages are used to find short-term trends, but they still provide long-term expenses. 
 
-Prices are mostly located close to the Moving average, but still aside from it. The Moving average changes following a trend change, which provides additional data on the trend strength based on the slope steepness.
+Prices are mostly located close to the moving average, but still aside from it. The Moving average changes following a trend change, which provides additional data on the trend strength based on the slope steepness.
 
 ### Calculation
 

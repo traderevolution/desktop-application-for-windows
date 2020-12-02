@@ -2,9 +2,9 @@
 
 The average directional movement index \(ADX\) was developed in 1978 by J. Welles Wilder as an indicator of trend strength in a series of financial instrument prices. ADX has become a widely used indicator for technical analysts and is provided as a standard in collections of indicators offered by various trading platforms.
 
-The simplest trading method based on the system of directional movement implies a comparison of two direction indicators: the 14-period +DI and the 14-period -DI. To do this, one either puts the charts of indicators one on top of the other, or +DI is subtracted from -DI. Wilder recommends buying when +DI is higher than -DI and selling when +DI sinks lower than -DI.
+The simplest trading method based on the system of directional movement implies a comparison of two direction indicators: the 14-period +DI one and the 14-period -DI. To do this, one either puts the charts of indicators one on top of the other, or +DI is subtracted from -DI. W. Wilder recommends buying when +DI is higher than -DI and selling when +DI sinks lower than -DI.
 
-To these simple commercial rules, Wilder added "a rule of points of extremum". It is used to eliminate false signals and decrease the number of deals. According to the principle of points of extremum, the "point of extremum" is the point when +DI and -DI cross each other. If +DI raises higher than -DI, this point will be the maximum price of the day when they cross. If +DI is lower than -DI, this point will be the minimum price of the day they cross.
+To these simple commercial rules, Wells Wilder added "a rule of points of extremum". It is used to eliminate false signals and decrease the number of deals. According to the principle of points of extremum, the "point of extremum" is the point when +DI and -DI cross each other. If +DI raises higher than -DI, this point will be the maximum price of the day when they cross. If +DI is lower than -DI, this point will be the minimum price of the day they cross.
 
 The point of extremum is used as a market entry level. Thus, after a buy signal \(+DI is higher than -DI\) one must wait till the price has exceeded the point of extremum and only then buy. However, if the price fails to exceed the level of the point of extremum, one should retain the short position.
 
@@ -34,7 +34,7 @@ SUM \(..., N\) — sum for N periods;
 
 ### Main parameters
 
-* Type of MA – type of Moving average calculation: Simple, Exponential, Modified, Linear weighted;
+* Type of MA – type of indicator Moving average calculation: Simple, Exponential, Modified, Linear weighted;
 * Period of MA – Moving average period for calculation, 13 by default.
 
 This technical indicator looks as follows on the chart:

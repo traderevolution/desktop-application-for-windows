@@ -1,6 +1,6 @@
 # DMI \(Directional movement index\)
 
-The Directional Movement Index \(also known as DMI\) is a momentum indicator that was developed by J. Welles Wilder in 1978. It is calculated using price, the indicator compares the current price with the previous price range and displays the result as an upward movement line \(+DI\), and a downward movement line \(-DI\) between 0 and 100. DMI is displayed on its own chart separate from the price bars and is the lower section in the chart.
+The Directional Movement Index \(also known as DMI\) is a momentum indicator that was developed by J. Welles Wilder in 1978. It is calculated using price, the indicator compares the current price with the previous price range and displays the result as an upward movement line \(+DI\), and a downward movement line \(-DI\) between 0 and 100. DMI is displayed on its own chart separate from the price bars.
 
 DMI will tell you when to be long or short. This is especially useful for trend trading strategies because it differentiates between strong and weak trends, allowing the trader to enter only the strongest trends. DMI works on all timeframes and can be applied to any underlying instrument \(stocks, mutual funds, exchange-traded funds, futures, commodities, and currencies\).
 

@@ -4,10 +4,10 @@ The commodity channel index \(CCI\) is an oscillator originally introduced by Do
 
 Commodity channel index technical Indicator \(CCI\) measures the deviation of a commodity's price from its average statistical price. High index values indicate that the price is unusually high compared to the average one, while low values indicate that the price is too low. Despite the name, the Commodity channel index can be applied for any financial instrument, not just commodities.
 
-There are two basic techniques for using the Commodity channel index:
+There are two basic techniques for using Commodity channel index:
 
 * Divergence detection: a divergence occurs when the price reaches a new maximum, and the Commodity channel index cannot rise above the previous highs. This classical divergence is usually followed by price correction;
-* As an indicator of overbuying/overselling: the Commodity channel index usually fluctuates in the  ±100 range. Values above +100 indicate an overbought state \(and the likelihood of a corrective decline\), and values below -100 indicate an oversold condition \(and a probability of a corrective increase\).
+* As an indicator of overbuying/overselling: the Commodity channel index usually fluctuates in the  ±100 range. Values above +100 indicate an overbought state \(and the likelihood of a corrective decline\), and values below 100 indicate an oversold condition \(and a probability of a corrective increase\).
 
 CCI typically oscillates above and below the zero line. Normal oscillations will occur within the range of +100 and −100. Readings above +100 imply an overbought condition, while readings below −100 imply an oversold condition. As with other overbought/oversold indicators, this means that there is a greater likelihood that the price will correct to more representative levels.
 
