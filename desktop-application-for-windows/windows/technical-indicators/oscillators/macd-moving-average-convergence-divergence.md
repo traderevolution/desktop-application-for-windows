@@ -24,7 +24,7 @@ Where:
 
 * FastEMA –number of periods for calculating the exponential moving average, 12 by default \(classic value for this indicator\);
 * SlowEMA – number of periods for calculating the exponential moving average, 26 by default \(classic value for this indicator\);
-* SignalSMA – number of periods for calculating the simple moving average, 9 by default \(classic value for this indicator\).
+* SignalSMA – number of periods for calculating a simple moving average, 9 by default \(classic value for this indicator\).
 
 **Crossovers**
 

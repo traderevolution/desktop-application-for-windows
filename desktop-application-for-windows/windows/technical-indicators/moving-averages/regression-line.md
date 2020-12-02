@@ -30,10 +30,10 @@ sum XX – sum of squared price.
 
 ### Main parameters
 
-* Period of linear regression – number of periods for calculating the linear regression coefficients. The default value is 2;
+* Period of linear regression – number of periods for calculating the linear regression coefficients. The default value is 2. 
 * Sources prices for MA – determines the type of price at which the moving average will be calculated. Possible values: Close, Open, High, Low, Typical, Medium, Weighted.
 
-The Regression line indicator is actually tomorrow's price prediction plotted today. If prices are consistently above or below the forecast price, expect them to quickly return to more realistic levels. In other words, the Regression line indicator shows where prices 'should' trade on a statistical basis, and any excessive deviation from the Regression line is likely to be short-lived. The indicator itself looks as follows on the chart:
+The Regression line indicator is actually tomorrow's price prediction plotted today. If prices are consistently above or below the forecast price, expect them to quickly return to more realistic levels. In other words, the Regression line indicator shows where prices "should" trade on a statistical basis, and any excessive deviation from the Regression line is likely to be short-lived. The indicator itself looks as follows on the chart:
 
 ![](../../../../.gitbook/assets/screenshot_1%20%2827%29.jpg)
 
