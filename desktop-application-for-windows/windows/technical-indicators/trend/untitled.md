@@ -4,7 +4,7 @@ The ZigZag indicator is a technical analysis tool that can be used to identify c
 
 It aims to help traders stay in a winning position and avoid the urge to close positions due to minor reactions that are common in the market. It shows where trends can change. And it is the starting point for deciding to place stops on momentum-based trades, allowing traders to take profits when a trend is strengthening. 
 
-The ZigZag indicator is similar to a moving average in that they both signal a trend change when the indicator changes direction, such as when the aggregate price rise becomes a price fall. However, the ZigZag indicator highlights peaks and troughs as they occur, while the moving average is slow to respond to price changes that can cause a delay.
+The ZigZag indicator is similar to a moving average in that they both signal a trend change when the indicator changes direction, such as when the aggregate prices rise becomes a price fall. However, the ZigZag indicator highlights peaks and troughs as they occur, while the moving average is slow to respond to price changes that can cause a delay.
 
 Using the ZigZag trading strategy is also useful when a trader wants to look at a trend over a longer period of time. This can be done by changing the resolution or scale, making the overall market path more visible. It is important to remember that the ZigZag indicator has no predictive power as it draws lines based on hindsight. 
 
