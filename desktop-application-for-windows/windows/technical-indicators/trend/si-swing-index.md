@@ -49,7 +49,7 @@ T = move limit in one direction
 
 ### Main parameters
 
-T -  move limit value in one direction, default is 300.0
+T -  move limit value in one direction, default is 300.
 
 The indicator looks as follows on the chart:
 
