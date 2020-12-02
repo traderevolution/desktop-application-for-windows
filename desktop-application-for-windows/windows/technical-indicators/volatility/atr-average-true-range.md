@@ -18,7 +18,7 @@ The true range is the largest of the:
 * Absolute value of the most recent period's high minus the previous close;
 * Absolute value of the most recent period's low minus the previous close.
 
-The ATR at the moment of time t is calculated using the following formula:
+The ATR at the moment of time _t_ is calculated using the following formula:
 
 ![](../../../../.gitbook/assets/image%20%2844%29.png)
 
