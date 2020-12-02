@@ -106,7 +106,7 @@ Note: parameters C, O, H, L are taken according to the "Base period" setting.
 
 ### Main parameters
 
-* Only current period – defines whether Pivot levels are plotted based on previous periods. Example: if the parameter is set to "true" and the Base period = Day, Value = 1 is specified, then the lines will be plotted based on the previous D1 bar values, but will be plotted on the current day area, i.e. along the X-axis but within the current day range. If the parameter value is "false", then the Pivot lines are also plotted on the historical data, according to the "from the past to the future" principle;
+* Only current period – defines whether Pivot levels are plotted based on previous periods. Example: if the parameter is set to "true" and the Base period = Day, Value = 1 are specified, then the lines will be plotted based on the previous D1 bar values, but will be plotted on the current day area, i.e. along the X-axis but within the current day range. If the parameter value is "false", then the Pivot lines are also plotted on the historical data, according to the "from the past to the future" principle;
 * Base period: hour, day, week, and month;
 * Method – allows choosing the method for plotting the indicator, available values: Classic, Camarilla, Fibonacci, Woodie, DeMark.
 

@@ -2,7 +2,7 @@
 
 The Positive Volume Index was introduced by Norman Fosback and is often used in conjunction with the Negative Volume Index to identify bull and bear markets. It focuses on days where the volume increased from the previous day. The premise behind the PVI is that the “not-so-smart” money is most active on the higher volume days and is more emotionally reactive to movements in the market caused by higher volume. One should note that while this assumption may tend to be true overall, it is not always necessarily a fact, which can undermine the usefulness of the indicator.
 
-The interpretation of the PVI is based on the assumption that on days with increasing trade volumes, the large-scale, crowd-following "uninformed" investors are in the market. On days with decreasing trade volumes, on the other hand, the "smart money" is quietly taking positions. In this way, the PVI is able to show the activity of the "not-so-smart-money". 
+The interpretation of the PVI is based on the assumption that on days with increasing trade volumes, the large-scale, crowd-following "uninformed" investors are in the market. On days with decreasing trade volumes, on the other hand, the "smart money" is quietly taking positions. In this way, the PVI is able to show the activity of the "not-so-smart" money. 
 
 The PVI is good at suggesting a bull market when it is above its one-year Moving Average, and still good in identifying a bear market when it is below its one-year Moving Average.
 

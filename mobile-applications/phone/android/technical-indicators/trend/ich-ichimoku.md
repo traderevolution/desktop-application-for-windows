@@ -1,7 +1,5 @@
 # ICH \(Ichimoku\)
 
-
-
 The Ichimoku Kinko Hyo Japanese charting technique was developed before World War II by a Japanese newspaper writer with the pen name of Ichimoku Sanjin. The word Ichimoku can be translated as "a glance" or "one look". Kinko translates into "equilibrium" or "balance", and Hyo is the Japanese word for "chart". Thus, Ichimoku Kinko Hyo simply means, "a glance at an equilibrium chart". Ichimoku charts attempt to identify the probable direction of the price and help the trader to determine the most suitable times to enter and/or exit the market.
 
 The Ichimoku Kinko Hyo, or equilibrium chart, isolates higher probability trades in the foreign exchange market. It is new to the mainstream but is growing in popularity among beginners and experienced traders. Known for its applications to futures and stocks, Ichimoku exhibits more data points that provide more reliable price action. It combines three indicators into one chart, allowing the trader to make the most informed decisions.

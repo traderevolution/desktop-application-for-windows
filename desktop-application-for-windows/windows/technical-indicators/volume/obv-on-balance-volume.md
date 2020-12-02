@@ -1,6 +1,6 @@
 # OBV \(On balance volume\)
 
-On balance volume \(OBV\) is a technical trading momentum indicator that uses volume flow to predict changes in the price of a stock. Joseph Granville pioneered the OBV metric in the 1963 book Granville's New Key to Stock Market Profits.
+On balance volume \(OBV\) is a technical trading momentum indicator that uses volume flow to predict changes in the price of a stock. Joseph Granville pioneered the OBV metric in the 1963 book 'Granville's New Key to Stock Market Profits'.
 
 Granville believed that volume was the key force behind the markets and designed OBV to predict when major movements in the markets would occur based on changes in volume. In his book, he described the predictions made by OBV as “a spring being wound tightly”. He believed that when volume rises sharply without significantly changing the price of a stock, the price will eventually jump up or fall down.
 

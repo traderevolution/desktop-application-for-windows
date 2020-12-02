@@ -1,6 +1,6 @@
 # DMI \(Directional movement index\)
 
-The Directional Movement Index \(also known as DMI\) is a momentum indicator that was developed by J. Welles Wilder in 1978. It is calculated using price, the indicator compares the current price with the previous price range and displays the result as an upward movement line \(+DI\), and a downward movement line \(-DI\) between 0 and 100. DMI is displayed on its own chart separate from the price bars and is the lower section in the chart.
+The Directional Movement Index \(also known as DMI\) is a momentum indicator that was developed by J. Welles Wilder in 1978. It is calculated using price, the indicator compares the current price with the previous price range and displays the result as an upward movement line \(+DI\), and a downward movement line \(-DI\) between 0 and 100. DMI is displayed on its own chart separate from the price bars.
 
 DMI will tell you when to be long or short. This is especially useful for trend trading strategies because it differentiates between strong and weak trends, allowing the trader to enter only the strongest trends. DMI works on all timeframes and can be applied to any underlying instrument \(stocks, mutual funds, exchange-traded funds, futures, commodities, and currencies\).
 
@@ -8,7 +8,7 @@ The Directional Movement Index can be used in both ranging and trending markets.
 
 ### Calculation
 
-The first two auxiliary indicators, +DM and -DM, need to be calculated. On "outside days", the difference between today’s and yesterday’s high corresponds to the auxiliary indicator +DM, and the difference between today's and yesterday's low corresponds to the auxiliary indicator -DM. "inside days" should not be considered for the calculation, therefore zero values are assigned for + DM and -DM on these days.
+The first two auxiliary indicators, +DM and -DM, need to be calculated. On "outside days", the difference between today’s and yesterday’s high corresponds to the auxiliary indicator +DM, and the difference between today's and yesterday's low corresponds to the auxiliary indicator -DM. "inside days" should not be considered for the calculation, therefore zero values are assigned for +DM and -DM on these days.
 
 The so-called "True Range" \(TR\) is now calculated. It is always positive and defines, the following differences as a maximum:
 

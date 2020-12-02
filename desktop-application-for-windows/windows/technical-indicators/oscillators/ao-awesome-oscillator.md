@@ -4,7 +4,7 @@ The Awesome oscillator \(AO\) – as it is named in one of the books by Bill Wil
 
 When calculating the value of AO at a specific time interval, the parameter of the 34-period MA is subtracted from the 5-period moving average indicator. If the fast moving average is above the slow one, the AO value will be positive and the oscillator plots bars above the zero mark. The stronger the trend, and the more the moving average diverge, the longer the bars are drawn up \(with an uptrend\) or down \(with a downtrend\).
 
-Unlike MACD, the Awesome oscillator does not have an additional moving average, and all indicator signals are based on the behavior of the histogram, the position of the bars relative to each other, and their crossing of the zero line.
+Unlike the MACD, Awesome oscillator does not have an additional moving average, and all indicator signals are based on the behavior of the histogram, the position of the bars relative to each other, and their crossing of the zero line.
 
 Indicator signals to watch out for:
 

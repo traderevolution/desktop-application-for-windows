@@ -39,7 +39,7 @@ ApPRICE \(i\) — applied price of the current bar.
 
 ### Main parameters
 
-interval – period of indicator plotting, default is 20.
+Interval – period of indicator plotting, default is 20.
 
 The Standard deviation technical indicator looks as follows:
 

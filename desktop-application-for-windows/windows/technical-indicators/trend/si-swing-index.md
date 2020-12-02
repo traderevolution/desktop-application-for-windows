@@ -1,6 +1,6 @@
 # SI \(Swing index\)
 
-The Swing Index was developed by Wells Wilder to assess the direction of a price change and its strength in relation to price swings. The Swing Index uses data from the last two bars in order to determine a possible trend change over a longer period of time. Specifically, Swing Index helps identify moments when investors change their trading behavior - moments when price changes \(previously aligned with price swings\) begin to move in the opposite direction of swings when a previously strong and consistent group of investors \(Bulls or Bears\) becomes weaker and short-lived only. Since the Swing Index uses data from only two bars to determine the possible development of a longer trend, it mainly attracts short-term intraday traders who are most interested in short-term price fluctuations.
+The Swing Index was developed by Welles Wilder to assess the direction of a price change and its strength in relation to price swings. The Swing Index uses data from the last two bars in order to determine a possible trend change over a longer period of time. Specifically, Swing Index helps identify moments when investors change their trading behavior - moments when price changes \(previously aligned with price swings\) begin to move in the opposite direction of swings when a previously strong and consistent group of investors \(Bulls or Bears\) becomes weaker and short-lived only. Since the Swing Index uses data from only two bars to determine the possible development of a longer trend, it mainly attracts short-term intraday traders who are most interested in short-term price fluctuations.
 
 According to the Technical Analysis theory:
 
@@ -49,7 +49,7 @@ T = move limit in one direction
 
 ### Main parameters
 
-T -  move limit value in one direction, default is 300.0
+T -  move limit value in one direction, default is 300.
 
 The indicator looks as follows on the chart:
 
