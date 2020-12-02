@@ -1,6 +1,6 @@
 # SMMA \(Smoothed moving average\)
 
-The Smoothed moving average is a kind of mix of a simple moving average and an exponential moving average, but with a longer period \(about half the EMA period: for example, a 20-period SMMA is almost equal to a 40-period EMA\).
+The Smoothed moving average is a kind of mix of a Simple moving average and an Exponential moving average, but with a longer period \(about half the EMA period: for example, a 20-period SMMA is almost equal to a 40-period EMA\).
 
 This moving average is used to monitor price changes. The effect of the moving average is to smooth out the price movement so that the long-term trend becomes less volatile and therefore more obvious. When the price rises above the moving average, it indicates that investors are becoming bullish on the commodity. When prices fall lower, it indicates a bearish commodity. In addition, when the moving average crosses the longer-term moving average, research indicates a downward reversal of the market. When the short-term moving average crosses the longer-term moving average, it indicates an upswing in the market. The longer the period of the moving average, the smoother the price movement. Longer moving averages are used to highlight long-term trends.
 
