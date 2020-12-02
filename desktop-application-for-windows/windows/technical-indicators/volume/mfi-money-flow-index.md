@@ -17,7 +17,7 @@ The Money Flow Index requires a series of calculations.
 
 ### Main parameters
 
-MFI period – allows setting the time period for which the MFI will be plotted.
+MFI period – allows setting the time period for which the MFI will be plotted, 14 by default.
 
 The indicator looks as follows:
 

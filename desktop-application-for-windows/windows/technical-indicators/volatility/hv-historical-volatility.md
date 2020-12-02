@@ -18,7 +18,7 @@ Where:
 
 P_i_ – price of _i_ value \(here can be one of four bar prices\).
 
-Generally, the standard deviation is calculated either in absolute values, i.e. in the prices of the specific asset, or relative values \(%\). The value of volatility allows assessing the riskiness of the asset based on the different factors:
+Generally, the standard deviation is calculated either in absolute values, i.e. in the prices of the specific asset, or relative \(%\). The value of volatility allows assessing the riskiness of the asset based on the different factors:
 
 * Liquidity – the lower the asset liquidity, the higher the volatility, since the amount of people willing to buy or sell the asset is less. For example, if to consider the commodity market, orange juice is much more volatile than the cotton market i.e. this instrument is subjected to a sharp surge in prices. If to consider the equities, then less liquid equities are also prone to such outbursts because a major player that comes again can effortlessly "inflate" the prices;
 * The release of important reports – usually the volatility is sharply increased after the release of important reports, such as changes of the Fed interest rate, changes in the unemployment rate, quarterly reports about company’s profits, as well as data on oil and other;
