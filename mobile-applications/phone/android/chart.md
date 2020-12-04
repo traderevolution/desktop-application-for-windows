@@ -58,8 +58,6 @@ All of these tools are accessible via the Drawings panel. In order to open this 
 
 ![](../../../.gitbook/assets/8%20%281%29.jpg)
 
-
-
 The following list of graphical tools is currently available:
 
 Added drawings – this group includes all drawings that were added to the chart for the selected instrument. Opposite each drawing in this group there are controls:
