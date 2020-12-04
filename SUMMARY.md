@@ -440,6 +440,8 @@
       * [Aroon](web-platform/technical-indicators/oscillators/aroon.md)
       * [KRI \(Kairi relative index\)](web-platform/technical-indicators/oscillators/kri-kairi-relative-index.md)
       * [PPO \(Percentage price oscillator\)](web-platform/technical-indicators/oscillators/ppo-percentage-price-oscillator.md)
+      * [RLW \(%R Larry Williams\)](web-platform/technical-indicators/oscillators/rlw-r-larry-williams.md)
+      * [ROC \(Rate of change\)](web-platform/technical-indicators/oscillators/roc-rate-of-change.md)
     * [Channels](web-platform/technical-indicators/channels/README.md)
       * [BB \(Bollinger bands\)](web-platform/technical-indicators/channels/bb-bollinger-bands.md)
       * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
