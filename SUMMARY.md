@@ -443,6 +443,7 @@
       * [RLW \(%R Larry Williams\)](web-platform/technical-indicators/oscillators/rlw-r-larry-williams.md)
       * [ROC \(Rate of change\)](web-platform/technical-indicators/oscillators/roc-rate-of-change.md)
       * [QStick](web-platform/technical-indicators/oscillators/qstick.md)
+      * [TSI \(True strength index\)](web-platform/technical-indicators/oscillators/tsi-true-strength-index.md)
     * [Channels](web-platform/technical-indicators/channels/README.md)
       * [BB \(Bollinger bands\)](web-platform/technical-indicators/channels/bb-bollinger-bands.md)
       * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
