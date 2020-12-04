@@ -436,6 +436,7 @@
       * [RSI \(Relative strength index\)](web-platform/technical-indicators/oscillators/rsi-relative-strength-index.md)
       * [PO \(Price oscillator\)](web-platform/technical-indicators/oscillators/po-price-oscillator.md)
       * [Momentum](web-platform/technical-indicators/oscillators/momentum.md)
+      * [CCI \(Commodity channel index\)](web-platform/technical-indicators/oscillators/cci-commodity-channel-index.md)
     * [Channels](web-platform/technical-indicators/channels/README.md)
       * [BB \(Bollinger bands\)](web-platform/technical-indicators/channels/bb-bollinger-bands.md)
       * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
