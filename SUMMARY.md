@@ -456,6 +456,7 @@
       * [OBV \(On balance volume\)](web-platform/technical-indicators/volume/obv-on-balance-volume.md)
     * [Trend](web-platform/technical-indicators/trend/README.md)
       * [SI \(Swing index\)](web-platform/technical-indicators/trend/si-swing-index.md)
+      * [Pivot point](web-platform/technical-indicators/trend/pivot-point.md)
       * [Alligator](web-platform/technical-indicators/trend/alligator.md)
       * [SAR \(Parabolic time/price system\)](web-platform/technical-indicators/trend/sar-parabolic-time-price-system.md)
       * [Fractals](web-platform/technical-indicators/trend/fractals.md)
