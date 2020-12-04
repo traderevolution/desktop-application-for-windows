@@ -438,6 +438,7 @@
       * [Momentum](web-platform/technical-indicators/oscillators/momentum.md)
       * [CCI \(Commodity channel index\)](web-platform/technical-indicators/oscillators/cci-commodity-channel-index.md)
       * [Aroon](web-platform/technical-indicators/oscillators/aroon.md)
+      * [KRI \(Kairi relative index\)](web-platform/technical-indicators/oscillators/kri-kairi-relative-index.md)
     * [Channels](web-platform/technical-indicators/channels/README.md)
       * [BB \(Bollinger bands\)](web-platform/technical-indicators/channels/bb-bollinger-bands.md)
       * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
