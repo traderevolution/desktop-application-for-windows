@@ -1,8 +1,8 @@
 # Pivot point
 
-A pivot point is a technical analysis or calculation indicator used to determine the general trend of the market over different time periods. The pivot point itself is simply the average of the high, low, and close of the previous trading day. The next day, trading above the pivot point is considered to indicate continued bullish sentiment, while trading below the pivot point indicates the bearish sentiment.
+The Pivot point is a technical analysis or calculation indicator used to determine the general trend of the market over different time periods. The Pivot point itself is simply the average of the high, low, and close of the previous trading day. The next day, trading above the pivot point is considered to indicate continued bullish sentiment, while trading below the pivot point indicates the bearish sentiment.
 
-The pivot point is the basis of the indicator, but it also includes other support and resistance levels that are projected based on the pivot point calculation. All of these levels help traders see where the price may be experiencing support or resistance. Likewise, if the price moves through these levels, it gives the trader an indication that the price is moving in that direction.
+The Pivot point is the basis of the indicator, but it also includes other support and resistance levels that are projected based on the pivot point calculation. All of these levels help traders see where the price may be experiencing support or resistance. Likewise, if the price moves through these levels, it gives the trader an indication that the price is moving in that direction.
 
 This indicator is used to plot the lines of support and resistance, calculated on higher timeframes \(H1 – W\). The lines are plotted according to the principle "from the past to the future", for example, the user wants to plot Pivot lines for the last day in order to use it for trading on the current day \(week, month, etc.\).
 
