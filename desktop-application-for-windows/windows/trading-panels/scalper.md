@@ -267,10 +267,12 @@ Scalper hotkeys have the following functions:
 * Cancel all orders – allows cancelling all orders.
 * Close position – allows closing the current position.
 * Set recenter type to Bid \(+Ask\) / 2 – allows setting the recenter type to Bid \(+Ask\) / 2;
+* Set recenter type to ask – allows recentering the panel relatively to Ask;
+* Set recenter type to bid – allows recentering the panel relatively to Bid;
 * Add SL/TP to position – allows placing SL/TP order manually.
 * Add Trailing stop to position - allows placing Trailing stop order manually.
 * Add Sell limit to Ask – allows placing Sell limit order by current Ask price.
-* Add Buy limit to Bid - allows placing Buy limit order by current Bid price.
+* Add Buy limit to Bid – allows placing Buy limit order by current Bid price.
 * Modifier: Stop order when mouse click – modifier by tapping on which user can place the Stop order \(Limit order without modifier is placed by default\).
 * Modifier: All operations by Market - modifier by tapping on which all executed operations will be made at Market price.
 * Modifier: Group actions with orders – modifier that allows executing operation directly with a group of objects, specifically with all orders that were exposed at one price.

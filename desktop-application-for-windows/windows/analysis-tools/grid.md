@@ -21,5 +21,5 @@ The Grid panel toolbar consists of three buttons:
 * Refresh – allows to refresh all charts.
 * Reset – this button resets panels size to default state.
 
- All panels in the Grid panel can be resized by a user: move the mouse cursor on the panels’ joint, after that drag and drop the panel to the needed size. In order to move the Grid panel to another monitor, click on the button![](../../../.gitbook/assets/17%20%281%29.png)at the top right corner of the Grid panel and select Detach.
+All panels in the Grid panel can be resized by a user: move the mouse cursor on the panels’ joint, after that drag and drop the panel to the needed size. In order to move the Grid panel to another monitor, click on the button![](../../../.gitbook/assets/17%20%281%29.png)at the top right corner of the Grid panel and select Detach.
 
