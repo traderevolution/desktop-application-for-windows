@@ -44,7 +44,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/screenshot_1%20%286%29.jpg)
+![](../../../../.gitbook/assets/1%20%2825%29.jpg)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -58,7 +58,8 @@ Zoom:
 
 * Scale – allows to choose the type of scaling: Auto or Manual;
 * Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
-* Fit settlement prices – if checked, the settlement prices will be fit into chart scaling.
+* Fit settlement prices – if checked, the settlement prices will be fit into chart scaling;
+* Fit day High/Low – if checked, the day High/Low prices will be fit into chart scaling, this option is enabled in case the ‘Auto scale’ type is selected and vice versa - disabled if the ‘Manual scale’ is selected.
 
 Show:
 
@@ -67,6 +68,10 @@ Zoom:
 
 Highlighted prices:
 
+* Show previous close – allows to show the previous close price on the chart;
+* Previous close style – allows to select the style of the 'Previous close price' line, color, line type and line thickness are available for selection;
+* Show day High/Low – allows to show the day High/Low prices on the chart;
+* Day High/Low style – allows to select the style of the 'Day High/Low prices' lines, colors, line types and lines thickness are available for selection;
 * Show settlement price – allows to show the current settlement price on the chart;
 * Settlement price style – allows to choose the style of the 'Settlement price' line;
 * Show previous settlement price – allows to show the previous day settlement price on the chart;
@@ -129,14 +134,14 @@ Note: clicking on the hot buttons doesn't evoke confirmation screens, even if co
 
 ### **Info window**
 
-![](../../../../.gitbook/assets/6%20%2837%29.png)
+![](../../../../.gitbook/assets/mac1.jpg)
 
 * Info window mode – allows to set up the style of displaying the Info window. You can select from the following Info window modes: Separate Window, Attached To Cursor, Hidden.
 * Activate short mode – if checked, the Info window fields' names will be displayed in a short mode on the chart:
 
 ![](../../../../.gitbook/assets/new-info-window-short-mode%20%281%29.png)
 
-* Colors – allows to choose the Info window's font and background colors.
+* Colors – allows to select the Info window's font and background colors.
 
 Fields – this section allows to select fields for displaying information in the 'Info window'. The following fields are available, mark the needed ones as checked:
 
@@ -147,6 +152,7 @@ Fields – this section allows to select fields for displaying information in th
 * High;
 * Low;
 * Close;
+* High - Low;
 * Change, %;
 * Ticks;
 * Volume.

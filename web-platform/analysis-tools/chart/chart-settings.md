@@ -90,9 +90,7 @@ This section allows selecting buttons and hot buttons which will be displayed in
 
 ### **Info window**
 
-![](../../../.gitbook/assets/10.png)
-
-![](../../../.gitbook/assets/11%20%282%29.png)
+![](../../../.gitbook/assets/web1.jpg)
 
 This section allows setting up contents of the Info window and style of its displaying.
 

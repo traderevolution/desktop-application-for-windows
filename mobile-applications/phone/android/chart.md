@@ -54,7 +54,7 @@ A set of graphical tools is available to assist in price movements analysis:
 
 ![](../../../.gitbook/assets/10.jpg)
 
-All of these tools are accessible via the Drawings panel. In order to open this panel tap the![](https://lh5.googleusercontent.com/Cy2wX4HhhifU3wXGFvNYsq67rneT1HGIpdDBRVl4jhTqo9Da1hma5yEi6otbQJzs6vPN0IzUyFxe90qFEvhMn3FnnHRHR8OlC9I2jhGzmr-2oPqsni3m3mLhwCNHe1LTgMMRT6ZH)icon. The following panel will be opened:
+All of these tools are accessible via the Drawings panel. In order to open this panel tap the![](../../../.gitbook/assets/screenshot_3%20%2814%29.jpg)icon. The following panel will be opened:
 
 ![](../../../.gitbook/assets/8%20%281%29.jpg)
 
