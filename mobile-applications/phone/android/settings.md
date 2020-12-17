@@ -53,3 +53,7 @@ In case the FaceID feature is available and activated on the user device, it can
 
 ![](../../../.gitbook/assets/feis.jpg)
 
+### Push notifications
+
+TraderEvolution app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
+

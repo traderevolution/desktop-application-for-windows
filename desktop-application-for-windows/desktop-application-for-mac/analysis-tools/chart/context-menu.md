@@ -24,25 +24,29 @@ The following options are available in the Context menu:
 * Info window – allows to set Info Window as Separate Window, Attached to cursor, or to make it be Hidden.
 * View – offers visible elements on the chart. Here a user can choose:
 
-1.      Settlement price – allows displaying settlement price on the chart and choosing the style of its line.
+1. Previous close – allows displaying previous close price on the chart, the default state of the checkbox depends on the values selected in the chart preferences. When this option is selected, a label showing the previous day close price will be displayed;
 
-2.      Previous settlement price – allows displaying previous settlement price on the chart and choosing the style of its line.
+2. Day high/low – allows displaying day high/low prices on the chart, the default state of the checkbox depends on the values selected in the chart preferences. When this option is selected, a labels showing the day high/low will be displayed at the level of max and min prices. If such prices are found several times a day, they will be marked as dots on the chart;
 
-3.      Time to next bar – allows displaying time to next bar on the chart.
+3. Settlement price – allows displaying settlement price on the chart and choosing the style of its line.
 
-4.      Crosshair – shows/hides the crosshair on the chart.
+4. Previous settlement price – allows displaying previous settlement price on the chart and choosing the style of its line.
 
-5.      Grid – horizontal and vertical lines that help to compare prices and time on the axis with bars and lines on the chart.
+5. Time to next bar – allows displaying time to next bar on the chart.
 
-6.      Volume bars – allow to show volume bars as analysis tool on a chart.
+6. Crosshair – shows/hides the crosshair on the chart.
 
-7.      Opened positions – allow to show opened positions on a chart.
+7. Grid – horizontal and vertical lines that help to compare prices and time on the axis with bars and lines on the chart.
 
-8.      Working orders – allow to show working orders on a chart.
+8. Volume bars – allow to show volume bars as analysis tool on a chart.
 
-9.      Drawing toolbar – shows/hides the drawing toolbar.
+9. Opened positions – allow to show opened positions on a chart.
 
-10.  Order entry – shows/hides Chart Order entry section on the chart.
+10. Working orders – allow to show working orders on a chart.
+
+11. Drawing toolbar – shows/hides the drawing toolbar.
+
+12. Order entry – shows/hides Chart Order entry section on the chart.
 
 * Duplicate panel – allows to duplicate the chosen panel.
 * Preferences – open the Preferences panel that allows users to adjust view, scale, style and other parameters of the chart.
