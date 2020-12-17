@@ -48,7 +48,9 @@ After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authent
 
 The user authentication occurs after putting a finger on the sensor and successful fingerprint recognition.
 
-In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint.
+In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint. 
 
+### Push notifications
 
+TraderEvolution app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function by yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
 
