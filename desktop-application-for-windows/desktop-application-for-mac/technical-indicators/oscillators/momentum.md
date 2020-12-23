@@ -33,5 +33,5 @@ Close \(i-N\) — closing price of the bar N periods ago.
 
 The indicator itself looks as follows on the chart:
 
-![](../../../../.gitbook/assets/momentum%20%282%29.jpg)
+![](../../../../.gitbook/assets/momentum%20%286%29.jpg)
 

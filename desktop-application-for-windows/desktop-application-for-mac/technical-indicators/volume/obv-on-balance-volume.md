@@ -28,5 +28,5 @@ Volume = Latest trading volume amount.
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/obv%20%282%29.jpg)
+![](../../../../.gitbook/assets/obv%20%285%29.jpg)
 

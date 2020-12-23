@@ -13,10 +13,9 @@ This menu contains such sections as:
 
 ### **View:**
 
-![](../../../.gitbook/assets/2%20%2855%29.png)
+![](../../../.gitbook/assets/screenshot_1%20%2840%29.jpg)
 
 * Display quantity in lots – if checked, orders quantity is shown in lots, otherwise - in units;
-* Display quantity in absolute – if checked, orders quantity is shown in absolute values;
 * Reverse buttons order – if checked, trading buttons will be reversed to Sell/Buy pattern;
 * Activate deal tickets – if checked, the system will display informational deal tickets.
 

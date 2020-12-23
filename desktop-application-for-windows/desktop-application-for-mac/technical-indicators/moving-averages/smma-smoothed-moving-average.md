@@ -49,5 +49,5 @@ SMMA \(i\) = \(SMMA \(i - 1\) \* \(N - 1\) + CLOSE \(i\)\) / N
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/smma%20%281%29.jpg)
+![](../../../../.gitbook/assets/smma%20%285%29.jpg)
 

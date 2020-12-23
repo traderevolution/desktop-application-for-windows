@@ -58,5 +58,5 @@ N — number of periods used for the calculation.
 
 The indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/cci.jpg)
+![](../../../../.gitbook/assets/cci%20%285%29.jpg)
 

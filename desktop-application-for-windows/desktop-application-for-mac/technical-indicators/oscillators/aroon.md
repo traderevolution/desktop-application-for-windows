@@ -24,5 +24,5 @@ Chande states that when Aroon-up and Aroon-down move down in close proximity, it
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/aroon.jpg)
+![](../../../../.gitbook/assets/aroon%20%285%29.jpg)
 

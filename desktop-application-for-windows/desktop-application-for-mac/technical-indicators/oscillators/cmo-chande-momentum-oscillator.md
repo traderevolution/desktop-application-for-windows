@@ -13,5 +13,5 @@ The CMO amplitude is limited to -100 and +100. The higher the oscillator rises, 
 
 This indicator looks as follows on the chart:
 
-![](../../../../.gitbook/assets/cmo.jpg)
+![](../../../../.gitbook/assets/cmo%20%285%29.jpg)
 
