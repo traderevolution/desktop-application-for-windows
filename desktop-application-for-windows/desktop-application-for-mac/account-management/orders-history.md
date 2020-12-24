@@ -82,8 +82,7 @@ if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.'
 if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amount of sold assets \(contracts, equities\).
 
 * Strike price – price of an option contract performance;
-* Expiration date – a contract expiration date;
-* Description – contains a short description of the instrument by which the event was executed.
+* Expiration date – a contract expiration date.
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Orders history Preferences' window.
 

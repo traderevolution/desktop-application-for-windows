@@ -91,6 +91,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 * Rebates – shows amount of money that was returned/paid for filling this order which added/removed liquidity.
 * Expiration date – date of contract expiration.
 * Strike price – price of option contract performance.
+* Description – contains a short description of the instrument by which the event was executed.
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Filled orders Preferences' window.
 
