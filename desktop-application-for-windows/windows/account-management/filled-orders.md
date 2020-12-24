@@ -84,10 +84,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 
 * Rebates – shows amount of money that was returned/paid for filling this order which added/removed liquidity.
 * Expiry date – date of contract expiration.
-* Strike price – price of option contract performance;
-* Trading exchange – displays a trading exchange where the order was placed;
-* Product type – displays the product type;
-* Description – contains a short description of the instrument by which the event was executed.
+* Strike price – price of option contract performance.
 
 
 
