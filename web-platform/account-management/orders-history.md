@@ -25,7 +25,10 @@ The following columns are available in the panel:
 * Bought – in case of Forex: if Side = Buy, then this column shows the value of Price \* Lot size \* Qty. in base currency; if Side = Sell, then this column shows the value of Price \* Lot size \* Qty. in quoting currency. In other cases: if Side = Buy, then this column shows the value of Qty. \* Lot size – amount of bought assets \(contracts, equities\); if Side = Sell, then this column shows the value of Price \* Lot size \* Qty. in quoting currency;
 * Sold – in case of Forex: if Side = Sell, then this column shows the value of Price \* Lot size \* Qty. in base currency; if Side = Buy, then this column shows the value of Price \* Lot size \* Qty. in quoting currency. In other cases: if Side = Buy, then this column shows the value of Price \* Lot size \* Qty. in quoting currency; if Side = Sell, then this column shows the value of Qty. \* Lot size – amount of sold assets \(contracts, equities\);
 * Strike price – price of an option contract performance;
-* Expiry date – a contract expiration date.
+* Expiry date – a contract expiration date;
+* Trading exchange – displays a trading exchange where the order was placed;
+* Product type – displays the product type;
+* Description – contains a short description of the instrument by which the event was executed.
 
 ### **Time filter**
 
