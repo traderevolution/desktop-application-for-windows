@@ -26,7 +26,10 @@ The following columns are available in the panel:
 * Rebates – shows amount of money that was returned/paid for filling this order which added/removed liquidity;
 * Expiry date – date of contract expiration;
 * Product type – shows the trading mode and margin check method of the instrument;
-* Strike price – price of option contract performance.
+* Strike price – price of option contract performance;
+* Trading exchange – displays a trading exchange where the order was placed;
+* Product type – displays the product type;
+* Description – contains a short description of the instrument by which the event was executed.
 
 ### **Time filter**
 
