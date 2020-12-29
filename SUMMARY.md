@@ -445,6 +445,7 @@
       * [QStick](web-platform/technical-indicators/oscillators/qstick.md)
       * [TSI \(True strength index\)](web-platform/technical-indicators/oscillators/tsi-true-strength-index.md)
       * [Stochastic slow](web-platform/technical-indicators/oscillators/stochastic-slow.md)
+      * [RSI Laguerre](web-platform/technical-indicators/oscillators/rsi-laguerre.md)
     * [Channels](web-platform/technical-indicators/channels/README.md)
       * [BB \(Bollinger bands\)](web-platform/technical-indicators/channels/bb-bollinger-bands.md)
       * [Keltner channel](web-platform/technical-indicators/channels/keltner-channel.md)
