@@ -430,6 +430,7 @@
       * [EMA \(Exponential moving average\)](web-platform/technical-indicators/moving-avergae/untitled.md)
       * [MMA \(Modified moving average\)](web-platform/technical-indicators/moving-avergae/mma.md)
       * [LWMA \(Linear weighted moving average\)](web-platform/technical-indicators/moving-avergae/lwma-linear-weighted-moving-average.md)
+      * [Multi EMA](web-platform/technical-indicators/moving-avergae/multi-ema.md)
     * [Oscillators](web-platform/technical-indicators/oscillators/README.md)
       * [MACD \(Moving average/Convergence divergence\)](web-platform/technical-indicators/oscillators/macd-moving-average-convergence-divergence.md)
       * [RSI \(Relative strength index\)](web-platform/technical-indicators/oscillators/rsi-relative-strength-index.md)
