@@ -477,6 +477,7 @@
     * [Assets](web-platform/account-management/assets.md)
   * [Account information](web-platform/account-information/README.md)
     * [Accounts](web-platform/account-information/accounts.md)
+    * [Positions balance](web-platform/account-information/positions-balance.md)
   * [Informative panels](web-platform/informative-panels/README.md)
     * [Event log](web-platform/informative-panels/event-log.md)
     * [Internal Browser](web-platform/informative-panels/internal-browser.md)
