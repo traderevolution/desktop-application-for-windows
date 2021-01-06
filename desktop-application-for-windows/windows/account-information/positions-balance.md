@@ -12,7 +12,15 @@ The following columns are available in the panel:
 * Net position qty. – net amount of opened positions.
 * Break-even point – shows the price where Profit/Loss will be zero.
 
-Break-even point = \(Long qty.\*Average long – Short qty.\*Average short\)/\(Long qty. – Short qty.\)
+![](https://gblobscdn.gitbook.com/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MQIR50JOX7EHn3l1Qou%2F-MQIT3l5yiZLLxLxSFua%2F22.png?alt=media&token=b1aefce9-3ed1-4ff3-a8fc-dfca3d9a9db4)
+
+_where:_
+
+_N - the number of open positions for the selected instrument;_
+
+_OPi - Open price;_
+
+_qty i - the volume of the "i" position, taking into account the sign, for a short position the sign is “-”, for a long position the sign is “+”._
 
 * Current price – current market price.
 * Gross P/L – profit/loss in the accounts currency.
@@ -26,11 +34,11 @@ Break-even point = \(Long qty.\*Average long – Short qty.\*Average short\)/\(L
 * Strike price – price of option contract performance.
 * Position value – current value of the position. Calculation is based on current market price.
 
-Position value = Sum \(Position value\[i\] \* Cross price\[i\]\)
+![](../../../.gitbook/assets/screenshot_2%20%2816%29.png)
 
-For long position: Position value = \(Position exposure + Gross P/L\)
+For long position: _Position value = Position exposure + Gross P/L_
 
-For short position: Position value = \(Position exposure - Gross P/L\)
+For short position: _Position value = Position exposure - Gross P/L_
 
 User has a possibility to close all positions through the context menu.
 
