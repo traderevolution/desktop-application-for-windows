@@ -1,14 +1,14 @@
 # Positions balance
 
-Positions balance panel shows a summary of users opened positions by symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
+Positions balance panel shows a summary of the user's open positions by each symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
 
 ![](../../../.gitbook/assets/14%20%281%29.png)
 
-User can select account or group of accounts for which he wants to see information.
+A user can select an account or a group of accounts for which he wants to see information.
 
 The following columns are available in the panel:
 
-* Symbol – title of the instrument.
+* Symbol –  ****the instrument name.
 * Net position qty. – net amount of opened positions.
 * Break-even point – shows the price where Profit/Loss will be zero.
 
@@ -24,7 +24,7 @@ Break-even point = \(Long qty.\*Average long – Short qty.\*Average short\)/\(L
 * Gross exposure – the total exposure for open positions by symbol.
 * Exp. date – date of contract expiration.
 * Strike price – price of option contract performance.
-* Position value – current value of the position. Calculated based on current market price.
+* Position value – current value of the position. Calculation is based on current market price.
 
 Position value = Sum \(Position value\[i\] \* Cross price\[i\]\)
 
@@ -32,7 +32,7 @@ For long position: Position value = \(Position exposure + Gross P/L\)
 
 For short position: Position value = \(Position exposure - Gross P/L\)
 
-User has a possibility to close all positions through context menu.
+User has a possibility to close all positions through the context menu.
 
-The total is shown in account currency if accounts by all opened positions have the same account currency; if accounts by which user have opened positions have different account currencies, then total is displayed in server currency.
+The total is shown in account currency if accounts by all opened positions have the same account currency; if accounts by which users have opened positions have different account currencies, then total is displayed in server currency.
 
