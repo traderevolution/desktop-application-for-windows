@@ -99,9 +99,7 @@ Cross price – a current cross price in account's currency.
 * Today’s fee ­– amount of fees paid for today.
 * Warn. margin req. – warning margin requirement for positions and orders;
 * Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
-* Margin before warning ****– margin available before the warning triggering;
-* Day trader pattern protection –  displays whether protection against accidental marking the account as the Day trader pattern is activated. Available states are ‘Enabled’ or ‘Disabled’;
-* Available day trades –  displays the number of intraday trades that can be performed before the system classifies this user/account as a Day trader pattern.
+* Margin before warning ****– margin available before the warning triggering.
 
  
 
