@@ -395,19 +395,6 @@ The following information about Accounts and calculation formulas are available:
       <td
       style="text-align:left"></td>
     </tr>
-    <tr>
-      <td style="text-align:left">Day trader pattern protection</td>
-      <td style="text-align:left">Displays whether protection against accidental marking the account as
-        the Day trader pattern is activated. Available states are &#x2018;Enabled&#x2019;
-        or &#x2018;Disabled&#x2019;.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Available day trades</td>
-      <td style="text-align:left">Displays the number of intraday trades that can be performed before the
-        system classifies this user/account as a Day trader pattern.</td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
 
