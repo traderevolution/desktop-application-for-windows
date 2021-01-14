@@ -4,7 +4,7 @@
 
 ![](../../../.gitbook/assets/screenshot_3%20%2815%29.jpg)
 
-To create a new order, click on the button![](../../../.gitbook/assets/5%20%2839%29.png)or open context menu -&gt; Add order…
+To create a new order, click on the button![](../../../.gitbook/assets/5%20%2839%29.png)or open context menu -&gt; Add order… 
 
 The following Order entry window with standard order parameters will be opened:
 
