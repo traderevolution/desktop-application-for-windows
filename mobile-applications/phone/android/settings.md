@@ -18,7 +18,7 @@ In "Defaults" settings section you can adjust the following:
 
 ### **Confirmations**
 
-![](../../../.gitbook/assets/2%20%2882%29.png)
+![](../../../.gitbook/assets/fdb0c8d1-933c-48fb-ad1a-c46d27c587d7.jpg)
 
 "Confirmations" settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
@@ -27,7 +27,8 @@ In "Defaults" settings section you can adjust the following:
 * Order executing;
 * Order cancelling;
 * Position modifying;
-* Position closing.
+* Position closing;
+* Alert removing.
 
 ### Other
 
