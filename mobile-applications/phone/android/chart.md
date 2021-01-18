@@ -20,9 +20,9 @@ Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
 * Chart templates – allows to create a chart template;
-* Settings – allows to open the Chart settings screen and configure the following items:
+* Settings – allows to open the Chart settings screen and configure the Default and Alert parameters:
 
-![](../../../.gitbook/assets/3%20%284%29.jpg)
+![](../../../.gitbook/assets/8cd5476e-f981-423c-aef8-ddefd969d159.jpg)
 
 ### **Indicators**
 
