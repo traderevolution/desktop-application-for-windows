@@ -57,3 +57,19 @@ In case the FaceID feature is available and activated on the user device, it can
 
 TraderEvolution app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Upon receiving a push notification, the user can tap on it and thus open the application. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function by yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
 
+### Alerts
+
+This section allows to configure the alerts, the following settings are available:
+
+![](../../../.gitbook/assets/f626729e-1a6f-4c08-8def-712790d32e6d.jpg)
+
+* Notification – combobox for selecting the type of notification after allert triggering, multiselect is available:
+* * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
+  * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
+  * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
+  * Sound – a musical alert will be played to the user in the client.
+* Alert type – allows to set an alert type. Available options are: Default by symbol, Ask, Bid, Last, Change%, Volume;
+* Condition – allows to set an alert condition. Available values are: &gt;,&lt;,&gt;=,&lt;=;
+* Importance – allows to define the alert importance, the following options are available: High, Medium, Low;
+* After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution.
+
