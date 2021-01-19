@@ -2,11 +2,11 @@
 
 In order to take advantage of the alerts, the user should open the corresponding tab that is located in the terminal main menu:
 
-![](../../../.gitbook/assets/screenshot_5%20%282%29.jpg)
+![](../../../.gitbook/assets/screenshot_3%20%2816%29.jpg)
 
 To set up a new alert, tap the ‘Create new’ button located in the general Alerts screen. The alert creation menu looks as follows, the user can also find Bid, Ask, Last, Change%, and Volume data by the selected instrument here:
 
-![](../../../.gitbook/assets/2-1-.jpg)
+![](../../../.gitbook/assets/2%20%288%29.jpg)
 
 Alert creation screen contains the following settings:
 
@@ -16,7 +16,7 @@ Alert creation screen contains the following settings:
   * Notify – user is notified without placing an order;
 * Order parameters – appears only if Action is set to ‘Place order + Notify’. At this point, there is an ‘Order entry’ button by clicking on which a full form for placing an order will be opened;
 * Notification type – combobox for selecting the type of notification, multiselect is available:
-* * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
+  * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
   * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
   * Sound – a musical alert will be played to the user in the client.
@@ -31,11 +31,11 @@ Alert creation screen contains the following settings:
 
 ### Alerts management
 
-In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of all created alerts ****![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
+In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of all created alerts![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
 
 The alert management screen contains a table that lists all created alerts as well as controls for performing certain actions:
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/image%20%2854%29.png)
 
 * Symbol – name of the instrument for which the alert was created;
 * Condition – displays the condition upon reaching which the alert must be executed;
@@ -52,7 +52,7 @@ The chart displays all active alerts for the instrument selected in the symbol l
 
 In order to create a new alert, the user must perform a long tap on the needed price scale level. At the level where the long tap was made, an alert label will appear, it contains a confirmation button for setting an alert:
 
-![](../../../.gitbook/assets/screenshot_2-1-%20%281%29.jpg)
+![](../../../.gitbook/assets/screenshot_2-1-.jpg)
 
 If the alert was set at the wrong level, the user can simply drag the alert label to the required level, and only then press the confirmation button. When creating an alert on a chart by long tap, the following parameters are applied to it:
 
@@ -69,7 +69,7 @@ If the alert was set at the wrong level, the user can simply drag the alert labe
 
 In order to edit or remove the alert, the user should use the corresponding buttons, which become visible by tapping the alert label:
 
-![](../../../.gitbook/assets/screenshot_2-2-.jpg)
+![](../../../.gitbook/assets/screenshot_2-2-%20%281%29.jpg)
 
 Tapping the Edit button will result in opening the corresponding screen, it is similar to the one intended for creating the alert. Editing the alert from the chart is also possible by using the Drag&Drop function. When using it, the alert is modified without additional confirmation, just drag the alert to the required position.
 

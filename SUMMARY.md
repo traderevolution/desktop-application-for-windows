@@ -402,6 +402,7 @@
       * [Market depth](mobile-applications/ios/tablets/market-depth.md)
       * [Event log](mobile-applications/ios/tablets/event-log.md)
       * [Account details](mobile-applications/ios/tablets/account-details.md)
+      * [Alerts](mobile-applications/ios/tablets/alerts.md)
       * [External links](mobile-applications/ios/tablets/external-links.md)
 * [TraderEvolution for Web](web-platform/README.md)
   * [Getting started](web-platform/getting-started/README.md)
