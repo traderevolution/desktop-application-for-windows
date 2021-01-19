@@ -16,7 +16,7 @@ Alert creation screen contains the following settings:
   * Notify – user is notified without placing an order;
 * Order parameters – appears only if Action is set to ‘Place order + Notify’. At this point, there is an ‘Order entry’ button by clicking on which a full form for placing an order will be opened;
 * Notification type – combobox for selecting the type of notification, multiselect is available:
-* * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
+  * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
   * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
   * Sound – a musical alert will be played to the user in the client.

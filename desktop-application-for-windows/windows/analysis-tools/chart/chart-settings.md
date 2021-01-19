@@ -71,6 +71,14 @@ If spread type is None - single price indicator is shown, depending on chart dat
 * Settlement price - allows displaying settlement price on the chart and choosing the style of its line.
 * Previous settlement price - allows displaying previous settlement price on the chart and choosing the style of its line.
 
+#### Alerts
+
+![](../../../../.gitbook/assets/image%20%2854%29.png)
+
+* Notification – ****allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
+* Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low;
+* After execute – allows to select alert behavior after execution. Available options are: Stop or Remove.
+
 #### **Visual trading**
 
 ![](../../../../.gitbook/assets/32%20%281%29.png)

@@ -64,7 +64,7 @@ This section allows to configure the alerts, the following settings are availabl
 
 ![](../../../.gitbook/assets/f626729e-1a6f-4c08-8def-712790d32e6d.jpg)
 
-* Notification – combobox for selecting the type of notification after allert triggering, multiselect is available:
+* Notification – combobox for selecting the type of notification after alert triggering, multiselect is available:
 * * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
   * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
