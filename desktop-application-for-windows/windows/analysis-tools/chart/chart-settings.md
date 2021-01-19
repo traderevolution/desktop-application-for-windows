@@ -73,7 +73,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 #### Alerts
 
-![](../../../../.gitbook/assets/image%20%2854%29.png)
+![](../../../../.gitbook/assets/image%20%2855%29.png)
 
 * Notification – ****allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low;

@@ -35,7 +35,7 @@ In the Alerts panel, the user can browse through and work with already created a
 
 The alert management screen contains a table that lists all created alerts as well as controls for performing certain actions:
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 * Symbol – name of the instrument for which the alert was created;
 * Condition – displays the condition upon reaching which the alert must be executed;

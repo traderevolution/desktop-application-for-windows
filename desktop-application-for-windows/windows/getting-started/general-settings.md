@@ -54,7 +54,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### Confirmations
 
-![](../../../.gitbook/assets/4%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 
 In Confirmations section all of the options are fairly intuitive:
 
@@ -63,7 +63,8 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Confirm order/positions modification - check if you want to confirm each order/position modification;
 * Confirm position closing - check if you want to confirm each position closing;
 * Confirm position reversing - check if you want to confirm each position reversing;
-* Confirm idea deleting \(Trading idea\) - check if you want to confirm deleting of a Trading idea.
+* Confirm alert remove - check if you want to cinfirm everu alert removing;
+* Open deal tickets on workspace - check if you want to confirm the opening of deal tickets on a workspace.
 
 ### **Warnings**
 
