@@ -17,7 +17,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 * Expiration – date/time picker that allows specifying the period of alert lifetime. The expiration date is set in the corresponding calendar control:
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 * After execute – allows to choose alert behavior after execution. Available options are the following:
 
@@ -31,6 +31,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
               -    Notify – user is notified without placing an order, this value is set by default;
 
+* Order parameters – becomes available only when 'Place order + Notify' option is selected in the 'Action' control. Allows to open standard Order entry panel to configure the required parameters of the order to be placed after alert triggering;
 * Alert message – allows to type the text of the alert message. The text in the Message box is generated automatically but a user can customize the text of the notification;
 * Create button – allows to create an alert. The button is colored according to importance of the alert.
 

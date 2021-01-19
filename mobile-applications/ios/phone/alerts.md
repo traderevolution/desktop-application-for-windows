@@ -6,7 +6,7 @@ In order to take advantage of the alerts, the user should open the ‘More’ ta
 
 To set up a new alert, tap the ‘Create new’ button located in the general Alerts screen. The alert creation menu looks as follows, the user can also find Bid, Ask, Last, Change%, and Volume data by the selected instrument here:
 
-![](../../../.gitbook/assets/1%20%2827%29.jpg)
+![](../../../.gitbook/assets/1%20%2828%29.jpg)
 
 Alert creation screen contains the following settings:
 
@@ -52,7 +52,7 @@ The chart displays all active alerts for the instrument selected in the symbol l
 
 In order to create a new alert, the user should perform a long tap on the needed price scale level. At the level where the long tap was made, an alert label will appear, it contains a confirmation button for setting an alert:
 
-![](../../../.gitbook/assets/image%20%2860%29.png)
+![](../../../.gitbook/assets/image%20%2865%29.png)
 
 If the alert was set at the wrong level, the user can simply drag the alert label to the required level, and only then press the confirmation button. When creating an alert on a chart by long tap, the following parameters are applied to it:
 
@@ -69,7 +69,7 @@ If the alert was set at the wrong level, the user can simply drag the alert labe
 
 In order to edit or remove the alert, the user should use the corresponding buttons, which become visible by tapping the alert label:
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2861%29.png)
 
 Tapping the Edit button will result in opening the corresponding screen, it is similar to the one intended for creating the alert. Editing the alert from the chart is also possible by using the Drag&Drop function. When using it, the alert is modified without additional confirmation, just drag the alert to the required position.
 

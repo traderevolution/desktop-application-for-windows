@@ -156,6 +156,7 @@
       * [Managing columns](desktop-application-for-windows/desktop-application-for-mac/logging-in/managing-columns.md)
       * [Symbol & Account lookups](desktop-application-for-windows/desktop-application-for-mac/logging-in/symbol-and-account-lookups.md)
       * [Top menu and Status bar](desktop-application-for-windows/desktop-application-for-mac/logging-in/top-menu-and-status-bar.md)
+      * [Alerts](desktop-application-for-windows/desktop-application-for-mac/logging-in/alerts.md)
       * [Panel preferences](desktop-application-for-windows/desktop-application-for-mac/logging-in/panel-preferences.md)
     * [Technical indicators](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/README.md)
       * [Preferences](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/preferences.md)

@@ -73,6 +73,14 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Previous close line - type and color of the Previous close line.
 * Day High/Low lines - type and color of the Day High/Low lines.
 
+### Alerts
+
+![](../../../.gitbook/assets/image%20%2858%29.png)
+
+* Notification type – allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
+* Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low;
+* After execute – allows to select alert behavior after execution. Available options are: Stop or Remove.
+
 ### **Visual trading**
 
 ![](../../../.gitbook/assets/8%20%2821%29.png)

@@ -55,15 +55,16 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Confirmations**
 
-![](../../.gitbook/assets/screenshot_6%20%285%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
-In Confirmations section all of the options are fairly intuitive:
+In the Confirmations section all of the options are fairly intuitive:
 
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;
 * Confirm order/positions modification - check if you want to confirm each order/position modification; 
 * Confirm position closing - check if you want to confirm each position closing;
-* Confirm position reversing - check if you want to confirm each position reversing**.**
+* Confirm alert remove - check if you want to confirm each alert removing;
+* Open deal tickets on workspace - check if you want to confirm every opening of deal tickets on a workspace.
 
 ### **Warnings**
 
