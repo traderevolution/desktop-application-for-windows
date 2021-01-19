@@ -20,7 +20,7 @@ Tap the button ![](../../../.gitbook/assets/2-kopiya%20%281%29.png) to open Char
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen and configure the following items:
 
-![](../../../.gitbook/assets/3%20%2898%29.png)
+![](../../../.gitbook/assets/4ef5a269-5b43-4e5b-b9d4-20f4a2abe3b7-1-%20%281%29.jpg)
 
 ### **Indicators**
 
