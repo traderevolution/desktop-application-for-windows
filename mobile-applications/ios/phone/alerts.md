@@ -6,7 +6,7 @@ In order to take advantage of the alerts, the user should open the ‘More’ ta
 
 To set up a new alert, tap the ‘Create new’ button located in the general Alerts screen. The alert creation menu looks as follows, the user can also find Bid, Ask, Last, Change%, and Volume data by the selected instrument here:
 
-![](../../../.gitbook/assets/1%20%2826%29.jpg)
+![](../../../.gitbook/assets/1%20%2827%29.jpg)
 
 Alert creation screen contains the following settings:
 
