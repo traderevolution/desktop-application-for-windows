@@ -20,7 +20,7 @@ Tap the button![](../../../.gitbook/assets/2-kopiya%20%282%29.png)to open Chart 
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen and configure the following items:
 
-![](../../../.gitbook/assets/simulator-screen-shot-ipad-pro-11-inch-2nd-generation-2020-09-29-at-18.03.37.png)
+![](../../../.gitbook/assets/3%20%2810%29.jpg)
 
 ### **Indicators**
 
