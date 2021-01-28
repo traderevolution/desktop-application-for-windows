@@ -167,7 +167,7 @@ The 'Chart Preferences' window contains the following buttons to manage adjustme
 
 ### Alerts
 
-![](../../../../.gitbook/assets/screenshot_3%20%2817%29.jpg)
+![](../../../../.gitbook/assets/screenshot_3%20%2818%29.jpg)
 
 The following settings are available when creating an alert:
 

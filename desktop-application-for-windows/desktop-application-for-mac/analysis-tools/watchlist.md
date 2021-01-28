@@ -70,7 +70,9 @@ Symbol info panel displays information for a selected symbol. To open the panel,
 
 The Symbol info window will be opened:
 
-![](../../../.gitbook/assets/unnamed%20%282%29.png)
+![](../../../.gitbook/assets/screenshot_3%20%2816%29.jpg)
+
+The panel header contains a control for panel linking in addition to the standard ones, it is not active by default. When linking is enabled in the Symbol info panel, focusing on an instrument in another panel \(Watchlist, Positions, Orders, etc.\) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
 
 All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following buttons appear in a header of a group when it is hidden or opened![](../../../.gitbook/assets/mac-buttons-small.png). 
 
