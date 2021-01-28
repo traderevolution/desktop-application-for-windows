@@ -81,13 +81,14 @@ The full information about Hotkeys preferences is represented in the article bel
 
 ‘Confirmations’ preferences allow to activate the following confirmations:
 
-![](../../../.gitbook/assets/6%20%283%29.png)
+![](../../../.gitbook/assets/image%20%2868%29.png)
 
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;
 * Confirm order/positions modification - check if you want to confirm each order/position modification;
 * Confirm position closing - check if you want to confirm each position closing;
-* Confirm position reversing - check if you want to confirm each position reversing.
+* Confirm position reversing - check if you want to confirm each position reversing;
+* Confirm alert removing – check if you want to confirm each alert removing.
 
 ### **Warnings:**
 

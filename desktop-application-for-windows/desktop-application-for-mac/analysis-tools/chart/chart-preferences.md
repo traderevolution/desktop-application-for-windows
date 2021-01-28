@@ -44,7 +44,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/1%20%2825%29.jpg)
+![](../../../../.gitbook/assets/screenshot_4%20%283%29.jpg)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -59,7 +59,8 @@ Zoom:
 * Scale – allows to choose the type of scaling: Auto or Manual;
 * Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
 * Fit settlement prices – if checked, the settlement prices will be fit into chart scaling;
-* Fit day High/Low – if checked, the day High/Low prices will be fit into chart scaling, this option is enabled in case the ‘Auto scale’ type is selected and vice versa - disabled if the ‘Manual scale’ is selected.
+* Fit day High/Low – if checked, the day High/Low prices will be fit into chart scaling, this option is enabled in case the ‘Auto scale’ type is selected and vice versa - disabled if the ‘Manual scale’ is selected;
+* Fit alerts – if checked, then alerts will be fit into chart scaling.
 
 Show:
 
@@ -164,7 +165,20 @@ The 'Chart Preferences' window contains the following buttons to manage adjustme
 * ![](../../../../.gitbook/assets/set-as-default%20%282%29.png)–   allows to set all current 'Chart Preferences' adjustments as default ones;
 * ![](../../../../.gitbook/assets/reset%20%283%29.png)–   allows to reset all the 'Chart Preferences' adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
-   ****
+### Alerts
+
+![](../../../../.gitbook/assets/screenshot_3%20%2817%29.jpg)
+
+The following settings are available when creating an alert:
+
+* Notification type – combobox for selecting the type of notification, multiselect is available:
+* * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
+  * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
+  * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
+  * Sound – a musical alert will be played to the user in the client.
+* Importance – allows to define the alert importance. The following options are available: High, Medium, Low. After the alert execution, the user gets a notification with the corresponding color of the indicator which depends on importance of the alert:
+* After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution;
+* Show alerts – allows to show/hide alerts on the chart, checked by default.
 
 
 

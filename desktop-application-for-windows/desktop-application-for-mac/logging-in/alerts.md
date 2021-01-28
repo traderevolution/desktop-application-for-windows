@@ -59,7 +59,7 @@ In order to create a new alert on the chart, click the![](https://lh6.googleuser
 
 ![](../../../.gitbook/assets/image%20%2853%29.png)
 
-All active alerts created for the same instrument are visible on the chart. After execution, the alert is removed from the chart. The buttons for editing ![](https://lh5.googleusercontent.com/_-_WvFGiyqCfE64TXDDysPn8Leub7wi8j42X2ubOEzmSofAf3BAkzekd9To4IHBZaXWjeJGjXKhS2T8YfczovuIam7OlkYPBT-nW9BQMF_H43LyjGPS_1Y5QaU3FE5kR24q3n5iT) and removing ![](https://lh6.googleusercontent.com/NMQO03k-O5rTZCOqnMjFvI6l-b5_jBTfATOeS5pmnexih2FCi9Ksys6NNrIb-qXdA4fx9omibVBM-swmrDHCfNHm-vRTIbvXHn6wOEM4eEpzz0GsG3-ouPHfLLP5R5VDw1Jt7JqO) an alert become visible when the user hovers over the alert icon. The color of the alert icon depends on the importance of the alert.
+All active alerts created for the same instrument are visible on the chart. After execution, the alert is removed from the chart. The buttons for editing ![](https://lh5.googleusercontent.com/_-_WvFGiyqCfE64TXDDysPn8Leub7wi8j42X2ubOEzmSofAf3BAkzekd9To4IHBZaXWjeJGjXKhS2T8YfczovuIam7OlkYPBT-nW9BQMF_H43LyjGPS_1Y5QaU3FE5kR24q3n5iT) and removing ![](https://lh6.googleusercontent.com/NMQO03k-O5rTZCOqnMjFvI6l-b5_jBTfATOeS5pmnexih2FCi9Ksys6NNrIb-qXdA4fx9omibVBM-swmrDHCfNHm-vRTIbvXHn6wOEM4eEpzz0GsG3-ouPHfLLP5R5VDw1Jt7JqO) an alert become visible when the user clicks the alert icon. The color of the alert icon depends on the importance of the alert.
 
 Clicking the Edit control will open the Editing screen. Editing the alert from the chart is also possible using the Drag&Drop function. When using this function, the alert is modified without additional confirmation, just drag the alert to the required position.
 

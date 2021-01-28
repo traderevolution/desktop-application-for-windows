@@ -17,7 +17,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 * Expiration – date/time picker that allows specifying the period of alert lifetime. The expiration date is set in the corresponding calendar control:
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 * After execute – allows to choose alert behavior after execution. Available options are the following:
 
