@@ -66,7 +66,9 @@ The Watchlist panel enables a user to create custom sets of symbols lists. In or
 
 Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option. The Symbol info window will be opened:
 
-![](../../.gitbook/assets/screenshot_10%20%281%29.png)
+![](../../.gitbook/assets/screenshot_4%20%283%29.jpg)
+
+Please note, that the panel header contains a control for panel linking, it is not active by default. When linking is enabled in the Symbol info panel, focusing on an instrument in another panel \(Watchlist, Positions, Orders, etc.\) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
 
 All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/4.png).
 
