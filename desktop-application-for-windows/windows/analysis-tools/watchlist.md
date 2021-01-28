@@ -73,9 +73,15 @@ Symbol Info panel allows displaying settings information for a selected symbol. 
 
 The Symbol info window will be opened:
 
-![](../../../.gitbook/assets/symbol-info%20%282%29.png)
+![](../../../.gitbook/assets/screenshot_1%20%2841%29.jpg)
 
-All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../../.gitbook/assets/2v.png).
+
+
+The panel header contains standard elements such as the ‘Close’ and ‘View more actions’ buttons. To the left of these elements, there is a control for panel linking, it is not active by default. 
+
+When linking is enabled in the Symbol info panel, focusing on an instrument in another panel \(Watchlist, Positions, Orders, etc.\) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
+
+All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../../.gitbook/assets/2v.png).
 
 The following information is available in each group:
 
