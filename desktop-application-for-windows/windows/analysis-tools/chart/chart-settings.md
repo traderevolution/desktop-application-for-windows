@@ -98,7 +98,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 ![](../../../../.gitbook/assets/desktop-windows.jpg)
 
-This section allows setting up contents of the Info window and the style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden.
+This section allows setting up contents of the Info window and the style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden. Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
 
 Other settings sections \(Volume bars, Price statistics, etc.\) are described in the articles located in the 'Analysis tools' documentation section.
 
