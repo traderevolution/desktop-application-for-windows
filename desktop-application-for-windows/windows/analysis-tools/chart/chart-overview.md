@@ -75,8 +75,6 @@ In order to get this information, click right mouse button, hold it and lead the
 
 ![](../../../../.gitbook/assets/4%20%2842%29.png)
 
-Note that the color of the text and background displayed in the info window can be changed via the corresponding color pickers in the chart settings, 'Info window' section.
-
 #### **Additional options**
 
 Right clicking on the timeline shows the panel with additional options:
