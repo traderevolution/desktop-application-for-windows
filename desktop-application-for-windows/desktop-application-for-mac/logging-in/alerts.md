@@ -4,7 +4,7 @@ To open the Alerts panel, click the ![](https://lh5.googleusercontent.com/n2puwM
 
 A user can find Bid, Ask, Last, Change%, and Volume data by the instrument selected in the symbol lookup of the panel.
 
-![](../../../.gitbook/assets/1%20%2827%29.jpg)
+![](../../../.gitbook/assets/new%20%281%29.jpg)
 
 The following settings are available when creating an alert:
 
@@ -23,7 +23,7 @@ The following settings are available when creating an alert:
 * Value – allows to set a value of Alert type for reaching the condition;
 * Importance – allows to define the alert importance. The following options are available: High, Medium, Low. After the alert execution, the user gets a notification with the corresponding color of the indicator which depends on importance of the alert:
 
-![](https://lh3.googleusercontent.com/S5U1ITIXDeLlQTNvnT4kwZFrp6Q5xG3CkY9DmJKTXKts3-YGdQmtOS3HLRplHsxiaftdMbJ2mCcK8zdzunpcX5iSiXicV7rgfBdw6nd2YczYR6ogDcRu7kIj156x5baxDgZLNW8f)
+![](../../../.gitbook/assets/new1.jpg)
 
 * Expiration – date/time picker that allows specifying the period of the alert lifetime. The expiration date and time are set in the corresponding calendar control:
 
