@@ -4,7 +4,7 @@ To open the Alerts panel, click on the![](../../../.gitbook/assets/1%20%288%29.p
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../../.gitbook/assets/3%20%2810%29.jpg)
+![](../../../.gitbook/assets/new.jpg)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Notification – allows to select a type of notification to be sent, available values are Email, Push, Pop-up, Sound. Multiselect is available here;
@@ -13,7 +13,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 * Value – allows to set a value of Alert type for reaching the condition;
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low. After execution of the alert, a user gets a notification with the corresponding color of the indicator which depends on importance of the alert;
 
-![](../../../.gitbook/assets/screenshot_7%20%282%29.png)
+![](../../../.gitbook/assets/new1-1-.jpg)
 
 * Expiration – date/time picker that allows specifying the period of alert lifetime. The expiration date is set in the corresponding calendar control:
 
@@ -60,11 +60,11 @@ The maximum number of alerts which can be added to the panel is 100.
 
 ### **Alerts on the chart**
 
-![](../../../.gitbook/assets/6%20%287%29.png)
+The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types.
 
 To create a new alert on the chart, click on the![](../../../.gitbook/assets/7%20%2818%29.png)button which appears near the price scale at the chart while hovering the certain price level:
 
-![](../../../.gitbook/assets/8%20%2813%29.png)
+![](../../../.gitbook/assets/screenshot_4%20%286%29.jpg)
 
 All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../../.gitbook/assets/9%20%2812%29.png)and remove![](../../../.gitbook/assets/10%20%281%29.png)an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 
