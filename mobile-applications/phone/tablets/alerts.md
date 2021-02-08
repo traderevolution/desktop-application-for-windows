@@ -2,11 +2,11 @@
 
 In order to take advantage of the alerts, the user should open the corresponding tab that is located in the terminal main menu:
 
-![](../../../.gitbook/assets/screenshot_5%20%282%29.jpg)
+![](../../../.gitbook/assets/new2%20%282%29.jpg)
 
 To set up a new alert, tap the ‘Create new’ button located in the general Alerts screen. The alert creation menu looks as follows, the user can also find Bid, Ask, Last, Change%, and Volume data by the selected instrument here:
 
-![](../../../.gitbook/assets/2-1-.jpg)
+![](../../../.gitbook/assets/new1%20%282%29.jpg)
 
 Alert creation screen contains the following settings:
 
@@ -35,7 +35,7 @@ In the Alerts panel, the user can browse through and work with already created a
 
 The alert management screen contains a table that lists all created alerts as well as controls for performing certain actions:
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/new3.jpg)
 
 * Symbol – name of the instrument for which the alert was created;
 * Condition – displays the condition upon reaching which the alert must be executed;
