@@ -31,7 +31,7 @@ Alert creation screen contains the following settings:
 
 ### Alerts management
 
-In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of all created alerts ****![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
+In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of active alerts ****![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
 
 The alert management screen contains a table that lists all created alerts as well as controls for performing certain actions:
 

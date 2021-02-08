@@ -58,7 +58,7 @@ The maximum number of alerts which can be added to the panel is 100.
 
 ![](../../../.gitbook/assets/5%20%2812%29.png)
 
-### **Alerts on the chart**
+### **Alerts on chart**
 
 The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types.
 
