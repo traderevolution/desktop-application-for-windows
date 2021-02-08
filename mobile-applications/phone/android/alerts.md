@@ -33,7 +33,7 @@ Alert creation screen contains the following settings:
 
 In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of all created alerts.
 
-![](../../../.gitbook/assets/new2%20%281%29.jpg)
+![](../../../.gitbook/assets/new2%20%282%29.jpg)
 
 This screen contains a table with alerts as well as controls for performing certain actions:
 

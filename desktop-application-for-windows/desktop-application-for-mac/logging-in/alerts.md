@@ -23,7 +23,7 @@ The following settings are available when creating an alert:
 * Value – allows to set a value of Alert type for reaching the condition;
 * Importance – allows to define the alert importance. The following options are available: High, Medium, Low. After the alert execution, the user gets a notification with the corresponding color of the indicator which depends on importance of the alert:
 
-![](../../../.gitbook/assets/new2.jpg)
+![](../../../.gitbook/assets/new2%20%281%29.jpg)
 
 * Expiration – date/time picker that allows specifying the period of the alert lifetime. The expiration date and time are set in the corresponding calendar control:
 
