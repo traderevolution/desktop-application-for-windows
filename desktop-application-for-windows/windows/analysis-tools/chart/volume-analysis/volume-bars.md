@@ -18,7 +18,11 @@ E.g., selecting " &gt;=" and specifying the value 30 will result into displaying
 
 * Height, % – allows setting the size for area of the volume bars displaying. For example: Height, % = 30, i.e. 30 %;
 * Result type – allows selecting by what type volume bars will be built. Available values:
+
   * Total volume – shows total volume traded for a specified period of time \(current mode\);
+
+  **Note:** **for the correct calculation of the "Total volume" parameter, there should be trade history for the Instrument. If there are no trades, then the parameter is defined by flag-aggressor, so when the price does not change, such quotes fall into the Total volume, but not on one of the Buy/Sell sides. This is because the flag-aggressor is determined not by trades, but by price, namely: "**_**Current Price &gt; Previous Price, then Agerssor flag = Ask"**_  **and** "_**Current Price &lt;Previous price then Agressor flag = Bid".**_ **This statement is true for such types of instruments as "Equities CFD" and "Forex".**
+
   * Buy volume – shows only buy traded volumes for a specified period of time \(defined by flag-aggressor\);
   * Sell volume – shows only sell traded volumes for a specified period of time \(defined by flag-aggressor\);
   * Delta – shows difference between buy and sell volumes. Delta = Buy volume – Sell volume;
@@ -26,27 +30,27 @@ E.g., selecting " &gt;=" and specifying the value 30 will result into displaying
 
 Average total size = Total volume/ Trades count, where: Trades count – total number of trades for a selected period of time;
 
-                Average buy size – shows average volume of one buy trade:
+ Average buy size – shows average volume of one buy trade:
 
 Average buy size = Total buy volume/ Buy Trades count, where: Buy trades count – total number of buy trades for a selected period of time;
 
-                Average sell size – shows average volume of one sell trade:
+ Average sell size – shows average volume of one sell trade:
 
 Average sell size = Total sell volume/ Sell Trades count, where: Sell trades count – total number of sell trades for a selected period of time;
 
-                Custom volume trades, % – this mode summarizes all trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total volume:
+Custom volume trades, % – this mode summarizes all trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total volume:
 
 Custom volume trades, % = Count \(Total volume &gt; Amount\)/ Total trades \* 100%;
 
-                Custom buy volume trades, % – this mode summarizes all buy trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total buy volume:
+Custom buy volume trades, % – this mode summarizes all buy trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total buy volume:
 
 Custom buy volume trades, % = Count \(Buy volume &gt; Amount\)/ Buy trades \* 100%;
 
-                Custom sell volume trades, % – this mode summarizes all sell trades which are traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total sell volume:​
+Custom sell volume trades, % – this mode summarizes all sell trades which are traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total sell volume:​
 
 ​Custom sell volume trades, % = Count \(Sell volume &gt; Amount\)/ Sell trades \* 100%;​
 
-                 Buy&Sell volume –​ shows buy and sell traded volumes for a specified period of time \(defined by flag-aggressor\).​
+Buy&Sell volume –​ shows buy and sell traded volumes for a specified period of time \(defined by flag-aggressor\).​
 
 * Amount – allows setting amount that is necessary for calculation of the Custom buy/sell volume trades parameters \(described above\);
 * Size coloring scheme – coloring scheme for displaying. The following schemes are available: Fixed, By bar, By difference, Above/below the moving average;

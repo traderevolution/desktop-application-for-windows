@@ -4,7 +4,7 @@ To open the Alerts panel, click on the![](../../.gitbook/assets/1%20%2826%29.png
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../.gitbook/assets/1%20%2826%29.jpg)
+![](../../.gitbook/assets/new%20%282%29.jpg)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Notification type – combobox for selecting the type of notification sent after alert triggering. Available types are Email, Push, Pop-up, and Sound;
@@ -58,13 +58,11 @@ There are the following columns in the table of the Alerts panel:
 
 ![](../../.gitbook/assets/5%20%2833%29.png)
 
-### **Alerts on the chart**
-
-![](../../.gitbook/assets/6%20%2814%29.png)
+### **Alerts on chart**
 
 To create a new alert on the chart, click on the![](../../.gitbook/assets/7%20%281%29.png)button which appears near the price scale at the chart while hovering the certain price level:
 
-![](../../.gitbook/assets/8%20%2824%29.png)
+![](../../.gitbook/assets/screenshot_4%20%287%29.jpg)
 
 All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../.gitbook/assets/9%20%2814%29.png)and remove![](../../.gitbook/assets/10%20%2811%29.png)an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 
