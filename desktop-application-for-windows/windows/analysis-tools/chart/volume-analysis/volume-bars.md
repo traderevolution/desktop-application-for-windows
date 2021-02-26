@@ -20,12 +20,16 @@ E.g., selecting " &gt;=" and specifying the value 30 will result into displaying
 * Result type – allows selecting by what type volume bars will be built. Available values:
 
   * Total volume – shows total volume traded for a specified period of time \(current mode\);
-
-  **Note:** **for the correct calculation of the "Total volume" parameter, there should be trade history for the Instrument. If there are no trades, then the parameter is defined by flag-aggressor, so when the price does not change, such quotes fall into the Total volume, but not on one of the Buy/Sell sides. This is because the flag-aggressor is determined not by trades, but by price, namely: "**_**Current Price &gt; Previous Price, then Agerssor flag = Ask"**_  **and** "_**Current Price &lt;Previous price then Agressor flag = Bid".**_ **This statement is true for such types of instruments as "Equities CFD" and "Forex".**
-
   * Buy volume – shows only buy traded volumes for a specified period of time \(defined by flag-aggressor\);
   * Sell volume – shows only sell traded volumes for a specified period of time \(defined by flag-aggressor\);
   * Delta – shows difference between buy and sell volumes. Delta = Buy volume – Sell volume;
+
+  **Note:** **for the correct Volume calculation, trade history for the Instrument is obligatory, that is:**
+
+* **If there are no trades for the Instrument, then the Volume is defined by quote levels;**
+* _**If Current Price &gt; Previous Price, then Agerssor flag = Ask;**_
+* _**If Current Price &lt; Previous price then Agressor flag = Bid;**_
+* **This leads to the fact that when the price does not change, such quotes fall into the Total volume, but not on one of the Buy/Sell sides, because the system cannot determine their side. Thus, the sum of Buy/Sell volumes may differ from the Total.**
   * Average total size – shows average volume of one trade:
 
 Average total size = Total volume/ Trades count, where: Trades count – total number of trades for a selected period of time;
