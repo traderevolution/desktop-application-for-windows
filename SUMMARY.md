@@ -267,6 +267,7 @@
         * [Performance](mobile-applications/phone/android/my-portfolio/performance.md)
         * [Return](mobile-applications/phone/android/my-portfolio/return.md)
         * [Growth](mobile-applications/phone/android/my-portfolio/growth.md)
+        * [Metrics](mobile-applications/phone/android/my-portfolio/metrics.md)
       * [More](mobile-applications/phone/android/more.md)
     * [Tablets](mobile-applications/phone/tablets/README.md)
       * [Getting started](mobile-applications/phone/tablets/getting-started.md)
