@@ -262,6 +262,7 @@
       * [Event log](mobile-applications/phone/android/event-log.md)
       * [Account details](mobile-applications/phone/android/account-details.md)
       * [Alerts](mobile-applications/phone/android/alerts.md)
+      * [My Portfolio](mobile-applications/phone/android/my-portfolio.md)
       * [More](mobile-applications/phone/android/more.md)
     * [Tablets](mobile-applications/phone/tablets/README.md)
       * [Getting started](mobile-applications/phone/tablets/getting-started.md)
