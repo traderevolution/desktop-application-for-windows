@@ -265,6 +265,7 @@
       * [My Portfolio](mobile-applications/phone/android/my-portfolio/README.md)
         * [Getting started](mobile-applications/phone/android/my-portfolio/getting-started-1.md)
         * [Performance](mobile-applications/phone/android/my-portfolio/performance.md)
+        * [Return](mobile-applications/phone/android/my-portfolio/return.md)
       * [More](mobile-applications/phone/android/more.md)
     * [Tablets](mobile-applications/phone/tablets/README.md)
       * [Getting started](mobile-applications/phone/tablets/getting-started.md)
