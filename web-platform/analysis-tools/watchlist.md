@@ -184,7 +184,10 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 * Order volume % \(Buy/Sell/Open/Close\) – trader pays fee per each part of order volume that was filled;
 * Long swap – shows the swap value applied to overnight long positions of an instrument;
 * Short swap – shows the swap value applied to overnight short positions of an instrument;
-* Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available.
+* Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available;
+* Latest historical long swap – shows the long swap value for the previous day;
+* Latest historical short swap – shows the short swap value for the previous day;
+* Historical swap last updated on – shows the date of last historical swaps update.
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 
