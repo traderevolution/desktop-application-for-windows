@@ -316,6 +316,7 @@
       * [Event log](mobile-applications/phone/tablets/event-log.md)
       * [Account details](mobile-applications/phone/tablets/account-details.md)
       * [Alerts](mobile-applications/phone/tablets/alerts.md)
+      * [My Portfolio](mobile-applications/phone/tablets/my-portfolio.md)
       * [External links](mobile-applications/phone/tablets/external-links.md)
   * [iOS](mobile-applications/ios/README.md)
     * [Phones](mobile-applications/ios/phone/README.md)
