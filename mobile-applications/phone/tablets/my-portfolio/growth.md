@@ -2,7 +2,7 @@
 
 The “Growth, $” tab contains a chart \(with markers\) that shows capital growth by months since the moment of investment.
 
-![](../../../../.gitbook/assets/1%20%28153%29.png)
+![](../../../../.gitbook/assets/1%20%28155%29.png)
 
 The vertical scale shows the values of the Portfolio balance. The horizontal scale shows the time period in days. The Projected balance value is used for the chart plotting. 
 

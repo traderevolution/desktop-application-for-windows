@@ -2,7 +2,7 @@
 
 The “Return, %” tab shows statistics by the portfolio as well as by a single asset/Cash.
 
-![](../../../../.gitbook/assets/1%20%28152%29.png)
+![](../../../../.gitbook/assets/1%20%28154%29.png)
 
 A user can see two charts which are displayed in one coordinate system:
 
