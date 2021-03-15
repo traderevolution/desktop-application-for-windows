@@ -2,7 +2,7 @@
 
 The “Return, %” tab shows statistics by the portfolio as well as by a single asset/Cash.
 
-![](../../../.gitbook/assets/1%20%28152%29.png)
+![](../../../../.gitbook/assets/1%20%28152%29.png)
 
 A user can see two charts which are displayed in one coordinate system:
 
@@ -20,7 +20,7 @@ Above the table a user can see the chosen month and the total Portfolio return. 
 
 In order to go back to the previous model of data display, tap the empty space on the diagram or tap the "X" button near the Portfolio return at the active period.
 
-![](../../../.gitbook/assets/3-kopiya.png)
+![](../../../../.gitbook/assets/3-kopiya.png)
 
 ### Calculations
 
