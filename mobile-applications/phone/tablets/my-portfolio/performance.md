@@ -2,7 +2,7 @@
 
 The Performance screen is accessible by default after opening the “My Portfolio” functionality.
 
-![](../../../.gitbook/assets/1%20%28151%29.png)
+![](../../../../.gitbook/assets/1%20%28151%29.png)
 
 ### Account lookup
 
@@ -21,7 +21,7 @@ To show/hide the diagram, tap the![](https://lh3.googleusercontent.com/fsdAzbRLG
 
 Under the diagram a user can find cards that show assets/cash included in the portfolio.
 
-![](../../../.gitbook/assets/2-kopiya%20%284%29.png)
+![](../../../../.gitbook/assets/2-kopiya%20%284%29.png)
 
 The following information is displayed on each card:
 
@@ -34,7 +34,7 @@ _Cash value in portfolio,$ = ProjectedBalance - sum\(StockValue\)_
 
 To open full information by the asset/Cash, tap the corresponding card.
 
-![](../../../.gitbook/assets/3%20%28102%29.png)
+![](../../../../.gitbook/assets/3%20%28102%29.png)
 
 * Holding period rate of return, % - chart shows the rate of return by a single asset/Cash since the moment of investment by days.
 * Symbol type - shows the type of the traded symbol.
