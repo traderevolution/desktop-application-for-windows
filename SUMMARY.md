@@ -317,6 +317,7 @@
       * [Account details](mobile-applications/phone/tablets/account-details.md)
       * [Alerts](mobile-applications/phone/tablets/alerts.md)
       * [My Portfolio](mobile-applications/phone/tablets/my-portfolio/README.md)
+        * [Getting started](mobile-applications/phone/tablets/my-portfolio/getting-started.md)
         * [Performance](mobile-applications/phone/tablets/my-portfolio/performance.md)
         * [Return](mobile-applications/phone/tablets/my-portfolio/return.md)
         * [Growth](mobile-applications/phone/tablets/my-portfolio/growth.md)
