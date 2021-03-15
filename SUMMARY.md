@@ -319,6 +319,7 @@
       * [My Portfolio](mobile-applications/phone/tablets/my-portfolio/README.md)
         * [Performance](mobile-applications/phone/tablets/my-portfolio/performance.md)
         * [Return](mobile-applications/phone/tablets/my-portfolio/return.md)
+        * [Growth](mobile-applications/phone/tablets/my-portfolio/growth.md)
       * [External links](mobile-applications/phone/tablets/external-links.md)
   * [iOS](mobile-applications/ios/README.md)
     * [Phones](mobile-applications/ios/phone/README.md)
