@@ -4,7 +4,7 @@ My Portfolio functionality allows an Investor to monitor profit and risks in his
 
 To open My Portfolio, tap the Account menu located at the Account details screen. 
 
-![](../../../.gitbook/assets/2%20%28130%29.png)
+![](../../../../.gitbook/assets/2%20%28130%29.png)
 
 Then select the “My Portfolio” option from the list of available items:
 
