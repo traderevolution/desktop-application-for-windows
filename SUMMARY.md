@@ -373,6 +373,7 @@
       * [Account details](mobile-applications/ios/phone/account-details.md)
       * [Alerts](mobile-applications/ios/phone/alerts.md)
       * [My Portfolio](mobile-applications/ios/phone/my-portfolio.md)
+      * [Getting started](mobile-applications/ios/phone/getting-started-1.md)
       * [More](mobile-applications/ios/phone/more.md)
     * [Tablets](mobile-applications/ios/tablets/README.md)
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
