@@ -213,6 +213,7 @@
       * [Event log](desktop-application-for-windows/desktop-application-for-mac/informative-panels/event-log.md)
       * [Internal Browser](desktop-application-for-windows/desktop-application-for-mac/informative-panels/internal-browser.md)
       * [High/Low list](desktop-application-for-windows/desktop-application-for-mac/informative-panels/high-low-list.md)
+      * [RSS](desktop-application-for-windows/desktop-application-for-mac/informative-panels/rss.md)
       * [More](desktop-application-for-windows/desktop-application-for-mac/informative-panels/more.md)
 * [TraderEvolution for Mobile](mobile-applications/README.md)
   * [Android](mobile-applications/phone/README.md)
