@@ -2,7 +2,7 @@
 
 The Performance screen is accessible by default after opening the “My Portfolio” functionality.
 
-![](../../../../.gitbook/assets/1%20%287%29.jpeg)
+![](../../../../.gitbook/assets/1%20%288%29.jpeg)
 
 ### Account lookup
 

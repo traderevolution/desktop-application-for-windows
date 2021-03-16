@@ -375,6 +375,7 @@
       * [My Portfolio](mobile-applications/ios/phone/my-portfolio/README.md)
         * [Getting started](mobile-applications/ios/phone/my-portfolio/getting-started-1.md)
         * [Performance](mobile-applications/ios/phone/my-portfolio/performance.md)
+        * [Return](mobile-applications/ios/phone/my-portfolio/return.md)
       * [More](mobile-applications/ios/phone/more.md)
     * [Tablets](mobile-applications/ios/tablets/README.md)
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
