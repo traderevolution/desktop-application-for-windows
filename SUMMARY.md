@@ -372,6 +372,7 @@
       * [Event log](mobile-applications/ios/phone/event-log.md)
       * [Account details](mobile-applications/ios/phone/account-details.md)
       * [Alerts](mobile-applications/ios/phone/alerts.md)
+      * [My Portfolio](mobile-applications/ios/phone/my-portfolio.md)
       * [More](mobile-applications/ios/phone/more.md)
     * [Tablets](mobile-applications/ios/tablets/README.md)
       * [Getting started](mobile-applications/ios/tablets/getting-started.md)
