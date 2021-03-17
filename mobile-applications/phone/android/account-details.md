@@ -55,7 +55,7 @@ Warning margin lvl = \(Margin warning% / 100\) \* \(Balance&All risks - Stock or
 * Unsettled cash – сash sum of unsettled account operations, which have not been delivered to an account yet and will be delivered in accordance with T+n settlement system;
 * Withdrawal available – shows an amount of cash that you can withdraw immediately from your account:
 
-Withdrawal available = Available funds – Credit value – Profit – Unsettled profit + Unused unsettled negative cash for stocks – Unsettled positive cash for stocks + Unused unsettled negative premium - Unsettled positive premium + Unsettled premium from open sell - Used premium from open sell, where:
+Withdrawal available = Available funds – Credit value – Profit – Unsettled profit + Unused unsettled negative cash for stocks – Unsettled positive cash for stocks + Unused unsettled negative premium - Unsettled positive premium + Unsettled premium from open sell - Used premium from open sell **-** Stocks liquidity + Withdrawable cash for stocks + Withdrawable unsettled profit/loss + Withdrawable unsettled collateral + Unused intraday initial margin - Used overnight initial margin for intraday, where:
 
 Credit value – credited funds available to trade with but unavailable to withdraw;
 
@@ -68,6 +68,8 @@ Unsettled positive cash for stocks - value of unsettled cash, which was returned
 Unsettled premium from open sell – unsettled uncovered option premium for opening short positions;
 
 Used premium from open sell – settled uncovered option premium for opening short positions;
+
+"Unused intraday initial margin" and "Used overnight initial margin for intraday" participate in the calculation only during those periods of the trading session for which Is Intraday = true. For other periods, they do not participate, since the margin is already blocked by Overnight coefficients.
 
 * Init. margin req, % – shows how much margin is used in relation to Balance&All risks:
 
