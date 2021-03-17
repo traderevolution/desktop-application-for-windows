@@ -131,7 +131,10 @@ The following information about Accounts and calculation formulas are available:
           Profit &#x2013; Unsettled profit + Unused unsettled negative cash for stocks
           &#x2013; Unsettled positive cash for stocks + Unused unsettled negative
           premium - Unsettled positive premium + Unsettled premium from open sell
-          - Used premium from open sell, where:</p>
+          - Used premium from open sell <b>- </b>Stocks liquidity + Withdrawable cash
+          for stocks + Withdrawable unsettled profit/loss + Withdrawable unsettled
+          collateral + Unused intraday initial margin - Used overnight initial margin
+          for intraday, where:</p>
         <ul>
           <li>Credit value - credited funds available to trade with but unavailable
             to withdraw;</li>
@@ -146,6 +149,11 @@ The following information about Accounts and calculation formulas are available:
             for opening short positions.</li>
           <li>Used premium from open sell &#x2013; settled uncovered option premium
             for opening short positions.</li>
+          <li>&quot;Unused intraday initial margin&quot; and &quot;Used overnight initial
+            margin for intraday&quot; participate in the calculation only during those
+            periods of the trading session for which Is Intraday = true. For other
+            periods, they do not participate, since the margin is already blocked by
+            Overnight coefficients.</li>
         </ul>
         </td>
     </tr>

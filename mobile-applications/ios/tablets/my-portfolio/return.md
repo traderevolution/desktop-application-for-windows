@@ -2,15 +2,14 @@
 
 The “Return, %” tab shows statistics by the portfolio as well as by a single asset/Cash.
 
-![](../../../../.gitbook/assets/11.jpeg)
+![](../../../../.gitbook/assets/image3.png)
 
 A user can see two charts which are displayed in one coordinate system:
 
 * chart with markers - shows the “Portfolio monthly return” value since the moment of investment. 
 * histogram \(bar chart\) - shows Monthly instrument return and Monthly Cash return since the moment of investment. 
 
-A table with the monthly returns is also available on the Return screen. The following data is displayed in the table:  
-
+A table with the monthly returns is also available on the Return screen. The following data is displayed in the table:
 
 * Date - the values are displayed for the specified month.
 * Portfolio return, % - shows the total Portfolio return in the corresponding month.
@@ -21,7 +20,7 @@ Above the table a user can see the chosen month and the total Portfolio return. 
 
 In order to go back to the previous model of data display, tap the empty space on the diagram or tap the "X" button near the Portfolio return at the active period.
 
-![](../../../../.gitbook/assets/2%20%287%29.jpeg)
+![](../../../../.gitbook/assets/image3-kopiya.png)
 
 ### Calculations
 
@@ -68,4 +67,6 @@ where:
 * TransferAndWithdrawal fees - the sum of all Transfer fee and Withdrawal fee operations by the account since the beginning of the specified month;  
 * StockOperation\(i\) - the sum of all Stock operations by the account since the beginning of the specified month;
 * EOMNetCash\(i-1\) - the net Cash value at the end of the month that precedes the specified month.
+
+
 
