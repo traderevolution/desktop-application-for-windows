@@ -22,6 +22,19 @@ Tap the button ![](../../../.gitbook/assets/2-kopiya%20%281%29.png) to open Char
 
 ![](../../../.gitbook/assets/4ef5a269-5b43-4e5b-b9d4-20f4a2abe3b7-1-%20%281%29.jpg)
 
+The following chart settings are available for configuration:
+
+* Show orders – enables/disables the display of orders on the chart;
+* Show positions – enables/disables the display of positions on the chart;
+* Show alerts – enables/disables the display of alerts on the chart;
+* Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
+* Fit alerts – if checked, then alerts will be fit into chart scaling;
+* Volume – enables/disables the display of volume on the chart;
+* Visual trading validity – if checked, then the validity selection control will be present when placing an order in the visual trading mode;
+* Watermark mode – drop-down list that allows to select one of the options that will be displayed as a watermark on the chart;
+* Watermark color – allows selecting the watermark coloring;
+* Show extended session - allows seeing bars from extended sessions on chart. The peculiarities of this setting also depend on the state of the "Use session periods for Intraday chart" setting that can be found in the BackOffice. If “Use session periods for Intraday chart = true”, then the aggregation will start from the first session of the day. At the same time, sessions that belong to the Before market/After market periods will be excluded from the Extended session list.
+
 ### **Indicators**
 
 In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add..jpg)near the indicator name at the list of available Indicators.
