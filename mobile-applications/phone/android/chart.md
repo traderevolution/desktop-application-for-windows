@@ -22,7 +22,7 @@ Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen and configure the Default and Alert parameters.
 
-![](../../../.gitbook/assets/new1%20%287%29.jpg)
+![](../../../.gitbook/assets/new1%20%288%29.jpg)
 
 The following chart settings are available for configuration:
 

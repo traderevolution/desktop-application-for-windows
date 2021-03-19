@@ -18,9 +18,22 @@ Tap the button![](../../../.gitbook/assets/2-kopiya%20%282%29.png)to open Chart 
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
 * Chart templates – allows to create a chart template;
-* Settings – allows to open the Chart settings screen and configure the following items:
+* Settings – allows to open the Chart settings screen**.**
 
-![](../../../.gitbook/assets/3%20%2812%29.jpg)
+![](../../../.gitbook/assets/new1%20%285%29.jpg)
+
+The following chart settings are available for configuration:
+
+* Show orders – enables/disables the display of orders on the chart;
+* Show positions – enables/disables the display of positions on the chart;
+* Show alerts – enables/disables the display of alerts on the chart;
+* Fit orders/positions – if checked, all orders/positions will be fit into chart scaling;
+* Fit alerts – if checked, then alerts will be fit into chart scaling;
+* Volume – enables/disables the display of volume on the chart;
+* Visual trading validity – if checked, then the validity selection control will be present when placing an order in the visual trading mode;
+* Watermark mode – drop-down list that allows to select one of the options that will be displayed as a watermark on the chart;
+* Watermark color – allows selecting the watermark coloring;
+* Show extended sessions - allows seeing bars from extended sessions on chart. The peculiarities of this setting also depend on the state of the "Use session periods for Intraday chart" setting that can be found in the BackOffice. If “Use session periods for Intraday chart = true”, then the aggregation will start from the first session of the day. At the same time, sessions that belong to the Before market/After market periods will be excluded from the Extended session list.
 
 ### **Indicators**
 
