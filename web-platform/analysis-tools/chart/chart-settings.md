@@ -27,10 +27,12 @@ Chart settings can be opened through the context menu of the Chart panel.
 
 ###  **Time scale**
 
-![](../../../.gitbook/assets/4%20%2838%29.png)
+![](../../../.gitbook/assets/new1%20%287%29.jpg)
 
 * Appearance - allows setting up style of time scale.
 * Holes in the history - allows seeing free space on the chart if there is no history at that moment.
+* Show extended session - allows seeing bars from extended sessions on chart.
+* Highlight extended sessions - all extended sessions that were set on the server for the current symbol will be displayed in selected color.
 * Highlight date - allows displaying separator lines for: Days, Months and Years.
 
 ### **Price scale**
