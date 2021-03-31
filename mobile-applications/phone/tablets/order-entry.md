@@ -6,7 +6,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.
 
-![](../../../.gitbook/assets/4%20%2868%29.png)
+![](../../../.gitbook/assets/new%20%285%29.jpg)
 
 * Account – the account used for an order creation;
 * Symbol – the symbol available for the trade;
@@ -82,4 +82,20 @@ P/L per Tick - no information for Index;
 * Allow short positions – shows whether short positions opening is allowed for the symbol;
 
 After setting all the parameters, tap the button 'Send order'.
+
+**Get snapshot**
+
+This button is intended to get a snapshot of the actual quotes for the current Symbol. After clicking the button, the snapshot window will be opened. The window header displays the time when the snapshot was made, and in the window itself the user can find the following data:
+
+![](../../../.gitbook/assets/atablet2.png)
+
+1. Price - displays prices for Symbol in the context of Last/Bid/Ask;
+2. Size - volumes for Symbol at the specified Price in the context of Last/Bid/Ask;
+3. Change - price change, calculated by the formula _Change = Last price - Previous close_;
+4. Change, % - price change as a percentage, calculated by the formula _Change,% = \(Last price - Previous close\) / Previous close\) \* 100%_;
+5. Today high - highest price of the day for the current Symbol;
+6. Today low - lowest price of the day for the current Symbol;
+7. Today volume - current day volume for Symbol.
+
+The "Get snapshot" button allows to update the information in this window.
 
