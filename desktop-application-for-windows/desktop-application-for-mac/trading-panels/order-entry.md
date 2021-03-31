@@ -2,7 +2,7 @@
 
 Order entry panel allows a user to place market or pending orders. To open the panel, select Terminal -&gt; Order entry. Additionally, this panel can be seen within Chart:
 
-![](../../../.gitbook/assets/screenshot-2020-10-07-at-16.14.34.png)
+![](../../../.gitbook/assets/new1%20%2812%29.jpg)
 
 This panel contains the following settings:
 
@@ -37,6 +37,20 @@ This panel contains the following settings:
 When![](https://lh3.googleusercontent.com/GorKXTd_KCxMmtRs3gRICVHDJL0cIa1C-Hdg8HtbUnSFtFRA0KIysRo9e1yeh5MPPm5YlfyGVlZqP3ypguEeRAf4xLeQ4p2xEVmACCNWu6ESLb8DBmUxuVWPOMLKOf7n8RcLnuqP)icon is activated![](https://lh4.googleusercontent.com/opZF6TnmrMrQ3ZY2SKJYsPgGYjxZbG1v_aTqzzFit9JfoDGzkx6eHrjRtgGByjNEI3n6NGQBKVmjMt-R2j12bQ7a0hGO-aYd7PrEBvkjGVmUWYCrZXSH951YAIOPqa_wcsQf2-lp)by clicking on it, and checkbox 'Use stop limit instead of stop' is true \(a setting located in Trading defaults tab of the Preferences\), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
 
 It is always possible to manage risks by setting trailing stop on the order with the left clicking a special button![](../../../.gitbook/assets/grey.png)located near Stop loss. The blue color of the button![](../../../.gitbook/assets/blue.png)indicates that the trailing stop is activated.
+
+* Get snapshot - this button is intended to get a snapshot of the actual quotes for the current Symbol. After clicking the button, the snapshot window will be opened. The window header displays the time when the snapshot was made, and in the window itself the user can find the following data:
+
+![](../../../.gitbook/assets/macos.png)
+
+1. Price - displays prices for Symbol in the context of Last/Bid/Ask;
+2. Size - volumes for Symbol at the specified Price in the context of Last/Bid/Ask;
+3. Change - price change, calculated by the formula _Change = Last price - Previous close_;
+4. Change, % - price change as a percentage, calculated by the formula _Change,% = \(Last price - Previous close\) / Previous close\) \* 100%_;
+5. Today high - highest price of the day for the current Symbol;
+6. Today low - lowest price of the day for the current Symbol;
+7. Today volume - current day volume for Symbol.
+
+The "Get snapshot" button allows to update the information in this window.
 
 Order entry panel has two additional sections which display important information: VWAP and Margin. 
 
