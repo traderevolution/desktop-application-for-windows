@@ -8,7 +8,7 @@
 
 The following Order entry window with standard order parameters will be opened:
 
-![](../../../.gitbook/assets/saved1.png)
+![](../../../.gitbook/assets/windowsnew.jpg)
 
 The following columns are available in the panel:
 
