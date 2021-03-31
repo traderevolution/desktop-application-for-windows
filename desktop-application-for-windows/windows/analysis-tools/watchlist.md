@@ -198,7 +198,9 @@ Note: if coefficients of initial and maintenance margin have the same value, for
 * Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available;
 * Latest historical long swap – shows the long swap value for the previous day;
 * Latest historical short swap – shows the short swap value for the previous day;
-* Historical swap last updated on – shows the date of last historical swaps update.
+* Historical swap last updated on – shows the date of last historical swaps update;
+* Option exercise fee \(Long\) – fee that will be charged on the Long option expiration date, but only if the option has status ‘in-the-money’ by that time. Commission will be charged for the early option execution as well;
+* Option exercise fee \(Short\) – fee that will be charged on the Short option expiration date, but only if the option has status ‘in-the-money’ by that time.
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 
