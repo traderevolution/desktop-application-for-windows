@@ -57,7 +57,7 @@ The user authentication occurs after putting a finger on the sensor and successf
 
 In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint.
 
-To deactivate Biometric authentication, uncheck the corresponding setting and then tap the "OK" button on the undermentioned screen:
+To deactivate Biometric authentication, uncheck the corresponding setting and then tap the "OK" button on the undermentioned screen: 
 
 ![](../../../.gitbook/assets/2%20%28133%29.png)
 
