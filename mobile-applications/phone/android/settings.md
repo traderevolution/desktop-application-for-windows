@@ -44,7 +44,13 @@ To apply Fingerprint in the application for subsequent logins, a user should put
 
 ![](../../../.gitbook/assets/1%20%28141%29.png)
 
-After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
+After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. 
+
+A user should enter his password to confirm biometrics:
+
+![](../../../.gitbook/assets/1617805462129.jpeg)
+
+On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
 
 ![](../../../.gitbook/assets/3%20%2896%29.png)
 
@@ -53,6 +59,10 @@ The user authentication occurs after putting a finger on the sensor and successf
 In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint:
 
 ![](../../../.gitbook/assets/feis.jpg)
+
+To deactivate Biometric authentication, uncheck the corresponding setting and then tap the "OK" button on the undermentioned screen:
+
+![](../../../.gitbook/assets/1617805462578.jpeg)
 
 ### Push notifications
 

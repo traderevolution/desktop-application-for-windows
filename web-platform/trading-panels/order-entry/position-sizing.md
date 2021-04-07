@@ -2,17 +2,17 @@
 
 Position sizing is the size of a position within a portfolio or the dollar amount that an investor is going to trade. It allows investors to control risk and maximize returns.  When determining appropriate position sizing, an investor's account size and risk tolerance are taken into account.
 
-If the Position sizing function is available, then the![](https://lh5.googleusercontent.com/jlJfSOc8B8SveuidJoaDhB8c7H95GoiVembzvYT_MTvtGmiGpz3-Q0VIcIAwoykohfq1QkQGR4ffZhMZkSyVET_5kAJtOXHZaXSKUjAhQ9ExRYhkNjsJHmTjYkEMza1Q9GobYAtR)button will be displayed next to the “Quantity” field. 
+If the Position sizing function is available, then the![](../../../.gitbook/assets/image1-kopiya.png)button will be displayed next to the “Quantity” field. 
 
-![](https://lh4.googleusercontent.com/dZZFqsN7e483bdWuUCvwmN9hLMeROtfOyeCA_tnHD2guxvjT0iMw6rwc1ovPhvavbJae3CpixoR5DuJITBc9eYKFTOdUr7zRgYF5CSw4aI7zmX6BtOLAkpNP5i4NXyt2xDXCUZGv)
+![](../../../.gitbook/assets/1%20%28159%29.png)
 
-When a user clicks on this button for the first time, the following info screen will be shown:
+When a user clicks on this button for the first time, the info screen with the following message will be shown:
 
-![](https://lh6.googleusercontent.com/vPhlys_l9itiVrL2CuRtGRM2mxNfMEe5oMK3h_Eu5-DQ3z7hFqQTG9l2Bo7cDO8gNRtmQcjlRNTVHuFHOxU_6kszMcPib7FCs6jez3VhPv7BXPB9pYai94n_wms8jqEvcce9GICQ)
+"The position size calculator is a risk management tool that allows calculating the quantity based on the maximum allowed percentage \(or fixed cash\) loss for the account. Specify the account risk and the trade's stop loss. The calculation will be performed automatically."
 
 If a user unchecks the "Show next time" setting, the next time the button is clicked, the info screen will not be shown. When a user clicks on the “Ok” button on the info window, additional fields will appear in the Order entry panel for automatic calculation of the quantity. When clicking on the Position sizing button, it turns yellow and the “Quantity” field becomes disabled.
 
-![](https://lh4.googleusercontent.com/W_AEvXlCcs3XT9DWxn57-H-tFFZh9NqQl2xwRmF0CllxpZP3chlFCioTtxMFsP4vLzAg97Pv9evI4yAYzg4JjXs7JBcODY9UI5FbTrqcqGuKB4uZUfvnCaOWCiDQQ5vFw8jFKN3K)
+![](../../../.gitbook/assets/2%20%28132%29.png)
 
 * Account risk - the amount of losses for the account selected in the lookup. A user can select the risk unit in the auxiliary control section: Fixed or Percentage:
 * Fixed - the currency of the account that is selected in the Order entry is displayed in the auxiliary section;
@@ -90,9 +90,5 @@ where:
   </tbody>
 </table>
 
-Note: For Buy order: Risk per share = Price - SL price; for Sell order: Risk per share = SL price - Price.    
-  
-  
-  
-
+Note: For Buy order: Risk per share = Price - SL price; for Sell order: Risk per share = SL price - Price.  
 
