@@ -44,13 +44,23 @@ To apply Fingerprint in the application for subsequent logins, a user should put
 
 ![](../../../.gitbook/assets/111111111.png)
 
-After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
+After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. 
+
+A user should enter his password to confirm biometrics:
+
+![](../../../.gitbook/assets/img_3977.png)
+
+On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
 
 ![](../../../.gitbook/assets/simulator-screen-shot-iphone-8-2020-09-08-at-16.00.37.png)
 
 The user authentication occurs after putting a finger on the sensor and successful fingerprint recognition.
 
 In case the FaceID feature is available and activated on the user device, it can be used as an additional application login option instead of the Fingerprint.
+
+To deactivate Biometric authentication, uncheck the corresponding setting and then tap the "OK" button on the undermentioned screen:
+
+![](../../../.gitbook/assets/img_3978.png)
 
 ### Push notifications
 
