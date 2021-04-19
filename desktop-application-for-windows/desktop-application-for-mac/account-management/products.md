@@ -1,6 +1,6 @@
 # Products
 
-The Products panel lists all products currently available to the User, products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Terminal drop-down list that is located in the main menu of the terminal. The panel contains three tabs:
+The Products panel lists all products currently available to the User, products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Account menu that is located in the main menu of the terminal. The panel contains three tabs:
 
 * Active – this tab contains a list of Products to which the user has already subscribed i.e. those subscription requests which are confirmed by the Admin or automatically;
 * Catalogue – contains a list of Products that are available to the User for subscription;
