@@ -12,7 +12,7 @@ The Products panel lists all products currently available to the User, products 
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
 
-![](../../../.gitbook/assets/image%20%2880%29.png)
+![](../../../.gitbook/assets/image%20%2883%29.png)
 
 Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
@@ -55,5 +55,5 @@ The Requests tab contains the following elements:
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
-![](../../../.gitbook/assets/image%20%2875%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 

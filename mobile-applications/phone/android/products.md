@@ -6,9 +6,9 @@ The Products panel lists all products currently available to the User, products 
 * Catalogue – contains a list of Products that are available to the User for subscription;
 * Requests – contains subscribe/unsubscribe requests sent by the user.
 
-### Catalogue tab
+### **Catalogue tab**
 
-![](../../../.gitbook/assets/screenshot_1%20%2843%29.jpg)
+![](../../../.gitbook/assets/image%20%2881%29.png)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
 
@@ -20,29 +20,29 @@ If the documents are not required to be signed, then the subscription request wi
 
 In case it is required to sign documents in order to subscribe to the Product, then an additional ‘Sign documents’ screen that allows to take the necessary actions will be shown to the User:
 
-![](../../../.gitbook/assets/image%20%2878%29.png)
+![](../../../.gitbook/assets/image%20%2875%29.png)
 
 This screen contains the following elements:
 
 * The name of the document, which is displayed in the upper part of the screen;
 * The content of the document displayed in the main part of the screen;
-* When acquaintance with the documents is finished, the ‘Done’ button will become active;
+* When acquaintance with the documents is finished, the ‘Done’ will become active;
 * Number of pages in the document displayed  in the lower part of the screen and is utilized to indicate the progress made when signing documents;
 * In case the required fields are missing on the current page, the system will display a corresponding message and will not allow the User to move to the next page.
 
-### Active tab
+### **Active tab**
 
-![](../../../.gitbook/assets/image%20%2877%29.png)
+![](../../../.gitbook/assets/image%20%2884%29.png)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../../.gitbook/assets/image%20%2880%29.png)
+![](../../../.gitbook/assets/image%20%2882%29.png)
 
 ### **Requests tab**
 
 This tab displays all requests sent by the User for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2885%29.png)
 
 The Requests tab contains the following elements:
 
@@ -51,9 +51,9 @@ The Requests tab contains the following elements:
 * Request type – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status – displays the status of each request, statuses also appear in different colors, namely New \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\). The second line under the status displays Date/Time when this status was assigned;
 
-Tapping any request line will initiate request cancelling and bring up the confirmation screen of the following look:
+Tapping any request line will initiate request cancelling and bring up the confirmation screen ****of the following look:
 
-![](../../../.gitbook/assets/image%20%2879%29.png)
+![](../../../.gitbook/assets/new%20%287%29.jpg)
 
 Please note that only those requests that have the ‘New’ status can be canceled.
 
