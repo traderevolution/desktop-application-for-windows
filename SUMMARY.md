@@ -211,6 +211,7 @@
       * [Filled orders](desktop-application-for-windows/desktop-application-for-mac/account-management/filled-orders.md)
       * [Positions](desktop-application-for-windows/desktop-application-for-mac/account-management/positions.md)
       * [Assets](desktop-application-for-windows/desktop-application-for-mac/account-management/assets.md)
+      * [Products](desktop-application-for-windows/desktop-application-for-mac/account-management/products.md)
     * [Informative panels](desktop-application-for-windows/desktop-application-for-mac/informative-panels/README.md)
       * [Event log](desktop-application-for-windows/desktop-application-for-mac/informative-panels/event-log.md)
       * [Internal Browser](desktop-application-for-windows/desktop-application-for-mac/informative-panels/internal-browser.md)
