@@ -32,7 +32,7 @@ This screen contains the following elements:
 
 ### **Active tab**
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image-2-.png)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription which looks as follows:
 
