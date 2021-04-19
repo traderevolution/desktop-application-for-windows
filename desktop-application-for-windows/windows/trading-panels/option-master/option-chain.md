@@ -12,7 +12,7 @@ Check the needed option contracts in order to make them accessible for the tradi
 
 Edit the 'Trade' column opposite to the corresponding strike in order to add a position. Set negative value to open a short position, and positive to open a long position with the corresponding quantity. Immediately after adding all positions will have the "paper" status and will be displayed in the 'Test on paper' tab. To transfer "paper" positions to the really existing, check needed in the 'Send' column and click 'Place all' button. After placing these positions will be displayed in the Positions tab.
 
-Double click on the selected row from strike table evokes Order entry panel pre-filled with selected account and strike.
+Double-click on the selected row from strike table evokes Order entry panel pre-filled with selected account and strike.
 
 Each specific strike row has a possibility to invoke its Context menu with options to open the following panels in one click: Order entry, Matrix, Market depth and Chart.
 
@@ -30,11 +30,18 @@ Test on paper panel contains a very useful column “Link” which is hidden by 
 
 The following buttons of the tab allow the following actions:
 
-* Add underlier – opens ‘Order entry’ panel.
+* Add underlier - opens ‘Order entry’ panel.
 * Cancel all - cancels all 'test on paper' orders;
 * Place selected - places selected 'test on paper' orders.
 
-SL/TP for orders
+Note: If short positions are not allowed for the instrument \(Options or Underlier\), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity &lt; 0, Type = Paper, based on: 
+
+* Underlier - for orders which are created via the “Add underlier” button;
+* Options - for orders which are created by specifying Quantity with a negative sign in the “Paper position” column \(in Call/Put tables\), leading to the opening of a short position.
+
+Thus, if the “Test on paper” tab contains at least one order with a red fill, then short positions will be forbidden.
+
+**SL/TP for orders**
 
 If setting located in General settings -&gt; Trading defaults -&gt; Show SL/TP price in offset is checked, it is allowed to edit column SL \(TP\) offset; SL \(TP\) price/risk is not available for editing and is recalculated automatically. If unchecked, it is allowed to edit column SL \(TP\) price/risk; SL \(TP\) offset is not available for editing and is recalculated automatically.
 
