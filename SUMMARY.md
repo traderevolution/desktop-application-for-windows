@@ -121,6 +121,7 @@
       * [Synthetic instruments](desktop-application-for-windows/windows/account-management/synthetic-instruments.md)
       * [Account operations](desktop-application-for-windows/windows/account-management/account-operations.md)
       * [Assets](desktop-application-for-windows/windows/account-management/assets.md)
+      * [Products](desktop-application-for-windows/windows/account-management/products.md)
     * [Account information](desktop-application-for-windows/windows/account-information/README.md)
       * [Accounts](desktop-application-for-windows/windows/account-information/accounts.md)
       * [Account statistics](desktop-application-for-windows/windows/account-information/account-statistics.md)

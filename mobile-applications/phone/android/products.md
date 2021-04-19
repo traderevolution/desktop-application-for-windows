@@ -42,7 +42,7 @@ This tab looks the same as the Catalogue tab, with the only difference that it d
 
 This tab displays all requests sent by the User for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/image%20%2885%29.png)
+![](../../../.gitbook/assets/image%20%2887%29.png)
 
 The Requests tab contains the following elements:
 

@@ -1,18 +1,18 @@
 # Products
 
-The Products panel lists all products currently available to the User, products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Account menu that is located in the main menu of the terminal. The panel contains three tabs:
+The Products panel lists all products currently available to the User, products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Account drop-down list that is located in the main menu of the terminal. The panel contains three tabs:
 
 * Active – this tab contains a list of Products to which the user has already subscribed i.e. those subscription requests which are confirmed by the Admin or automatically;
 * Catalogue – contains a list of Products that are available to the User for subscription;
 * Requests – contains subscribe/unsubscribe requests sent by the user.
 
-### Catalogue tab
+### **Catalogue tab**
 
-![](../../../.gitbook/assets/new1%20%2814%29.jpg)
+![](../../../.gitbook/assets/new4.jpg)
 
-This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
+This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed: 
 
-![](../../../.gitbook/assets/image%20%2883%29.png)
+![](../../../.gitbook/assets/image%20%2885%29.png)
 
 Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
@@ -20,29 +20,29 @@ If the documents are not required to be signed, then the subscription request wi
 
 In case it is required to sign documents in order to subscribe to the Product, then an additional screen that allows to take the necessary actions will be shown to the User:
 
-![](../../../.gitbook/assets/new2%20%286%29.jpg)
+![](../../../.gitbook/assets/new5%20%281%29.jpg)
 
 This screen contains the following elements:
 
 * The name of the document, which is displayed in the upper part of the screen;
 * The content of the document displayed in the main part of the screen;
-* Next/Back buttons allow the User to move to the next document or return to the previous one. When acquaintance with the documents is finished, the ‘Next’ button will change its appearance to ‘Done’;
-* Progress bar, which is utilized to indicate the progress made when signing documents;
+* When acquaintance with the documents is finished, the ‘Done’ button will become active;
+* Progress bar, which is utilized to indicate the progress made when signing documents.
 * In case the required fields are missing on the current page, the system will display a corresponding message and will not allow the User to move to the next page.
 
-### Active tab
+### **Active tab**
 
-![](../../../.gitbook/assets/new3%20%282%29.jpg)
+![](../../../.gitbook/assets/new2%20%285%29.jpg)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../../.gitbook/assets/new4%20%281%29.jpg)
+![](../../../.gitbook/assets/new3%20%283%29.jpg)
 
-### Requests tab
+### **Requests tab**
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new5.jpg)
+![](../../../.gitbook/assets/new6.jpg)
 
 The Requests tab contains the following elements:
 
@@ -55,5 +55,5 @@ The Requests tab contains the following elements:
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
-![](../../../.gitbook/assets/image%20%2876%29.png)
+![](../../../.gitbook/assets/image%20%2884%29.png)
 
