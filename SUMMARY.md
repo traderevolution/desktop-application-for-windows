@@ -437,6 +437,7 @@
       * [Event log](mobile-applications/ios/tablets/event-log.md)
       * [Account details](mobile-applications/ios/tablets/account-details.md)
       * [Alerts](mobile-applications/ios/tablets/alerts.md)
+      * [Products](mobile-applications/ios/tablets/products.md)
       * [My Portfolio](mobile-applications/ios/tablets/my-portfolio/README.md)
         * [Getting started](mobile-applications/ios/tablets/my-portfolio/getting-started-1.md)
         * [Performance](mobile-applications/ios/tablets/my-portfolio/performance.md)

@@ -8,7 +8,7 @@ The Products panel lists all products currently available to the User, products 
 
 ### **Catalogue tab**
 
-![](../../../.gitbook/assets/1%20%2832%29.jpg)
+![](../../../.gitbook/assets/4%20%2871%29.png)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
 
@@ -20,7 +20,7 @@ If the documents are not required to be signed, then the subscription request wi
 
 In case it is required to sign documents in order to subscribe to the Product, then an additional ‘Sign documents’ screen that allows to take the necessary actions will be shown to the User:
 
-![](../../../.gitbook/assets/3%20%28104%29.png)
+![](../../../.gitbook/assets/3%20%28105%29.png)
 
 This screen contains the following elements:
 
@@ -32,17 +32,17 @@ This screen contains the following elements:
 
 ### **Active tab**
 
-![](../../../.gitbook/assets/6%20%2845%29.png)
+![](../../../.gitbook/assets/2%20%28135%29.png)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../../.gitbook/assets/image%20%2895%29.png)
+![](../../../.gitbook/assets/image%20%2888%29.png)
 
 ### **Requests tab**
 
 This tab displays all requests sent by the User for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/2%20%28134%29.png)
+![](../../../.gitbook/assets/5%20%2860%29.png)
 
 The Requests tab contains the following elements:
 
@@ -51,5 +51,9 @@ The Requests tab contains the following elements:
 * Request type – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status – displays the status of each request, statuses also appear in different colors, namely New \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\). The second line under the status displays Date/Time when this status was assigned;
 
-Tapping any request line will initiate request cancelling and bring up the corresponding confirmation screen. Please note that only those requests that have the ‘New’ status can be canceled.
+Tapping any request line will initiate request cancelling and bring up the confirmation screen of the following look:
+
+![](../../../.gitbook/assets/image%20%2892%29.png)
+
+Please note that only those requests that have the ‘New’ status can be canceled.
 

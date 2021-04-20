@@ -12,7 +12,7 @@ The Products panel lists all products currently available to the User, products 
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed: 
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2893%29.png)
 
 Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
@@ -20,7 +20,7 @@ If the documents are not required to be signed, then the subscription request wi
 
 In case it is required to sign documents in order to subscribe to the Product, then an additional screen that allows to take the necessary actions will be shown to the User:
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 This screen contains the following elements:
 
@@ -36,7 +36,7 @@ This screen contains the following elements:
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 ### **Requests tab**
 
@@ -55,5 +55,5 @@ The Requests tab contains the following elements:
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
