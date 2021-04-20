@@ -520,6 +520,7 @@
     * [Filled orders](web-platform/account-management/filled-orders.md)
     * [Positions](web-platform/account-management/positions.md)
     * [Assets](web-platform/account-management/assets.md)
+    * [Products](web-platform/account-management/products.md)
   * [Account information](web-platform/account-information/README.md)
     * [Accounts](web-platform/account-information/accounts.md)
     * [Positions balance](web-platform/account-information/positions-balance.md)
