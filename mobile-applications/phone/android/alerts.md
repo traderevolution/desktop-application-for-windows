@@ -46,6 +46,10 @@ This screen contains a table with alerts as well as controls for performing cert
   * Remove – this button allows to remove the existing alert.
 * Create button – tap this one to open the alert creation screen.
 
+If a user exceeds the limit of created alerts, then an error message will be displayed.
+
+![](../../../.gitbook/assets/android-phone.png)
+
 ### Alerts on chart
 
 The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types. 
