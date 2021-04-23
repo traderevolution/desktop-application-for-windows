@@ -37,7 +37,7 @@ The default expiration value is today + 30 days.
 
 ### Alert management
 
-The user can browse through created alerts and work with them in the Alerts tab – both with executed and not executed ones. The maximum number of alerts which can be added to the panel is 100. The Alerts tab looks as follows:
+The user can browse through created alerts and work with them in the Alerts tab – both with executed and not executed ones. The Alerts tab looks as follows:
 
 ![](../../../.gitbook/assets/3%20%2811%29.jpg)
 
@@ -50,6 +50,10 @@ The tab itself contains the table with alerts which consists of the following co
   * Stop – this button is visible for non-executed alerts only, clicking this button will stop the alert;
   * Edit – allows to open the editing screen, this screen is similar to the Create alert;
   * Remove – this button allows to remove the existing alert.
+
+If a user exceeds the limit of created alerts, then an error message will be displayed.
+
+![](../../../.gitbook/assets/mac%20%282%29.png)
 
 ### Alerts on chart
 
