@@ -39,8 +39,6 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 A user can see created alerts and work with them – both with executed and not executed ones.
 
-The maximum number of alerts which can be added to the panel is 100.
-
 ![](../../../.gitbook/assets/4%20%2843%29.png)
 
 There are the following columns in the table of the Alerts panel:
@@ -59,7 +57,13 @@ The maximum number of alerts which can be added to the panel is 100.
 
 ![](../../../.gitbook/assets/5%20%2812%29.png)
 
-### **Alerts on chart**
+### 
+
+If a user exceeds the limit of created alerts, then an error message will be displayed**:**
+
+![](../../../.gitbook/assets/desktop-web.png)
+
+### **Alerts on chart**
 
 The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types.
 
