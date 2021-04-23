@@ -53,8 +53,9 @@ The maximum number of alerts which can be added to the panel is 100.
 
           -       Stop – click on the button to stop the execution of the alert. The button is visible for not executed alerts;
 
-* Edit – allows to open editing screen;
-* Remove – allows to remove alert. By clicking on the button, the confirmation window will appear.
+          -        Edit – allows to open editing screen;
+
+          -        Remove – allows to remove alert. By clicking on the button, the confirmation window will appear.
 
 ![](../../../.gitbook/assets/5%20%2812%29.png)
 
