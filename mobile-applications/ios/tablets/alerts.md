@@ -48,7 +48,7 @@ The alert management screen contains a table that lists all created alerts as we
 
 If a user exceeds the limit of created alerts, then an error message will be displayed.
 
-![](../../../.gitbook/assets/ipad%20%281%29.png)
+![](../../../.gitbook/assets/ipad%20%282%29.png)
 
 ### Alerts on chart
 
