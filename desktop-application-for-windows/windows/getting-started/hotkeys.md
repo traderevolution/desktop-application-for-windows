@@ -2,7 +2,7 @@
 
 Hotkey is a key or a combination of keys providing quick access to a particular function. The same functionality can be activated using the mouse by selecting the functionality in a menu, but using the equivalent hotkey is much faster. The description below is given within the bounds of each panel.
 
-![](../../../.gitbook/assets/h.png)
+![](../../../.gitbook/assets/new1%20%2815%29.jpg)
 
 ### Accounts
 
@@ -32,9 +32,15 @@ Add indicator – opens the screen for adding an indicator.
 
 Remove drawings – allows to remove drawings from the chart.
 
+Show filled orders – allows displaying filled orders on the chart;
+
 Show/Hide grid – shows and hides the grid on the chart.
 
+Show open positions – allows displaying opened positions on the chart;
+
 Show volume – shows the volume profile on the chart.
+
+Show working orders – ****allows displaying working orders on the chart;
 
 Set period \(Tick, 1 m, 5 m, 15 m, 30 m, 1 H, 4 H, 1 D, 1 W, 1 Month, 1 Y\) – allows specifying the timeframe.
 

@@ -20,7 +20,7 @@ Note: to recover the application password, tap ‘Forgot’ option in the ‘Pas
 * enter email in the 'Email' field;
 * tap 'Recover' to receive an email with a recovery key. Then enter this key to the field.
 
-_\*Recommended iOS version is 9 or higher_
+_\*Recommended iOS version is 10 or higher_
 
 
 
