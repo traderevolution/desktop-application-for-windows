@@ -117,7 +117,7 @@ Show toolbar – allows showing toolbar.
 * Cancel orders before open position - if checked, while placing a new order it will be checked for the possibility to open position on it, and if the conditions are executed \(Stop, Limit\), then all other existing orders will be deleted, and after that a new position will be opened.
 * Automatically add SL/TP after open position - if checked, after opening or editing the position the orders will be added automatically. If unchecked, the orders can be added using Hotkeys.
 * Default SL/TP/Trailing stop, offset – allows setting the default offset values when placing different types of orders.
-* Working qty. 1, 2, 3 – three different combinations are available where user can set different options for work. Switching between options will be done using Hotkeys:
+* Working qty. 1, 2, 3 – three different combinations are available where the user can set different options for work. Switching between options will be done using Hotkeys:
 
 Working qty. – allows setting quantity of opening the position.
 
@@ -126,6 +126,8 @@ Increase qty. – allows setting quantity of increasing the position.
 Decrease qty. – allows setting quantity of decreasing the position.
 
 ![](../../../.gitbook/assets/70.png)
+
+Please note that for these fields \(Working qty, Increase qty, Decrease qty\), fractional values are allowed, which are limited to two decimal places, for example 0.01. Smaller values will not be accepted by the system. The system also checks for compliance of the Minimum lot and Lot step values format in the new Instrument selected in the lookup and specified in the Q1/Q2/Q3 fields of the Scalper panel. If the format does not match during the check \(fractional and integer\), then the Q1, Q2, Q3 fields will be highlighted in red, and when trying to trade using the Mouse trading/Scalper hotkeys, the user will receive a reject with a corresponding notification.
 
 **Orders execution scheme:**
 
