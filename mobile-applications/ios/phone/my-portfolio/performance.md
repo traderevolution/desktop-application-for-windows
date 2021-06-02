@@ -8,11 +8,11 @@ The Performance screen is accessible by default after opening the “My Portfoli
 
 If a user has several Investor accounts, he can choose a certain account by tapping the Account lookup which is displayed instead of the “My Portfolio” header, and select the preferred account from the list.
 
-![](https://lh5.googleusercontent.com/wonbcoXRS9WGGvNJhicjpWsLc__BL42MsazzvfxM_H4oAmoHhdkjm4sbEKjGuyxH6uqjAiPAJw6tC5780zI_qz88uF2NzCQXAktmUJjyMOKieIHcquci2XK3vk21IAajkWHhO731)
+![](../../../../.gitbook/assets/image-3%20%282%29.png)
 
 ### Diagrams
 
-To show/hide the diagram, tap the ![](https://lh3.googleusercontent.com/fsdAzbRLGK6ATzgXb5aQAZ4dtdnPtib6gKxdRqAbUsgBWRQjv1XxDKFZXtM7CuCtyCgFlY65nUHdnn0vC4xPMB8ymeOqsSVaJeJ6T3JlaIf4op_wG9p10dpCUEi3Vr8nKlLJwMsO) button. The following types of diagrams are displayed:
+To show/hide the diagram, tap the![](https://lh3.googleusercontent.com/fsdAzbRLGK6ATzgXb5aQAZ4dtdnPtib6gKxdRqAbUsgBWRQjv1XxDKFZXtM7CuCtyCgFlY65nUHdnn0vC4xPMB8ymeOqsSVaJeJ6T3JlaIf4op_wG9p10dpCUEi3Vr8nKlLJwMsO)button. The following types of diagrams are displayed:
 
 * Pie chart - shows the amount of funds that were invested into the Portfolio considering “Portfolio balance” as well as “Holding period rate of return” from the moment of investment.
 * Doughnut chart - shows the “Portfolio allocation” values. The number of chart sectors corresponds to the number of assets in the portfolio as well as Cash. If there is no portfolio \(positions\) at the account, the chart will be plain and Cash will be displayed. The allocation will be dynamic as it will be built by the current investor’s portfolio. 
@@ -21,7 +21,7 @@ To show/hide the diagram, tap the ![](https://lh3.googleusercontent.com/fsdAzbRL
 
 Under the diagram a user can find cards that show assets/cash included in the portfolio.
 
-![](../../../../.gitbook/assets/2%20%286%29.jpeg)
+![](../../../../.gitbook/assets/image-9.png)
 
 The following information is displayed on each card:
 
