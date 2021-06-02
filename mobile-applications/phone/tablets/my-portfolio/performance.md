@@ -8,7 +8,7 @@ The Performance screen is accessible by default after opening the “My Portfoli
 
 If a user has several Investor accounts, he can choose a certain account by tapping the Account lookup which is displayed instead of the “My Portfolio” header, and select the preferred account from the list.
 
-![](https://lh5.googleusercontent.com/wonbcoXRS9WGGvNJhicjpWsLc__BL42MsazzvfxM_H4oAmoHhdkjm4sbEKjGuyxH6uqjAiPAJw6tC5780zI_qz88uF2NzCQXAktmUJjyMOKieIHcquci2XK3vk21IAajkWHhO731)
+![](../../../../.gitbook/assets/image-3.png)
 
 ### Diagrams
 
@@ -21,7 +21,7 @@ To show/hide the diagram, tap the![](https://lh3.googleusercontent.com/fsdAzbRLG
 
 Under the diagram a user can find cards that show assets/cash included in the portfolio.
 
-![](../../../../.gitbook/assets/2-kopiya%20%284%29.png)
+![](../../../../.gitbook/assets/image-7.png)
 
 The following information is displayed on each card:
 
