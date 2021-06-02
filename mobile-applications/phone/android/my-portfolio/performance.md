@@ -8,11 +8,11 @@ The Performance screen is accessible by default after opening the “My Portfoli
 
 If a user has several Investor accounts, he can choose a certain account by tapping the Account lookup which is displayed instead of the “My Portfolio” header, and select the preferred account from the list.
 
-![](https://lh5.googleusercontent.com/wonbcoXRS9WGGvNJhicjpWsLc__BL42MsazzvfxM_H4oAmoHhdkjm4sbEKjGuyxH6uqjAiPAJw6tC5780zI_qz88uF2NzCQXAktmUJjyMOKieIHcquci2XK3vk21IAajkWHhO731)
+![](../../../../.gitbook/assets/image-3.png)
 
 ### Diagrams
 
-To show/hide the diagram, tap the ![](https://lh3.googleusercontent.com/fsdAzbRLGK6ATzgXb5aQAZ4dtdnPtib6gKxdRqAbUsgBWRQjv1XxDKFZXtM7CuCtyCgFlY65nUHdnn0vC4xPMB8ymeOqsSVaJeJ6T3JlaIf4op_wG9p10dpCUEi3Vr8nKlLJwMsO) button. The following types of diagrams are displayed:
+To show/hide the diagram, tap the![](https://lh3.googleusercontent.com/fsdAzbRLGK6ATzgXb5aQAZ4dtdnPtib6gKxdRqAbUsgBWRQjv1XxDKFZXtM7CuCtyCgFlY65nUHdnn0vC4xPMB8ymeOqsSVaJeJ6T3JlaIf4op_wG9p10dpCUEi3Vr8nKlLJwMsO)button. The following types of diagrams are displayed:
 
 * Pie chart - shows the amount of funds that were invested into the Portfolio considering “Portfolio balance” as well as “Holding period rate of return” from the moment of investment.
 * Doughnut chart - shows the “Portfolio allocation” values. The number of chart sectors corresponds to the number of assets in the portfolio as well as Cash. If there is no portfolio \(positions\) at the account, the chart will be plain and Cash will be displayed. The allocation will be dynamic as it will be built by the current investor’s portfolio. 
@@ -21,7 +21,7 @@ To show/hide the diagram, tap the ![](https://lh3.googleusercontent.com/fsdAzbRL
 
 Under the diagram a user can find cards that show assets/cash included in the portfolio.  
 
-![](https://lh6.googleusercontent.com/tnE9ehvEmnHzCIxjHwO2mhSzYTgczwn99AIfE2_10HCjXPVv65L_e3ceyNNro6seQa5h-Sn-m92z0AxIWW9HKp_qt62SAKOWf6o4s6fGW1Q4i_3VLtFilTCfgDOT81CK-UIdyL3c)
+![](../../../../.gitbook/assets/image-4.png)
 
 The following information is displayed on each card:
 
@@ -34,7 +34,7 @@ _Cash value in portfolio,$ = ProjectedBalance - sum\(StockValue\)_
 
 To open full information by the asset/Cash, tap the corresponding card.
 
-![](https://lh5.googleusercontent.com/aKPFfeAUQrYhI_DMl66m_MB5dhRvBlTMu0rd1l-YUwy5nsZhw4IyWPRbWIVC38YvMP3Ea1n7Fhq9fNBM4T2z7y2_cb4nH-pSXUJ6E2PPuGCMIUErP9u16ZWgvwZ4hsTHbpTxOTE4)
+![](../../../../.gitbook/assets/image-5.png)
 
 * Holding period rate of return, % - chart shows the rate of return by a single asset/Cash since the moment of investment by days.
 * Symbol type - shows the type of the traded symbol.
