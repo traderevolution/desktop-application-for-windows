@@ -21,7 +21,7 @@ Above the table a user can see the chosen month and the total Portfolio return. 
 
 In order to go back to the previous model of data display, tap the empty space on the diagram or tap the "X" button near the Portfolio return at the active period.
 
-![](https://lh4.googleusercontent.com/r5M3pBRiqIVrxScBbEZrjbodyLQjMklJGIf7kulGAyEBBw8HDRVGLAUSOHlCq1jAVeT1ghFBU9cjbxohgNTxpzY9IT20tWumX7AA8rR5jnOE9JwKleFS7ZcFaKLocv1NvtHn1kOk)
+![](../../../../.gitbook/assets/image-6.png)
 
 ### Calculations
 
