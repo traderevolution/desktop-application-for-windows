@@ -63,7 +63,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Confirm order/positions modification - check if you want to confirm each order/position modification;
 * Confirm position closing - check if you want to confirm each position closing;
 * Confirm position reversing - check if you want to confirm each position reversing;
-* Confirm alert remove - check if you want to cinfirm everu alert removing;
+* Confirm alert remove - check if you want to confirm every alert removing;
 * Open deal tickets on workspace - check if you want to confirm the opening of deal tickets on a workspace.
 
 ### **Warnings**

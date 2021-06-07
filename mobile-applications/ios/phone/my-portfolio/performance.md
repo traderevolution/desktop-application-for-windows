@@ -8,7 +8,7 @@ The Performance screen is accessible by default after opening the “My Portfoli
 
 If a user has several Investor accounts, he can choose a certain account by tapping the Account lookup which is displayed instead of the “My Portfolio” header, and select the preferred account from the list.
 
-![](../../../../.gitbook/assets/image-3%20%282%29.png)
+![](../../../../.gitbook/assets/image-3%20%283%29.png)
 
 ### Diagrams
 

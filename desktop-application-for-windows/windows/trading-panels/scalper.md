@@ -18,7 +18,7 @@ There are three main methods of scalping:
 * User can trade immediately after opening the panel. Since the most liquid and volatile instruments always have activity and trades on such instruments can be made almost every second.
 * The result of the trade has already been known for a couple of tens of seconds, etc.
 
-![](../../../.gitbook/assets/scalper%20%281%29.jpg)
+![](../../../.gitbook/assets/1%20%2834%29.jpg)
 
 The Scalper panel allows traders to view and to trade Level II quotes, to use overlay and impulse indicators for analysis and to view Time & Sales chart – all in one panel.
 
@@ -28,14 +28,15 @@ To open a new Scalper panel go to Terminal - &gt; Scalper.
 
 The top panel of the Scalper consists of the Symbol and Account lookups, trading buttons and Menu button.
 
-![](../../../.gitbook/assets/64.png)
+![](../../../.gitbook/assets/2%20%2810%29.jpg)
 
+* Compress spread – allows skipping empty levels between the best bid and best ask.
 * Recenter button – allows manually recentering the Market depth section relatively to spread.
 * Hot keys trading button – allows trading with the help of the Hotkeys from the keyboard and Market depth section which is an integral part of the Scalper panel.
 * Mouse trading button - allows trading with the help of the mouse and Market depth section. Both trading types \(Hot keys and Mouse\) are available simultaneously.
 * Context menu button – allows to evoke the Context menu of the panel, also it is available through right click tapping within the Scalper panel:
 
-![](../../../.gitbook/assets/65%20%281%29.png)
+![](../../../.gitbook/assets/3%20%2815%29.jpg)
 
 - Show impulse indicator – allows to enable/disable the market sentiment indicators \(not more than three\).
 
