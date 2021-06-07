@@ -4,12 +4,13 @@
 
 To open a new Matrix panel, go to Terminal -&gt; Matrix:
 
-![](../../../.gitbook/assets/55%20%281%29.png)
+![](../../../.gitbook/assets/new1%20%2816%29.jpg)
 
 The top panel of the Matrix consists of the Symbol and Account lookups, trading button and Menu button.
 
-![](../../../.gitbook/assets/56%20%281%29.png)
+![](../../../.gitbook/assets/new2%20%287%29.jpg)
 
+* Compress spread – allows skipping empty levels between the best bid and best ask;
 * Recenter button – allows manually recentering the panel relatively to spread;
 * Mouse trading button – allows one-click trading with the help of the mouse;
 * Settings – allows to open Matrix settings window.
