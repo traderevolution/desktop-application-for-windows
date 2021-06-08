@@ -70,7 +70,7 @@ To cancel order, click on the button![](../../../.gitbook/assets/89.png).
 
 Right-clicking on the order marker opens the context menu with various actions which can be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the widget:
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../.gitbook/assets/image%20%2897%29.png)
 
 All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
 
@@ -84,5 +84,5 @@ If you need to set SL/TP to the order/position, left-click on the order/position
 
 In order to midify SL to breakeven, click the the three-dot button located on the right side of the widget:
 
-![](../../../.gitbook/assets/image%20%2898%29.png)
+![](../../../.gitbook/assets/image%20%2896%29.png)
 
