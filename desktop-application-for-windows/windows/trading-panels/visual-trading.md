@@ -2,7 +2,7 @@
 
 You can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart:
 
-![](../../../.gitbook/assets/win-visual.png)
+![](../../../.gitbook/assets/new1%20%2817%29.jpg)
 
 ### The built-in Order entry panel 
 
@@ -54,7 +54,7 @@ Orders tooltips are always visible while trading: if order is Buy, then its icon
 
 When allocating a Stop limit order on the chart, limit price and stop price are shown inside of the order marker.
 
-![](../../../.gitbook/assets/86.png)
+![](../../../.gitbook/assets/new2%20%288%29.jpg)
 
 To disable the chart trading, click the 'Mouse trading' button again, or just stop holding the Ctrl key.
 
@@ -64,15 +64,17 @@ To change the order’s price, simply drag and drop the order marker![](../../..
 
 To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
-![](../../../.gitbook/assets/88.png)
+![](../../../.gitbook/assets/new3%20%284%29.jpg)
 
 To cancel order, click on the button![](../../../.gitbook/assets/89.png).
 
-Right-clicking on the order marker opens the context menu with various actions which can be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market.  
-  
+Right-clicking on the order marker opens the context menu with various actions which can be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the widget:
+
+![](../../../.gitbook/assets/image%20%2896%29.png)
+
 All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
 
- ![](../../../.gitbook/assets/90.png) 
+                                                           ![](../../../.gitbook/assets/90.png)
 
 ### Stop loss and Take profit
 
@@ -80,8 +82,7 @@ If you need to set SL/TP to the order/position, left-click on the order/position
 
 ![](../../../.gitbook/assets/91.png)
 
-  
-  
-  
+In order to midify SL to breakeven, click the the three-dot button located on the right side of the widget:
 
+![](../../../.gitbook/assets/image%20%2898%29.png)
 
