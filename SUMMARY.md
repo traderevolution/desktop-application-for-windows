@@ -258,6 +258,7 @@
           * [MFI \(Money flow index\)](mobile-applications/phone/android/technical-indicators/volume/mfi-money-flow-index.md)
           * [OBV \(On balance volume\)](mobile-applications/phone/android/technical-indicators/volume/obv-on-balance-volume.md)
           * [PVI \(Positive volume index\)](mobile-applications/phone/android/technical-indicators/volume/pvi-positive-volume-index.md)
+          * [VWAP](mobile-applications/phone/android/technical-indicators/volume/vwap.md)
       * [Order entry](mobile-applications/phone/android/order-entry/README.md)
         * [Position sizing](mobile-applications/phone/android/order-entry/position-sizing.md)
       * [Orders](mobile-applications/phone/android/orders.md)
