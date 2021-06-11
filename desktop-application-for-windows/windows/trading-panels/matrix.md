@@ -53,7 +53,7 @@ Click on Buy Market or Sell Market to Buy/Sell at market price.
 
 **Mouse trading** – allows trading using mouse \(when the corresponding button is activated on the top of the panel\). With left mouse click you can place Buy orders, with right click – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" \(can be changed in General settings - &gt; Hotkeys - &gt; Matrix\). 
 
-There is also a separate flow for placing OCO orders in the Mouse trading mode. To place a Buy OCO order in the Matrix panel, the User sjould first left-click on the desired price - the first leg of the Limit order will be set, and without releasing the mouse button, move the pointer over the needed Ask price level, then release it, the second leg of the Stop order will be set. In order to place a Sell OCO order, use the right mouse button and repeat the abovementioned flow.
+There is also a separate flow for placing OCO orders in the Mouse trading mode. To place a Buy OCO order in the Matrix panel, the User should first left-click on the desired price - the first leg of the Limit order will be set, and without releasing the mouse button, move the pointer over the needed Ask price level, then release it, the second leg of the Stop order will be set. In order to place a Sell OCO order, use the right mouse button and repeat the abovementioned flow.
 
 Mouse trading rules:
 
