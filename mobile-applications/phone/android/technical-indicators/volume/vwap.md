@@ -1,4 +1,4 @@
-# VWAP
+# VWAP \(Volume weighted average price\)
 
 Volume weighted average price \(VWAP\) is a technical analysis tool used to measure the average price weighted by volume. VWAP is typically used with intraday charts as a way to determine the general direction of intraday prices. VWAP is similar to a moving average in that when the price is above VWAP, prices are rising and when the price is below VWAP, prices are falling. VWAP is primarily used by technical analysts to identify the market trend.
 
