@@ -22,8 +22,9 @@ j – each individual trade that takes place over the defined period of time, ex
 
 ### Main parameters
 
-* Calculation cycle, 1 bar is the default value;
-* Calculation price, Close by default.
+* Days number, the number of days for calculating the values of the volume analysis by ticks;
+* Start/End time, defines the start/end time of the client's trading day, i.e. defines the VWAP calculation cycle \(valid for the client's timezone\);
+* Line style.
 
 The indicator looks as follows on the chart:
 
