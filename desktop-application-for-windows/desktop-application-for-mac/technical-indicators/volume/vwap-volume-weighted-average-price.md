@@ -22,8 +22,9 @@ j – each individual trade that takes place over the defined period of time, ex
 
 ### Main parameters
 
-* Historical mode checkbox enables the calculation of the VWAP for all available chart data;
-* Calculation price: Open, Close, High, Low, Median, Typical, and Weighted. Close is the default value.
+* Days number, the number of days for calculating the values of the volume analysis by ticks;
+* Start/End time, defines the start/end time of the client's trading day, i.e. defines the VWAP calculation cycle \(valid for the client's timezone\);
+* Line style.
 
 The indicator looks as follows on the chart:
 
