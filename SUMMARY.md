@@ -316,6 +316,7 @@
           * [MFI \(Money flow index\)](mobile-applications/phone/tablets/technical-indicators/volume/mfi-money-flow-index.md)
           * [OBV \(On balance volume\)](mobile-applications/phone/tablets/technical-indicators/volume/obv-on-balance-volume.md)
           * [PVI \(Positive volume index\)](mobile-applications/phone/tablets/technical-indicators/volume/pvi-positive-volume-index.md)
+          * [VWAP \(volume weighted average price\)](mobile-applications/phone/tablets/technical-indicators/volume/vwap-volume-weighted-average-price.md)
       * [Order entry](mobile-applications/phone/tablets/order-entry/README.md)
         * [Position sizing](mobile-applications/phone/tablets/order-entry/position-sizing.md)
       * [Orders](mobile-applications/phone/tablets/orders.md)
