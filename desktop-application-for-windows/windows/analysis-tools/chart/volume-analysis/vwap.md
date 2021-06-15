@@ -34,7 +34,5 @@ Line style – a set of standard controls for settings of visual look of a rende
 
 Line \#2 and Line \#3 have the same settings as Line \#1.
 
-![](../../../../../.gitbook/assets/screenshot_1%20%2845%29.jpg)
-
-
+![](../../../../../.gitbook/assets/screenshot_4%20%289%29.jpg)
 
