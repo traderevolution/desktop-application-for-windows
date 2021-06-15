@@ -20,6 +20,10 @@ Vj – volume of the trade j;
 
 j – each individual trade that takes place over the defined period of time, excluding cross trades and basket cross trades.
 
+The price itself is caluclated by the following formula:
+
+**Price\(i\)= \(High+Low+Close\)/3**
+
 ### Main parameters
 
 * Days number, the number of days for calculating the values of the volume analysis by ticks;

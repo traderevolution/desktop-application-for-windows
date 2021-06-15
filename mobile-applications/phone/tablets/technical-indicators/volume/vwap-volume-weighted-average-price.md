@@ -10,7 +10,7 @@ VWAP can also be used to measure trading efficiency. After buying or selling a s
 
 Volume weighted average price \(VWAP\) is exactly what it sounds like: the average price weighted by volume. VWAP equals the currency value of all trading periods divided by the total trading volume for the current day. The calculation starts when trading opens and ends when trading closes. Because it is good for the current trading day only, intraday periods and data are used in the calculation.
 
-**VWAP = \(∑j Pj \* Vj\) / ∑j Vj**
+VWAP = \(∑j Pj \* Vj\) / ∑j Vj
 
 Where:
 
@@ -19,10 +19,6 @@ Pj – price of the trade j;
 Vj – volume of the trade j;
 
 j – each individual trade that takes place over the defined period of time, excluding cross trades and basket cross trades.
-
-The price itself is caluclated by the following formula:
-
-**Price\(i\)= \(High+Low+Close\)/3**
 
 ### Main parameters 
 
