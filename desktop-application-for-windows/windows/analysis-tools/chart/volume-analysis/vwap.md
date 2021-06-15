@@ -1,6 +1,6 @@
 # VWAP+
 
-VWAP+ allows calculating a cumulative volume-weighted average price for defined period.
+VWAP+ allows calculating a cumulative volume-weighted average price by ticks for defined period.
 
 ![](../../../../../.gitbook/assets/screenshot_2%20%2838%29.jpg)
 
@@ -18,13 +18,11 @@ Line visible – allows visibility of a certain line of render. Default state �
 Calculation cycle – cycle for calculation of cumulative VWAP+ value. The following options are available:
 
 * Custom cycle – default value, with this value the length of the renderer calculation cycle is set by the user;
-* Intraday – render counts its cumulative values from the beginning of a trade day till the end of each trade day with the period which is set in ‘Intraday cycle’.
+* Intraday – defines the period of cumulative calculations of render values in minutes from the beginning of a trade day. In one trade day can be lots of intraday cycles.
 
 Days number – number of days for calculating the values of the volume analysis by ticks, if Calculation cycle is set to “Custom cycle”;
 
 Start/End day time – allows to determine time of start and end of a day;
-
-Intraday cycle – allows to determine the period of a cumulative calculation of values of render in minutes from the beginning of every trade day.
 
 VWAP = ∑ price i \* size i / ∑ size i,
 
