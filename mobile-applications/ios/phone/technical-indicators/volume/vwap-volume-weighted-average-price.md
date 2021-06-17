@@ -1,4 +1,4 @@
-# VWAP \(volume weighted average price\)
+# VWAP \(Volume weighted average price\)
 
 Volume weighted average price \(VWAP\) is a technical analysis tool used to measure the average price weighted by volume. VWAP is typically used with intraday charts as a way to determine the general direction of intraday prices. VWAP is similar to a moving average in that when the price is above VWAP, prices are rising and when the price is below VWAP, prices are falling. VWAP is primarily used by technical analysts to identify the market trend.
 
@@ -10,7 +10,7 @@ VWAP can also be used to measure trading efficiency. After buying or selling a s
 
 Volume weighted average price \(VWAP\) is exactly what it sounds like: the average price weighted by volume. VWAP equals the currency value of all trading periods divided by the total trading volume for the current day. The calculation starts when trading opens and ends when trading closes. Because it is good for the current trading day only, intraday periods and data are used in the calculation.
 
-**VWAP = \(∑j Pj \* Vj\) / ∑j Vj**
+VWAP = \(∑j Pj \* Vj\) / ∑j Vj
 
 Where:
 
@@ -20,9 +20,7 @@ Vj – volume of the trade j;
 
 j – each individual trade that takes place over the defined period of time, excluding cross trades and basket cross trades.
 
-The price itself is caluclated by the following formula:
-
-**Price\(i\)= \(High+Low+Close\)/3**
+Price\(i\)= \(High+Low+Close\)/3
 
 ### Main parameters 
 
@@ -31,7 +29,7 @@ The price itself is caluclated by the following formula:
 * End day time, defines the end time of the client's trading day, i.e. defines the end of the VWAP calculation cycle \(valid for the client's timezone\);
 * Line style.
 
-The values of the Start day time and End day time controls form a time interval within which the VWAP indicator value is calculated.
+The values of the Start day time and End day time controls form a time interval within which the VWAP indicator value is calculated. The indicator looks as follows on chart:
 
-![](../../../../../.gitbook/assets/1%20%2835%29.jpg)
+![](../../../../../.gitbook/assets/screenshot_3%20%2820%29.jpg)
 

@@ -372,6 +372,7 @@
           * [SD \(Standard deviation\)](mobile-applications/ios/phone/technical-indicators/volatility/sd-standard-deviation.md)
         * [Volume](mobile-applications/ios/phone/technical-indicators/volume/README.md)
           * [PVI \(Positive volume index\)](mobile-applications/ios/phone/technical-indicators/volume/pvi-positive-volume-index.md)
+          * [VWAP \(Volume weighted average price\)](mobile-applications/ios/phone/technical-indicators/volume/vwap-volume-weighted-average-price.md)
           * [OBV \(On balance volume\)](mobile-applications/ios/phone/technical-indicators/volume/obv-on-balance-volume.md)
           * [MFI \(Money flow index\)](mobile-applications/ios/phone/technical-indicators/volume/mfi-money-flow-index.md)
       * [Order entry](mobile-applications/ios/phone/order-entry/README.md)
