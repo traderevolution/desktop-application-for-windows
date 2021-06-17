@@ -30,7 +30,7 @@ The price itself is caluclated by the following formula:
 * Start/End time, defines the start/end time of the client's trading day, i.e. defines the VWAP calculation cycle \(valid for the client's timezone\);
 * Line style.
 
-The indicator looks as follows on the chart:
+The indicator looks as follows on chart:
 
-![](../../../../.gitbook/assets/vwap%20%281%29.jpg)
+![](../../../../.gitbook/assets/vncviewer_d0x5ultbim.jpg)
 
