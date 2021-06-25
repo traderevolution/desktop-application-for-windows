@@ -8,7 +8,7 @@ The option chain tab shows detailed information about specific option contract a
 
 Check the needed option contracts in order to make them accessible for the trading in the Option chain tab.
 
-IV \(Implied volatility\) column column shows expected volatility of the option which characterizes the degree of underlier price volatility. If IV is high, strong fluctuations of underlier price are expected.
+IV \(Implied volatility\) column shows expected volatility of the option which characterizes the degree of underlier price volatility. If IV is high, strong fluctuations of underlier price are expected.
 
 Open interest column shows the total amount of open positions.
 
