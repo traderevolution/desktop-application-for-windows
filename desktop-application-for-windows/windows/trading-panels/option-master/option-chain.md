@@ -8,8 +8,9 @@ The option chain tab shows detailed information about specific option contract a
 
 Check the needed option contracts in order to make them accessible for the trading in the Option chain tab.
 
-* IV \(Implied volatility\) column – shows expected volatility of the option which characterizes the degree of underlier price volatility. If IV is high, strong fluctuations of underlier price are expected.
-* Open interest – shows the total amount of open positions.
+IV \(Implied volatility\) column column shows expected volatility of the option which characterizes the degree of underlier price volatility. If IV is high, strong fluctuations of underlier price are expected.
+
+Open interest column shows the total amount of open positions.
 
 Edit the 'Trade' column opposite to the corresponding strike in order to add a position. Set negative value to open a short position, and positive to open a long position with the corresponding quantity. Immediately after adding all positions will have the "paper" status and will be displayed in the 'Test on paper' tab. To transfer "paper" positions to the really existing, check needed in the 'Send' column and click 'Place all' button. After placing these positions will be displayed in the Positions tab.
 
