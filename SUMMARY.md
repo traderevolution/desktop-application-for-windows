@@ -365,6 +365,7 @@
           * [Aroon \(Dawn's early light\)](mobile-applications/ios/phone/technical-indicators/oscillators/aroon-dawns-early-light.md)
           * [RSI \(Relative strength index\)](mobile-applications/ios/phone/technical-indicators/oscillators/rsi-relative-strength-index.md)
           * [ROC \(Rate of change\)](mobile-applications/ios/phone/technical-indicators/oscillators/roc-rate-of-change.md)
+          * [Stochastic \(Stochastic slow\)](mobile-applications/ios/phone/technical-indicators/oscillators/stochastic-stochastic-slow.md)
           * [Momentum](mobile-applications/ios/phone/technical-indicators/oscillators/momentum.md)
         * [Trend](mobile-applications/ios/phone/technical-indicators/trend/README.md)
           * [ICH \(Ichimoku\)](mobile-applications/ios/phone/technical-indicators/trend/ich-ichimoku.md)
