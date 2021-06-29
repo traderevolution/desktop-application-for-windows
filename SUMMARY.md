@@ -180,6 +180,7 @@
         * [RSI \(Relative strength index\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/rsi-relative-strength-index.md)
         * [ROC \(Rate of change\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/roc-rate-of-change.md)
         * [Momentum](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/momentum.md)
+        * [Stochastic \(Stochastic slow\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/oscillators/stochastic-stochastic-slow.md)
       * [Trend](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/README.md)
         * [ICH \(Ichimoku\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/ich-ichimoku.md)
         * [SAR \(Parabolic time/price system\)](desktop-application-for-windows/desktop-application-for-mac/technical-indicators/trend/sar-parabolic-time-price-system.md)
