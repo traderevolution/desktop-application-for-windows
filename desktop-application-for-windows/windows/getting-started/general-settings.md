@@ -65,7 +65,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Confirm position reversing - check if you want to confirm each position reversing;
 * Confirm alert remove - check if you want to confirm every alert removing;
 * Open deal tickets on workspace - check if you want to confirm the opening of deal tickets on a workspace;
-* Show deal tickets in application tray - determines whether alerts are displayed in the application tray. If false, the deal tickets are not shown in the tray, but remain available in the Event log.
+* Show deal tickets in application tray - determines whether alerts are displayed in the application tray. If false, deal tickets are not shown in the tray, but remain available in the Event log.
 
 ### **Warnings**
 

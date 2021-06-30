@@ -8,7 +8,7 @@ The Products panel lists all products currently available to the User, products 
 
 ### **Catalogue tab**
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/new1-1-%20%281%29.jpg)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
 
@@ -32,11 +32,13 @@ This screen contains the following elements:
 
 ### **Active tab**
 
-![](../../../.gitbook/assets/image-2-.png)
+![](../../../.gitbook/assets/image-2-.jpg)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription which looks as follows:
 
 ![](../../../.gitbook/assets/image%20%2882%29.png)
+
+Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
 
 ### **Requests tab**
 
@@ -56,4 +58,6 @@ Tapping any request line will initiate request cancelling and bring up the confi
 ![](../../../.gitbook/assets/new%20%287%29.jpg)
 
 Please note that only those requests that have the ‘New’ status can be canceled.
+
+Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then he ****will receive a ****corresponding reject. This is only valid in the case of automatic request confirmation/charging. 
 

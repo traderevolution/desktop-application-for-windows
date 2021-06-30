@@ -55,7 +55,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ### **Confirmations**
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/web.jpg)
 
 In the Confirmations section all of the options are fairly intuitive:
 
@@ -64,7 +64,8 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Confirm order/positions modification - check if you want to confirm each order/position modification; 
 * Confirm position closing - check if you want to confirm each position closing;
 * Confirm alert remove - check if you want to confirm each alert removing;
-* Open deal tickets on workspace - check if you want to confirm every opening of deal tickets on a workspace.
+* Open deal tickets on workspace - check if you want to confirm every opening of deal tickets on a workspace;
+* Show deal tickets in application tray - determines whether alerts are displayed in the application tray. If false, deal tickets are not shown in the tray, but remain available in the Event log.
 
 ### **Warnings**
 
