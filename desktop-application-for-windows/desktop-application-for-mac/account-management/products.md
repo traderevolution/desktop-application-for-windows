@@ -8,9 +8,9 @@ The Products panel lists all products currently available to the User, products 
 
 ### Catalogue tab
 
-![](../../../.gitbook/assets/new1%20%2814%29.jpg)
+![](../../../.gitbook/assets/1%20%2837%29.jpg)
 
-This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
+This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
 
 ![](../../../.gitbook/assets/image%20%2883%29.png)
 
@@ -32,11 +32,13 @@ This screen contains the following elements:
 
 ### Active tab
 
-![](../../../.gitbook/assets/new3%20%282%29.jpg)
+![](../../../.gitbook/assets/2%20%2816%29.jpg)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
 ![](../../../.gitbook/assets/new4%20%281%29.jpg)
+
+Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
 
 ### Requests tab
 
@@ -56,4 +58,6 @@ The Requests tab contains the following elements:
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
 ![](../../../.gitbook/assets/image%20%2876%29.png)
+
+Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging. The reject comes in the form of deal ticket.
 

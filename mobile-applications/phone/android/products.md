@@ -12,7 +12,7 @@ The Products panel lists all products currently available to the User, products 
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
 
-Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, tap it to open the detailed  information about the Product.
+Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, tap it to open the detailed  information about the Product.
 
 Subscription to the Product of interest is carried out by tapping the ‘Subscribe’ button. There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
