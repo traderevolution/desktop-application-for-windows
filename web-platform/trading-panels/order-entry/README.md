@@ -101,5 +101,3 @@ P/L per Tick - no information for Index;
 
 Information of the Margin section can be updated by clicking on the button![](../../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
-Note. Order entry panel can be closed with the "Esc" hotkey when in focus. If the workspace is locked, then the Order entry window can also be closed by pressing Esc when in focus.
-
