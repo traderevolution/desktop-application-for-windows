@@ -27,10 +27,6 @@ Attached panels can be arranged into tabbed areas where one or more panels are c
 * Show toolbar – allows showing the toolbar of the chosen panel. Right-click on the header of the panel to to view this option.
 * ![](../../../.gitbook/assets/close-and-open-copy.png)– the standard set of buttons, allowing to close, minimize a window and enable a fullscreen mode respectively.
 
-Note. Detached panels can be closed with the "Command-W" hotkey. This action is valid for the following panels: Watchlist, Market depth, Chart, Working orders, Orders history, Filled orders, Positions, Assets, Aggressor balance, Super DOM, trading central, High/Low list, Gainers/Losers, External links.
-
-The following panels can be closed using the "Esc" hotkey \(when in focus\): Trading ideas, Event log, Balance widget, About panel.
-
 ### Creating tabbed areas
 
 Creating tabbed groups of panels helps save screen space and maximazes efficiency. To make a panel appear as a tab, drag it over another panel \(or tabbed area\).
