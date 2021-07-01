@@ -9,7 +9,7 @@ There are two main location types for all panels:
 * Attached – panel is located in some place of workspace.
 * Detached – panel is located separately and can be used independently of any workspace.
 
-Each panel has default location. Some panels are attached by default, others are detached. Default settings created on base of target usage. To change the location click on the control![](../../../.gitbook/assets/2%20%2824%29.png)which is available in the header of each panel. The following options can be available in the opened menu:
+ Each panel has default location. Some panels are attached by default, others are detached. Default settings created on base of target usage. To change the location click on the control![](../../../.gitbook/assets/2%20%2824%29.png)which is available in the header of each panel. The following options can be available in the opened menu:
 
 * Attach – allows attaching panel. After clicking panel will attach to default place. Then user can move it to any place of the workspace. After taking header of the panel the following buttons appear:
 
@@ -29,8 +29,6 @@ Drag the panel into the button to preview it's next position.
 * Show toolbar – allows showing toolbar of the chosen panel.
 
  Clicking on the button![](../../../.gitbook/assets/5%20%282%29.png)allows opening attached panel in fullscreen mode. Available only for Chart.
-
-Note. Any detached panel can be closed with the "Esc" hotkey. Also, this action is valid for any other modal or pop-up screens: all sorts of Settings, Confiramtions, etc. Basically, for those screens that do not have the resizing feature.
 
 ### Creating tabbed areas
 
