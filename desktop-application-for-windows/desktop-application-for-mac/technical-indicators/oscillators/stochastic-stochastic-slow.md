@@ -19,7 +19,7 @@ The Stochastic oscillator has four variables:
 
 Stochastic is calculated by the following formulas:
 
-%K = \(Close – Low \(%K\)\) / \(High\(%K\) – Low\(%K\)\) \* 100, where
+%K = \(Close – Low \(%K\)\) / \(High\(5K\) – Low\(%K\)\) \* 100, where
 
 * Close — today’s closing price;
 * Low \(%K\) — lowest low in %K periods;
