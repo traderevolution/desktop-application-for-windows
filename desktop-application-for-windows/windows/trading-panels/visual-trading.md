@@ -68,7 +68,7 @@ To start modifying other parameters, left-click on the order marker. The followi
 
 To cancel order, click on the button![](../../../.gitbook/assets/89.png).
 
-Right-clicking on the order marker opens the context menu with various actions which can be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
+Right-clicking on the order marker opens the context menu with various actions which can be done with an order. You can the required option: Modify order or Change to Market. For order cancelling click the x-shaped button on the right. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
 
 ![](../../../.gitbook/assets/image%20%2897%29.png)
 
