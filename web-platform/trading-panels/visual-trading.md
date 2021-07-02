@@ -61,7 +61,7 @@ To cancel order, click on the![](../../.gitbook/assets/7%20%2820%29.png)button.
 
 ### Stop loss and Take profit
 
- If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
+If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
 ![](../../.gitbook/assets/8%20%2816%29.png)
 
