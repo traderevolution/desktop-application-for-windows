@@ -54,6 +54,10 @@ To disable trading from the chart with a mouse, click on the 'Mouse trading' but
 
 User can zoom in or out on the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
 
+**Chart zooming**
+
+The chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.
+
 #### **Scrolling the chart**
 
 To scroll the chart horizontally, just drag the scroll in the Timeline section, or click inside the chart and drag it left or right.

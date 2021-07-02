@@ -84,5 +84,5 @@ If you need to set SL/TP to the order/position, left-click on the order/position
 
 In order to modify SL to breakeven, click the the three-dot button located on the right side of the SL widget:
 
-![](../../../.gitbook/assets/screenshot_1111-1-.jpg)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
