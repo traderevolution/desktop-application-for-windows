@@ -80,9 +80,9 @@ All modifying operations can be made from the Modify window which can be opened 
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
-![](../../../.gitbook/assets/91.png)
+![](../../../.gitbook/assets/image%20%28103%29.png)
 
-In order to midify SL to breakeven, click the the three-dot button located on the right side of the SL widget:
+In order to modify SL to breakeven, click the the three-dot button located on the right side of the SL widget:
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../.gitbook/assets/screenshot_1111-1-.jpg)
 

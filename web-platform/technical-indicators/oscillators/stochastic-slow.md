@@ -1,4 +1,4 @@
-# Stochastic slow
+# Stochastic \(Stochastic slow\)
 
 Developed by George C. Lane in the late 1950s, the Stochastic oscillator is a momentum indicator that shows the location of the close relative to the high-low range over a set number of periods. The indicator can range from 0 to 100.
 
@@ -19,7 +19,7 @@ The Stochastic oscillator has four variables:
 
 Stochastic is calculated by the following formulas:
 
-%K = \(Close – Low \(%K\)\) / \(High\(5K\) – Low\(%K\)\) \* 100, where
+%K = \(Close – Low \(%K\)\) / \(High\(%K\) – Low\(%K\)\) \* 100, where
 
 * Close — today’s closing price;
 * Low \(%K\) — lowest low in %K periods;
