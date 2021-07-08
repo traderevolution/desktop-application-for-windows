@@ -57,7 +57,7 @@ To change the order’s price, simply drag and drop the order marker![](../../.g
 
 ![](../../.gitbook/assets/6%20%2827%29.png)
 
-To cancel order, click on the![](../../.gitbook/assets/7%20%2820%29.png)button.
+To cancel order, click the![](../../.gitbook/assets/7%20%2820%29.png)button.
 
 ### Stop loss and Take profit
 
