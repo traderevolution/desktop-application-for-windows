@@ -10,7 +10,7 @@ The following columns are available in the panel:
 
 * Account – login name of an account that opened a position;
 * Login - login of a user;
-* Symbol – a traded symbol;
+* Symbol – a traded symbol \(in case the position is opened as a result of corporate action its type is also shown here. Please note that in this case the User cannot modify/close such position or place SL/TP orders\);
 * Symbol description - comments to an instrument;
 * Symbol type – a symbol's market category \(CFD, spot, stocks, etc.\);
 * Position ID – a unique number that the trading system assigns to each position;

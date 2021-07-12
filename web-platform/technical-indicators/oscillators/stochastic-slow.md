@@ -41,6 +41,8 @@ When the %K line falls below 20 on the Stochastic scale, the market may now cons
 * Slow %K = Fast %K smoothed with 3-period SMA
 * Slow %D = 3-period SMA of Slow %K
 
+The data for the SMA calculating are the values of the stochastic oscillator, calculated using the formula above in this article.
+
 The Slow stochastic applies further smoothing to the Stochastic oscillator in order to reduce volatility and improve signal accuracy. Trading signals are the same as for the Stochastic oscillator.
 
 Signals are listed in order of their importance:
