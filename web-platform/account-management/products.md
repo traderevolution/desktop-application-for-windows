@@ -14,7 +14,11 @@ This tab displays cards of products available to the User for subscription. Plea
 
 ![](../../.gitbook/assets/image%20%2893%29.png)
 
-Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
+Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. 
+
+Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then he ****will receive a ****corresponding reject. This is only valid in the case of automatic request confirmation/charging. 
+
+There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
 If the documents are not required to be signed, then the subscription request will be created immediately after clicking the appropriate button. This request will await verification by the admin and after its confirming the User will be subscribed to the Product.
 
