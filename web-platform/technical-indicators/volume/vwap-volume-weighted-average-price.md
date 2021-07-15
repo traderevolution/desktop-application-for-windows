@@ -26,7 +26,7 @@ The price itself is caluclated by the following formula:
 
 ### Main parameters
 
-* Days number, the number of days for calculating the values of the volume analysis by ticks;
+* Days number, the number of days for calculating the values of the volume analysis;
 * Start/End time, defines the start/end time of the client's trading day, i.e. defines the VWAP calculation cycle \(valid for the client's timezone\);
 * Line style.
 

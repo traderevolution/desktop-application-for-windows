@@ -8,7 +8,7 @@ The Products panel lists all products currently available to the User, products 
 
 ### **Catalogue tab**
 
-![](../../.gitbook/assets/screenshot_2%20%2837%29.jpg)
+![](../../.gitbook/assets/4%20%289%29.jpg)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed: 
 
@@ -36,7 +36,7 @@ This screen contains the following elements:
 
 ### **Active tab**
 
-![](../../.gitbook/assets/screenshot_1%20%2844%29.jpg)
+![](../../.gitbook/assets/3%20%2817%29.jpg)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
