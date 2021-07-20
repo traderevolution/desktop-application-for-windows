@@ -6,7 +6,7 @@ The Market depth panel allows to view and trade Level II quotes. To open a new M
 
 The Market depth panel consists of several sections:
 
-* Level I - only Level I quotes;
+* Level I - only Level I quotes.
 
 A user can customize this section via the context menu -&gt;![](../../../.gitbook/assets/md2.png):
 
