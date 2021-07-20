@@ -7,6 +7,17 @@ The Market depth panel allows to view and trade Level II quotes. To open a new M
 The Market depth panel consists of several sections:
 
 * Level I - only Level I quotes;
+
+A user can customize this section via the context menu -&gt;![](../../../.gitbook/assets/md2.png):
+
+![](../../../.gitbook/assets/md1.png)
+
+The buttons '+' allow to change the default 'Empty' value of cells to one of the values from drop-down lists which appear with pressing buttons '+'.
+
+Every drop-down list corresponds to its button '+' and contains the following items, except those which are already used to be displayed by previously adjusted cell\(s\):
+
+Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previous close; Change; Change, %; Spread; Settlement price; Previous settlement price; Volume.
+
 * Position bar - short information about opened positions \(quantity, average price, current profit and loss\).
 
 P/L value is displayed in currency or in ticks/points depending on what option you choose clicking on it.
