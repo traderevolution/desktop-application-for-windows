@@ -2,7 +2,7 @@
 
 Order entry panel allows to place market or pending orders. To open the Order entry panel select Terminal -&gt; Order entry.
 
-![](../../../../.gitbook/assets/windowsnew%20%281%29.jpg)
+![](../../../../.gitbook/assets/windows%20%281%29.png)
 
 This panel contains the following settings:
 
@@ -48,7 +48,7 @@ Note: if the user performs actions on the position or modifies the order from on
 * Limit price \(available together with Stop price for the 'Stop order' and 'OCO' order types; also available for the 'Limit order' type\) - allows entering the order limit price;
 * Tr. stop offset - \(for the 'Trailing stop' type\) - allows entering the order trailing stop price.
 
-You can set up set the Stop loss and Take profit directly from the Order entry panel if needed. 
+A user can set up set the Stop loss and Take profit directly from the Order entry panel if needed. 
 
 ![](../../../../.gitbook/assets/image%20%2821%29.png)
 
@@ -117,4 +117,6 @@ P/L per Tick - no information for Index;
 * Total fee – shows the commission total on the trade. 
 
 Information of the Margin section can be updated by clicking on the button![](../../../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+
+A user can click and drag the border of the panel to resize it to desired width.
 
