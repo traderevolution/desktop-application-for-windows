@@ -2,7 +2,7 @@
 
 The Market depth panel allows to view and trade Level II quotes. To open a new Market depth panel, go to Terminal -&gt; Market depth.
 
-![](../../../.gitbook/assets/screenshot_4%20%287%29.png)
+![](../../../.gitbook/assets/01%20%281%29.png)
 
 The Market depth panel consists of several sections:
 
@@ -68,6 +68,12 @@ The detail quote section is displayed as a table with the following columns:
 * Order – order number of this current price;
 * Contr CCY value – the value of Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Ask/Bid size;
 * Contr CCY Total value – the value of total Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Total Ask/Bid size.
+
+### Data source
+
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/1%20%28161%29.png)arrow and the widget will be shown:
+
+![](../../../.gitbook/assets/2%20%28136%29.png)
 
 ### **Mouse trading**                    
 
