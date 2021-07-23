@@ -16,7 +16,7 @@ The buttons '+' allow to change the default 'Empty' value of cells to one of the
 
 Every drop-down list corresponds to its button '+' and contains the following items, except those which are already used to be displayed by previously adjusted cell\(s\):
 
-Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previous close; Change; Change, %; Spread; Settlement price; Previous settlement price; Volume.
+Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previous close; Change; Change, %; Spread; Settlement price; Previous settlement price; Volume; Ask source; Bid source and Last source.
 
 * Position bar - short information about opened positions \(quantity, average price, current profit and loss\).
 
@@ -74,6 +74,8 @@ The detail quote section is displayed as a table with the following columns:
 In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/1%20%28161%29.png)arrow and the widget will be shown:
 
 ![](../../../.gitbook/assets/2%20%28136%29.png)
+
+Furthermore, a user can add Ask source, Bid source and Last source information to the "Level I" section.
 
 ### **Mouse trading**                    
 
