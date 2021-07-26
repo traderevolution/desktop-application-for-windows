@@ -96,7 +96,7 @@ P/L per Tick - no information for Index;
 
 * Total fee – shows the commission total on the trade.
 
-In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_2%20%2818%29.png)arrow and the widget will be shown: 
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_2%20%2818%29.png)button and the widget will be shown: 
 
                                                          ![](../../../../.gitbook/assets/image8%20%282%29.png) 
 
