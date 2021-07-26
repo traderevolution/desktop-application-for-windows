@@ -4,7 +4,7 @@ The Market depth panel allows to view and trade Level II quotes.
 
 To open a new Market depth panel, go to 'Terminal -&gt; Market depth'.
 
-![](../../../.gitbook/assets/market1%20%281%29.png)
+![](../../../.gitbook/assets/image5.png)
 
 ### Toolbar
 
@@ -26,7 +26,7 @@ The buttons '+' allow to change the default 'Empty' value of cells to one of the
 
 Every drop-down list corresponds to its button '+' and contains the following items, except those which are already used to be displayed by previously adjusted cell\(s\):
 
-Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previous close; Change; Change, %; Spread; Settlement price; Previous settlement price; Volume.
+Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previous close; Change; Change, %; Spread; Settlement price; Previous settlement price; Volume; Ask source; Bid source and Last source.
 
 * Position bar - short information about opened positions \(average price, quantity, current profit and loss\): 
 
@@ -75,6 +75,14 @@ The detailed quote section is displayed as a table with the columns which can be
 * Counter CCY value – a value of Ask/Bid size recalculated in the quoting currency, Price \* Ask/Bid size;
 * Counter CCY Total value – a value of total Ask/Bid size recalculated in the quoting currency, Price \* Total Ask/Bid size;
 * Reset to factory defaults – allows to reset this section's view to the default view.
+
+### Data source
+
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/screenshot_3%20%2811%29.png)arrow and the widget will be shown:
+
+                                                          ![](../../../.gitbook/assets/image8%20%283%29.png) 
+
+Furthermore, a user can add Ask source, Bid source and Last source information to the "Level I" section.
 
 ### Market depth Preferences
 
