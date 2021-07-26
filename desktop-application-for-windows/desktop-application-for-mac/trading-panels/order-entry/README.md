@@ -2,7 +2,7 @@
 
 Order entry panel allows a user to place market or pending orders. To open the panel, select Terminal -&gt; Order entry. Additionally, this panel can be seen within Chart:
 
-![](../../../../.gitbook/assets/image%20%28105%29.png)
+![](../../../../.gitbook/assets/image%20%28108%29.png)
 
 This panel contains the following settings:
 
@@ -96,7 +96,7 @@ P/L per Tick - no information for Index;
 
 * Total fee – shows the commission total on the trade.
 
-In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_1%20%2822%29.png)arrow and the widget will be shown:
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_2%20%2818%29.png)arrow and the widget will be shown: 
 
                                                          ![](../../../../.gitbook/assets/image8%20%282%29.png) 
 
