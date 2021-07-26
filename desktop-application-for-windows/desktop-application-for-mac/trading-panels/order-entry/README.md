@@ -2,7 +2,7 @@
 
 Order entry panel allows a user to place market or pending orders. To open the panel, select Terminal -&gt; Order entry. Additionally, this panel can be seen within Chart:
 
-![](../../../../.gitbook/assets/new1%20%2812%29.jpg)
+![](../../../../.gitbook/assets/image%20%28105%29.png)
 
 This panel contains the following settings:
 
@@ -95,6 +95,10 @@ P/L per Tick - no information for Index;
 **Fees** part shows commission for a trade. The fees shown depend on the Commission plan settings of the User:
 
 * Total fee – shows the commission total on the trade.
+
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_1%20%2822%29.png)arrow and the widget will be shown:
+
+                                                         ![](../../../../.gitbook/assets/image8%20%282%29.png) 
 
 Information of the Margin section can be updated by clicking on the button![](../../../../.gitbook/assets/oe-time.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
