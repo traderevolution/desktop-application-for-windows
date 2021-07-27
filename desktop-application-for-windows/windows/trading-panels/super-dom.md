@@ -86,6 +86,12 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 ![](../../../.gitbook/assets/screenshot_1.png)
 
+### Data source <a id="data-source"></a>
+
+In the Super DOM panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/image2-kopiya%20%281%29.png)arrow and the widget will be shown:
+
+![](../../../.gitbook/assets/super2.png)
+
 ### **Super DOM settings**
 
 Super DOM settings have 2 tabs, each of them consists of several parts:
