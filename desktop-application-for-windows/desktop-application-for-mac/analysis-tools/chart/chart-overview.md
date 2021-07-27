@@ -86,3 +86,9 @@ In order to get this information, right-click on the chart and hold the mouse ke
 
 Note that the color of the text and background displayed in this info window can be changed via the corresponding color pickers in the chart preferences, 'Info window' section.
 
+### Data source <a id="data-source"></a>
+
+In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/image2-kopiya%20%281%29.png)arrow and the widget will be shown:
+
+![](../../../../.gitbook/assets/image3%20%281%29.png)
+
