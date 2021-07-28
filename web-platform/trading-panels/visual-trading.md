@@ -2,7 +2,7 @@
 
 You can perform trading directly from the chart panel. It is possible to send orders, modify and close/cancel all positions/orders directly from the chart:
 
-![](../../.gitbook/assets/web-vis%20%281%29.jpg)
+![](../../.gitbook/assets/web-vis%20%282%29.jpg)
 
 ### **The built-in Order entry panel** 
 
