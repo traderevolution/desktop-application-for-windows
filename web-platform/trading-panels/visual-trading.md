@@ -59,6 +59,10 @@ To change the order’s price, simply drag and drop the order marker![](../../.g
 
 To cancel order, click the![](../../.gitbook/assets/7%20%2820%29.png)button.
 
+Left-clicking the order qty allows to set the required number. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
+
+![](../../.gitbook/assets/image%20%28110%29.png)
+
 ### Stop loss and Take profit
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
