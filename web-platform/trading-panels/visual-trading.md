@@ -61,7 +61,7 @@ To cancel order, click the![](../../.gitbook/assets/7%20%2820%29.png)button.
 
 Left-clicking the order qty allows to set the required number. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 ### Stop loss and Take profit
 
