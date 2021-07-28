@@ -40,7 +40,7 @@ This screen contains the following elements:
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be prompted to confirm his unsubscription, please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
 
-If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
+If the Product already has an active request that awaits to be processed by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
 Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
 
