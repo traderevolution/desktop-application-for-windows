@@ -53,7 +53,7 @@ The Requests tab contains the following elements:
 * Period selector located in the upper part of the tab contains the Daily \(set by default\) and Range options, the latter enables the calendar for selecting the required time range for Product requests displaying;
 * Product name column – displays the Product name;
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
-* Request status column – displays the status of each request, statuses are also appear in different colors, namely New \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
+* Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
 * Date/Time column – contains the date and time when the request status was changed;
 * Cancel buttons – buttons for canceling the sent request. Available only for the ‘New’ status.
 

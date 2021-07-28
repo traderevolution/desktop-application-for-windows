@@ -42,7 +42,7 @@ This screen contains the following elements:
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../../.gitbook/assets/screenshot_2%20%2839%29.jpg)
+![](../../../.gitbook/assets/screenshot_2%20%2841%29.jpg)
 
 If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
