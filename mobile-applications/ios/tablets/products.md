@@ -8,7 +8,7 @@ The Products panel lists all products currently available to the User, products 
 
 ### **Catalogue tab**
 
-![](../../../.gitbook/assets/1%20%2841%29.jpg)
+![](../../../.gitbook/assets/new1%20%2822%29.jpg)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
 
