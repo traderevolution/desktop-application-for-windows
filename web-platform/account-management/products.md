@@ -1,6 +1,6 @@
 # Products
 
-The Products panel lists all products currently available to the User, products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Acount drop-down list that is located in the main menu of the terminal. The panel contains three tabs:
+The Products panel lists all products currently available to the User, ****products the User has subscribed to, and requests that he has submitted. In order to open the panel select it from the Acount drop-down list that is located in the main menu of the terminal. The panel contains three tabs:
 
 * Active – this tab contains a list of Products to which the user has already subscribed i.e. those subscription requests which are confirmed by the Admin or automatically;
 * Catalogue – contains a list of Products that are available to the User for subscription;
@@ -8,13 +8,15 @@ The Products panel lists all products currently available to the User, products 
 
 ### **Catalogue tab**
 
-![](../../.gitbook/assets/4%20%289%29.jpg)
+![](../../.gitbook/assets/4%20%2810%29.jpg)
 
-This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed: 
+This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](../../.gitbook/assets/image%20%28111%29.png)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed: 
 
 ![](../../.gitbook/assets/image%20%2893%29.png)
 
-Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. 
+Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
+
+Note. If the User does not have enough funds to pay the fee, or 
 
 Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then he ****will receive a ****corresponding reject. This is only valid in the case of automatic request confirmation/charging. 
 
@@ -40,13 +42,15 @@ This screen contains the following elements:
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2841%29.jpg)
+
+If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
 ### **Requests tab**
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../.gitbook/assets/screenshot_4%20%288%29.jpg)
+![](../../.gitbook/assets/new6%20%281%29.jpg)
 
 The Requests tab contains the following elements:
 

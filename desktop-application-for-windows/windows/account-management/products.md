@@ -8,7 +8,7 @@ The Products panel lists all products currently available to the User, products 
 
 ### **Catalogue tab**
 
-![](../../../.gitbook/assets/4%20%2810%29.jpg)
+![](../../../.gitbook/assets/4%20%2811%29.jpg)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](../../../.gitbook/assets/image%20%28111%29.png)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed: 
 
@@ -52,7 +52,7 @@ Depending on the state of the Market data subscriber status setting at the user 
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new6%20%282%29.jpg)
+![](../../../.gitbook/assets/new6%20%283%29.jpg)
 
 The Requests tab contains the following elements:
 
