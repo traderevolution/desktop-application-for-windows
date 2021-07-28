@@ -16,7 +16,11 @@ This tab displays cards of products available to the User for subscription. Plea
 
 Subscription to the Product of interest is carried out by clicking the "Subscribe" button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
 
-Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging. The reject comes in the form of deal ticket and has the following view:
+{% hint style="info" %}
+If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging. 
+{% endhint %}
+
+The reject comes in the form of deal ticket and has the following view:
 
 ![](../../../.gitbook/assets/image%20%28101%29.png)
 
@@ -44,6 +48,10 @@ This tab looks the same as the Catalogue tab, with the only difference that it d
 
 ![](../../../.gitbook/assets/screenshot_2%20%2841%29.jpg)
 
+{% hint style="warning" %}
+Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
+{% endhint %}
+
 If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
 Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
@@ -61,7 +69,7 @@ The Requests tab contains the following elements:
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
 * Date/Time column – contains the date and time when the request status was changed;
-* Cancel buttons – buttons for canceling the sent request, available only for the ‘New’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed.
+* Cancel buttons – buttons for canceling the sent request, available only for the ‘Processing’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed.
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 

@@ -8,7 +8,7 @@ The Products panel lists all products currently available to the User, products 
 
 ### Catalogue tab
 
-![](../../../.gitbook/assets/new1%20%2821%29.jpg)
+![](../../../.gitbook/assets/new1%20%2822%29.jpg)
 
 This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](../../../.gitbook/assets/image%20%28111%29.png)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
 
@@ -16,7 +16,9 @@ This tab displays cards of products available to the User for subscription. Plea
 
 Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
 
-Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging. The reject comes in the form of deal ticket.
+{% hint style="info" %}
+If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging. The reject comes in the form of deal ticket.
+{% endhint %}
 
 There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
@@ -38,7 +40,11 @@ This screen contains the following elements:
 
 ![](../../../.gitbook/assets/2%20%2816%29.jpg)
 
-This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be prompted to confirm his unsubscription, please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
+This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be prompted to confirm his unsubscription.
+
+{% hint style="warning" %}
+Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
+{% endhint %}
 
 If the Product already has an active request that awaits to be processed by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
@@ -57,7 +63,7 @@ The Requests tab contains the following elements:
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
 * Date/Time column – contains the date and time when the request status was changed;
-* Cancel buttons – buttons for canceling the sent request. Available only for the ‘New’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed.
+* Cancel buttons – buttons for canceling the sent request. Available only for the ‘Processing’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed.
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 

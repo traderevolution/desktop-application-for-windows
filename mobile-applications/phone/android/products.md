@@ -46,6 +46,8 @@ This tab looks the same as the Catalogue tab, with the only difference that it d
 Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
 {% endhint %}
 
+If the Product already has an active request that awaits to be processed by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
+
 Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
 
 ### **Requests tab**
@@ -65,5 +67,7 @@ Tapping any request line will initiate request cancelling and bring up the appro
 
 ![](../../../.gitbook/assets/new%20%287%29.jpg)
 
-Please note that only those requests that have the ‘New’ status can be canceled.
+{% hint style="warning" %}
+Please note that only those requests that have the ‘Processing’ status can be canceled.
+{% endhint %}
 

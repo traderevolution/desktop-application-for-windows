@@ -16,9 +16,9 @@ This tab displays cards of products available to the User for subscription. Plea
 
 Subscription to the Product of interest is carried out by clicking the ‘Subscribe’ button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
 
-Note. If the User does not have enough funds to pay the fee, or 
-
+{% hint style="info" %}
 Note. If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then he ****will receive a ****corresponding reject. This is only valid in the case of automatic request confirmation/charging. 
+{% endhint %}
 
 There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
 
@@ -44,6 +44,10 @@ This tab looks the same as the Catalogue tab, with the only difference that it d
 
 ![](../../.gitbook/assets/screenshot_2%20%2841%29.jpg)
 
+{% hint style="warning" %}
+Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
+{% endhint %}
+
 If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
 ### **Requests tab**
@@ -59,7 +63,7 @@ The Requests tab contains the following elements:
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
 * Date/Time column – contains the date and time when the request status was changed;
-* Cancel buttons – buttons for canceling the sent request. Available only for the ‘New’ status.
+* Cancel buttons – buttons for canceling the sent request. Available only for the ‘Processing’ status.
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
