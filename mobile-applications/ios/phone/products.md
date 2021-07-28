@@ -54,7 +54,7 @@ Depending on the state of the Market data subscriber status setting at the user 
 
 This tab displays all requests sent by the User for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new2%20%2810%29.jpg)
+![](../../../.gitbook/assets/new2%20%2811%29.jpg)
 
 The Requests tab contains the following elements:
 
