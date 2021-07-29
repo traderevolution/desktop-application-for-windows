@@ -72,13 +72,19 @@ To receive an Idea and place the order based on this idea, the instrument used i
 
 A user-subscriber can see the sent Ideas in the panel:
 
-![](../.gitbook/assets/1%20%28129%29.png)
+![](../.gitbook/assets/ideas.png)
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the Idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity for the Idea order to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Idea, an order placement confirmation dialog box is displayed:
 
 ![](../.gitbook/assets/6%20%2836%29.png)
 
 Click on the ‘Yes’ button to place an order based on the Idea. After the order is placed, the User can manage it together with the existing orders.
+
+### Data source <a id="data-source"></a>
+
+In the Ideas panel the user-subscriber can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../.gitbook/assets/screenshot_6%20%288%29.png)button and the widget will be shown:
+
+![](../.gitbook/assets/screenshot_5-kopiya%20%281%29.png)
 
 ### Attachments
 
