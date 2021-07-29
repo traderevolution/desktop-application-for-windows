@@ -14,7 +14,7 @@ This tab displays cards of products available to the User for subscription. Plea
 
 Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](../../../.gitbook/assets/image%20%28111%29.png)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, tap it to open the detailed  information about the Product.
 
-Subscription to the Product of interest is carried out by tapping the ‘Subscribe’ button. 
+Subscription to the Product of interest is carried out by tapping the ‘Subscribe’ button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
 
 {% hint style="info" %}
 If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then he ****will receive a ****corresponding reject. This is only valid in the case of automatic request confirmation/charging. 
@@ -54,7 +54,7 @@ Depending on the state of the Market data subscriber status setting at the user 
 
 This tab displays all requests sent by the User for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new2%20%2811%29.jpg)
+![](../../../.gitbook/assets/new2%20%2812%29.jpg)
 
 The Requests tab contains the following elements:
 

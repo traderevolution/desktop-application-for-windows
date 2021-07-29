@@ -67,5 +67,7 @@ Tapping any request line will initiate request cancelling and bring up the confi
 
 ![](../../../.gitbook/assets/image%20%2892%29.png)
 
+{% hint style="warning" %}
 Please note that only those requests that have the ‘Processing’ status can be canceled.
+{% endhint %}
 
