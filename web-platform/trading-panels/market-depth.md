@@ -45,3 +45,11 @@ The Market depth panel offers 3 coloring methods for Level 2 quotes. To set up t
 * Relative to volume – Level 2 quotes are colored on the assumption that the max volume has the most saturated color; 
 * Size histogram – histograms are built according to volumes.
 
+### Data source
+
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../.gitbook/assets/1%20%28161%29.png)arrow and the widget will be shown:
+
+![](../../.gitbook/assets/screenshot_2%20%2819%29.png)
+
+
+
