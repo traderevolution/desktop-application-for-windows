@@ -58,5 +58,13 @@ Right-clicking on the timeline shows the panel with additional options:
 
 ![](../../../.gitbook/assets/1%20%2843%29.png)
 
+### Data source <a id="data-source"></a>
+
+In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/screenshot_1-kopiya.png)arrow and the widget will be shown:
+
+![](../../../.gitbook/assets/chart2.png)
+
+
+
 
 
