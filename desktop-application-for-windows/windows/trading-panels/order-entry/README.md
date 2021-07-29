@@ -116,11 +116,15 @@ P/L per Tick - no information for Index;
 * Fill per lot – shows the fee paid for each traded lot.
 * Total fee – shows the commission total on the trade. 
 
+Information of the Margin section can be updated by clicking on the button![](../../../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
+
+A user can click and drag the border of the panel to resize it to desired width.
+
+### Data source
+
 In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_11%20%281%29.png)arrow and the widget will be shown:
 
 ![](../../../../.gitbook/assets/screenshot_2%20%2817%29.png)
 
-Information of the Margin section can be updated by clicking on the button![](../../../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
-A user can click and drag the border of the panel to resize it to desired width.
 
