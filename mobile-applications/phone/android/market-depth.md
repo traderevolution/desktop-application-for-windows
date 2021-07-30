@@ -2,7 +2,7 @@
 
 The Market depth screen allows users to view and trade Level II quotes. It is accessible only from the Symbol menu in the Watchlist screen. Open the Watchlist and swipe left the selected instrument name. Then tap the button 'Market depth' in the Symbol menu.
 
-                                              ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2810%29.png)                          
+                                                       ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2810%29.png)                          
 
 The main quote section consists of the following columns:
 
@@ -23,7 +23,7 @@ Read more about the Order entry screen here:
 
 ### Data source
 
-In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya.jpeg)arrow and the widget will be shown:
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya%20%281%29.jpeg)arrow and the widget will be shown:
 
 ![](../../../.gitbook/assets/1627053455414.jpeg)
 

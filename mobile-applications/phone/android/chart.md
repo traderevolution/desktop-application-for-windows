@@ -126,6 +126,14 @@ This bar allows the user to configure the following settings:
 * Lock/unlock the drawing on the chart;
 * Open the menu that allows to adjust the levels of drawing, extend it to the left or right side, and select the time and price plotting points. 
 
-By pressing the top of the menu, the user can move it within the chart to any convenient place.  
+By pressing the top of the menu, the user can move it within the chart to any convenient place.
+
+### Data source
+
+In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya.jpeg)arrow and the widget will be shown:
+
+![](../../../.gitbook/assets/chqrt2.jpeg)
+
+  
 
 
