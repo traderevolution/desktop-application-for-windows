@@ -21,3 +21,9 @@ Read more about the Order entry screen here:
 
 [https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/android/order-entry)
 
+### Data source
+
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya.jpeg)arrow and the widget will be shown:
+
+![](../../../.gitbook/assets/1627053455414.jpeg)
+
