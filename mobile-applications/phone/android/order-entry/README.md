@@ -6,7 +6,7 @@ The Order entry screen enables users to send orders. The Order entry button![](.
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask. 
 
-![](../../../../.gitbook/assets/android_new.jpg)
+![](../../../../.gitbook/assets/1627053244522.jpeg)
 
 * Account – the account used for an order creation;
 * Symbol – the symbol available for the trade;
@@ -95,4 +95,10 @@ This button is intended to get a snapshot of the actual quotes for the current S
 7. Today volume - current day volume for Symbol.
 
 The "Get snapshot" button allows to update the information in this window.
+
+### Data source
+
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../../.gitbook/assets/ds.png)button and the widget will be shown:
+
+![](../../../../.gitbook/assets/.jpeg.jpeg)
 
