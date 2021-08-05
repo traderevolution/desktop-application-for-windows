@@ -68,5 +68,3 @@ Now the accounts have been successfully added to the MAM group and the money man
 
 ![](../../../.gitbook/assets/5%20%2831%29.png)
 
-
-

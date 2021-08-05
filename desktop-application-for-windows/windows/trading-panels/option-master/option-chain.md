@@ -36,12 +36,14 @@ The following buttons of the tab allow the following actions:
 * Cancel all - cancels all 'test on paper' orders;
 * Place selected - places selected 'test on paper' orders.
 
-Note: If short positions are not allowed for the instrument \(Options or Underlier\), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity &lt; 0, Type = Paper, based on: 
+{% hint style="warning" %}
+If short positions are not allowed for the instrument \(Options or Underlier\), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity &lt; 0, Type = Paper, based on: 
 
 * Underlier - for orders which are created via the “Add underlier” button;
 * Options - for orders which are created by specifying Quantity with a negative sign in the “Paper position” column \(in Call/Put tables\), leading to the opening of a short position.
 
 Thus, if the “Test on paper” tab contains at least one order with a red fill, then short positions will be forbidden.
+{% endhint %}
 
 **SL/TP for orders**
 

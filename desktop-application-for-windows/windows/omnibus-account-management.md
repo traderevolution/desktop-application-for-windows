@@ -49,7 +49,9 @@ By right-clicking any place within this panel, the user will be able to bring up
 
 This tab displays all currently opened positions under the selected Omnibus account. Description of all columns can be found in the [Positions article](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/positions).
 
+{% hint style="warning" %}
 **Please note that the information in this window is displayed only when the needed Omnibus account is selected. In case if no account is selected, the window will remain empty.**
+{% endhint %}
 
 ### Working orders
 

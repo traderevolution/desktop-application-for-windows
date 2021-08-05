@@ -16,5 +16,7 @@ Likewise, to close positions by Group ID, right click within the one position of
 
 ![](../../../.gitbook/assets/mam2.png)
 
-**Note:** Trading using MAM group from any panel except MAM for MAM group is prohibited. Portfolio trading is forbidden from the MAM panel as well.
+{% hint style="warning" %}
+Trading using MAM group from any panel except MAM for MAM group is prohibited. Portfolio trading is forbidden from the MAM panel as well.
+{% endhint %}
 

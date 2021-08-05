@@ -22,7 +22,9 @@ Open the context menu of the panel and click on the![](../../../.gitbook/assets/
 
 ![](../../../.gitbook/assets/screen-shot-2018-11-19-at-1.13.33-pm.png)
 
-Note: filter criteria can be different for each column.
+{% hint style="warning" %}
+Filter criteria can be different for each column.
+{% endhint %}
 
 Filtering of text columns allows to find the selected symbol in 1 click.
 

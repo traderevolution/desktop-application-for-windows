@@ -131,7 +131,9 @@ If checked, the following hot buttons will be shown in the built-in Order entry:
 * Cancel sell;
 * Cancel all.
 
-Note: clicking on the hot buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
+{% hint style="warning" %}
+Using hot buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
+{% endhint %}
 
 ### **Info window**
 
@@ -142,7 +144,11 @@ Note: clicking on the hot buttons doesn't evoke confirmation screens, even if co
 
 ![](../../../../.gitbook/assets/new-info-window-short-mode%20%281%29.png)
 
-* Colors – allows to select the Info window's font and background colors. Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
+* Colors – allows to select the Info window's font and background colors. 
+
+{% hint style="warning" %}
+Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
+{% endhint %}
 
 Fields – this section allows to select fields for displaying information in the 'Info window'. The following fields are available, mark the needed ones as checked:
 

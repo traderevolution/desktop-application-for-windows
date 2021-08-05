@@ -38,7 +38,9 @@ Right-click on the table's column name in order to open the menu of available co
 * Expiration date – date of contract expiration;
 * Cancel – allows to cancel an order.
 
-Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Preferences -&gt; Columns\).
+{% hint style="warning" %}
+Users can select which columns to display in the Working orders panel in the panel context menu \(Preferences -&gt; Columns\).
+{% endhint %}
 
 This context menu also contains the following options:
 
@@ -64,19 +66,26 @@ The most important functions related to Working orders can be viewed as buttons 
 * Modify order – allows modification of the selected order.
 * Change to Market – changes order type to market for selected orders.
 
-Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
+{% hint style="warning" %}
+Clicking these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
+{% endhint %}
 
 ### **Context menu**
 
 The following actions can be performed via the Context menu:
 
-* Modify order – allows modification of the selected order. Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+* Modify order – allows modification of the selected order.
+
+{% hint style="warning" %}
+If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+{% endhint %}
+
 * Quick SL/TP – adding SL/TP orders to the selected order.
 * Change to Market – changes order type to market for selected orders.
 * View – allows to show total values and to show toolbar.
 * Search – allows to show/hide a search lookup in the panel.
 * Cancel – allows cancelling all selected orders, all orders by selected symbol, all orders by selected account, all orders.
-*  Set hotkeys – allows to open the ‘Working orders’ tab in ‘Hotkeys Preferences’;
+*  Set hotkeys – allows to open the ‘Working orders’ tab in ‘Hotkeys Preferences’.
 * Group by – allows to group orders by:
 
   -       Account;
@@ -101,7 +110,7 @@ The following actions can be performed via the Context menu:
 
   -       Validity.
 
-* ​Duplicate panel – allows to duplicate a panel;
+* ​Duplicate panel – allows to duplicate a panel.
 * Preferences – allows to open 'Working orders Preferences' dialog box.
 
 ### **Working orders Preferences**

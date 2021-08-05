@@ -16,7 +16,9 @@ To open a new RSS panel, select Tools -&gt; RSS.
 * Category – the news type/category.
 * Link – direct link to the news article.
 
-Note: if any columns are not supported by RSS feed that fields will be empty.
+{% hint style="warning" %}
+If any columns are not supported by RSS feed that fields will be empty.
+{% endhint %}
 
 In order to view the news content, open context menu and select “View news story” or simply double-click on the news row, or just click the link in the corresponding column, after that selected news will be opened in the browser.
 
@@ -37,6 +39,4 @@ To add a new RSS feed, click on General settings![](../../../.gitbook/assets/set
 To edit the existing feed, just make corrections in the feed name/Url, or enable/disable the feed and click "OK".
 
 To add a new feed, click on "+" button and fill all feed parameters. All active RSS feeds will be displayed in the drop-down feeds list of RSS panel.
-
-
 

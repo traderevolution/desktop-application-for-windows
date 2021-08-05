@@ -22,7 +22,9 @@ There are two tabs in this window: "Main parameters", where the user can select 
 
 ![](../../../.gitbook/assets/image%20%2830%29.png)
 
-Please note that settings for the strategy and for index are different. The editable settings for index are short, middle, and long "Moving average periods":
+{% hint style="warning" %}
+Please note that settings for the strategy and for index are different. The editable settings for index are short, middle, and long "Moving average periods".
+{% endhint %}
 
 ![](https://lh5.googleusercontent.com/IX10obEfgkkiam8ix8oddzJPjque214zZlCPiGx3z5QRKq2IlW5sSepqppQTnwRG_ycZ6X8B-kpu0pnik4qIZ_PCRyiqnVLcC7ZDar_TOpR6UtKS1xDt3idEvlxQYEWVO8oWH493)
 

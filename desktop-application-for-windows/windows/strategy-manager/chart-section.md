@@ -5,7 +5,13 @@ The Chart panel displays the current chart for the selected strategy. At the top
 ![](https://lh5.googleusercontent.com/WzZ3a9fARiR-oyDBTe4unuT0gpuafp9evZCwTISiu9m8cpHMGc21W_Qcw6xivKIzDEoH-Oaw6Kv08Yi3jFNXwp3-3nuCh6o2lo95MAJIsGpMUi8HqsP37ofARQmM-TmH3mXVEXRe)
 
 Below the tabs there is a drop-down list that allows selecting the time period of the displayed data. Next to it there is a button that allows the user to show or hide the drawing toolbar, a button that opens the panel for selecting and adding an indicator and the object manager![](https://lh6.googleusercontent.com/yfqTzY3YQQMRvCqB_9xU_uHZjLe6RgObX32ClmhyeXGN2w7-xAqZaGtH8Xbzmf9UjIzjPOuDsttZFKKAFwVNtn26n51rQzOhXXhmitsJythoNq6540Wzhx3hbfTsdufl6ZFKtgmp).  
-Also, in the lower left corner of the Chart section is the "Statistics button", which is depicted as a green triangle. This button allows viewing the statistics for the selected chart. Please note that when one of the strategies is selected, the Statistics window is automatically expanded and displayed on the screen for 10 seconds. After clicking the![](https://lh5.googleusercontent.com/7Hipp3a-lQL_4iOqzIPoElGWI-vQkPaV1Es4Iu7mCiBh1LyCkkqfpe8xIrF2q3k9hykl4qJOg1GlTVOAG5gJ03e5PVPJjiOaa7l3kZhvFIl4rMZmnBDsP4cuR2AmHY67qyE7yOu2)button, it will also be displayed for 10 seconds, if the user needs to monitor statistics continuously, he can click the "Pin" button, which is located in the header of the Statistics window.
+Also, in the lower left corner of the Chart section is the "Statistics button", which is depicted as a green triangle. This button allows viewing the statistics for the selected chart. 
+
+{% hint style="warning" %}
+Please note that when one of the strategies is selected, the Statistics window is automatically expanded and displayed on the screen for 10 seconds. 
+{% endhint %}
+
+After clicking the![](https://lh5.googleusercontent.com/7Hipp3a-lQL_4iOqzIPoElGWI-vQkPaV1Es4Iu7mCiBh1LyCkkqfpe8xIrF2q3k9hykl4qJOg1GlTVOAG5gJ03e5PVPJjiOaa7l3kZhvFIl4rMZmnBDsP4cuR2AmHY67qyE7yOu2)button, it will also be displayed for 10 seconds, if the user needs to monitor statistics continuously, he can click the "Pin" button, which is located in the header of the Statistics window.
 
 ![](https://lh3.googleusercontent.com/Hd0uYIlxnLXlqMPnFGemkdO1LLZd3y0KyZ0qgvHCYy3eQhMjVe97Kj9lX2EfS3a8eY303fFA95U3sT0Dk-LiB3cQa8fXIhQdlTc-GVxabUL37wd25XM-fsjLilKXSDH2DF_tCXGK)
 

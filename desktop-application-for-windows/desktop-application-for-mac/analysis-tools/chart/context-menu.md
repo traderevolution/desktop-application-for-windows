@@ -5,7 +5,12 @@
 The following options are available in the Context menu:
 
 * Create order – allows to open the Order entry panel.
-* Refresh – reloads the chart data and redraws the panel. Note: the Charts panel refreshes automatically.
+* Refresh – reloads the chart data and redraws the panel. 
+
+{% hint style="warning" %}
+Charts panel refreshes automatically.
+{% endhint %}
+
 * Set hotkeys – opens the Hotkeys preferences window.
 * Symbols lookup – allows selecting necessary symbol from the list of available.
 * Drawing tools – allows to select the drawing tool or remove the existing ones. The following options are available: Snap to candle, Stay in drawing mode; Trend, Geometry, Fibonacci, Gann.

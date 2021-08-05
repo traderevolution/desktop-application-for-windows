@@ -19,13 +19,13 @@ The following columns are available for the panel:
 * Priority – urgency of news.
 * Link – direct link to news source.
 
-Note: if any columns are not supported by News provider those fields will be empty.
+{% hint style="warning" %}
+If any columns are not supported by News provider those fields will be empty.
+{% endhint %}
 
 User can select time period for which he wants to see logs. Choose from the following time filters:
 
 ![](../../../.gitbook/assets/untitled.png)
 
 To read the story - open context menu and select View news story or simply double-click on the story. A built-in browser window will be opened, containing the full text of the story. It is also possible to remove selected news story or clear the whole table through context menu.
-
-
 

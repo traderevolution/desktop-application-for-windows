@@ -154,7 +154,9 @@ N - quantity of years before a bond redemption date.
 * Tick size – minimal price change;
 * Tick cost – amount of base asset for one tick.
 
-Note: The variable tick cost/size value for the Futures, Futures CFD, Options symbol types can be set depending on price ranges. The variable tick size value for the Equities, Equities CFD and Indices also can be set depending on price ranges.
+{% hint style="warning" %}
+The variable tick cost/size value for the Futures, Futures CFD, Options symbol types can be set depending on price ranges. The variable tick size value for the Equities, Equities CFD and Indices also can be set depending on price ranges.
+{% endhint %}
 
 3\) Margin requirements:
 
@@ -172,7 +174,9 @@ Note: The variable tick cost/size value for the Futures, Futures CFD, Options sy
 * Day buy – amount of margin which is necessary for holding a long position during a trade session;
 * Day sell – amount of margin which is necessary for holding a short position during a trade session.
 
-Note: if coefficients of initial and maintenance margin have the same value, for example 2%, then they will be displayed as one value in the Margin requirements section – Margin req. – 2 %. The same is true for each Tier.
+{% hint style="warning" %}
+If coefficients of initial and maintenance margin have the same value, for example 2%, then they will be displayed as one value in the Margin requirements section – Margin req. – 2 %. The same is true for each Tier.
+{% endhint %}
 
 4\) Fees:
 

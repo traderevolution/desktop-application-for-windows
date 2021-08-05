@@ -44,5 +44,7 @@ User has a possibility to close all positions through the context menu.
 
 The total is shown in account currency if accounts by all opened positions have the same account currency; if accounts by which users have opened positions have different account currencies, then total is displayed in server currency.
 
-Note. Positions having the "Trading mode = Corporate actions" are displayed as separate rows.
+{% hint style="warning" %}
+Positions having the "Trading mode = Corporate actions" are displayed as separate rows.
+{% endhint %}
 

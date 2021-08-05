@@ -16,9 +16,5 @@ In order to attach this panel, click on the “View more actions”![](https://l
 
 ![](https://lh6.googleusercontent.com/WNgj2vws8kCvAOK51bpUQQH99qEOyLpnLWnQ8G5TayrXp5XoHWoMSvr5QNAZBrpMHnxRTOsZKDxe9ekPTIcB9RWrh-lLA29Cu8XZuYd3PbbsJXaGjz69tTDJVhhggDT4Mgu6G9Yr)
 
-Then click on the header of Internal Browser window and move the panel to the preferred place at the platform.  
-****  
-
-
-
+Then click on the header of Internal Browser window and move the panel to the preferred place at the platform.
 

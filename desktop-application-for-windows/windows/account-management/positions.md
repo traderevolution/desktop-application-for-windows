@@ -10,7 +10,12 @@ The following columns are available in the panel:
 
 * Account – login name of an account that opened a position;
 * Login - login of a user;
-* Symbol – a traded symbol \(in case the position is opened as a result of corporate action its type is also shown here. Please note that in this case the User cannot modify/close such position or place SL/TP orders\);
+* Symbol – a traded symbol \(in case the position is opened as a result of corporate action its type is also shown here;
+
+{% hint style="warning" %}
+Please note that in this case the User cannot modify/close such position or place SL/TP orders\).
+{% endhint %}
+
 * Symbol description - comments to an instrument;
 * Symbol type – a symbol's market category \(CFD, spot, stocks, etc.\);
 * Position ID – a unique number that the trading system assigns to each position;
@@ -81,7 +86,9 @@ The most important functions related to Positions can be viewed as buttons in th
 
 To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu. The following hot buttons are checked by default: Close all, CLX all, Close negative, Close positive, Close selected and Reverse selected.
 
-Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
+{% hint style="warning" %}
+Clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
+{% endhint %}
 
 ### **Context menu**
 
@@ -104,8 +111,4 @@ The mentioned actions are reenabled for the position after the "Cancel exercise"
 * Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
 After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse** operations become allowed for the position.   
-
- 
-
-
 

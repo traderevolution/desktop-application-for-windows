@@ -16,7 +16,9 @@ Economic calendar panel displays the list of scheduled events that may affect mo
 * Previous – previous forecast value.
 * Remark – remarks to the event.
 
-Note: if any columns are not supported by Economic calendar provider those fields will be empty.
+{% hint style="warning" %}
+If any columns are not supported by Economic calendar provider those fields will be empty.
+{% endhint %}
 
 ### **Economic calendar settings**
 
