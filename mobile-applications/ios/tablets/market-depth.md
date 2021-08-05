@@ -21,3 +21,9 @@ To open Order entry screen, tap the Order entry button![](../../../.gitbook/asse
 
 [https://guide.traderevolution.com/project/mobile-applications/ios/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/ios/tablets/order-entry)
 
+### Data source
+
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya%20%281%29.jpeg)arrow and the widget will be shown:
+
+![](../../../.gitbook/assets/md%20%283%29.png)
+

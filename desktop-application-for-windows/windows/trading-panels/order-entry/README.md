@@ -122,7 +122,7 @@ A user can click and drag the border of the panel to resize it to desired width.
 
 ### Data source
 
-In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_11%20%281%29.png)arrow and the widget will be shown:
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/screenshot_11%20%281%29.png)button and the widget will be shown:
 
 ![](../../../../.gitbook/assets/screenshot_2%20%2817%29.png)
 

@@ -39,3 +39,9 @@ Clicking on the “PLACE BUY/SELL ORDER” button displays the order placement c
 
 After clicking the OK button, the Idea order is placed and the User can manage it in the Orders menu.
 
+### Data source <a id="data-source"></a>
+
+In the Ideas panel the user-subscriber can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/ds%20%281%29.png)button and the widget will be shown:
+
+![](../../../.gitbook/assets/image6%20%282%29.png)
+

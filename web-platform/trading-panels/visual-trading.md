@@ -55,7 +55,7 @@ To disable the chart trading, click the 'Mouse trading' button again, or just st
 
 To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2822%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
 To cancel order, click the![](../../.gitbook/assets/7%20%2820%29.png)button.
 

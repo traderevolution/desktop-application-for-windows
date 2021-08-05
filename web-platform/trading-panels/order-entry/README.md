@@ -101,7 +101,21 @@ P/L per Tick - no information for Index;
 
 Information of the Margin section can be updated by clicking on the button![](../../../.gitbook/assets/30.png)at the right corner at the bottom of the Margin section, or by default it is updated every 30 seconds.
 
-The "Attach" button allows attaching the OE panel, after clicking it disappears from the header and it is no longer possible to detach the panel, it can only be closed. The attachment is available for both locked and non-locked workspaces.
+The "Attach" button allows attaching the OE panel, it is located in the right side of the panel header: 
+
+![](../../../.gitbook/assets/screenshot_3%20%2821%29.jpg)
+
+After clicking, the panel will be attached to the right side of the screen, hover the mouse over the required tab to expand the Order entry:
+
+![](../../../.gitbook/assets/screenshot_4%20%2811%29.jpg)
+
+Each of these panels can be unattached or closed by clicking the corresponding button in the panel header.
+
+{% hint style="warning" %}
+Please note, that the User can have no more then 3 panels attached to the current workspace, otherwise the "Attach' button will be unavailable.
+{% endhint %}
+
+ The attachment is available for both locked and non-locked workspaces.
 
 ### Data source
 

@@ -103,5 +103,5 @@ The "Get snapshot" button allows to update the information in this window.
 
 In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-Mfpv6DNLYjjeuJGX1yP%2F-Mfpy8846naXNcwhJjfT%2Fds.png?alt=media&token=2b9be8c7-8673-4c15-a40d-5f4cbf2f33fd)button and the widget will be shown:
 
-![](../../../../.gitbook/assets/oe-big.png)
+![](../../../../.gitbook/assets/oe-big%20%282%29.png)
 

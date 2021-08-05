@@ -8,7 +8,7 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 
 
 
-![](../../../../.gitbook/assets/ios1.png)
+![](../../../../.gitbook/assets/oe1.png)
 
 * Account – the account used for an order creation;
 * Symbol – the symbol available for the trade;
@@ -97,4 +97,10 @@ This button is intended to get a snapshot of the actual quotes for the current S
 7. Today volume - current day volume for Symbol.
 
 The "Get snapshot" button allows to update the information in this window.
+
+### Data source
+
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../../.gitbook/assets/ds.png)button and the widget will be shown:
+
+![](../../../../.gitbook/assets/oe-big%20%281%29.png)
 
