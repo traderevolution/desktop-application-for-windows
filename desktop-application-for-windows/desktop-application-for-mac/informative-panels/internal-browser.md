@@ -18,5 +18,3 @@ In order to attach this panel, click on the "Attach"![](../../../.gitbook/assets
 
 Then click on the header of Internal Browser window and move the panel to the preferred place at the platform.
 
-
-

@@ -46,5 +46,3 @@ Right-click on the asset evokes the context menu which includes the following op
 * Show totals – allows to show/hide the row showing the total values for columns;
 * Preferences – opens the 'Assets Preferences' menu.
 
-
-
