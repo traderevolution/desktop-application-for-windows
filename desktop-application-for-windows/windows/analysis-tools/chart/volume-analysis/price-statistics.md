@@ -4,7 +4,9 @@
 
 ![](../../../../../.gitbook/assets/screenshot_4-1.png)
 
-**Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% hint style="warning" %}
+**To work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% endhint %}
 
 By default statistics table contains four columns \(Price, Trades, Volume and Delta\), but it can be extended with additional parameters. The following parameters are available in the price statistics table:
 

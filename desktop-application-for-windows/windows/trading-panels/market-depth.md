@@ -186,5 +186,3 @@ The 'Auto-substitution order price by mouse click' setting enables a user to per
 
 The user can change the arrangement of the controls in the Tab order section \(and therefore the sequence of switching between the menu items\) by drag and dropping the items in the menu list with the mouse.
 
-
-

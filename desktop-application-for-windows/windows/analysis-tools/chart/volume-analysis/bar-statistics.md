@@ -4,7 +4,9 @@ This functionality allows aggregating information about volumes by each bar in t
 
 ![](../../../../../.gitbook/assets/screenshot_5%20%283%29.png)
 
-**Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% hint style="warning" %}
+**To work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% endhint %}
 
 By default bar statistics contains four rows \(Trades, Total volume, Average size and Delta\), but it can be extended with additional parameters.
 

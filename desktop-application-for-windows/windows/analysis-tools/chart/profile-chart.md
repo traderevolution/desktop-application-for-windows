@@ -21,7 +21,9 @@ Profile aggregation can be set via using the timeframe selector:
 * Build from – allows time period selection for chart plotting, available periods are: tick, second, minute, hour, day, week, month, year;
 * Value – allows setting a value for selected period from "Build from" field.
 
-**Important note:** "Build from" value must be less than "Profile based on" value. For example: Profile based on = 1H, Build from value = 5m.
+{% hint style="warning" %}
+"Build from" value must be less than "Profile based on" value. _For example: Profile based on = 1H, Build from value = 5m._
+{% endhint %}
 
 ### **Profile settings**
 
@@ -71,5 +73,7 @@ Singles – horizontal lines are displayed on the profile in those places, where
   * Volume price – coloring goes by rows. All rows are colored in one color. The intensity of the color depends on trades quantity by the price;
   * Volume bars – all bars are colored in one color. The intensity of the color depends on trades quantity in the bar.
 
-Note: relative and algorithmic price scales are not applied to this aggregation type.
+{% hint style="warning" %}
+Relative and algorithmic price scales are not applied to this aggregation type.
+{% endhint %}
 

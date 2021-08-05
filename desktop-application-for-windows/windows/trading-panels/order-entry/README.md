@@ -42,7 +42,9 @@ Order entry panel allows to place market or pending orders. To open the Order en
 8. OE - admin performs operations on the order;
 9. Corporate action - the command for processing the order was issued via a corporate action.
 
-Note: if the user performs actions on the position or modifies the order from one of the menus, in which this parameter is available the "Received by" value is automatically switched to "OE".
+{% hint style="warning" %}
+If the user performs actions on the position or modifies the order from one of the menus, in which this parameter is available the "Received by" value is automatically switched to "OE".
+{% endhint %}
 
 * Stop price \(for the 'Stop order' type\) - allows entering the order stop price;
 * Limit price \(available together with Stop price for the 'Stop order' and 'OCO' order types; also available for the 'Limit order' type\) - allows entering the order limit price;
@@ -87,7 +89,7 @@ Risks details section shows all values in account currency:
 * Maintenance margin – minimum account balance required to keep this position open;
 * Warn. margin  – margin value, for which the warning is triggered;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 When the 'Tiered price based custom coeffieicent' margin calculation type is selected for the symbol, the margin req. values are displayed for all the Tiers set
 {% endhint %}
 

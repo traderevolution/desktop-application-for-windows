@@ -30,7 +30,9 @@ Drag the panel into the button to preview it's next position.
 
  Clicking on the button![](../../../.gitbook/assets/5%20%282%29.png)allows opening attached panel in fullscreen mode. Available only for Chart.
 
-Note. Any detached panel can be closed with the "Esc" hotkey. Also, this action is valid for any other modal or pop-up screens: all sorts of Settings, Confiramtions, etc. Basically, for those screens that do not have the resizing feature.
+{% hint style="warning" %}
+Any detached panel can be closed with the "Esc" hotkey. Also, this action is valid for any other modal or pop-up screens: all sorts of Settings, Confiramtions, etc. Basically, for those screens that do not have the resizing feature.
+{% endhint %}
 
 ### Creating tabbed areas
 

@@ -48,7 +48,13 @@ The following sub-groups of elements displaying account details are available he
 
 To select element\(s\) from the sub-group\(s\), check needed element\(s\) and press the button 'OK'. Press the button 'Close' to cancel the selection and to quit the 'Customize account details' menu.
 
-* Symbols –   opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. ****After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments. Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
+* Symbols –   opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. ****After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments. 
+
+{% hint style="warning" %}
+Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. 
+{% endhint %}
+
+The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
 
 ![](../../../.gitbook/assets/screenshot_1%20%285%29.jpg)
 
@@ -99,7 +105,9 @@ This window contains the time zones available for the user, the first in the lis
 
 Check the required time zones in order to include them in the default list and click ‘OK’. It is also possible to return the list to its default state by clicking the ‘Reset to default’ button.
 
-Please note that after changing the time zone, the time display will immediately change in the following panels:
+{% hint style="warning" %}
+Please note that after changing the time zone, the time display will immediately change in the panels listed below.
+{% endhint %}
 
 * Event log – time in the ‘Date’ column for Daily and Range query;
 * Symbol info – instrument trading session time;

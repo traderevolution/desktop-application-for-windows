@@ -22,7 +22,9 @@ There are three main methods of scalping:
 
 The Scalper panel allows traders to view and to trade Level II quotes, to use overlay and impulse indicators for analysis and to view Time & Sales chart – all in one panel.
 
-**Note:** trading with instruments which have "Net position" trading type is only allowed in the Scalper panel.
+{% hint style="warning" %}
+Trading with instruments which have "Net position" trading type is only allowed in the Scalper panel.
+{% endhint %}
 
 To open a new Scalper panel go to Terminal - &gt; Scalper.
 
@@ -113,7 +115,12 @@ Show toolbar – allows showing toolbar.
 
 * Cancellation priority – allows setting the priority for canceling orders in group \(FIFO, LIFO\).
 * Replacing priority – allows setting the priority for replacing orders in group \(FIFO, LIFO\).
-* Expected position limit – displays quantity in lots which the open position cannot exceed. Note: theoretically, this limit can be exceeded when trading with hot keys.
+* Expected position limit – displays quantity in lots which the open position cannot exceed.
+
+{% hint style="warning" %}
+Theoretically, this limit can be exceeded when trading with hot keys.
+{% endhint %}
+
 * Cancel orders after close position – if checked, all pending orders are cancelled after closing the position.
 * Cancel orders before open position - if checked, while placing a new order it will be checked for the possibility to open position on it, and if the conditions are executed \(Stop, Limit\), then all other existing orders will be deleted, and after that a new position will be opened.
 * Automatically add SL/TP after open position - if checked, after opening or editing the position the orders will be added automatically. If unchecked, the orders can be added using Hotkeys.
@@ -128,7 +135,9 @@ Decrease qty. – allows setting quantity of decreasing the position.
 
 ![](../../../.gitbook/assets/70.png)
 
+{% hint style="warning" %}
 Please note that for these fields \(Working qty, Increase qty, Decrease qty\), fractional values are allowed, which are limited to two decimal places, for example 0.01. Smaller values will not be accepted by the system. The system also checks for compliance of the Minimum lot and Lot step values format in the new Instrument selected in the lookup and specified in the Q1/Q2/Q3 fields of the Scalper panel. If the format does not match during the check \(fractional and integer\), then the Q1, Q2, Q3 fields will be highlighted in red, and when trying to trade using the Mouse trading/Scalper hotkeys, the user will receive a reject with a corresponding notification.
+{% endhint %}
 
 **Orders execution scheme:**
 
@@ -146,7 +155,11 @@ For ‘Sell orders’ the offset is counted from Bid price by default. Positive 
 
 ![](../../../.gitbook/assets/71.png)
 
-For Limit order strategy \(increase/decrease\), user can choose the order type \(Buy or Sell\) that allows to set up correct offsets for Buy/Sell orders. Note, when selecting the Order type, "Offset from" and "Offset" settings should be saved separately for Buy and Sell orders.
+For Limit order strategy \(increase/decrease\), user can choose the order type \(Buy or Sell\) that allows to set up correct offsets for Buy/Sell orders.
+
+{% hint style="warning" %}
+When selecting the Order type, "Offset from" and "Offset" settings should be saved separately for Buy and Sell orders.
+{% endhint %}
 
 * Market \(buy, sell, increase, decrease\) – always by market. All orders will be placed at the market price.
 

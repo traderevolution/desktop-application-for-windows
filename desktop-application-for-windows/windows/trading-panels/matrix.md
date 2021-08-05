@@ -161,5 +161,3 @@ Matrix hotkeys have the following functions:
 * Set recenter type to bid – allows recentering the panel relatively to Bid;
 *  Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
 
-
-

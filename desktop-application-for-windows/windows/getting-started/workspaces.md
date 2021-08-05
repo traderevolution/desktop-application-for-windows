@@ -33,7 +33,6 @@ Click on the button![](../../../.gitbook/assets/5%20%2819%29.png)which is locate
 * Clone - allows creating the same workspace as current;
 * Rename - allows changing title of current workspace.
 
-If workspace is locked, then all panels which are opened through main or context menu, as well as through instrument toolbar, will be opened in the detached form.
+If workspace is locked, then all panels which are opened through main or context menu, as well as through instrument toolbar, will be opened in the detached form.  
 
-###  
 

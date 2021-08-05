@@ -33,7 +33,11 @@ To zoom in and out on the Chart panel users can use the scroll button on their m
 
 ![](../../../../.gitbook/assets/2%20%2829%29.png)
 
-The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.
+The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. 
+
+{% hint style="warning" %}
+Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.
+{% endhint %}
 
 The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings   -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
 
@@ -75,7 +79,9 @@ In order to get this information, click right mouse button, hold it and lead the
 
 ![](../../../../.gitbook/assets/4%20%2842%29.png)
 
-Note that the color of the text and background displayed in the info window can be changed via the corresponding color pickers in the chart settings, 'Info window' section.
+{% hint style="warning" %}
+The text and background color displayed in the info window can be changed via the corresponding color pickers in the chart settings, 'Info window' section.
+{% endhint %}
 
 #### **Additional options**
 
@@ -96,9 +102,4 @@ Right clicking on the timeline shows the panel with additional options:
 In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/chart-arrow-kopiya.png)arrow and the widget will be shown:
 
 ![](../../../../.gitbook/assets/chart-full.png)
-
-  
-
-
-
 

@@ -27,7 +27,7 @@ Move cursor over the column header and click on Filter button![](../../../.gitbo
 
 
 {% hint style="warning" %}
-Note: filter criteria can be different for each column.
+Filter criteria can be different for each column.
 {% endhint %}
 
 Filtering of text columns allows to find the selected symbol in 1 click:

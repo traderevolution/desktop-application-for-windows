@@ -6,7 +6,9 @@ You can select a timeperiod on the chart for plotting a Volume profile with two 
 
 ![](../../../../../.gitbook/assets/58.png)
 
-**Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% hint style="warning" %}
+**To work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% endhint %}
 
 Volume profile can be set up in the following way:
 

@@ -21,15 +21,15 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 * After execute ****– allows to choose alert behavior after execution. Available options are the following:
 
-            -       Stop – after execution alert is not active but stored in the list of alerts;
+            - Stop – after execution alert is not active but stored in the list of alerts;
 
-            -       Remove – after execution alert is removed.
+            - Remove – after execution alert is removed.
 
 * Action – allows to set up the action to be performed after alerts’ execution:
 
-           -        Place order + Notify – alert is performed according to the notification type and order placing occurs;
+           - Place order + Notify – alert is performed according to the notification type and order placing occurs;
 
-           -        Notify – user is notified without placing an order, this value is set by default;
+           - Notify – user is notified without placing an order, this value is set by default;
 
 * Order parameters – becomes available only when 'Place order + Notify' option is selected in the 'Action' control. Allows to open standard Order entry panel to configure the required parameters of the order to be placed after alert triggering;
 * Alert message – allows to type the text of the alert message. The text in the Message box is generated automatically but a user can customize the text of the notification;
@@ -47,13 +47,13 @@ A user can see created alerts and work with them – both with executed and not 
 * Condition – the alert is executed by reaching the condition;
 * Controls – the set of controls for each alert:
 
-          -       Play – click on the button to re-start the alert. The button is visible for executed alerts;
+          - Play – click on the button to re-start the alert. The button is visible for executed alerts;
 
-          -       Stop – click on the button to stop the execution of the alert. The button is visible for not executed alerts;
+          - Stop – click on the button to stop the execution of the alert. The button is visible for not executed alerts;
 
-          -        Edit – allows to open editing screen;
+          - Edit – allows to open editing screen;
 
-          -        Remove – allows to remove alert. By clicking on the button, the confirmation window will appear.
+          - Remove – allows to remove alert. By clicking on the button, the confirmation window will appear.
 
 ![](../../../.gitbook/assets/5%20%2812%29.png)
 

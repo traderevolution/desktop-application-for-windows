@@ -27,8 +27,3 @@ By hovering a certain template name, a user can see 3 additional buttons for man
 
 ![](../../../../.gitbook/assets/10%20%282%29.png)
 
-
-
-  
-
-

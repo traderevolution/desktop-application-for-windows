@@ -49,5 +49,7 @@ Cluster chart fits for analysis on any timeframe for any style of the trading: s
 * Price step, Custom step – allows setting the price step by Y-axis.
 * Strong Sell volume, Strong Buy volume, Neutral volume – color pickers \(color schemes are oriented on the volume type\).
 
-Note: relative and algorithmic price scales are not applied to this aggregation type.
+{% hint style="warning" %}
+Relative and algorithmic price scales are not applied to this aggregation type.
+{% endhint %}
 

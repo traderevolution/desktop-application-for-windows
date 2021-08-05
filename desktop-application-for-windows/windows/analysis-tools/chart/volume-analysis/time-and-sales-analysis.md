@@ -6,7 +6,9 @@ Time & Sales can be opened from the Analysis tools menu by clicking on the butto
 
 ![](../../../../../.gitbook/assets/6%20%2834%29.png)
 
-**Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% hint style="warning" %}
+**To work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+{% endhint %}
 
 Time & Sales functionality can be set in the following way:
 
@@ -38,8 +40,4 @@ Time & Sales functionality can be set in the following way:
 * Show size in – allows selecting in what form the volume will be shown. General defaults – is taken from general settings; Lots – will be displayed in lots; Real size - will be displayed in real value.
 * Round precision – if checked, user can set the precision of the volume display.
 * Colors – allows to choose the coloring scheme for table and prints.
-
-  
-  
-
 

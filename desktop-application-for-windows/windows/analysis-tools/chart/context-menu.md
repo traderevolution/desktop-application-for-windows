@@ -32,6 +32,11 @@ The following options are available in the Context menu:
 8. Drawing toolbar – shows/hides the drawing toolbar.
 9. Chart Order entry – shows/hides Chart Order entry section on the chart.
 
-* Refresh – reloads the chart data and redraws the panel. Note: the Chart panel refreshes automatically.
+* Refresh – reloads the chart data and redraws the panel.
+
+{% hint style="warning" %}
+The Chart panel refreshes automatically.
+{% endhint %}
+
 * Settings – opens the Settings panel. The settings panel allows users to adjust view, scale, style and other parameters of the chart.
 

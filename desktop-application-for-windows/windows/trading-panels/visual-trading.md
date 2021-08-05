@@ -68,9 +68,13 @@ To start modifying other parameters, left-click on the order marker. The followi
 
 To cancel order, click the ![](../../../.gitbook/assets/89.png)button.
 
-Left-clicking the order qty allows to set the required number. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
+Left-clicking the order qty allows to set the required number. 
+
+{% hint style="warning" %}
+Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
 
 ![](../../../.gitbook/assets/image%20%2897%29.png)
+{% endhint %}
 
 All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
 

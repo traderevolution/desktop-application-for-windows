@@ -22,7 +22,9 @@ Object manager tool is used to manage drawings, indicators and overlays more eff
 * Settings – evokes window with settings for the chosen drawing.
 * Remove – allows removing drawing in one click.
 
-Note: use hot button "Ctrl + B" for quick evoking the Drawings tab.
+{% hint style="warning" %}
+Use "Ctrl + B" hotkey for quick evoking the Drawings tab.
+{% endhint %}
 
 ### **Overlays**
 
@@ -32,6 +34,4 @@ Note: use hot button "Ctrl + B" for quick evoking the Drawings tab.
 * Visible – controls visibility of the chosen overlay on the chart.
 * Settings – evokes window with settings for the chosen overlay.
 * Remove – allows removing overlay in one click.
-
-
 
