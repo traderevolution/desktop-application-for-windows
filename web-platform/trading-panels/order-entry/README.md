@@ -70,7 +70,7 @@ Risks details section shows all values in account currency:
 * Maintenance margin – minimum account balance required to keep this position open;
 * Warn. margin  – margin value, for which the warning is triggered;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 When the 'Tiered price based custom coeffieicent' margin calculation type is selected for the symbol, the margin req. values are displayed for all the Tiers set
 {% endhint %}
 
@@ -109,19 +109,15 @@ After clicking, the panel will be attached to the right side of the screen, hove
 
 ![](../../../.gitbook/assets/screenshot_4%20%2811%29.jpg)
 
-Each of these panels can be unattached or closed by clicking the corresponding button in the panel header.
+Each of these panels can be detached or closed by clicking the corresponding button in the panel header. The attachment is available for both locked and non-locked workspaces.
 
 {% hint style="warning" %}
 Please note, that the User can have no more then 3 panels attached to the current workspace, otherwise the "Attach' button will be unavailable.
 {% endhint %}
-
- The attachment is available for both locked and non-locked workspaces.
 
 ### Data source
 
 In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/screenshot_11%20%281%29.png)button and the widget will be shown:
 
 ![](../../../.gitbook/assets/screenshot_5-kopiya.png)
-
-
 
