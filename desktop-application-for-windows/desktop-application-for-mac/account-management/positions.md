@@ -25,7 +25,9 @@ The Positions' toolbar can be opened via ‘Context menu -&gt; View -&gt; Show t
 * Reverse all – reverses all positions;
 * Reverse symbol – reverses positions by a selected symbol. This means, to reverse all positions having a particular symbol, you need to select a position with this particular symbol and click on the button.
 
-Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
+{% hint style="warning" %}
+Clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
+{% endhint %}
 
 ### Columns
 
