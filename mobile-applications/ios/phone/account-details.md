@@ -69,7 +69,9 @@ Unsettled premium from open sell – unsettled uncovered option premium for open
 
 Used premium from open sell – settled uncovered option premium for opening short positions;
 
-Note: "Unused intraday initial margin" and "Used overnight initial margin for intraday" participate in the calculation only during those periods of the trading session for which Is Intraday = true. For other periods, they do not participate, since the margin is already blocked by Overnight coefficients.
+{% hint style="warning" %}
+"Unused intraday initial margin" and "Used overnight initial margin for intraday" participate in the calculation only during those periods of the trading session for which Is Intraday = true. For other periods, they do not participate, since the margin is already blocked by Overnight coefficients.
+{% endhint %}
 
 * Init. margin req, % – shows how much margin is used in relation to Balance&All risks:
 
