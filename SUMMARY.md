@@ -270,7 +270,6 @@
       * [Market depth](mobile-applications/phone/android/market-depth.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
       * [Account details](mobile-applications/phone/android/account-details.md)
-      * [News](mobile-applications/phone/android/news.md)
       * [Alerts](mobile-applications/phone/android/alerts.md)
       * [Products](mobile-applications/phone/android/products.md)
       * [My Portfolio](mobile-applications/phone/android/my-portfolio/README.md)

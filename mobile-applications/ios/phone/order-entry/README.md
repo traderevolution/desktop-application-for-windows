@@ -43,7 +43,9 @@ When the checkbox near SL price is true, and the checkbox 'Use stop limit instea
 
 * Trailing SL offset – allows entering the order trailing stop price.
 
-Note: SL price and Trailing SL offset cannot be checked together.
+{% hint style="warning" %}
+SL price and Trailing SL offset cannot be checked together.
+{% endhint %}
 
 **Margin**
 
@@ -56,7 +58,7 @@ Swiping down the "Margin" shade located under the Order entry menu header opens 
 * Maintenance margin – minimum account balance required to keep the position open;
 * Warn. margin  – margin value, for which the warning is triggered;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 When the 'Tiered price based custom coeffieicent' margin calculation type is selected for the symbol, the margin req. values are displayed for all the Tiers set
 {% endhint %}
 

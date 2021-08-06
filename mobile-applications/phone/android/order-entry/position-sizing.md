@@ -22,8 +22,9 @@ If a user unchecks the "Show next time" setting, the next time the button is tap
 * SL limit price - the parameter is displayed when the “Use stop limit instead of Stop” is activated in the General setting.
 * SL offset/SL price - recalculation into the value that is opposite to the value in the “SL price” field. If “SL price” is displayed, then “SL offset” value will be displayed here and vice versa.
 
-Note: if SL is forbidden, then the Position size calculator will be disabled.  
-
+{% hint style="warning" %}
+If SL is forbidden, then the Position size calculator will be disabled.
+{% endhint %}
 
 ### Calculations
 

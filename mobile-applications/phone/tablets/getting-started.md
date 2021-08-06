@@ -10,7 +10,9 @@ Select the needed language of the application interface in the drop-down list \(
 
 Tap the button 'Log in'.
 
-Note: to recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
+{% hint style="warning" %}
+To recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
+{% endhint %}
 
 ![](../../../.gitbook/assets/2%20%2893%29.png)
 

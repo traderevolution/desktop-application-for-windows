@@ -25,5 +25,3 @@ In the Market depth panel a user can see the the extended information about the 
 
 ![](../../../.gitbook/assets/md-big.png)
 
-                  
-

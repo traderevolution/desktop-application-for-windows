@@ -2,7 +2,7 @@
 
 In the TE mobile application, Users \(Users-subscribers\) can receive and use [Trading ideas](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/trading-ideas) or simply Ideas created by other Users \(Users-analysts\) in the TE Desktop application.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 To be able to receive, view and use Ideas, a User-subscriber needs to be subscribed to a Trading system. Also, to receive Ideas and place orders based on Ideas received, the Instrument used in the idea must be available to the User.
 {% endhint %}
 
@@ -20,15 +20,17 @@ The expanded view of an Idea contains the chart of the Instrument used \(if the 
 
 In the Idea expanded view, the User-subscriber can specify the quantity for the Idea order using the Quantity control, view and change the Product type \(if available\) before placing the order.
 
-{% hint style="info" %}
-If, in addition to the one specified in the Idea, there is a product type available to the User-subscriber that differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "Delivery" to "Intraday" product type using the Product type control: ![](../../../.gitbook/assets/type-cut%20%281%29.png) 
+{% hint style="warning" %}
+If, in addition to the one specified in the Idea, there is a product type available to the User-subscriber that differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "Delivery" to "Intraday" product type using the Product type control:  
 {% endhint %}
+
+![](../../../.gitbook/assets/type-cut%20%281%29.png)
 
 With that, the User is shown the product type change confirmation dialog:
 
 ![](../../../.gitbook/assets/type-change-note-cut%20%281%29.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If the User-subscriber has only one product type available and it differs from the one specified in the Idea, the User-subscriber can only view the product type without being able to change. 
 {% endhint %}
 

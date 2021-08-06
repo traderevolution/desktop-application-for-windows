@@ -45,7 +45,5 @@ To open full information by the asset/Cash, tap the corresponding card.
 
 ![](https://lh4.googleusercontent.com/5Il_pSGiQraWY0ugVE07ZCyXvDeyRfsCElpTXrvsHk4lucRq8vG3v0OCrzNUTLx9P1xE--iWMY7dzIaz3kEMWC3iW_nUHPTw3aDtNZFOpuJl5n8-j0tM-UNuAVOCKRHxD--JXJbU)
 
-The colors of the cards correspond to the colors of chart sectors. Tap a certain card to see the share of the asset/Cash in the portfolio on the diagram.   
-  
-
+The colors of the cards correspond to the colors of chart sectors. Tap a certain card to see the share of the asset/Cash in the portfolio on the diagram. 
 

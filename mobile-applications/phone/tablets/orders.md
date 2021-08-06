@@ -45,7 +45,9 @@ In order to modify active order, tap the ‘Modify’ button and the following s
 
 Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price. 
 
-Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+{% hint style="warning" %}
+If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+{% endhint %}
 
 In order to cancel the order, tap the 'Cancel' button.
 

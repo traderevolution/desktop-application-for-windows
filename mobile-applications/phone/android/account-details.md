@@ -105,5 +105,3 @@ Cross price – a current cross price in account's currency.
 * Day trader pattern protection –  displays whether protection against accidental marking the account as the Day trader pattern is activated. Available states are ‘Enabled’ or ‘Disabled’;
 * Available day trades –  displays the number of intraday trades that can be performed before the system classifies this user/account as a Day trader pattern.
 
- 
-
