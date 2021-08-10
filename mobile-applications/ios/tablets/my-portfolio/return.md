@@ -42,8 +42,7 @@ where:
 
 **Monthly instrument return:**
 
-_Monthly instrument return\(i\) = \(\(EOMLastPrice\(i\) - EOMLastPrice\(i-1\)\)/EOMLastPrice\(i-1\)\)\*100%_  
-
+_Monthly instrument return\(i\) = \(\(EOMLastPrice\(i\) - EOMLastPrice\(i-1\)\)/EOMLastPrice\(i-1\)\)\*100%_
 
 where:
 
@@ -67,6 +66,4 @@ where:
 * TransferAndWithdrawal fees - the sum of all Transfer fee and Withdrawal fee operations by the account since the beginning of the specified month;  
 * StockOperation\(i\) - the sum of all Stock operations by the account since the beginning of the specified month;
 * EOMNetCash\(i-1\) - the net Cash value at the end of the month that precedes the specified month.
-
-
 

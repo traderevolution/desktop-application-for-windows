@@ -59,7 +59,11 @@ To change the order’s price, simply drag and drop the order marker![](../../.g
 
 To cancel order, click the![](../../.gitbook/assets/7%20%2820%29.png)button.
 
-Left-clicking the order qty allows to set the required number. Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
+Left-clicking the order qty allows to set the required number. 
+
+{% hint style="warning" %}
+Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28112%29.png)
 

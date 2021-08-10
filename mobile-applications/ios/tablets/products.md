@@ -10,13 +10,13 @@ The Products panel lists all products currently available to the User, products 
 
 ![](../../../.gitbook/assets/new1%20%2822%29.jpg)
 
-This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
+This tab displays cards of products available to the User for subscription. Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. To scroll through a category, simply swipe it to the left. 
 
 Each Product card contains the name of the Product, its logo, ****price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](../../../.gitbook/assets/image%20%28111%29.png)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, tap it to open the detailed  information about the Product.
 
 Subscription to the Product of interest is carried out by tapping the ‘Subscribe’ button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then he ****will receive a ****corresponding reject. This is only valid in the case of automatic request confirmation/charging. 
 {% endhint %}
 

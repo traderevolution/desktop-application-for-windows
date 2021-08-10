@@ -118,7 +118,7 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
 ### **Cumulative P/L chart**
 
- Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/2%20%2868%29.png)button.
+Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/2%20%2868%29.png)button.
 
 ![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
@@ -150,6 +150,4 @@ Profitable chart displays Cumulative P/L and volumes of trades made for the sele
 ![](../../.gitbook/assets/screenshot_4%20%284%29.png)
 
 Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
-
- 
 

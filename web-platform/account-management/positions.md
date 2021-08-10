@@ -68,7 +68,9 @@ The most important functions related to Positions can be viewed as buttons in th
 
 To select the buttons to be displayed, simply right-click on the toolbar of the panel and select the needed buttons from the menu.
 
-Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
+{% hint style="warning" %}
+Clicking these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
+{% endhint %}
 
 ### **Context menu**
 

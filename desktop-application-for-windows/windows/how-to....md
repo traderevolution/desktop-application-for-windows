@@ -17,7 +17,7 @@ Reset your password following the recommendations from the ‘Changing password�
 * Select the position to be closed from the Positions panel. Right-click and select ‘Close position’;
 * You can also double click on the position to call the 'Close position' dialog window. Select ‘Quantity to close’ to execute a partial close of the position;
 
-![](../../.gitbook/assets/partial-close.jpg)
+![](../../.gitbook/assets/partial_close.gif)
 
 * Or simply place a reversed order for the same instrument.
 

@@ -38,7 +38,9 @@ To open a new Working orders panel, select Terminal -&gt; Working orders.
 * Expiry date – date of contract expiration.
 * MAM group ID – unique number of orders group. It is applicable if orders created in MAM Group.
 
-Note: Users can select which columns to display in the Working orders panel in the context menu of the panel.
+{% hint style="warning" %}
+Users can select which columns to display in the Working orders panel in the context menu of the panel.
+{% endhint %}
 
 ### **Buttons toolbar**
 
@@ -58,7 +60,9 @@ The most important functions related to Working orders can be viewed as buttons 
 * Modify order – allows modification of the selected order.
 * Change to Market – changes order type to market for selected orders.
 
-Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
+{% hint style="warning" %}
+Clicking these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
+{% endhint %}
 
 Double-click on the needed order evokes the Working order cancel window for a quick order cancelling.
 
@@ -66,7 +70,12 @@ Double-click on the needed order evokes the Working order cancel window for a qu
 
 The following actions can be performed via the Context menu:
 
-* Modify order – allows modification of the selected order. Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+* Modify order – allows modification of the selected order. 
+
+{% hint style="warning" %}
+If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
+{% endhint %}
+
 * Change to Market – changes order type to market for the selected orders.
 * Cancel order – allows cancelling all selected orders, all orders by selected symbol, all orders by selected account, all orders.
 * View – allows to show toolbar.
