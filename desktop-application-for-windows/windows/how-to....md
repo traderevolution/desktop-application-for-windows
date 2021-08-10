@@ -33,6 +33,10 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 ![](../../.gitbook/assets/oco_order_visual.gif)
 
+{% hint style="warning" %}
+The ability to place OCO orders must be activated in the User's details -&gt; General trading rules section of BackOffice.
+{% endhint %}
+
 #### **5. How to place a trailing stop?**
 
 * Place a Trailing stop order by selecting Trailing stop in the 'Order type' section of the Order entry panel;
