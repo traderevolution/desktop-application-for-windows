@@ -29,9 +29,9 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 ![](../../.gitbook/assets/oco.jpg)
 
-* You can also place an OCO order using Visual trading directly on the chart.
+* You can also place an OCO order using Visual trading directly on the chart:
 
-![](../../.gitbook/assets/oco3.png)
+![](../../.gitbook/assets/oco_order_visual.gif)
 
 #### **5. How to place a trailing stop?**
 
