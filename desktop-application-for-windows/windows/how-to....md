@@ -117,7 +117,7 @@ You have two options here:
 1. Open the context menu of the chart panel;
 2. Select ‘View’ -&gt; ‘Previous close’.
 
-![](../../.gitbook/assets/prev.-close.jpg)
+![](../../.gitbook/assets/prev_close.gif)
 
 #### **15. How to plot a chart within the Scalper?**
 
