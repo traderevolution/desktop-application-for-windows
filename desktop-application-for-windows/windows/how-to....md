@@ -48,9 +48,9 @@ The ability to place Trailing stops must be activated in the User's details -&gt
 {% endhint %}
 
 * To replace a Stop loss by Trailing stop in the Order entry panel, simply click on a special![](../../.gitbook/assets/tr-stop-1%20%281%29.png)button loacted near Stop loss. The blue color of the![](../../.gitbook/assets/tr-stop2.png)button indicates that the Trailing stop is activated; 
-* You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way.
+* You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way:
 
-![](../../.gitbook/assets/tsl-new.png)
+![](../../.gitbook/assets/tr_stop_visual.gif)
 
 #### **6. How to add a price alert?**
 
