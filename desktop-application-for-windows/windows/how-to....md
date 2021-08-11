@@ -126,6 +126,8 @@ You have two options here:
 3. Select ‘Trades & Quotes’ from the drop-down list of the 'Mode' section;
 4. Apply changes.
 
+![](../../.gitbook/assets/scalper%20%281%29.gif)
+
 #### **16. How to enable DDE Link?**
 
 1. Open the context menu of the desired panel with DDE link;
