@@ -143,6 +143,8 @@ You have two options here:
 2. Select ‘View’;
 3. Click on the ‘Time to next bar’ option to enable the countdown visible.
 
+![](../../.gitbook/assets/time_to_next_bar.gif)
+
 #### **18. How to modify a pending order?**
 
 1. Right-click on a pending order in the Working orders panel and select ‘Modify order’;
