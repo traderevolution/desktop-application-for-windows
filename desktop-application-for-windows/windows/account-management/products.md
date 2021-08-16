@@ -66,7 +66,7 @@ Depending on the state of the Market data subscriber status setting at the user 
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new6%20%283%29.jpg)
+![](../../../.gitbook/assets/desktop.jpg)
 
 The Requests tab contains the following elements:
 
@@ -75,7 +75,12 @@ The Requests tab contains the following elements:
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
 * Date/Time column – contains the date and time when the request status was changed;
-* Cancel buttons – buttons for canceling the sent request, available only for the ‘Processing’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed.
+* Cancel buttons – buttons for canceling the sent request, available only for the ‘Processing’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed;
+* Comment section – displays the comment left by admin when approving/rejecting the request.
+
+{% hint style="warning" %}
+Please note the the "Comment" section is inactive by default,
+{% endhint %}
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
