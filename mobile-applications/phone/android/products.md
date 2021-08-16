@@ -40,7 +40,9 @@ This screen contains the following elements:
 
 ![](../../../.gitbook/assets/image-2-.jpg)
 
-This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription. 
+This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription:
+
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 {% hint style="warning" %}
 Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
