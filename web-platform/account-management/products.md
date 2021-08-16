@@ -54,7 +54,7 @@ If the Product already has an active request awaiting processing by the admin, t
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../.gitbook/assets/new6%20%281%29.jpg)
+![](../../.gitbook/assets/desktop%20%281%29.jpg)
 
 The Requests tab contains the following elements:
 
@@ -63,7 +63,12 @@ The Requests tab contains the following elements:
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
 * Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
 * Date/Time column – contains the date and time when the request status was changed;
-* Cancel buttons – buttons for canceling the sent request. Available only for the ‘Processing’ status.
+* Cancel buttons – buttons for canceling the sent request. Available only for the ‘Processing’ status;
+* Comment section – displays the comment left by admin when approving/rejecting the request.
+
+{% hint style="warning" %}
+Please note the the "Comment" section is inactive by default.
+{% endhint %}
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
