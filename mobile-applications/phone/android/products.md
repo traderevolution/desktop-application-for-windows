@@ -42,7 +42,7 @@ This screen contains the following elements:
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when tapping it, the mechanism for unsubscribing from the required Product is launched. After tapping the button, the User will be asked to confirm his unsubscription:
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28119%29.png)
 
 {% hint style="warning" %}
 Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
@@ -63,7 +63,11 @@ The Requests tab contains the following elements:
 * Period selector located to the right from the tab’s name contains the Daily \(set by default\), Two day to date, Week to date, and Month to date options for selecting the required time range for Product requests displaying;
 * Product – displays the Product name;
 * Request type – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
-* Request status – displays the status of each request, statuses also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\). The second line under the status displays Date/Time when this status was assigned;
+* Request status – displays the status of each request, statuses also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\). The second line under the status displays Date/Time when this status was assigned.
+
+When approving/rejecting a request, the Admin can leave a comment that will explain the reason of the current request status. If such a comment has been left, ****it will be displayed as the![](https://lh5.googleusercontent.com/uHiq4X3YJeDTiuu2NJ_Oe3X2WnclIilIvrzbPCWmtHLtt-_L7GyCb4jnDzI_ow6roI7jN9P4EI3kjWR7BY65ktxmJujblsU3MZteIsfd5uxPc_ke2RY5Aod9ihHgMW4-JUw5aUPV)icon next to the status. To expand a comment, simply tap on its icon:
+
+![](../../../.gitbook/assets/1%20%2843%29.jpg)
 
 Tapping any request line will initiate request cancelling and bring up the appropriate confirmation screen. confirmation screen ****of the following look:
 
