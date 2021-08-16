@@ -79,7 +79,7 @@ The Requests tab contains the following elements:
 * Comment section – displays the comment left by admin when approving/rejecting the request.
 
 {% hint style="warning" %}
-Please note the the "Comment" section is inactive by default,
+Please note the the "Comment" section is inactive by default.
 {% endhint %}
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
