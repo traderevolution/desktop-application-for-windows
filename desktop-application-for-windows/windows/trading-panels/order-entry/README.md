@@ -56,7 +56,9 @@ If the user performs actions on the position or modifies the order from one of t
 
 When![](https://lh3.googleusercontent.com/GorKXTd_KCxMmtRs3gRICVHDJL0cIa1C-Hdg8HtbUnSFtFRA0KIysRo9e1yeh5MPPm5YlfyGVlZqP3ypguEeRAf4xLeQ4p2xEVmACCNWu6ESLb8DBmUxuVWPOMLKOf7n8RcLnuqP)icon is activated![](https://lh4.googleusercontent.com/opZF6TnmrMrQ3ZY2SKJYsPgGYjxZbG1v_aTqzzFit9JfoDGzkx6eHrjRtgGByjNEI3n6NGQBKVmjMt-R2j12bQ7a0hGO-aYd7PrEBvkjGVmUWYCrZXSH951YAIOPqa_wcsQf2-lp)by clicking on it, and checkbox 'Use stop limit instead of stop' is true \(a setting located in Trading defaults tab of General settings\), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
 
-It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../../../.gitbook/assets/tr-stop-1.png)button located near Stop loss. The blue color of the![](../../../../.gitbook/assets/tr-stop2%20%281%29.png)button indicates that the Trailing stop is activated.
+It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../../../.gitbook/assets/tr-stop-1.png)button located near Stop loss. The blue color of the![](../../../../.gitbook/assets/tr-stop2%20%281%29.png)button indicates that the Trailing stop is activated. 
+
+The first modification/placement of a Tr. stop order is carried out at the price which is available in the terminal at the time of these actions. In this case, the price at which the modification/placement of the Tr. stop occurs, can be seen in the confirmation screen.
 
 * Get snapshot - this button is intended to get a snapshot of the actual quotes for the current Symbol. After clicking the button, the snapshot window will be opened. The window header displays the time when the snapshot was made, and in the window itself the user can find the following data:
 
