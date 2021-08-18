@@ -268,6 +268,7 @@
       * [Positions](mobile-applications/phone/android/positions.md)
       * [Assets](mobile-applications/phone/android/assets.md)
       * [Market depth](mobile-applications/phone/android/market-depth.md)
+      * [Option chain](mobile-applications/phone/android/option-chain.md)
       * [Event log](mobile-applications/phone/android/event-log.md)
       * [Account details](mobile-applications/phone/android/account-details.md)
       * [Alerts](mobile-applications/phone/android/alerts.md)
