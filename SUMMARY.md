@@ -386,6 +386,7 @@
       * [Positions](mobile-applications/ios/phone/positions.md)
       * [Assets](mobile-applications/ios/phone/assets.md)
       * [Market depth](mobile-applications/ios/phone/market-depth.md)
+      * [Option chain](mobile-applications/ios/phone/option-chain.md)
       * [Event log](mobile-applications/ios/phone/event-log.md)
       * [Account details](mobile-applications/ios/phone/account-details.md)
       * [Alerts](mobile-applications/ios/phone/alerts.md)
