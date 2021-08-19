@@ -48,6 +48,8 @@ Validity – allows specifying order validity by selecting among the following t
 SL price and Trailing SL offset cannot be checked together.
 {% endhint %}
 
+The first modification/placement of a Tr. stop order is carried out at the price which is available in the terminal at the time of these actions. In this case, the price at which the modification/placement of the Tr. stop occurs, can be seen in the confirmation screen.
+
 **Margin**
 
 Swiping down the "Margin" shade located under the Order entry menu header opens the info menu with the following account parameters:
