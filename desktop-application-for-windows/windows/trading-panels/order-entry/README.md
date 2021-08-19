@@ -58,8 +58,6 @@ When![](https://lh3.googleusercontent.com/GorKXTd_KCxMmtRs3gRICVHDJL0cIa1C-Hdg8H
 
 It is always possible to manage risks by setting Trailing stop on the order by clicking on a special![](../../../../.gitbook/assets/tr-stop-1.png)button located near Stop loss. The blue color of the![](../../../../.gitbook/assets/tr-stop2%20%281%29.png)button indicates that the Trailing stop is activated. 
 
-The first modification/placement of a Tr. stop order is carried out at the price which is available in the terminal at the time of these actions. In this case, the price at which the modification/placement of the Tr. stop occurs, can be seen in the confirmation screen.
-
 * Get snapshot - this button is intended to get a snapshot of the actual quotes for the current Symbol. After clicking the button, the snapshot window will be opened. The window header displays the time when the snapshot was made, and in the window itself the user can find the following data:
 
 ![](../../../../.gitbook/assets/windows_snap.png)
