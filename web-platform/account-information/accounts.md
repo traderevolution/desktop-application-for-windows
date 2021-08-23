@@ -249,12 +249,12 @@ The following information about Accounts and calculation formulas are available:
       <td style="text-align:left">Open gross P/L</td>
       <td style="text-align:left">A profit or loss on all currently opened positions and currency, recalculated
         in real time based on the most recent quotes</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Open gross P/L = Sum (Open gross P/L(i))</td>
     </tr>
     <tr>
       <td style="text-align:left">Open net P/L</td>
       <td style="text-align:left">A net profit or loss on open positions.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Open net P/L = Sum (Open net P/L(i))</td>
     </tr>
     <tr>
       <td style="text-align:left"># Positions</td>

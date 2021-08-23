@@ -105,5 +105,12 @@ Cross price – a current cross price in account's currency.
 * Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
 * Margin before warning ****– margin available before the warning triggering;
 * Day trader pattern protection –  displays whether protection against accidental marking the account as the Day trader pattern is activated. Available states are ‘Enabled’ or ‘Disabled’;
-* Available day trades –  displays the number of intraday trades that can be performed before the system classifies this user/account as a Day trader pattern.
+* Available day trades –  displays the number of intraday trades that can be performed before the system classifies this user/account as a Day trader pattern;
+* Open gross P/L\(i\) – current unrealized Gross P/L for each position at the account:
+
+   Open gross P/L = Sum \(Open gross P/L\(i\)\);
+
+* Open net P/L\(i\) – current unrealized Net P/L for each position at the account:
+
+   Open net P/L = Sum \(Open net P/L\(i\)\)
 
