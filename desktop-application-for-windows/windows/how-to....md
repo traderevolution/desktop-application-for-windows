@@ -57,7 +57,7 @@ The ability to place Trailing stops must be activated in the User's details -&gt
 1. Open the Alerts panel by clicking on the corresponding![](../../.gitbook/assets/1%20%2873%29.png)button at the header of the terminal;
 2. Setup conditions which will trigger your alert and finally select the actions to be taken.
 
-![](../../.gitbook/assets/alert.gif)
+![](../../.gitbook/assets/alerts2.gif)
 
 **7. How to disaggregate the Market depth?**
 
