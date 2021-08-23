@@ -126,7 +126,7 @@ You have two options here:
 3. Select ‘Trades & Quotes’ from the drop-down list of the 'Mode' section;
 4. Apply changes.
 
-![](../../.gitbook/assets/scalper%20%281%29.gif)
+![](../../.gitbook/assets/scalper2.gif)
 
 #### **16. How to enable DDE Link?**
 
