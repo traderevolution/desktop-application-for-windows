@@ -15,6 +15,9 @@ The following columns are available in the panel:
 * Last size - the last trade volume.
 * Last date - the last update date.
 * Last time - time of the last quote update.
+* Last source - the source of the Last price.
+* Bid source - the source of the Bid price.
+* Ask source - the source of the Ask price.
 * Volume - shows cumulative volume traded for today; Volume is null for OTC FX instruments, not null for Exchange traded instruments.
 * Exchange - name of the exchange on which symbol is traded.
 * Match volume - shows volume traded on the auction session \(pre & post\).
