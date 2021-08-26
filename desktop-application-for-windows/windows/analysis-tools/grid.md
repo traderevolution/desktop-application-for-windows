@@ -23,3 +23,7 @@ The Grid panel toolbar consists of three buttons:
 
 All panels in the Grid panel can be resized by a user: move the mouse cursor on the panels’ joint, after that drag and drop the panel to the needed size. In order to move the Grid panel to another monitor, click on the button![](../../../.gitbook/assets/17%20%281%29.png)at the top right corner of the Grid panel and select Detach.
 
+### Data source
+
+In the Grid panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MfIYcdWuv-eukLG8pEP%2F-MfIakX0yTFROe9sWNn-%2F1.png?alt=media&token=f36c8fd2-928f-4e0a-ac1d-8fadf83757a5)arrow and the widget will be shown:![](https://gblobscdn.gitbook.com/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MfIYcdWuv-eukLG8pEP%2F-MfIbDK9zH-Kl-RGKYc1%2F2.png?alt=media&token=0db7a960-0d47-456f-8306-6472e0f4face)
+
