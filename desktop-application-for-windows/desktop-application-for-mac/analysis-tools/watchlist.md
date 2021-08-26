@@ -22,6 +22,9 @@ The context menu of the Watchlist table's header allows to adjust visibility of 
 * Bid size – the volume of the best bid;
 * Ask – the last best ask price;
 * Ask size – the volume of the best ask;
+* Last source - the source of the Last price;
+* Bid source - the source of the Bid price;
+* Ask source - the source of the Ask price;
 * Change – the price deviation from a Previous close price;
 * Change, % – the price deviation from a Previous close price in a percentage;
 * Open – the day's open price;
