@@ -117,7 +117,7 @@ You have two options here:
 1. Open the context menu of the chart panel;
 2. Select ‘View’ -&gt; ‘Previous close’.
 
-![](../../.gitbook/assets/prev_close.gif)
+![](../../.gitbook/assets/prev_close%20%281%29.gif)
 
 #### **15. How to plot a chart within the Scalper?**
 
@@ -143,7 +143,7 @@ You have two options here:
 2. Select ‘View’;
 3. Click on the ‘Time to next bar’ option to enable the countdown visible.
 
-![](../../.gitbook/assets/time_to_next_bar.gif)
+![](../../.gitbook/assets/time_to_next_bar%20%281%29.gif)
 
 #### **18. How to modify a pending order?**
 
