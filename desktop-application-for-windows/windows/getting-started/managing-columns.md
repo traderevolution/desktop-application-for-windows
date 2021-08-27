@@ -12,7 +12,7 @@ To change the width of a column, simply move the mouse over the column border in
 
 Right-clicking on any column header displays a list of columns that are available in the panel. Only columns that are checked will be visible. To display a column just place a checkmark by the desired column title. 
 
-![](../../../.gitbook/assets/managing-columns1.png)
+![](../../../.gitbook/assets/displaying-columns.gif)
 
 ### **Reordering columns**
 
@@ -32,9 +32,7 @@ Filter criteria can be different for each column.
 
 Filtering of text columns allows to find the selected symbol in 1 click:
 
-![](../../../.gitbook/assets/5%20%2818%29.png)
-
-![](../../../.gitbook/assets/6%20%289%29.png)
+![](../../../.gitbook/assets/managing-columns1.gif)
 
 ### Sorting
 
