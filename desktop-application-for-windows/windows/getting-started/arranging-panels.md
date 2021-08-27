@@ -11,13 +11,9 @@ There are two main location types for all panels:
 
 Each panel has default location. Some panels are attached by default, others are detached. Default settings created on base of target usage. To change the location click on the control![](../../../.gitbook/assets/2%20%2824%29.png)which is available in the header of each panel. The following options can be available in the opened menu:
 
-* Attach – allows attaching panel. After clicking panel will attach to default place. Then user can move it to any place of the workspace. After taking header of the panel the following buttons appear:
+* Attach – allows attaching panel. After clicking panel will attach to default place. Then the user can move it to any place of the workspace. After taking header of the panel drag it into one of the screen sides to preview its future position, then drop it to attach:
 
-![](../../../.gitbook/assets/3%20%2864%29.png)
-
-Drag the panel into the button to preview it's next position.
-
-![](../../../.gitbook/assets/4%20%2827%29.png)
+![](../../../.gitbook/assets/attach.gif)
 
 Attached panels can be arranged into tabbed areas where one or more panels are conveniently fit under/over/beside other panels.
 
@@ -44,7 +40,7 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 * **Symbol link**![](../../../.gitbook/assets/7%20%2814%29.png)–   when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist. The links are identified by a color:
 
-                                                                              ![](../../../.gitbook/assets/9%20%289%29.png)
+![](../../../.gitbook/assets/linking.gif)
 
 To link two or more panels together:
 
@@ -58,7 +54,7 @@ To unlink a panel from a group, click the panel's link icon and select 'None'.
 
 * **Account link** –   linking by account is available by checking an icon![](../../../.gitbook/assets/screenshot_8%20%281%29.png)located at the top right corner of Accounts widget. 
 
-![](../../../.gitbook/assets/panels2.png)
+![](../../../.gitbook/assets/linking2.gif)
 
 By clicking on this icon, it turns green![](../../../.gitbook/assets/screenshot_8%20%282%29.png)and appears in all panels which contain Account lookup. This function filters your positions and orders by account. When Account Link is checked, then changing the account is possible via Account lookup of any panel. The account will be switched synchronously in all panels.
 
@@ -73,12 +69,10 @@ All table panels in the application have a quick searching function. Traders can
 
 Back and Forward buttons![](../../../.gitbook/assets/13%20%281%29.jpg)– allow to move among the results of the search. Left to these buttons there are numbers showing on what search result you are now and what is the total number of search result. The search result on which you stopped moving is highlighted.
 
-![](../../../.gitbook/assets/14.png)
+![](../../../.gitbook/assets/search.gif)
 
 * Search works by the partial matches of a search query with the data specified in the table;
 * Search results are sorted by relevance;
 * If table panel has been filtered before the quick search, then search will be performed by the filtered data selection;
 * Reset of the search occurs when user removes a search query from the lookup.
-
-
 

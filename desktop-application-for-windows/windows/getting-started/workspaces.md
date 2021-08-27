@@ -35,5 +35,5 @@ Click on the button![](../../../.gitbook/assets/5%20%2819%29.png)which is locate
 
 If workspace is locked, then all panels which are opened through main or context menu, as well as through instrument toolbar, will be opened in the detached form.
 
-![](../../../.gitbook/assets/workspaces.gif)
+![](../../../.gitbook/assets/workspaces1.gif)
 
