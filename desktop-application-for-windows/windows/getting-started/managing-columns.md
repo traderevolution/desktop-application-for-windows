@@ -32,13 +32,11 @@ Filter criteria can be different for each column.
 
 Filtering of text columns allows to find the selected symbol in 1 click:
 
-![](../../../.gitbook/assets/managing-columns1.gif)
+![](../../../.gitbook/assets/managing-columns1%20%282%29.gif)
 
 ### Sorting
 
 Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
 
 ![](../../../.gitbook/assets/sorting-icon%20%281%29.jpg)
-
-
 
