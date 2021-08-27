@@ -94,7 +94,11 @@ If several orders are open on current price \(summary volume is shown in the ord
 5. Overlay indicators – are any other symbols, the movement or side of which may be preceded by the movement of the traded asset, and the whole process of leading one another called "correlation". They are shown as line charts which are outputted in the panel without reference to Market depth section \(not more than 3\).
 6. Impulse indicators – are any other symbols which can cause impulsive directional movement of the traded instrument \(not more than 3\). Impulse indicator is presented in the form of two vertical columns opposite each other at the bottom and top of the panel Scalper. Upper column shows the total amount of purchases over a certain time interval, the lower - total sales for the specified time interval.
 
-### **Scalper settings**
+### Data source
+
+In the Scalper panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MfIYcdWuv-eukLG8pEP%2F-MfIakX0yTFROe9sWNn-%2F1.png?alt=media&token=f36c8fd2-928f-4e0a-ac1d-8fadf83757a5)arrow and the widget will be shown:![](https://gblobscdn.gitbook.com/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MfIYcdWuv-eukLG8pEP%2F-MfIbDK9zH-Kl-RGKYc1%2F2.png?alt=media&token=0db7a960-0d47-456f-8306-6472e0f4face)
+
+### **Scalper settings**
 
 Scalper settings have six sections to setup.
 

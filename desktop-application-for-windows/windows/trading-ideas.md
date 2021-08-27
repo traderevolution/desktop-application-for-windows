@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../../.gitbook/assets/trading-ideas-new.png)
+![](../../.gitbook/assets/trading.png)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
@@ -75,12 +75,6 @@ In the panel, the user-subscriber can see the text description of the idea, rema
 
 Click on the ‘Yes’ button to place an order based on the Idea. After the order is placed, the User can manage it together with the existing orders.
 
-### Data source <a id="data-source"></a>
-
-In the Ideas panel the user-subscriber can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-Mfmw1qJ2mijjFBn7R7e%2F-Mfmzp1F1CcghgMuTSY2%2FScreenshot_6.png?alt=media&token=24314f34-8931-450c-b5c3-dcf5567db4df)button and the widget will be shown:
-
-![](../../.gitbook/assets/big-idea-kopiya.png)
-
 ### Attachments
 
 When creating an Idea, a User-analyst can attach a snapshot of a Chart of the Instrument used in the Idea and a jpeg, jpg, png or PDF file \(10 Mb or smaller\) containing relevant information by clicking the icons under the Lifetime setting field of the Idea creation menu:
@@ -106,4 +100,10 @@ The User-analyst can remove a snapshot or an attached file by clicking the cross
 After an Idea is sent, the User-subscriber can open the Idea expanded view and open the attached file or snapshot by clicking the corresponding icon in the menu:   
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
+
+### Data source <a id="data-source"></a>
+
+In the Ideas panel both user-subscriber and user-analyst can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-Mfmw1qJ2mijjFBn7R7e%2F-Mfmzp1F1CcghgMuTSY2%2FScreenshot_6.png?alt=media&token=24314f34-8931-450c-b5c3-dcf5567db4df)button and the widget will be shown:
+
+![](../../.gitbook/assets/trading-kopiya.png)
 

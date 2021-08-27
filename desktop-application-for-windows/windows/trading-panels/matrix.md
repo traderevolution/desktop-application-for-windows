@@ -63,6 +63,10 @@ Mouse trading rules:
 * If an order is open on current price, then clicking \(with any button\) on it \(in orders area\) will lead to its closure;
 * If several orders are open on current price \(summary volume is shown in the orders area\), then when canceling the order the first exposed order will be cancelled in the first place.
 
+### Data source <a id="data-source"></a>
+
+In the Matrix panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MfIYcdWuv-eukLG8pEP%2F-MfIakX0yTFROe9sWNn-%2F1.png?alt=media&token=f36c8fd2-928f-4e0a-ac1d-8fadf83757a5)arrow and the widget will be shown:![](https://gblobscdn.gitbook.com/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MfIYcdWuv-eukLG8pEP%2F-MfIbDK9zH-Kl-RGKYc1%2F2.png?alt=media&token=0db7a960-0d47-456f-8306-6472e0f4face)
+
 ### **Matrix settings**
 
 Matrix settings have three sections to setup.
