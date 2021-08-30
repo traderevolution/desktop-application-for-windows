@@ -8,7 +8,7 @@ Currently selected symbol is not saved in the template.
 
 Click on the![](../../../../.gitbook/assets/1%20%2816%29.png)button located in the toolbar of a chart to create a template.
 
-![](../../../../.gitbook/assets/2%20%2844%29.png)
+![](../../../../.gitbook/assets/template.gif)
 
 Then click on the «+» button and type a template name in the opened window.
 
