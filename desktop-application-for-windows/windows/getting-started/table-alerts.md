@@ -39,7 +39,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 A user can see created alerts and work with them – both with executed and not executed ones.
 
-![](../../../.gitbook/assets/4%20%2843%29.png)
+![](../../../.gitbook/assets/alert2.gif)
 
 There are the following columns in the table of the Alerts panel:
 
