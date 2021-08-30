@@ -69,7 +69,7 @@ The chart displays all active alerts for the instrument selected in the symbol l
 
 To create a new alert on the chart, click on the![](../../../.gitbook/assets/7%20%2818%29.png)button which appears near the price scale at the chart while hovering the certain price level:
 
-![](../../../.gitbook/assets/screenshot_4%20%286%29.jpg)
+![](../../../.gitbook/assets/alert3.gif)
 
 All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../../.gitbook/assets/9%20%2812%29.png)and remove![](../../../.gitbook/assets/10%20%281%29.png)an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 
