@@ -4,7 +4,7 @@ To open the Alerts panel, click on the![](../../../.gitbook/assets/1%20%288%29.p
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../../.gitbook/assets/new.jpg)
+![](../../../.gitbook/assets/alert%20%281%29.gif)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Notification – allows to select a type of notification to be sent, available values are Email, Push, Pop-up, Sound. Multiselect is available here;
