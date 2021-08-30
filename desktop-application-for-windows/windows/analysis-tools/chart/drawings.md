@@ -103,13 +103,10 @@ For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle,
 
 For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc, Fibonacci ellipses, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal analysis, the following sections are available:
 
-          1. Appearance;
-
-          2. Points;
-
-         3. Visibility;
-
-         4. Fibonacci – allows to add, delete Fibonacci levels, edit their values and to set   up the font, font color and width of a line of a drawing which will be colored after reaching the value which you set:
+1. Appearance;
+2. Points;
+3. Visibility;
+4. Fibonacci – allows to add, delete Fibonacci levels, edit their values and to set   up the font, font color and width of a line of a drawing which will be colored after reaching the value which you set:
 
 ![](../../../../.gitbook/assets/26%20%281%29.png)
 
