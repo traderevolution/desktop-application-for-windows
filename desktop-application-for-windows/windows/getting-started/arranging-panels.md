@@ -40,7 +40,7 @@ Creating tabbed groups of panels helps save screen space and maximizes efficienc
 
 * **Symbol link**![](../../../.gitbook/assets/7%20%2814%29.png)–   when panels are linked, selecting a symbol in one of the panels synchronizes other panels in the group to display information relevant to that symbol. For example, when Order entry panel is linked to a Watchlist panel, the symbol displayed in the Order entry panel will be changed in accordance with the symbol selected in the Watchlist. The links are identified by a color:
 
-![](../../../.gitbook/assets/linking.gif)
+![](../../../.gitbook/assets/linking%20%281%29.gif)
 
 To link two or more panels together:
 
