@@ -30,7 +30,7 @@ It looks as the following:
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
-![](../../../.gitbook/assets/screenshot_6%20%284%29.jpg)
+![](../../../.gitbook/assets/info-bar.gif)
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
