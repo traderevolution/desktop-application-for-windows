@@ -35,6 +35,8 @@ To zoom in and out on the Chart panel users can use the scroll button on their m
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. 
 
+![](../../../../.gitbook/assets/zoom.gif)
+
 {% hint style="warning" %}
 Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.
 {% endhint %}
@@ -77,7 +79,7 @@ Working with right mouse button, user can get the following information:
 
 In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../../.gitbook/assets/4%20%2842%29.png)
+![](../../../../.gitbook/assets/right-mouse.gif)
 
 {% hint style="warning" %}
 The text and background color displayed in the info window can be changed via the corresponding color pickers in the chart settings, 'Info window' section.
