@@ -10,13 +10,7 @@ Click on the![](../../../../.gitbook/assets/1%20%2816%29.png)button located in t
 
 ![](../../../../.gitbook/assets/template.gif)
 
-Then click on the «+» button and type a template name in the opened window.
-
-![](../../../../.gitbook/assets/3%20%2841%29.png)
-
-Created templates appear at the menu of templates. In order to apply a template, check the certain name in the list of created templates.
-
-![](../../../../.gitbook/assets/4%20%2813%29.png)
+Then click on the «+» button and type a template name in the opened window. Created templates appear at the menu of templates. In order to apply a template, check the certain name in the list of created templates.
 
 By hovering a certain template name, a user can see 3 additional buttons for managing the template:
 
@@ -27,7 +21,7 @@ By hovering a certain template name, a user can see 3 additional buttons for man
 
 ![](../../../../.gitbook/assets/8%20%287%29.png)
 
-* Remove![](../../../../.gitbook/assets/9%20%285%29.png)– allows to remove a template. By clicking on this button, a confirmation window appears, click ‘Yes’ in order to remove a template.
+* Remove![](../../../../.gitbook/assets/9%20%285%29.png)– allows to remove a template. By clicking this button, a confirmation window appears, click ‘Yes’ in order to remove a template.
 
 ![](../../../../.gitbook/assets/10%20%282%29.png)
 
