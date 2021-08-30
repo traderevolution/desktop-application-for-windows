@@ -2,6 +2,10 @@
 
 A template is a set of settings, drawings, indicators, overlays, volume analysis tools, zoom level, chart settings and chart type saved in 1 file for further usage. One template can be applied in different workspaces.
 
+{% hint style="warning" %}
+Currently selected symbol is not saved in the template.
+{% endhint %}
+
 Click on the![](../../../../.gitbook/assets/1%20%2816%29.png)button located in the toolbar of a chart to create a template.
 
 ![](../../../../.gitbook/assets/2%20%2844%29.png)
