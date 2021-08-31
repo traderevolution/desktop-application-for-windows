@@ -6,7 +6,9 @@ This functionality allows to actualize the possibility to represent the structur
 
 The checkbox synchronizes with the same checkbox in the chart settings.
 
-The functionality is available only for aggregation 1 Tick.
+{% hint style="warning" %}
+This feature is available only for 1 Tick aggregation.
+{% endhint %}
 
 In checkbox 'Order Flow surface', the default state is false, the checkbox is available only if 'Value' = 1, otherwise the checkbox is disabled.
 
@@ -27,7 +29,7 @@ Custom - in this mode, the user indicates the maximum value by himself.
 * Font, Font color – allows to choose font style.
 * Show volume markers – the default state of the checkbox is false, when this checkbox is activated, controls 'Font', 'Color', 'Area' are activated. This setting enables to display the volume markers on the Y axis. These markers show the current volume value at each level of Market depth. 
 
-![](../../../../.gitbook/assets/38%20%281%29.png)
+![](../../../../.gitbook/assets/level2-2.gif)
 
 The field is depicted in proportion to the maximum value.
 
@@ -43,7 +45,7 @@ In the settings there is a combobox 'Coloring scheme' with two states - 'Histogr
 
 ![](../../../../.gitbook/assets/39.png)
 
- The example of Gradient coloring scheme is shown on the first screenshot.​
+ The example of Gradient coloring scheme is shown above.​
 
 ![](../../../../.gitbook/assets/40%20%281%29.png)
 
@@ -52,7 +54,5 @@ In the settings there is a combobox 'Coloring scheme' with two states - 'Histogr
 
 The example of Histogram coloring scheme is shown below:​
 
-![](../../../../.gitbook/assets/36%20%281%29.png)
-
-
+![](../../../../.gitbook/assets/level2-3.gif)
 
