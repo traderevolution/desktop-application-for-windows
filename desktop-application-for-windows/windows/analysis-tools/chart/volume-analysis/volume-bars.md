@@ -2,7 +2,7 @@
 
 This functionality allows to organize and analyze vertical volumes on the chart. Volume bars can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/65.png)or through the Context menu -&gt; Analysis tools -&gt; Volume bars.​
 
-![](../../../../../.gitbook/assets/bars.png)
+![](../../../../../.gitbook/assets/volume-bars.gif)
 
 Volume bars can be set up in the following way:​
 
