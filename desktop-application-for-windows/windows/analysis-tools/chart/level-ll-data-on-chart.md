@@ -1,12 +1,8 @@
 # Level ll data on chart
 
-This functionality allows to actualize the possibility to represent the structure of changing of Level II on 1 Tick Chart.
+This functionality allows to actualize the possibility to represent the structure of changing of Level II on 1 Tick Chart. The functionality becomes available after activation of checkbox 'Order Flow surface':
 
-![](../../../../.gitbook/assets/35.png)
-
-The functionality becomes available after activation of checkbox 'Order Flow surface'.
-
-![](../../../../.gitbook/assets/36.png)
+![](../../../../.gitbook/assets/level2.gif)
 
 The checkbox synchronizes with the same checkbox in the chart settings.
 

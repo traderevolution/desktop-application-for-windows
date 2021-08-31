@@ -2,7 +2,7 @@
 
 A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
 
-![](../../../../.gitbook/assets/drawings-windows.png)
+![](../../../../.gitbook/assets/1.gif)
 
 The following list of graphical tools is currently available:
 
@@ -109,6 +109,4 @@ For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc,
 4. Fibonacci – allows to add, delete Fibonacci levels, edit their values and to set   up the font, font color and width of a line of a drawing which will be colored after reaching the value which you set:
 
 ![](../../../../.gitbook/assets/26%20%281%29.png)
-
-
 
