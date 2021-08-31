@@ -4,13 +4,13 @@
 
 You can select a timeperiod on the chart for plotting a Volume profile with two vertical line-indicators, which are labeled as "Volume profile". 
 
-![](../../../../../.gitbook/assets/58.png)
+![](../../../../../.gitbook/assets/volume-profile.gif)
 
 {% hint style="warning" %}
 **To work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 {% endhint %}
 
-Volume profile can be set up in the following way:
+Volume profile can be set up in the following way from the Chart settings:
 
 ![](../../../../../.gitbook/assets/59%20%281%29.png)
 
@@ -30,7 +30,7 @@ Step calculations – this group of settings allows plotting volume histogram wi
 
 E.g., selecting " &gt;=" and specifying the value 30 will result into displaying renderers with the activated option Shown on chart \(Right histogram, Left histogram, Step calculations\) having values like 30, 31 \[...\] 45 etc.
 
-* Width, % – allows to set up the volumes displaying area's size. For example: Width, % = 20 means that 20 % from the whole chart area will be occupied by Volume profile;  
+* Width, % – allows to set up the volumes displaying area's size. For example: Width, % = 20 means that 20 % from the whole chart area will be occupied by Volume profile;
 * Result type – allows selecting what type volumes will be built by. Available values are:
   * Total volume – total volume by each price level that fell into the range of building the indicator;
   * Buy volume – shows only buy traded volumes by each price level \(defined by flag-aggressor\);
@@ -91,7 +91,7 @@ When activating the button for plotting the profile, a crosshair transfers to th
   
 Selection of the area for plotting: click on the button![](../../../../../.gitbook/assets/volume-profile.jpg)=&gt; click the chart to set up the first border for plotting area selection =&gt; click the chart to set up the second border for plotting area selection:
 
-![](../../../../../.gitbook/assets/62%20%281%29.png)
+![](../../../../../.gitbook/assets/volume-profile-custom.gif)
 
 After an area selection, vertical selectors will be hidden from the chart. In order to use a mode of the data range modification for analysis, you should click on the left border of the Custom volume profile, then vertical selectors will be visible again and available for editing.
 
