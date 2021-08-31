@@ -26,9 +26,9 @@ Hovering the certain Volume dot allows to view time of the last quote, which thi
 
 * Aggregation schemes – allow to select aggregation schemes for Volume dots. The following types are available:
 
-           - By time – dots formation, depending on the set time;
+           - By time – dots formation, depending on the time;
 
-           - By volume – dots formation, depending on the set volume;
+           - By volume – dots formation, depending on the volume;
 
            - By price – dots formation, depending on the price level;
 
