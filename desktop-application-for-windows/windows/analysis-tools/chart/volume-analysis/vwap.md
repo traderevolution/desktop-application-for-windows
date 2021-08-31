@@ -1,6 +1,10 @@
 # VWAP+
 
-VWAP+ allows calculating a cumulative volume-weighted average price by ticks for defined period.
+VWAP+ allows calculating a cumulative volume-weighted average price by ticks for defined period. For activating, select it from the list of analysis tools:
+
+![](../../../../../.gitbook/assets/vwap%20%281%29.gif)
+
+Please note that VWAP+ plotting may take some time. The following settings are available for this analysis tool:
 
 ![](../../../../../.gitbook/assets/screenshot_2%20%2838%29.jpg)
 
