@@ -1,5 +1,9 @@
 # Settings
 
+Adding an indicator is quite simple and is performed from the chat toolbar:
+
+![](../../../.gitbook/assets/indicator.gif)
+
 In order to configure the required indicator, the user needs to open the &lt;Indicator name&gt; properties window. In order to open this window, simply click the label with the indicator name, which will be displayed in the upper left corner of the chart after adding the indicator. Properties window contains the following tabs:
 
 * Parameters – contains general indicator settings;
@@ -36,6 +40,4 @@ This tab contains settings that allow to hide or show the indicator depending on
 * Delete – allows to remove an aggregation type from the list;
 * If the Visibility tab is empty, the indicator is plotted for any type of aggregation. Set by default;
 * If the Visibility tab is not empty, the indicator will be plotted only for the timeframes specified in the tab, for the rest, it will not.
-
-
 
