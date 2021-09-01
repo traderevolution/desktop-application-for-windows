@@ -2,13 +2,9 @@
 
 The Grid panel allows user to open a set of Charts in one panel and move this set to another monitor as a separate panel.
 
-![](../../../.gitbook/assets/grid.gif)
+![](../../../.gitbook/assets/grid%20%281%29.gif)
 
-Double click on the header of a cell in order to maximize it to the size of Grid panel, or use the corresponding button![](../../../.gitbook/assets/13%20%281%29.png)for the same action. 
-
-![](../../../.gitbook/assets/14%20%282%29.png)
-
-To collapse cell to the normal size, use button![](../../../.gitbook/assets/15%20%282%29.png)or just double click again on the header of the cell.
+Double click on the header of a cell in order to maximize it to the size of Grid panel, or use the corresponding button![](../../../.gitbook/assets/13%20%281%29.png)for the same action. To collapse cell to the normal size, use button![](../../../.gitbook/assets/15%20%282%29.png)or just double click again on the header of the cell.
 
 **Toolbar**
 
