@@ -47,7 +47,7 @@ For each symbol, the following information is available:
 * Settings - opens settings window.
 * Comment - allows user to add some useful information about trading symbol, to describe the market situation and potential trading possibilities. Click on the comment row in order to open a dialog window for adding, editing and saving the comments:
 
-![](../../../.gitbook/assets/watchlist-comment.png)
+![](../../../.gitbook/assets/comment.gif)
 
 ### **Symbols lists creation** 
 
@@ -70,13 +70,9 @@ The Watchlist panel enables user to create custom sets of symbols lists. In orde
 
 ### **Symbol Info**
 
-Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option.
+Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option. The Symbol info window will be opened:
 
-![](../../../.gitbook/assets/menu%20%285%29.png)
-
-The Symbol info window will be opened:
-
-![](../../../.gitbook/assets/screenshot_1%20%2841%29.jpg)
+![](../../../.gitbook/assets/symbol-info.gif)
 
 
 
