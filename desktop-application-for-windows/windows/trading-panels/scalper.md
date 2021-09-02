@@ -67,7 +67,7 @@ The color of QTY cell depends on the side of the position:
 
 User has a possibility to change a size of Time and sales chart section using left mouse button \(drag&drop\), to provide this just disable Mouse trading and resize chart section to desired width.
 
-![](../../../.gitbook/assets/scalper.jpg)
+![](../../../.gitbook/assets/scalper%20%282%29.gif)
 
 **Market depth section**
 
