@@ -2,7 +2,7 @@
 
 Saved orders is a panel where several orders can be created and stored, then placed individually or together with just one click. To open a Saved orders panel, select Terminal -&gt; Saved orders.
 
-![](../../../.gitbook/assets/screenshot_3%20%2815%29.jpg)
+![](../../../.gitbook/assets/saved-orders.gif)
 
 To create a new order, click on the button![](../../../.gitbook/assets/5%20%2839%29.png)or open context menu -&gt; Add order… 
 
