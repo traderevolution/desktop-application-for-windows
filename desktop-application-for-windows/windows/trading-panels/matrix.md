@@ -4,7 +4,7 @@
 
 To open a new Matrix panel, go to Terminal -&gt; Matrix:
 
-![](../../../.gitbook/assets/new1%20%2816%29.jpg)
+![](../../../.gitbook/assets/matrix.gif)
 
 The top panel of the Matrix consists of the Symbol and Account lookups, trading button and Menu button.
 
