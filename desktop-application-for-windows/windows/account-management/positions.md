@@ -4,7 +4,7 @@
 
 To open Positions panel, select Terminal -&gt; Positions:
 
-![](../../../.gitbook/assets/positions.gif)
+![](../../../.gitbook/assets/image%20%28124%29.png)
 
 The following columns are available in the panel:
 
@@ -85,6 +85,8 @@ The most important functions related to Positions can be viewed as buttons in th
 * Close short – closes the positions with Side = Short.
 
 To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu. The following hot buttons are checked by default: Close all, CLX all, Close negative, Close positive, Close selected and Reverse selected.
+
+![](../../../.gitbook/assets/positions.gif)
 
 {% hint style="warning" %}
 Clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
