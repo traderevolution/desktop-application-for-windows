@@ -34,7 +34,7 @@ User can choose RSS feeds for receiving the news from the list of available.
 
 To add a new RSS feed, click on General settings![](../../../.gitbook/assets/settings.png)-&gt; RSS. RSS settings allow adding a new feed or editing the existing one.
 
-![](../../../.gitbook/assets/rss-settings.png)
+![](../../../.gitbook/assets/rss.gif)
 
 To edit the existing feed, just make corrections in the feed name/Url, or enable/disable the feed and click "OK".
 
