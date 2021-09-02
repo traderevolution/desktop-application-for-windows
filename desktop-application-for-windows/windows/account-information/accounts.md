@@ -12,9 +12,9 @@ To open Accounts panel, select Account -&gt; Accounts at the header of the termi
 
 By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here: 
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels)
+{% embed url="https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels" %}
 
-![](../../../.gitbook/assets/windows-desk-acc%20%281%29.png)
+![](../../../.gitbook/assets/accounts-linking.gif)
 
 If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. 
 
