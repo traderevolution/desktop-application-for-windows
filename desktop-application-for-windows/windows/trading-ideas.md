@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../../.gitbook/assets/trading.png)
+![](../../.gitbook/assets/ideas.gif)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
@@ -67,7 +67,7 @@ To receive an Idea and place the order based on this idea, the instrument used i
 
 A user-subscriber can see the sent Ideas in the panel:
 
-![](../../.gitbook/assets/ideas2.png)
+![](../../.gitbook/assets/ideas2.gif)
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the Idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity for the Idea order to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Idea, an order placement confirmation dialog box is displayed:
 
