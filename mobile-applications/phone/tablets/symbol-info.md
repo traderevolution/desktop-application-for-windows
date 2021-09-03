@@ -1,8 +1,8 @@
 # Symbol info
 
-The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
+The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, tap the![](../../../.gitbook/assets/info%20%282%29.png)button at the top left corner of the Chart screen:
 
-                                          ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%289%29.png)                                   
+![](../../../.gitbook/assets/screenshot_1628174813.png)
 
 Information by the symbol is divided into the following groups:
 
