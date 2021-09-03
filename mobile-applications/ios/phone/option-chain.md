@@ -8,10 +8,6 @@ Swipe left the instrument at the Watchlist screen and select the corresponding i
 
 ![](../../../.gitbook/assets/2%20%28138%29.png)
 
-Tap the Symbol info to open information by the instrument in a new window. Tap the “Back” button in Symbol info to get to the chart. 
-
-![](../../../.gitbook/assets/3%20%28107%29.png)
-
 Under the header of the Option chain screen a user can see the Info bar which displays the following data:
 
 * Last - last price by underlier;

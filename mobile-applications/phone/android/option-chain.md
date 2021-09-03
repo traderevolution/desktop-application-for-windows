@@ -8,6 +8,10 @@ Swipe left the instrument at the Watchlist screen and select the corresponding i
 
 ![](https://lh3.googleusercontent.com/u84YA8UKSIoUJAw5cK30AVk-2y4Jiat9KFEIwdn9UAJQ0RZZNmq8OAn5gZ-rFTAALluWYW_RXRuEzehBwGlwv-6iABAoIhvGNNJVnAXauieHjhck1qVPhXd4XYc6XMo1H-2XOczw)
 
+Tap the Symbol info to open information by the instrument in a new window. Tap the “Back” button in Symbol info to get to the chart. 
+
+![](https://lh5.googleusercontent.com/jkCm8LF8BgnS2eKbwUe-wRIozJ7E7q8kNUz29pH7fSga5h1nsOsIlDRmiIJK6YGw8U2kSkEI6QkKOcnt_RJYiQR_1T6xalrmT4WbPQPZ_L4KnPguKFJCtFS1YJHFR4s5k29vvu2b)
+
 Under the header of the Option chain screen a user can see the Info bar which displays the following data:
 
 * Last - last price by underlier;
