@@ -48,6 +48,10 @@ Greeks are the coefficients used for the characteristics of option cost sensitiv
 * Vega – is the first derivative of the option price by volatility; shows how option price will be changed in points, if the volatility changes by 1%.
 * Theta – is the first derivative of the option price by time; shows how the option price will be reduced after one day.
 
+To send orders from the Option chain panel, open Order entry by tapping the![](../../../.gitbook/assets/1-kopiya%20%2811%29.png)button ****at the top right corner of the Chart screen:
+
+![](../../../.gitbook/assets/screenshot_1630651571.png)
+
 ### **Settings**
 
 In order to manage the panel settings, tap the ![](https://lh6.googleusercontent.com/FfyMDu4DsRh_HVfNrJInc_UOYq_Ux3ueqTeiQ2f_YbLqO_CbBSQibssvM0sdNmaC0oAoVOOmg9-HCe2Z9AA7MkJBwo2MO6sVAvRwiV4wsv6NgiP7KGwsKwhr079YmvJutglCa1MG) button and the following screen will be opened:
