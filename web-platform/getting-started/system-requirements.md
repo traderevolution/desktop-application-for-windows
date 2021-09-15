@@ -1,6 +1,6 @@
 # System requirements
 
-TraderEvolution Web has no minimum requirements to run, however it works in a browser, so your PC should have the minimum recommended for stable browser operation. Though be advised that the following parameters are recommended:
+TraderEvolution Web has no minimum requirements to run, however it works in a browser, so your PC should have the minimum recommended for stable browser operation. The required parameters are as follows:
 
 <table>
   <thead>
@@ -49,6 +49,19 @@ TraderEvolution Web has no minimum requirements to run, however it works in a br
       <td style="text-align:left"><b>RAM</b>
       </td>
       <td style="text-align:left">512 MB</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Supported browsers</b>
+      </td>
+      <td style="text-align:left">
+        <p>Google chrome</p>
+        <p>Opera</p>
+        <p>Mozilla firefox</p>
+        <p>Microsoft edge</p>
+        <p>Safari (Mac OS)</p>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
