@@ -457,6 +457,7 @@
       * [External links](mobile-applications/ios/tablets/external-links.md)
 * [TraderEvolution for Web](web-platform/README.md)
   * [Getting started](web-platform/getting-started/README.md)
+    * [System requirements](web-platform/getting-started/system-requirements.md)
     * [Login screen](web-platform/getting-started/login-screen.md)
     * [General settings](web-platform/getting-started/general-settings.md)
     * [Managing columns](web-platform/getting-started/managing-columns.md)
