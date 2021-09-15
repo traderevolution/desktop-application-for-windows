@@ -55,3 +55,7 @@ TraderEvolution Web has no minimum requirements to run, however it works in a br
   </tbody>
 </table>
 
+{% hint style="warning" %}
+Please be aware that Internet Explorer is no longer supported by the TraderEvolution Web.
+{% endhint %}
+
