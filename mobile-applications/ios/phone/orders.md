@@ -17,7 +17,7 @@ Each section consists of the cards list with short information about the orders:
 * Date/Time – date and time when the order was placed \(executed, filled, modified, or cancelled\).
 * Current price – market price obtainable from broker.
 * Stop price – stop price for special Stop and Trailing stop orders.
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK.
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS.
 * Order ID – unique number that the trading system assigns to each order. If a position is opened based on an order, the position will have the same number.
 * Stop loss – stop loss price set for the order.
 * Take profit – take profit price set for the order.

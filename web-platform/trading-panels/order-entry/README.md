@@ -19,13 +19,14 @@ Order entry panel allows to place market or pending orders. To open the Order en
 5. OCO \(One-Cancels-the-Other\) is an order stipulating that if one part of the order is executed, then the other part is automatically canceled;
 6. ‘Sell’ trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. ‘Buy’ trailing stop orders are the mirror image of sell trailing stop orders;
 
-* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK. This is especially important for active traders:
+* Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
 
 1. A Day order, as the name implies, is valid for the current trading day;
 2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled or the contract expires;
 3. IOC \(Immediate or cancel\) requires the whole or part of the order to be executed immediately after it has been brought to the market;
 4. FOK \(Fill or kill\) requires to execute the entire transaction immediately and completely or not to execute it at all;
 5. GTD \(Good till date\) order will be cancelled on specified date if not executed or until the contract expires;
+6. GTS \(Good till session\) order will be cancelled at the end of the trading session if not executed.
 
 * Stop price \(for the ‘Stop order’ type\) – allows entering the order stop price;
 * Limit price \(available together with Stop price for the ‘Stop order’ and ‘OCO’ order types; also available for the ‘Limit order’ type\) – allows entering the order limit price;

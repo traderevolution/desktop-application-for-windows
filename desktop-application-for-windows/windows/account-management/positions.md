@@ -23,6 +23,7 @@ Please note that in this case the User cannot modify/close such position or plac
 * Open price – price at which a position was opened;
 * Current price – a market price obtainable from a broker;
 * Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
+* Start of day qty. – displays the amount of manually uploaded position at the start of the day;
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
@@ -113,4 +114,12 @@ The mentioned actions are reenabled for the position after the "Cancel exercise"
 * Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
 After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse** operations become allowed for the position.   
+
+* Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type. The tab is available only when both  Intraday and Delivery trading modes are available for the Instrument/Account pair; and for Positions with "Net by average price" netting type.  "Allow trading mode modification" role should also be activated in the BackOffice.  The following controls are available in this tab:
+
+![](../../../.gitbook/assets/screenshot_1new.jpg)
+
+* Target product type – drop-down list for selecting the new target product type;
+* Modify quantity – switchable numeric for indicating the Qty to be modified. The default value is _Modify quantity = Quantity - Start of day qty_, please note that this value cannot be greater than _Today traded qty_. In case this numeric is enabled, SL/TP price controls are automatically disabled;
+* SL/TP price – Stop loss and Take profit prices that are available for modification. These controls are disabled in case the “Modify quantity” control is active.
 

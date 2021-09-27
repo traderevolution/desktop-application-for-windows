@@ -29,7 +29,7 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 
 **Validity:**
 
-Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK. This is especially important for active traders:
+Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
 
 1.    Day order, as the name implies, is valid for the current trading day.
 
@@ -47,6 +47,8 @@ Validity – allows specifying order validity by selecting among the following t
 {% hint style="warning" %}
 SL price and Trailing SL offset cannot be checked together.
 {% endhint %}
+
+6. GTS \(Good till session\) order will be cancelled at the end of the trading session if not executed.
 
 **Margin**
 
