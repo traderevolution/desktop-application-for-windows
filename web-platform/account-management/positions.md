@@ -92,5 +92,3 @@ The following functions can be realized through context menu:
 
   After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Close position, Close by\(ID\), Reverse, Reverse by \(ID\)** operations become allowed for the position.
 
-
-

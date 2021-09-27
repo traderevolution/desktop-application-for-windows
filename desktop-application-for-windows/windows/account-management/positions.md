@@ -115,11 +115,15 @@ The mentioned actions are reenabled for the position after the "Cancel exercise"
 
 After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse** operations become allowed for the position.   
 
-* Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type. The tab is available only when both  Intraday and Delivery trading modes are available for the Instrument/Account pair; and for Positions with "Net by average price" netting type.  "Allow trading mode modification" role should also be activated in the BackOffice.  The following controls are available in this tab:
+* Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type. The tab is available only when both Intraday and Delivery trading modes are available for the Instrument/Account pair; and for Positions with "Net by average price" netting type. "Allow trading mode modification" role should also be activated in the BackOffice. The following controls are available in this tab:
 
 ![](../../../.gitbook/assets/screenshot_1new.jpg)
 
 * Target product type – drop-down list for selecting the new target product type;
 * Modify quantity – switchable numeric for indicating the Qty to be modified. The default value is _Modify quantity = Quantity - Start of day qty_, please note that this value cannot be greater than _Today traded qty_. In case this numeric is enabled, SL/TP price controls are automatically disabled;
 * SL/TP price – Stop loss and Take profit prices that are available for modification. These controls are disabled in case the “Modify quantity” control is active.
+
+When changing the Product type, all SL/TP orders will be canceled and the corresponding error will be displayed:
+
+![](../../../.gitbook/assets/screenshot_3-1-.jpg)
 
