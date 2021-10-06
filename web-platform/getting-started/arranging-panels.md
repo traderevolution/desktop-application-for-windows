@@ -40,5 +40,5 @@ To link two or more panels together:
 
 To unlink a panel from a group, click the panel's link icon and select 'None'.
 
-![](../../.gitbook/assets/group-139.png)
+![](../../.gitbook/assets/linking%20%282%29.gif)
 
