@@ -29,7 +29,7 @@ Users can zoom in and out on charts, scroll it horizontally and vertically, chan
 
 To zoom in and out on the Chart panel users can use the scroll button on their mouse or simply drag the chart border in the Timeline panel using the scroll:
 
-![](../../../.gitbook/assets/2%20%282%29.png)
+![](../../../.gitbook/assets/chart-zoom.gif)
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, "+" and "-" buttons to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. 
 
