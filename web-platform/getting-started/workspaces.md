@@ -19,3 +19,5 @@ Click on the button![](../../.gitbook/assets/screenshot_2-copy-copy.png)which i
 * Clone - allows creating the same workspace as current;
 * Rename - allows changing title of current workspace.
 
+![](../../.gitbook/assets/workspaces%20%281%29.gif)
+
