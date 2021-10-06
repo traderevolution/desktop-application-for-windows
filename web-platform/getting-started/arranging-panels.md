@@ -2,15 +2,16 @@
 
 User can create own trading environment by displaying/hiding and rearranging panels. To build a workspace from scratch, click on the button![](../../.gitbook/assets/screenshot_1-copy%20%281%29.png)at the Status bar and blank workspace will appear. Then open the panels which will be used in the Web platform and arrange them as described below.
 
-### **Customizing panels location**
+### **Attacjing and detaching panels**
 
-After taking header of a panel the following buttons appear:
+There are two main location types for all panels:
 
-![](../../.gitbook/assets/screenshot_5%20%282%29.png)
+* Attached – panel is located in some place of workspace.
+* Detached – panel is located separately and can be used independently of any workspace.
 
-Drag the panel into one of the buttons to preview it's next position.
+Take the panel header and drag it into one of the buttons to preview it's next position, drop it when you see fit:
 
-![](../../.gitbook/assets/screenshot_2%20%284%29.png)
+![](../../.gitbook/assets/arranging-panels.gif)
 
 ### **Creating tabbed areas**
 
