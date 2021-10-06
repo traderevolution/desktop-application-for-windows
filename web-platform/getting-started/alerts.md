@@ -4,7 +4,7 @@ To open the Alerts panel, click on the![](../../.gitbook/assets/1%20%2826%29.png
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../.gitbook/assets/new%20%282%29.jpg)
+![](../../.gitbook/assets/alerts.gif)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Notification type – combobox for selecting the type of notification sent after alert triggering. Available types are Email, Push, Pop-up, and Sound;
@@ -39,7 +39,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 A user can see created alerts and work with them – both with executed and not executed ones.
 
-![](../../.gitbook/assets/4%20%2819%29.png)
+![](../../.gitbook/assets/alerts-management.gif)
 
 There are the following columns in the table of the Alerts panel:
 
