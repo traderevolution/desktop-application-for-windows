@@ -2,7 +2,7 @@
 
 A user can add any other Symbols to the current chart. To provide this, click on the![](../../../.gitbook/assets/2%20%2839%29.png)button located near the Symbol lookup. Select a new symbol to integrate into the chart.
 
-![](../../../.gitbook/assets/overlay.png)
+![](../../../.gitbook/assets/chart-overlay.gif)
 
 The menu of the overlaid symbol contains the following buttons:
 
