@@ -1,5 +1,9 @@
 # Settings
 
+Adding an indicator is quite simple and is performed from the chat toolbar:
+
+![](../../.gitbook/assets/indicator%20%281%29.gif)
+
 In order to configure the required indicator, the user needs to open the &lt;Indicator name&gt; properties window. In order to open this window, simply click the label with the indicator name, which will be displayed in the upper left corner of the chart after adding the indicator. Properties window contains the following tabs:
 
 * Parameters – contains general indicator settings;
