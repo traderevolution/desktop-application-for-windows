@@ -56,6 +56,8 @@ The following columns are available in the panel:
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
+![](../../.gitbook/assets/positions%20%281%29.gif)
+
 * Close all – closes all opened positions;
 * CLX all – closes all opened positions and cancels all orders;
 * Close negative – closes the positions with negative P/L;
