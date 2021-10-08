@@ -14,9 +14,7 @@ By clicking on the Account Link button![](../../.gitbook/assets/screenshot_8%20%
 
 ![](../../.gitbook/assets/linking%20%283%29.gif)
 
-Please, read more about Account linking here: 
-
-[https://guide.traderevolution.com/project/web-platform/getting-started/arranging-panels](https://guide.traderevolution.com/project/web-platform/getting-started/arranging-panels)
+Please, read more about Account linking [here](https://guide.traderevolution.com/project/web-platform/getting-started/arranging-panels).
 
 The following information about Accounts and calculation formulas are available:
 
