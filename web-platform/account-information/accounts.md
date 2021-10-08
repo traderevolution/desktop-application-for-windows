@@ -10,6 +10,10 @@ The Accounts panel is also available in Detailed view in order to show the detai
 
 ![](../../.gitbook/assets/windows-desk-acc%20%282%29.png)
 
+By clicking on the Account Link button![](../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account:
+
+![](../../.gitbook/assets/linking%20%283%29.gif)
+
 The following information about Accounts and calculation formulas are available:
 
 <table>
