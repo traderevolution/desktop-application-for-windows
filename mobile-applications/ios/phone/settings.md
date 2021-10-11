@@ -2,11 +2,11 @@
 
 You can access the ‘Settings’ screen from the application's ‘More’ menu in order to manipulate by 'Defaults' and 'Confirmations':
 
-### **Defaults**
+### &#xD;**Defaults**
 
 In ‘Defaults’ settings section you can adjust the following:
 
-![](../../../.gitbook/assets/1%20%28148%29.png)
+![](<../../../.gitbook/assets/1 (148).png>)
 
 * Order quantity – displays amount of lots for opening an order;
 * Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS;
@@ -14,7 +14,7 @@ In ‘Defaults’ settings section you can adjust the following:
 * Quantity in lots - if checked, quantity is displayed in lots, if unchecked – in units;
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points;
-* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the 'Limit offset, ticks' field.
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked,** **it activates the 'Limit offset, ticks' field.
 
 ### **Confirmations**
 
@@ -44,11 +44,11 @@ To apply Fingerprint in the application for subsequent logins, a user should put
 
 ![](../../../.gitbook/assets/111111111.png)
 
-After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. 
+After this, the checkbox More -> Settings -> Other -> Biometric authentication becomes True. 
 
 A user should enter his password to confirm biometrics:
 
-![](../../../.gitbook/assets/img_3977.png)
+![](../../../.gitbook/assets/img\_3977.png)
 
 On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
 
@@ -60,7 +60,7 @@ In case the FaceID feature is available and activated on the user device, it can
 
 To deactivate Biometric authentication, uncheck the corresponding setting and then tap the "OK" button on the undermentioned screen:
 
-![](../../../.gitbook/assets/img_3978.png)
+![](../../../.gitbook/assets/img\_3978.png)
 
 ### Push notifications
 
@@ -78,7 +78,6 @@ This section allows to configure the alerts, the following settings are availabl
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
   * Sound – a musical alert will be played to the user in the client.
 * Alert type – allows to set an alert type. Available options are: Default by symbol, Ask, Bid, Last, Change%, Volume;
-* Condition – allows to set an alert condition. Available values are: &gt;,&lt;,&gt;=,&lt;=;
+* Condition – allows to set an alert condition. Available values are: >,<,>=,<=;
 * Importance – allows to define the alert importance, the following options are available: High, Medium, Low;
 * After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution.
-

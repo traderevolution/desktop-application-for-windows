@@ -2,24 +2,24 @@
 
 Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
 
-To open Positions panel, select Terminal -&gt; Positions:
+To open Positions panel, select Terminal -> Positions:
 
-![](../../../.gitbook/assets/image%20%28124%29.png)
+![](<../../../.gitbook/assets/image (124).png>)
 
 The following columns are available in the panel:
 
 * Account – login name of an account that opened a position;
 * Login - login of a user;
-* Symbol – a traded symbol \(in case the position is opened as a result of corporate action its type is also shown here;
+* Symbol – a traded symbol (in case the position is opened as a result of corporate action its type is also shown here;
 
 {% hint style="warning" %}
-Please note that in this case the User cannot modify/close such position or place SL/TP orders\).
+Please note that in this case the User cannot modify/close such position or place SL/TP orders).
 {% endhint %}
 
 * Symbol description - comments to an instrument;
-* Symbol type – a symbol's market category \(CFD, spot, stocks, etc.\);
+* Symbol type – a symbol's market category (CFD, spot, stocks, etc.);
 * Position ID – a unique number that the trading system assigns to each position;
-* Side – type of trade \(Long or Short\);
+* Side – type of trade (Long or Short);
 * Open price – price at which a position was opened;
 * Current price – a market price obtainable from a broker;
 * Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
@@ -27,15 +27,15 @@ Please note that in this case the User cannot modify/close such position or plac
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+For Long position: Gross P/L = Qty. \* Lot size \* (Current price - Open price)
 
-For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+For Short position: Gross P/L = Qty. \* Lot size \* (Open price - Current price)
 
 P/L for Spreadbet instrument type is calculated depending on price change in ticks:
 
-For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Current price - Open price\)/Tick size\)\)
+For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* ((Current price - Open price)/Tick size))
 
-For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Open price - Current price\)/Tick size\)\)
+For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* ((Open price - Current price)/Tick size))
 
 Cross price is applied in the case when account currency doesn't correspond to the Betting currency.
 
@@ -46,11 +46,11 @@ Net P/L = Gross P/L - Fee
 
 * Position exposure – exposure of a position, in the account currency. Calculated on base of an open price:
 
-Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
+Position exposure = Price \* Quantity \* Lot size \* Cross price (quoting CCY > account currency) – calculation for Forex
 
-Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
+Position exposure = Price \* Quantity \* (Tick cost/Tick size) \* Cross price (quoting CCY > account currency) – calculation for Futures
 
-In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+In all cases Cross price (quoting CCY > account currency) is a current cross price.
 
 * Position value – current value of a position. Calculated on base of a current market price:
 
@@ -67,7 +67,7 @@ For Short position: Position value = Position exposure – P/L
 * SL, value – shows a Stop loss sum in account currency which a trader risks by each symbol, if Stop loss triggers. Also, SL sum by all positions are output in Totals on the bottom of the panel, in order to know how much trader can lose;
 * SL limit price – Limit price set for SL order.
 
-### **Buttons toolbar**
+### &#xD;**Buttons toolbar**
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
@@ -107,7 +107,7 @@ The following functions can be realized through context menu:
 
 After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
-Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse.**
+Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position:** Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse.**
 
 The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
 
@@ -117,7 +117,7 @@ After clicking this menu item, a confirmation dialog box is displayed, which req
 
 * Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type. The tab is available only when both Intraday and Delivery trading modes are available for the Instrument/Account pair; and for Positions with "Net by average price" netting type. "Allow trading mode modification" role should also be activated in the BackOffice. The following controls are available in this tab:
 
-![](../../../.gitbook/assets/screenshot_1new.jpg)
+![](../../../.gitbook/assets/screenshot\_1new.jpg)
 
 * Target product type – drop-down list for selecting the new target product type;
 * Modify quantity – switchable numeric for indicating the Qty to be modified. The default value is _Modify quantity = Quantity - Start of day qty_, please note that this value cannot be greater than _Today traded qty_. In case this numeric is enabled, SL/TP price controls are automatically disabled;
@@ -125,5 +125,4 @@ After clicking this menu item, a confirmation dialog box is displayed, which req
 
 When changing the Product type, all SL/TP orders will be canceled and the corresponding error will be displayed:
 
-![](../../../.gitbook/assets/screenshot_3-1-.jpg)
-
+![](../../../.gitbook/assets/screenshot\_3-1-.jpg)

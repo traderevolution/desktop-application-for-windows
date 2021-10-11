@@ -1,8 +1,8 @@
 # Positions
 
-Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately. To open Positions panel, select Terminal -&gt; Positions:
+Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately. To open Positions panel, select Terminal -> Positions:
 
-![](../../.gitbook/assets/1%20%2865%29.png)
+![](<../../.gitbook/assets/1 (65).png>)
 
 The following columns are available in the panel:
 
@@ -10,18 +10,18 @@ The following columns are available in the panel:
 * Account – login name of an account that opened a position;
 * Login – login of a user;
 * Symbol description – comments to an instrument;
-* Symbol type – a symbol's market category \(CFD, spot, stocks, etc.\);
+* Symbol type – a symbol's market category (CFD, spot, stocks, etc.);
 * Position ID – a unique number that the trading system assigns to each position;
-* Side – type of trade \(Long or Short\);
+* Side – type of trade (Long or Short);
 * Open price – price at which a position was opened;
 * Current price – a market price obtainable from a broker;
 * Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-        For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+        For Long position: Gross P/L = Qty. \* Lot size \* (Current price - Open price)
 
-        For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+        For Short position: Gross P/L = Qty. \* Lot size \* (Open price - Current price)
 
 * P/L, offset – profit/losses in ticks;
 * Net P/L – profit/loss for a position excluding fee:
@@ -30,11 +30,11 @@ The following columns are available in the panel:
 
 * Position exposure – exposure of a position, in the account currency. Calculated on base of an open price:
 
-        Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
+        Position exposure = Price \* Quantity \* Lot size \* Cross price (quoting CCY > account currency) – calculation for Forex
 
-        Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
+        Position exposure = Price \* Quantity \* (Tick cost/Tick size) \* Cross price (quoting CCY > account currency) – calculation for Futures
 
-        In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+        In all cases Cross price (quoting CCY > account currency) is a current cross price.
 
 * Position value – current value of a position. Calculated on base of a current market price:
 
@@ -56,7 +56,7 @@ The following columns are available in the panel:
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
-![](../../.gitbook/assets/positions%20%281%29.gif)
+![](<../../.gitbook/assets/positions (1).gif>)
 
 * Close all – closes all opened positions;
 * CLX all – closes all opened positions and cancels all orders;
@@ -82,15 +82,24 @@ The following functions can be realized through context menu:
 * Close position – allows closing selected positions;
 * View – allows to show toolbar;
 * Group by – allows to group positions by account, login, symbol, symbol description, symbol type, side, expiry date, strike price;
-* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+*   Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
 
-  After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
+    After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
-  Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Close position, Close by\(ID\), Reverse, Reverse by \(ID\).**
+    Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position:** Close position, Close by(ID), Reverse, Reverse by (ID).**
 
-  The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
+    The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
+*   Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
-* Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
+    After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Close position, Close by(ID), Reverse, Reverse by (ID)** operations become allowed for the position.
+* Modify product type – this tab allows adding SL/TP orders to the selected position manually as well as modify quantity and change the target product type. The tab is available only when both Intraday and Delivery trading modes are available for the Instrument/Account pair; and for Positions with "Net by average price" netting type. "Allow trading mode modification" role should also be activated in the BackOffice. The following controls are available in this tab:
 
-  After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Close position, Close by\(ID\), Reverse, Reverse by \(ID\)** operations become allowed for the position.
+![](../../.gitbook/assets/Screenshot\_1new.jpg)
 
+* Target product type – drop-down list for selecting the new target product type;
+* Modify quantity – switchable numeric for indicating the Qty to be modified. The default value is _Modify quantity = Quantity - Start of day qty_, please note that this value cannot be greater than _Today traded qty_. In case this numeric is enabled, SL/TP price controls are automatically disabled;
+* SL/TP price – Stop loss and Take profit prices that are available for modification. These controls are disabled in case the “Modify quantity” control is active.
+
+When changing the Product type, all SL/TP orders will be canceled and the corresponding error will be displayed:
+
+![](<../../.gitbook/assets/Screenshot\_3 (1).jpg>)

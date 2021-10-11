@@ -4,7 +4,7 @@ The Pivot point is a technical analysis or calculation indicator used to determi
 
 The Pivot point is the basis of the indicator, but it also includes other support and resistance levels that are projected based on the pivot point calculation. All of these levels help traders see where the price may be experiencing support or resistance. Likewise, if the price moves through these levels, it gives the trader an indication that the price is moving in that direction.
 
-This indicator is used to plot the lines of support and resistance, calculated on higher timeframes \(H1 – W\). The lines are plotted according to the principle "from the past to the future", for example, the user wants to plot Pivot lines for the last day in order to use it for trading on the current day \(week, month, etc.\).
+This indicator is used to plot the lines of support and resistance, calculated on higher timeframes (H1 – W). The lines are plotted according to the principle "from the past to the future", for example, the user wants to plot Pivot lines for the last day in order to use it for trading on the current day (week, month, etc.).
 
 This indicator is a multi-level tool, due to that, the trader can choose the most suitable option based on his/her own preferences and trading timeframe. This tool stands out for its simple settings and accurate information displaying.
 
@@ -22,7 +22,7 @@ R2 = PP + H – L
 
 R1 = 2PP – L 
 
-PP = \(H + L + C\)/3 
+PP = (H + L + C)/3 
 
 S1 = 2PP – H 
 
@@ -32,51 +32,51 @@ S3 = 2PP + L – 2H
 
 **Camarilla method**
 
-R3 = C + \(H – L\) **\*** 0.275 
+R3 = C + (H – L) **\* **0.275 
 
- R2 = C + \(H – L\) \* 0.182 
+ R2 = C + (H – L) \* 0.182 
 
-R1 = C + \(H – L\) \* __0.0916 __
+R1 = C + (H – L) \*_ _0.0916_ _
 
-PP = \(H + L + C\) / 3 
+PP = (H + L + C) / 3 
 
-S1 = C – \(H – L\) \* 0.0916 
+S1 = C – (H – L) \* 0.0916 
 
-S2 = C – \(H – L\) \* __0.183 
+S2 = C – (H – L) \*_ _0.183 
 
-S3 = C – \(H – L\) _\*_ 0.275
+S3 = C – (H – L)_ \*_ 0.275
 
 **Fibonacci method**
 
-R3 = PP + 1.000 **\*** \(H – L\)
+R3 = PP + 1.000 **\* **(H – L)
 
-R2 = PP + 0.618 _\*_ \(H – L\) 
+R2 = PP + 0.618_ \*_ (H – L) 
 
-R1 = PP + 0.382 \* __\(H – L\) 
+R1 = PP + 0.382 \*_ _(H – L) 
 
-PP = \(H + L + C\) / 3 
+PP = (H + L + C) / 3 
 
-S1 = PP – 0.382 _\*_ \(H – L\) 
+S1 = PP – 0.382_ \*_ (H – L) 
 
-S2 = PP – 0.618 \* __\(H – L\) 
+S2 = PP – 0.618 \*_ _(H – L) 
 
-S3 = PP – 1.000 _\*_ \(H – L\)
+S3 = PP – 1.000_ \*_ (H – L)
 
 **Woodie method**
 
-R3 = H + 2 **\*** \(PP – L\)
+R3 = H + 2 **\* **(PP – L)
 
-R2 = PP + \(H – L\) 
+R2 = PP + (H – L) 
 
-R1 = \(2 \* PP\) – L
+R1 = (2 \* PP) – L
 
-PP = \(H + L + 2 \* C\) / 4 
+PP = (H + L + 2 \* C) / 4 
 
-S1 = \(2 \* PP\) – H 
+S1 = (2 \* PP) – H 
 
-S2 = PP – \(H – L\) 
+S2 = PP – (H – L) 
 
-S3 = L – 2 _\*_ \(H – PP\)
+S3 = L – 2_ \*_ (H – PP)
 
 **DeMark method**
 
@@ -86,11 +86,11 @@ PP = X / 4
 
 S1 = X / 2 – H
 
-if C\[1\] &lt; O\[0\] then X = \(H + \(L  __2\) + C\) 
+if C\[1] < O\[0] then X = (H + (L _ _2) + C) 
 
-if C\[1\] &gt; __O\[0\] then X = \(\(H __ 2\) + L + C\) 
+if C\[1] >_ _O\[0] then X = ((H_ _ 2) + L + C) 
 
-if C\[1\] = O\[0\] then X = \(H + L + \(C \* 2\)\)
+if C\[1] = O\[0] then X = (H + L + (C \* 2))
 
 where,
 
@@ -113,6 +113,4 @@ Note: parameters C, O, H, L are taken according to the "Base period" setting.
 The indicator itself looks as follows on the chart:
 
 ![](../../../.gitbook/assets/pivot-point.jpg)
-
-
 

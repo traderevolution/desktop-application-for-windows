@@ -6,7 +6,7 @@ The ‘Chart Preferences’ window contains the following sections, stored into 
 
 ### **Style**
 
-![](../../../../.gitbook/assets/chart-preferences%20%281%29.png)
+![](<../../../../.gitbook/assets/chart-preferences (1).png>)
 
 This section allows to adjust the following:
 
@@ -29,7 +29,7 @@ General:
 
 Watermark:
 
-* Watermark mode – allows displaying the Symbol/Description watermark \(or both\) as well as hiding it.
+* Watermark mode – allows displaying the Symbol/Description watermark (or both) as well as hiding it.
 * Watermark color – allows to select the watermark color or make it transparent in order to hide it;
 
 Crosshair:
@@ -44,7 +44,7 @@ Time to next bar:
 
 **Scale**
 
-![](../../../../.gitbook/assets/screenshot_4%20%284%29.jpg)
+![](<../../../../.gitbook/assets/screenshot\_4 (4).jpg>)
 
 This tab includes the sub-sections allowing particular adjustments of the chart:
 
@@ -91,9 +91,9 @@ Time separators:
 
 ### **Trading**
 
-![](../../../../.gitbook/assets/4%20%286%29.png)
+![](<../../../../.gitbook/assets/4 (6).png>)
 
-  
+\
 The following adjustments are available in this section:
 
 * Opened positions – if checked, opened positions will be displayed on the chart;
@@ -106,7 +106,7 @@ The following adjustments are available in this section:
 
 ### **Order entry**
 
-![](../../../../.gitbook/assets/5%20%2826%29.png)
+![](<../../../../.gitbook/assets/5 (26).png>)
 
 This tab includes the sub-sections allowing particular adjustments of the chart's Order entry:
 
@@ -116,7 +116,7 @@ Show chart order entry – if checked, the chart order entry will be displayed o
 
 Quick trading – allows to hide/show the following chart order entry elements:
 
-* Show close orders \(SL/TP\);
+* Show close orders (SL/TP);
 * Buy/Sell Market;
 * Buy Ask/Sell Bid;
 * Buy Bid/Sell Ask.
@@ -142,7 +142,7 @@ Using hot buttons doesn't evoke confirmation screens, even if confirmations are 
 * Info window mode – allows to set up the style of displaying the Info window. You can select from the following Info window modes: Separate Window, Attached To Cursor, Hidden.
 * Activate short mode – if checked, the Info window fields' names will be displayed in a short mode on the chart:
 
-![](../../../../.gitbook/assets/new-info-window-short-mode%20%281%29.png)
+![](<../../../../.gitbook/assets/new-info-window-short-mode (1).png>)
 
 * Colors – allows to select the Info window's font and background colors. 
 
@@ -164,27 +164,26 @@ Fields – this section allows to select fields for displaying information in th
 * Ticks;
 * Volume.
 
-### **Managing adjustments**
+### &#xD;**Managing adjustments**
 
 The 'Chart Preferences' window contains the following buttons to manage adjustments:
 
-* ![](../../../../.gitbook/assets/set-as-default%20%282%29.png)–   allows to set all current 'Chart Preferences' adjustments as default ones;
-* ![](../../../../.gitbook/assets/reset%20%283%29.png)–   allows to reset all the 'Chart Preferences' adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](<../../../../.gitbook/assets/set-as-default (2).png>)–   allows to set all current 'Chart Preferences' adjustments as default ones;
+* ![](<../../../../.gitbook/assets/reset (3).png>)–   allows to reset all the 'Chart Preferences' adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 
 ### Alerts
 
-![](../../../../.gitbook/assets/screenshot_3%20%2818%29.jpg)
+![](<../../../../.gitbook/assets/screenshot\_3 (18).jpg>)
 
 The following settings are available when creating an alert:
 
 * Notification type – combobox for selecting the type of notification, multiselect is available:
-* * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
+*
+  * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
   * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
   * Sound – a musical alert will be played to the user in the client.
 * Importance – allows to define the alert importance. The following options are available: High, Medium, Low. After the alert execution, the user gets a notification with the corresponding color of the indicator which depends on importance of the alert:
 * After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution;
 * Show alerts – allows to show/hide alerts on the chart, checked by default.
-
-
 

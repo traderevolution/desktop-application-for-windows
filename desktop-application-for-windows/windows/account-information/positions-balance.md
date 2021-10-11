@@ -1,18 +1,18 @@
 # Positions balance
 
-Positions balance panel shows a summary of the user's open positions by each symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
+Positions balance panel shows a summary of the user's open positions by each symbol. To open a Positions balance panel, select Terminal -> Positions balance.
 
-![](../../../.gitbook/assets/14%20%281%29.png)
+![](<../../../.gitbook/assets/14 (1).png>)
 
 A user can select an account or a group of accounts for which he wants to see information.
 
 The following columns are available in the panel:
 
-* Symbol –  ****the instrument name.
+* Symbol – ** **the instrument name.
 * Net position qty. – net amount of opened positions.
 * Break-even point – shows the price where Profit/Loss will be zero.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MQIR50JOX7EHn3l1Qou%2F-MQIT3l5yiZLLxLxSFua%2F22.png?alt=media&token=b1aefce9-3ed1-4ff3-a8fc-dfca3d9a9db4)
+![](https://gblobscdn.gitbook.com/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-MQIR50JOX7EHn3l1Qou%2F-MQIT3l5yiZLLxLxSFua%2F22.png?alt=media\&token=b1aefce9-3ed1-4ff3-a8fc-dfca3d9a9db4)
 
 _where:_
 
@@ -34,7 +34,7 @@ _qty i - the volume of the "i" position, taking into account the sign, for a sho
 * Strike price – price of option contract performance.
 * Position value – current value of the position. Calculation is based on current market price.
 
-![](../../../.gitbook/assets/screenshot_2%20%2816%29.png)
+![](<../../../.gitbook/assets/screenshot\_2 (16).png>)
 
 For long position: _Position value = Position exposure + Gross P/L_
 
@@ -47,4 +47,3 @@ The total is shown in account currency if accounts by all opened positions have 
 {% hint style="warning" %}
 Positions having the "Trading mode = Corporate actions" are displayed as separate rows.
 {% endhint %}
-

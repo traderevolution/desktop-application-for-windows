@@ -1,6 +1,6 @@
 # High/Low list
 
-This panel displays the Low and High lists containing the Instruments, which quote prices reach or exceed the current maximum \(day bar "High" price\) or minimum \(day bar "Low" price\) price values. The panel lists are populated with the Instruments, which quotes only exceed the maximum/minimum values or also reach the the maximum/minimum, depending on the algorithm configuration on the server.
+This panel displays the Low and High lists containing the Instruments, which quote prices reach or exceed the current maximum (day bar "High" price) or minimum (day bar "Low" price) price values. The panel lists are populated with the Instruments, which quotes only exceed the maximum/minimum values or also reach the the maximum/minimum, depending on the algorithm configuration on the server.
 
 The panel has the following view:
 
@@ -16,7 +16,7 @@ For each list in the panel, the displayed columns can be configured independentl
 * Symbol - the Instrument name;
 * Change - the absolute value of the Instrument price change;
 * Change % - the percentage value of the Instrument price change;
-* Price - the Instrument quote price, which caused the touching/breakdown of the current High/Low price \(preference the new "High/Low" day bar price\);
+* Price - the Instrument quote price, which caused the touching/breakdown of the current High/Low price (preference the new "High/Low" day bar price);
 * Time - the time of the Instrument quote price, which caused the touching/breakdown of the current High/Low price;
 * Volume - the total Instrument volume at the quoted price, which resulted in the touching/breakdown of the current High/Low price;
 * Exchange - the name of the Exchange, to which the Instrument is subscribed.
@@ -46,8 +46,8 @@ This section allows to adjust the coloring scheme for the table panel.
 
 You can set up Background and Text colors for the following elements of the High/Low list:
 
-* Table \(background color\);
-* Grid \(background color\);
+* Table (background color);
+* Grid (background color);
 * Columns header row;
 * Row;
 * Selected row.
@@ -60,8 +60,6 @@ You can set up Background and Text colors for the following elements of the High
 
 
 
-  
-  
-  
-
-
+\
+\
+\

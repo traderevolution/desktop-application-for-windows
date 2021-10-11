@@ -1,6 +1,6 @@
 # Managing columns
 
-### **Resizing columns** 
+### &#xD;**Resizing columns** 
 
 To change the width of a column, simply move the mouse over the column border in the header row to see the cursor change to a double-sided arrow. Then click and drag the border to resize the column.
 
@@ -20,7 +20,7 @@ User can rearrange columns in tables by moving them to new locations. Click on a
 
 ### Filtering
 
-Move cursor over the column header and click on Filter button![](../../../.gitbook/assets/3%20%2856%29.png)to choose the filter criteria in opened window:
+Move cursor over the column header and click on Filter button![](<../../../.gitbook/assets/3 (56).png>)to choose the filter criteria in opened window:
 
 ![](../../../.gitbook/assets/filter.png)
 
@@ -32,11 +32,10 @@ Filter criteria can be different for each column.
 
 Filtering of text columns allows to find the selected symbol in 1 click:
 
-![](../../../.gitbook/assets/managing-columns1%20%282%29.gif)
+![](<../../../.gitbook/assets/managing-columns1 (2).gif>)
 
 ### Sorting
 
 Table data can be sorted by any column. Clicking on a column header sorts the data in descending order. To sort in ascending order, click on the header once again. When data is sorted, special icon appears in the header showing the sorting direction.
 
-![](../../../.gitbook/assets/sorting-icon%20%281%29.jpg)
-
+![](<../../../.gitbook/assets/sorting-icon (1).jpg>)

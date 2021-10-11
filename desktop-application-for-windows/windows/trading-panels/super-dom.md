@@ -2,7 +2,7 @@
 
 The Super DOM panel's active field looks fairly similar to the Market depth ladder, but orders can be placed simply by clicking on the cells in Buy/Sell columns.
 
-To open the Super DOM panel, go to Terminal -&gt; Super DOM:
+To open the Super DOM panel, go to Terminal -> Super DOM:
 
 ![](../../../.gitbook/assets/31.png)
 
@@ -20,7 +20,7 @@ Day high/low – allows showing current high/low levels.
 
 Right click tapping within the Market depth section, evokes the Context menu of the panel.
 
-![](../../../.gitbook/assets/screenshot_2%20%2812%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_2 (12).jpg>)
 
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Recenter – allows recentering the panel relatively to spread;
@@ -30,9 +30,9 @@ Day high/low – allows showing current high/low levels.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms appear from the different boundaries of the column ‘Size’. If false, the histograms appear from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
 
-![](../../../.gitbook/assets/35%20%282%29.png)
+![](<../../../.gitbook/assets/35 (2).png>)
 
-![](../../../.gitbook/assets/36%20%282%29.png)
+![](<../../../.gitbook/assets/36 (2).png>)
 
 * Settings – allows opening a settings tab.
 
@@ -48,12 +48,12 @@ Position bar has extended functionality for Multiple position mode:
 
 When clicking the Price value, one of two options can be selected: Average open price or Break-even.
 
-Break-even = \(Long qty.\*Average long – Short qty.\*Average short\)/\(Long qty. – Short qty.\)
+Break-even = (Long qty.\*Average long – Short qty.\*Average short)/(Long qty. – Short qty.)
 
 When clicking on QTY value, one of two options can be selected: Net QTY or Gross QTY.
 
 1. Net QTY = Qty1 + Qty2 + Qty3
-2. Gross QTY = \|Qty1\| + \|Qty2\| + \|Qty3\|
+2. Gross QTY = |Qty1| + |Qty2| + |Qty3|
 
 The color of QTY cell depends on the side of the position:
 
@@ -72,7 +72,7 @@ On the right side of the Super DOM panel there is a built-in Order entry panel. 
 
 Click on Buy Market or Sell Market to Buy/Sell at market price.
 
-**Mouse trading** – allows trading using mouse \(when the corresponding button is activated on the top of the panel\). Clicking on the Buy column allows placing Buy orders, on the Sell column – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" \(can be changed in General settings   -&gt; Hotkeys -&gt; Super DOM\).
+**Mouse trading** – allows trading using mouse (when the corresponding button is activated on the top of the panel). Clicking on the Buy column allows placing Buy orders, on the Sell column – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" (can be changed in General settings   -> Hotkeys -> Super DOM).
 
 Mouse trading rules:
 
@@ -80,19 +80,19 @@ Mouse trading rules:
 * If there is no order on the current price, it can be exposed by clicking on the empty cell of the column Buy or Sell;
 * If there is an order on the current price, then you can open a new one by clicking on it;
 * If an order is opened on the current price, then clicking on the cross in the right side of its area will lead to its cancellation;
-* If several orders are opened on the current price \(summary volume is shown in the orders area\), then when canceling the order the first exposed order will be cancelled in the first place.
+* If several orders are opened on the current price (summary volume is shown in the orders area), then when canceling the order the first exposed order will be cancelled in the first place.
 
 Clicking on the group of orders on one price allows showing the list of pending orders.
 
-![](../../../.gitbook/assets/screenshot_1.png)
+![](../../../.gitbook/assets/screenshot\_1.png)
 
-### Data source <a id="data-source"></a>
+### Data source <a href="data-source" id="data-source"></a>
 
-In the Super DOM panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/image2-kopiya%20%281%29.png)arrow and the widget will be shown:
+In the Super DOM panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](<../../../.gitbook/assets/image2-kopiya (1).png>)arrow and the widget will be shown:
 
 ![](../../../.gitbook/assets/super2.png)
 
-### **Super DOM settings**
+### &#xD;**Super DOM settings**
 
 Super DOM settings have 2 tabs, each of them consists of several parts:
 
@@ -100,7 +100,7 @@ Super DOM settings have 2 tabs, each of them consists of several parts:
 
 **View**
 
-![](../../../.gitbook/assets/screenshot_1%20%2815%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_1 (15).jpg>)
 
 Base settings:
 
@@ -109,13 +109,13 @@ Base settings:
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms are built from the different boundaries of the column ‘Size’. If false, the histograms are built from the left boundary of the column ‘Size’. Default state: true;
 * Full-size cells – allows extending the bars;
 * Recenter – if checked, then re-centering will occur when hovering the cursor over the panel area; 
-* Recenter type – allows selecting the recenter type: by Ask, Bid or Bid \(+ Ask\)/ 2;
+* Recenter type – allows selecting the recenter type: by Ask, Bid or Bid (+ Ask)/ 2;
 * Compress spread – allows skipping empty levels between the best Bid and best Ask;
 * Show day high/low – allows showing high/low levels for one day;
 * Settlement price – allows displaying settlement price;
 * Previous settlement price – allows displaying previous settlement price;
-* Cancellation priority – allows setting the priority for canceling orders in group \(FIFO, LIFO, Max volume\);
-* Replacing priority – allows setting replacing priority \(FIFO, LIFO, Max volume\);
+* Cancellation priority – allows setting the priority for canceling orders in group (FIFO, LIFO, Max volume);
+* Replacing priority – allows setting replacing priority (FIFO, LIFO, Max volume);
 * Show toolbar – allows showing the toolbar.
 
 ![](../../../.gitbook/assets/d1.png)
@@ -155,9 +155,9 @@ Hover – color and line types settings when sliding the cursor through each pri
 
 Position bar:
 
-Buy/Sell color settings – change colors in the Position bar \(Price and QTY\), when positions are Long/Short;
+Buy/Sell color settings – change colors in the Position bar (Price and QTY), when positions are Long/Short;
 
-Profit/Loss color settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
+Profit/Loss color settings – change colors in the Position bar (Price and QTY), when P/L is positive/negative.
 
 Size bars colors:                
 
@@ -169,20 +169,19 @@ Asks/Bids size bars – color settings for filling the volumes by Ask and Bid.
 
 ![](../../../.gitbook/assets/d61.png)
 
-### **Super DOM hotkeys**
+### &#xD;**Super DOM hotkeys**
 
-The list of hotkeys to set for the Super DOM panel is available in the General settings -&gt; Hotkeys -&gt; Super DOM.
+The list of hotkeys to set for the Super DOM panel is available in the General settings -> Hotkeys -> Super DOM.
 
 The Super DOM hotkeys have the following functions:
 
-*  Cancel last order on selected instrument – allows cancelling the last order on the selected instrument**.**
+*  Cancel last order on selected instrument – allows cancelling the last order on the selected instrument**.**
 * Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
-* Cancel Buy order\(s\) closest to the last price – allows cancelling Buy order\(s\) closest to the last price.
-* Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
+* Cancel Buy order(s) closest to the last price – allows cancelling Buy order(s) closest to the last price.
+* Cancel Sell order(s) closest to the last price – allows cancelling Sell order(s) closest to the last price.
 * Mouse trading – activates trading using mouse.
 * Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
-* Set recenter type to Bid \(+Ask\) / 2 – allows setting the Bid \(+Ask\) / 2 recenter type;
+* Set recenter type to Bid (+Ask) / 2 – allows setting the Bid (+Ask) / 2 recenter type;
 * Set recenter type to ask - allows recentering the panel relatively to Ask;
 * Set recenter type to bid - allows recentering the panel relatively to Bid;
 * Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.
-

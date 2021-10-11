@@ -4,19 +4,18 @@ The MAM panel includes a built-in Order entry panel for one-click trading. This 
 
 ![](../../../.gitbook/assets/mam1.jpg)
 
-### **Modifying and closing group positions**
+### &#xD;**Modifying and closing group positions**
 
 Each position in the Desktop terminal has a Group ID. Group IDs are assigned to positions based on the method that the positions were opened by. When a MAM manager opens a position for all active accounts in the MAM group, those positions are assigned one single Group ID.
 
-To view, modify, and close positions based on MAM group, simply navigate to the Positions panel, right click, and select Group By -&gt; MAM group ID. This will show all positions by their Group ID.
+To view, modify, and close positions based on MAM group, simply navigate to the Positions panel, right click, and select Group By -> MAM group ID. This will show all positions by their Group ID.
 
 To modify positions by MAM group ID, right click within the one position of the group and select Modify group. This will open the Modify position window and changes will be made for the whole group.
 
-Likewise, to close positions by Group ID, right click within the one position of the group and select Close position -&gt; Close by MAM group ID.
+Likewise, to close positions by Group ID, right click within the one position of the group and select Close position -> Close by MAM group ID.
 
 ![](../../../.gitbook/assets/mam2.png)
 
 {% hint style="warning" %}
 Trading using MAM group from any panel except MAM for MAM group is prohibited. Portfolio trading is forbidden from the MAM panel as well.
 {% endhint %}
-

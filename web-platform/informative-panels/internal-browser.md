@@ -14,8 +14,7 @@ Click on the Tool name in order to open the Internal Browser window.
 
 In order to attach this panel, click on the "Attach" button located at the top right corner of the Internal Browser window. 
 
-![](https://lh3.googleusercontent.com/FWjKm8QYY5TyOzUXELPxI2FxQ-NJPSmVjgG1U5_XQ_jVX6PAC8ab0k1lNaIHdgA_0d0NSkKDrSGSJa1BupLt80L0bVClEthmqCxFBQECd5NwcNKF3nLFqrAxMvOiZ9xagb56hwhL)
+![](https://lh3.googleusercontent.com/FWjKm8QYY5TyOzUXELPxI2FxQ-NJPSmVjgG1U5\_XQ_jVX6PAC8ab0k1lNaIHdgA\_0d0NSkKDrSGSJa1BupLt80L0bVClEthmqCxFBQECd5NwcNKF3nLFqrAxMvOiZ9xagb56hwhL)
 
-Then click on the header of Internal Browser window and move the panel to the preferred place at the platform.  
+Then click on the header of Internal Browser window and move the panel to the preferred place at the platform.\
 ****
-

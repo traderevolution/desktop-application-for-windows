@@ -2,13 +2,13 @@
 
 Positions panel lists all currently opened positions. When a new position is opened, it appears in this panel immediately.
 
-To open the Positions panel, select 'Terminal -&gt; Positions':
+To open the Positions panel, select 'Terminal -> Positions':
 
 ![](../../../.gitbook/assets/11p.png)
 
 ### **Buttons toolbar**
 
-The Positions' toolbar can be opened via ‘Context menu -&gt; View -&gt; Show toolbar’. It contains the following buttons which can be activated via toolbar’s context menu:
+The Positions' toolbar can be opened via ‘Context menu -> View -> Show toolbar’. It contains the following buttons which can be activated via toolbar’s context menu:
 
 ![](../../../.gitbook/assets/21p-small.png)
 
@@ -47,15 +47,15 @@ Positions panel displays information about all currently opened positions via th
 * Fee – a total commission amount taken for a position;
 * Gross P/L – profit/loss in account's currency, calculated on base of a price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\);
+For Long position: Gross P/L = Qty. \* Lot size \* (Current price - Open price);
 
-For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\);
+For Short position: Gross P/L = Qty. \* Lot size \* (Open price - Current price);
 
 P/L for Spreadbet instrument type is calculated depending on price change in ticks:
 
-For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* \( \(Current price - Open price\)/Tick size\) \);
+For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* ( (Current price - Open price)/Tick size) );
 
-For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* \( \(Open price - Current price\)/Tick size\) \).
+For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* ( (Open price - Current price)/Tick size) ).
 
 Cross price is applied in case when account currency doesn't correspond to Betting currency.
 
@@ -70,11 +70,11 @@ Net P/L = Gross P/L - Fee.
 * Strike price – a price of an option contract's performance;
 * Position exposure – an exposure for a position measured in account's currency. Calculated on base of open price:
 
-Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – for Forex;
+Position exposure = Price \* Quantity \* Lot size \* Cross price (quoting CCY > account currency) – for Forex;
 
-Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – for Futures;
+Position exposure = Price \* Quantity \* (Tick cost/Tick size) \* Cross price (quoting CCY > account currency) – for Futures;
 
-In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+In all cases Cross price (quoting CCY > account currency) is a current cross price.
 
 * Position value – a current value of a position. Calculated on base of a current market price:
 
@@ -99,19 +99,19 @@ The Positions' context menu includes the following options:
 
 * Modify position – opens a position modification window, which allows to modify a selected position;
 * Close – gives access to the following options:
-  * Close position \[\#\#\#\] – closes a selected position;
-  * Close by \[...\] for \[...\] – closes all positions in the panel by a symbol of a selected position for an account of a selected position;
+  * Close position \[###] – closes a selected position;
+  * Close by \[...] for \[...] – closes all positions in the panel by a symbol of a selected position for an account of a selected position;
   * Close all long;
   * Close all short;
   * Close all negative;
   * Close all positive;
   * Close all positions.
 * CLX – gives access to the following options:
-  * CLX by \[...\] for \[...\] – closes all positions and cancels all orders in the panel by a symbol of a selected position for an account of a selected position;
+  * CLX by \[...] for \[...] – closes all positions and cancels all orders in the panel by a symbol of a selected position for an account of a selected position;
   * CLX all – closes all opened positions and cancels all orders.
 * Reverse – gives access to the following options:
-  * Reverse position \[\#\#\#\] – reverses a selected position;
-  * Reverse by \[...\] for \[...\] – reverses positions by selected symbol and account;
+  * Reverse position \[###] – reverses a selected position;
+  * Reverse by \[...] for \[...] – reverses positions by selected symbol and account;
   * Reverse all positions – reverses all positions.
 * View – allows to show/hide the row showing the total values for columns and to show toolbar of the panel;
 * Search – allows to show/hide a search lookup;
@@ -125,15 +125,13 @@ The Positions' context menu includes the following options:
   * Symbol.
 * Duplicate panel – allows to make a copy of a current panel;
 * Preferences – opens the 'Positions Preferences' window;
-* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+*   Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
 
-  After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
+    After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
-  Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Close position, Reverse, CLX.**
+    Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position:** Modify position, Close position, Reverse, CLX.**
 
-  The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
+    The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
+*   Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
-* Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
-
-  After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Close position, Reverse, CLX** operations become allowed for the position.
-
+    After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Close position, Reverse, CLX** operations become allowed for the position.

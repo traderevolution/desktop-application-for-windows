@@ -2,19 +2,19 @@
 
 The Chart screen can be accessed from the Watchlist screen. Also, it is possible to open a chart from the Orders, Positions, and Assets panels by swiping the desired instrument or asset to the left and tapping the ‘Chart’ button.
 
-![](../../../.gitbook/assets/1%20%28134%29.png)
+![](<../../../.gitbook/assets/1 (134).png>)
 
 In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the time frame.
 
 Tap the name of the symbol at the list of added symbols to open the chart:
 
-![](../../../.gitbook/assets/1%20%281%29.jpg)
+![](<../../../.gitbook/assets/1 (1).jpg>)
 
-### **Chart toolbar** 
+### &#xD;**Chart toolbar** 
 
 Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 
-![](../../../.gitbook/assets/2%20%285%29.jpg)
+![](<../../../.gitbook/assets/2 (5).jpg>)
 
 The Chart toolbar consists of 3 items:
 
@@ -22,7 +22,7 @@ Tap the ![](../../../.gitbook/assets/2-kopiya.png) button to open Chart toolbar.
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen and configure the Default and Alert parameters.
 
-![](../../../.gitbook/assets/new1%20%2811%29.jpg)
+![](<../../../.gitbook/assets/new1 (11).jpg>)
 
 The following chart settings are available for configuration:
 
@@ -39,21 +39,21 @@ The following chart settings are available for configuration:
 
 ### **Indicators**
 
-In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add.%20%282%29.jpg)near the indicator name at the list of available Indicators.
+In order to add a new indicator, choose the category of indicators (Channels, Moving averages, Oscillators etc.) and tap the button![](<../../../.gitbook/assets/add. (2).jpg>)near the indicator name at the list of available Indicators.
 
-![](../../../.gitbook/assets/4%20%285%29.jpg)
+![](<../../../.gitbook/assets/4 (5).jpg>)
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify%20%281%29.jpg). Tap the button![](../../../.gitbook/assets/delete..jpg)located near indicator’s name to remove indicator from this section.
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](<../../../.gitbook/assets/modify (1).jpg>). Tap the button![](../../../.gitbook/assets/delete..jpg)located near indicator’s name to remove indicator from this section.
 
-![](../../../.gitbook/assets/5%20%282%29.jpg)
+![](<../../../.gitbook/assets/5 (2).jpg>)
 
 Open the chart to see the added indicators.
 
-![](../../../.gitbook/assets/6%20%282%29.jpg)
+![](<../../../.gitbook/assets/6 (2).jpg>)
 
-### **Order entry** 
+### &#xD;**Order entry** 
 
-The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/1-kopiya%20%283%29.png)is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon![](<../../../.gitbook/assets/1-kopiya (3).png>)is located at the top right corner of the Chart screen.
 
 ![](../../../.gitbook/assets/7.jpg)
 
@@ -67,9 +67,9 @@ A set of graphical tools is available to assist in price movements analysis:
 
 ![](../../../.gitbook/assets/10.jpg)
 
-All of these tools are accessible via the Drawings panel. In order to open this panel tap the![](../../../.gitbook/assets/screenshot_3%20%2814%29.jpg)icon. The following panel will be opened:
+All of these tools are accessible via the Drawings panel. In order to open this panel tap the![](<../../../.gitbook/assets/screenshot\_3 (14).jpg>)icon. The following panel will be opened:
 
-![](../../../.gitbook/assets/8%20%281%29.jpg)
+![](<../../../.gitbook/assets/8 (1).jpg>)
 
 The following list of graphical tools is currently available:
 
@@ -110,13 +110,13 @@ Polygon drawings:
 In order to place a tool:
 
 * Open the Drawings panel and select the desired drawing tool;
-* If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), the user can place these points on the chart by tapping the required places.
+* If a tool requires points to be specified on the chart (e.g. a line requires two points while Andrew's pitchfork requires three), the user can place these points on the chart by tapping the required places.
 
 #### Settings
 
 Each drawing has its vertical Settings bar:
 
-![](../../../.gitbook/assets/screenshot_2%20%2810%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_2 (10).jpg>)
 
 This bar allows the user to configure the following settings:
 
@@ -134,6 +134,4 @@ In the Chart panel a user can see the the extended information about the source 
 
 ![](../../../.gitbook/assets/chqrt2.jpeg)
 
-  
-
-
+\

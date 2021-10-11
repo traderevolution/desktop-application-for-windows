@@ -4,7 +4,7 @@ Event log panel displays all events that occurred during trading sessions. Click
 
 ![](../../../.gitbook/assets/event-log.png)
 
-### Time filter
+### &#xD;Time filter
 
 At the top left corner of the toolbar of the panel there is a combo box ‘Time filter’. It allows to select time period for which a user wants to see logs. The following periods are available:
 
@@ -31,4 +31,3 @@ The context menu allows the following options:
 * Clear – clears the 'Event log' table. This option doesn't delete data, this is just for clearing a current Event log panel view.
 * Search – allows to show/hide the Search lookup in the toolbar;
 * Group by – allows to group logs by Type or by Event.
-

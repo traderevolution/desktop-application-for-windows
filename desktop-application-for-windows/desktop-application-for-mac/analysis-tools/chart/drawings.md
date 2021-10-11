@@ -8,9 +8,9 @@ The following list of graphical tools is currently available:
 
 Trend tools:
 
-* Horizontal line – places a horizontal line on the chart that can be extended to the left in order to monitor starting points of levels plotting on the chart history \(option 'Extend left' in the 'Preferences'\);
+* Horizontal line – places a horizontal line on the chart that can be extended to the left in order to monitor starting points of levels plotting on the chart history (option 'Extend left' in the 'Preferences');
 * Vertical line – places a vertical line on the chart;
-* Line – places a line on the chart that may be extended beyond both sides with an option to show the angle of the trend \(set in the 'Preferences'\);
+* Line – places a line on the chart that may be extended beyond both sides with an option to show the angle of the trend (set in the 'Preferences');
 * Price channel – places levels on a trend line;
 * Andrew's pitchfork – places Andrew's channel Polygon;
 
@@ -41,16 +41,16 @@ Properties:
 
 In order to place a tool:
 
-* Open Context menu and select Drawing tools -&gt; \[desired tool\] or click on an appropriate icon in the Drawing toolbar.
-*  If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), you can choose these points using 'Snap to candle' option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
+* Open Context menu and select Drawing tools -> \[desired tool] or click on an appropriate icon in the Drawing toolbar.
+*  If a tool requires points to be specified on the chart (e.g. a line requires two points while Andrew's pitchfork requires three), you can choose these points using 'Snap to candle' option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
 
 {% hint style="warning" %}
 Freehand is the default setting when selecting a tool from the Drawing toolbar and 'Snap to candle' is disabled.
 {% endhint %}
 
-### Context menu
+### &#xD;Context menu
 
-Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu![](../../../../.gitbook/assets/context-menu-small%20%281%29.png). 
+Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu![](<../../../../.gitbook/assets/context-menu-small (1).png>). 
 
 * Preferences – allows to specify tool’s appearance and preferences;
 * Remove – deletes selected tool.
@@ -70,6 +70,4 @@ Drawing's 'Preferences' window contains different sections depending on drawing'
 * Fibonacci – allows to add, delete Fibonacci levels and edit their values.
 
 ![](../../../../.gitbook/assets/fibonacci-2.png)
-
-
 

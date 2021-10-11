@@ -4,11 +4,11 @@ Position sizing is the size of a position within a portfolio or the dollar amoun
 
 If the Position sizing function is available, then the![](../../../../.gitbook/assets/1-kopiya.jpeg)button will be displayed next to the “Quantity” field. 
 
-![](../../../../.gitbook/assets/image1%20%283%29.png)
+![](<../../../../.gitbook/assets/image1 (3).png>)
 
 When a user taps this button for the first time, the following info screen will be shown:
 
-![](../../../../.gitbook/assets/image%20%2871%29.png)
+![](<../../../../.gitbook/assets/image (71).png>)
 
 If a user unchecks the "Show next time" setting, the next time the button is tapped, the info screen will not be shown. When a user taps the “Ok” button on the info window, additional fields will appear in the Order entry screen for automatic calculation of the quantity. When tapping the Position sizing button, it turns yellow and the “Quantity” field becomes disabled.
 
@@ -30,70 +30,21 @@ If SL is forbidden, then the Position size calculator will be disabled.
 
 Quantity with consideration of the propensity to risk, is calculated by the formula:
 
-_**Quantity = \(Risk per trade, ccy \* crossPrice\) / Risk per share**_ ,
+_**Quantity = (Risk per trade, ccy \* crossPrice) / Risk per share**_ ,
 
 where:
 
-- Risk per trade - risk propensity in the account currency.  This is the value that a user enters into the “Account risk” field. If a value is entered in percentage, then it will be determined how much it is in the account currency by the formula: \(Available funds \* Risk,%\) / 100%;
+\- Risk per trade - risk propensity in the account currency.  This is the value that a user enters into the “Account risk” field. If a value is entered in percentage, then it will be determined how much it is in the account currency by the formula: (Available funds \* Risk,%) / 100%;
 
-- crossPrice - cross rate from the account currency to the quote currency of the instrument;
+\- crossPrice - cross rate from the account currency to the quote currency of the instrument;
 
-- Risk per share is calculated by formulas:
+\- Risk per share is calculated by formulas:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">For the quote currency tickCost/tickSze</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = false:</b> 
-      </td>
-      <td style="text-align:left">
-        <p><b>Risk per share = abs(Price - SL price)</b> or</p>
-        <p><b>Risk per share = abs(Price - SL limit price)</b> if <b>Use Stop limit instead of Stop</b> is
-          used</p>
-      </td>
-      <td style="text-align:left"><b>Risk per share = abs(Price - SL price)*tickCost/tickSize</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = true </b>and<b> Show offset in = Ticks: </b>
-      </td>
-      <td style="text-align:left">
-        <p><b>Risk per share = SL offset * tick size</b> or</p>
-        <p><b>Risk per share = (SL offset + SL limit offset) * tick size</b> if <b>Use Stop limit instead of Stop</b> is
-          used</p>
-      </td>
-      <td style="text-align:left"><b>Risk per share = SL offset * tickCost</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = true </b>and<b> Show offset in = Points:</b> 
-      </td>
-      <td style="text-align:left">
-        <p><b>Risk per share = SL offset</b> or</p>
-        <p><b>Risk per share = (SL offset + SL limit offset)</b> if <b>Use Stop limit instead of Stop</b> is
-          used</p>
-      </td>
-      <td style="text-align:left"><b>Risk per share = SL offset*tickCost/tickSize</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = true </b>and<b> Show offset in = Ticks (fractional ticks for Forex):</b>
-      </td>
-      <td style="text-align:left">
-        <p><b>Risk per share = SL offset * 10 * tick size</b> or</p>
-        <p><b>Risk per share = (SL offset + SL limit offset) * 10 * tick size</b> if <b>Use Stop limit instead of Stop</b> is
-          used</p>
-      </td>
-      <td style="text-align:left">The same as for offset in ticks</td>
-    </tr>
-  </tbody>
-</table>
+|                                                                                                         |                                                                                                                                                                                                                           | For the quote currency tickCost/tickSze                       |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| When **Set SL/TP values in offset = false:**                                                            | <p><strong>Risk per share = abs(Price - SL price)</strong> or </p><p><strong>Risk per share = abs(Price - SL limit price)</strong> if <strong>Use Stop limit instead of Stop</strong> is used</p>                         | **Risk per share = abs(Price - SL price)\*tickCost/tickSize** |
+| When **Set SL/TP values in offset = true **and** Show offset in = Ticks: **                             | <p><strong>Risk per share = SL offset * tick size</strong> or </p><p><strong>Risk per share = (SL offset + SL limit offset) * tick size</strong> if <strong>Use Stop limit instead of Stop</strong> is used</p>           | **Risk per share = SL offset \* tickCost**                    |
+| When **Set SL/TP values in offset = true **and** Show offset in = Points:**                             | <p><strong>Risk per share = SL offset</strong> or </p><p><strong>Risk per share = (SL offset + SL limit offset)</strong> if <strong>Use Stop limit instead of Stop</strong> is used</p>                                   | **Risk per share = SL offset\*tickCost/tickSize**             |
+| When **Set SL/TP values in offset = true **and** Show offset in = Ticks (fractional ticks for Forex):** | <p><strong>Risk per share = SL offset * 10 * tick size</strong> or </p><p><strong>Risk per share = (SL offset + SL limit offset) * 10 * tick size</strong> if <strong>Use Stop limit instead of Stop</strong> is used</p> | The same as for offset in ticks                               |
 
  
-

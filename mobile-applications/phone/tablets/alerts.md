@@ -2,11 +2,11 @@
 
 In order to take advantage of the alerts, the user should open the corresponding tab that is located in the terminal main menu:
 
-![](../../../.gitbook/assets/new2%20%284%29.jpg)
+![](<../../../.gitbook/assets/new2 (4).jpg>)
 
 To set up a new alert, tap the ‘Create new’ button located in the general Alerts screen. The alert creation menu looks as follows, the user can also find Bid, Ask, Last, Change%, and Volume data by the selected instrument here:
 
-![](../../../.gitbook/assets/new1%20%283%29.jpg)
+![](<../../../.gitbook/assets/new1 (3).jpg>)
 
 Alert creation screen contains the following settings:
 
@@ -21,7 +21,7 @@ Alert creation screen contains the following settings:
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
   * Sound – a musical alert will be played to the user in the client.
 * Alert type – allows to set an alert type. Available options are: Ask, Bid, Last, Change%, Volume;
-* Condition – allows to set an alert condition. Available values are: &gt;,&lt;,&gt;=,&lt;=;
+* Condition – allows to set an alert condition. Available values are: >,<,>=,<=;
 * Value – allows to set a value of Alert type for reaching the condition;
 * Importance – allows to define the alert importance. The following options are available: High, Medium, Low. After the alert execution, the user gets a notification with the corresponding color of the indicator which depends on importance of the alert;
 * Expiration – date/time picker that allows specifying the period of the alert lifetime;
@@ -31,11 +31,11 @@ Alert creation screen contains the following settings:
 
 ### Alerts management
 
-In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of active alerts ****![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
+In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of active alerts** **![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
 
 The alert management screen contains a table that lists all created alerts as well as controls for performing certain actions:
 
-![](../../../.gitbook/assets/new3%20%281%29.jpg)
+![](<../../../.gitbook/assets/new3 (1).jpg>)
 
 * Symbol – name of the instrument for which the alert was created;
 * Condition – displays the condition upon reaching which the alert must be executed;
@@ -56,13 +56,13 @@ The chart displays all active alerts for the instrument selected in the symbol l
 
 In order to create a new alert, the user must perform a long tap on the needed price scale level. At the level where the long tap was made, an alert label will appear, it contains a confirmation button for setting an alert:
 
-![](../../../.gitbook/assets/screenshot_2-1-%20%281%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_2-1- (1).jpg>)
 
 If the alert was set at the wrong level, the user can simply drag the alert label to the required level, and only then press the confirmation button. When creating an alert on a chart by long tap, the following parameters are applied to it:
 
 * Symbol – symbol for which the chart is opened;
 * Alert type – data type for which the chart is opened;
-* Condition – if the alert is set above the current price then &gt;=, if the alert is set below the current price then &lt;=;
+* Condition – if the alert is set above the current price then >=, if the alert is set below the current price then <=;
 * Value – price value at the level where the alert is set;
 * Importance – always Medium;
 * Expiration – +30 days from the time of the alert placement;
@@ -73,7 +73,6 @@ If the alert was set at the wrong level, the user can simply drag the alert labe
 
 In order to edit or remove the alert, the user should use the corresponding buttons, which become visible by tapping the alert label:
 
-![](../../../.gitbook/assets/screenshot_2-2-.jpg)
+![](../../../.gitbook/assets/screenshot\_2-2-.jpg)
 
-Tapping the Edit button will result in opening the corresponding screen, it is similar to the one intended for creating the alert. Editing the alert from the chart is also possible by using the Drag&Drop function. When using it, the alert is modified without additional confirmation, just drag the alert to the required position.
-
+Tapping the Edit button will result in opening the corresponding screen, it is similar to the one intended for creating the alert. Editing the alert from the chart is also possible by using the Drag\&Drop function. When using it, the alert is modified without additional confirmation, just drag the alert to the required position.

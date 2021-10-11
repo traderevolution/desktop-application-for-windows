@@ -4,9 +4,9 @@
 
 #### **Data style**
 
-![](../../../../.gitbook/assets/27%20%281%29.png)
+![](<../../../../.gitbook/assets/27 (1).png>)
 
-* Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -&gt; \[desired style\].
+* Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style -> \[desired style].
 * Data type - the way to accept data. Available types are: Bid, Ask, Last and Default by symbol. Based on server settings Last or Bid/Ask type can be disabled.
 * Color settings for all styles.
 
@@ -16,7 +16,7 @@
 
 * Back color - allows setting up the color of the chart background.
 * Watermark color - allows setting up the color of the watermark.
-* Watermark mode - allows displaying the Symbol/Description watermark \(or both\) as well as hiding it.
+* Watermark mode - allows displaying the Symbol/Description watermark (or both) as well as hiding it.
 * Crosshair - allows activating and setting up cursor lines, as well as font color of price/time labels.
 * Grid - allows activating and setting up grid on the chart.
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
@@ -36,9 +36,9 @@
 
 #### **Price scale**
 
-![](../../../../.gitbook/assets/30%20%281%29.png)
+![](<../../../../.gitbook/assets/30 (1).png>)
 
-![](../../../../.gitbook/assets/31%20%281%29.png)
+![](<../../../../.gitbook/assets/31 (1).png>)
 
 * Scale type - allows selecting type of the scale price and start price for the chart: Absolute, Relative and Logarithmic.
   * Absolute - displays the price scale in the absolute units.
@@ -59,13 +59,13 @@
 * Spread type - allows setting up the way of spread displaying:
   * None
   * Area
-  * Line \(Bid and Ask\)
-  * Line with price \(Bid and Ask\)
+  * Line (Bid and Ask)
+  * Line with price (Bid and Ask)
   * Price
 
-If spread type is None - single price indicator is shown, depending on chart data type \(Bid, Last, Ask etc.\)
+If spread type is None - single price indicator is shown, depending on chart data type (Bid, Last, Ask etc.)
 
-* Spread area color - color of spread area \(if it's chosen as spread type\).
+* Spread area color - color of spread area (if it's chosen as spread type).
 * Previous close line - type and color. Available only for Time, Tick, Price range and Heikin Ashi aggregation types.
 * Day High/Low lines - type and color. Available only for Time, Tick, Price range and Heikin Ashi aggregation types.
 * Settlement price - allows displaying settlement price on the chart and choosing the style of its line.
@@ -73,15 +73,15 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 #### Alerts
 
-![](../../../../.gitbook/assets/image%20%2857%29.png)
+![](<../../../../.gitbook/assets/image (57).png>)
 
-* Notification – ****allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
+* Notification –** **allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low;
 * After execute – allows to select alert behavior after execution. Available options are: Stop or Remove.
 
 #### **Visual trading**
 
-![](../../../../.gitbook/assets/32%20%281%29.png)
+![](<../../../../.gitbook/assets/32 (1).png>)
 
 * Open positions - allows displaying opened positions on chart and setting up style of lines.
 * Working orders - allows displaying working orders on the chart and setting up the style of lines.
@@ -90,7 +90,7 @@ If spread type is None - single price indicator is shown, depending on chart dat
 
 #### **Chart Order entry**
 
-![](../../../../.gitbook/assets/33%20%281%29.png)
+![](<../../../../.gitbook/assets/33 (1).png>)
 
 This section allows choosing buttons and hot buttons which will be displayed in built-in Order entry.
 
@@ -104,5 +104,4 @@ If spread type is None - single price indicator is shown, depending on chart dat
 Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
 {% endhint %}
 
-Other settings sections \(Volume bars, Price statistics, etc.\) are described in the articles located in the 'Analysis tools' documentation section.
-
+Other settings sections (Volume bars, Price statistics, etc.) are described in the articles located in the 'Analysis tools' documentation section.

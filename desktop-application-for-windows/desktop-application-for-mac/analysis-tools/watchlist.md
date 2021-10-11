@@ -2,11 +2,11 @@
 
 The Watchlist panel displays real-time market data for each symbol available through a broker.
 
-To open the Watchlist panel, select Terminal -&gt; Watchlist:
+To open the Watchlist panel, select Terminal -> Watchlist:
 
 ![](../../../.gitbook/assets/new-w.png)
 
-### Columns
+### &#xD;Columns
 
 The context menu of the Watchlist table's header allows to adjust visibility of its columns. To open this context menu, right-click on the table's header which is located under the panel's toolbar. For each symbol, the following information is available:
 
@@ -17,7 +17,7 @@ The context menu of the Watchlist table's header allows to adjust visibility of 
 * Last update – a time period between a last quote's update and a current moment;
 * Volume – shows cumulative volume traded for today. Volume is null for OTC FX instruments, not null for Exchange traded instruments;
 * Exchange – name of the exchange on which symbol is traded;
-* Match volume – shows volume traded on the auction session \(pre & post\);
+* Match volume – shows volume traded on the auction session (pre & post);
 * Bid – the last best bid price;
 * Bid size – the volume of the best bid;
 * Ask – the last best ask price;
@@ -32,10 +32,10 @@ The context menu of the Watchlist table's header allows to adjust visibility of 
 * Low – the day's lowest price;
 * Previous close – the previous day's close price;
 * Lot size – the size of one lot;
-* Expiration date – the date of expiration \(for options\);
-* Spread – the change for current price in pips \(Ask-Bid\);
-* Description – the symbol description \(company name, type\);
-* Symbol type – the symbol type \(market category\);
+* Expiration date – the date of expiration (for options);
+* Spread – the change for current price in pips (Ask-Bid);
+* Description – the symbol description (company name, type);
+* Symbol type – the symbol type (market category);
 * Current session – information on the current trading session for the instrument;
 * Symbol status – the instrument trading status, available values: Open, Closed. With the symbol status set to Closed, the instrument trading is blocked;
 * Ticks – displays quantity of L1 quotes that came from Provider; also can be used for displaying the volumes of FX symbols;
@@ -59,7 +59,7 @@ Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist 
 
 ​Right clicking within the Watchlist panel evokes its context menu. From this menu a user can:
 
-* edit symbols lists: add new symbols, remove the needed symbol\(s\) or clear all symbols at once;
+* edit symbols lists: add new symbols, remove the needed symbol(s) or clear all symbols at once;
 * switch among existing symbols lists;
 * group symbols by: lot size, expiration date, symbol type;
 * duplicate the Watchlist panel;
@@ -69,13 +69,13 @@ Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist 
 
 Symbol info panel displays information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option.
 
-![](../../../.gitbook/assets/unnamed-1-%20%281%29.png)
+![](<../../../.gitbook/assets/unnamed-1- (1).png>)
 
 The Symbol info window will be opened:
 
-![](../../../.gitbook/assets/screenshot_3%20%2816%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_3 (16).jpg>)
 
-The panel header contains a control for panel linking in addition to the standard ones, it is not active by default. When linking is enabled in the Symbol info panel, focusing on an instrument in another panel \(Watchlist, Positions, Orders, etc.\) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
+The panel header contains a control for panel linking in addition to the standard ones, it is not active by default. When linking is enabled in the Symbol info panel, focusing on an instrument in another panel (Watchlist, Positions, Orders, etc.) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
 
 All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following buttons appear in a header of a group when it is hidden or opened![](../../../.gitbook/assets/mac-buttons-small.png). 
 
@@ -85,7 +85,7 @@ The following information is available in each group:
 
 * Symbol – name of a symbol selected in the lookup;
 * Description – detailed symbol's information;
-* Exchange – an exchange name, where the instrument \(symbol\) is traded;
+* Exchange – an exchange name, where the instrument (symbol) is traded;
 * Symbol type – type of a symbol traded on the market;
 * Settlement system – T+x settlement cycle;
 * Asset – displays the Asset assigned to the Instrument, if available. Available for ETFs;
@@ -102,13 +102,13 @@ The following information is available in each group:
 
 For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
-       - Contract month;
+       \- Contract month;
 
-       - Contract month, Last trade date, Settlement date, Notice date, First trade date;
+       \- Contract month, Last trade date, Settlement date, Notice date, First trade date;
 
-       - Contract month, Last trade date, Settlement date, Notice date;
+       \- Contract month, Last trade date, Settlement date, Notice date;
 
-       - Contract month, Last trade.
+       \- Contract month, Last trade.
 
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments. Can be only Cash for Bonds;
 * Strike price – price level of an underlier by which Option contract must be executed;
@@ -119,9 +119,9 @@ For symbols with asset class Futures and Options, expiration dates templates are
 * Coupon cycle – periodicity of a bond yield payment to a position holder. Available for Bonds;
 * YTM, % – a current interest rate on a bond yield. Available for Bonds. Clicking the link Refresh allows to refresh the YTM's value.
 
-YTM, % = \( \(Coupon payment + \(Face value - Current price\)/N\) / \(\(Face value + Current price\)/2\) \) \* 100%, where:
+YTM, % = ( (Coupon payment + (Face value - Current price)/N) / ((Face value + Current price)/2) ) \* 100%, where:
 
-Coupon payment=\(Coupon rate/100\) \* Face value;
+Coupon payment=(Coupon rate/100) \* Face value;
 
 Current price - Current price of a bond;
 
@@ -183,24 +183,24 @@ If coefficients of initial and maintenance margin have the same value, for examp
 
 4\) Fees:
 
-* Fill per lot \(Buy/Sell/Short/Open/Close\) – trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for each fill;
+* Fill per lot (Buy/Sell/Short/Open/Close) – trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for each fill;
 * Order per lot – trader pays fee for each traded lot. Verification of Min. value withdrawal is executed for a whole order;
-* Custody – displays the Custodial fee measure in basis points \(bp\) for the Instrument, if available;
-* Fill volume \(Buy/Sell/Short/Open/Close\), % – fee calculates on base of the volume of each trade;
-* Fill volume \(Buy/Sell/Open/Close\) with min p/d, % – commission from the volume, which ensures a day minimum in case of partial filling of an order;
+* Custody – displays the Custodial fee measure in basis points (bp) for the Instrument, if available;
+* Fill volume (Buy/Sell/Short/Open/Close), % – fee calculates on base of the volume of each trade;
+* Fill volume (Buy/Sell/Open/Close) with min p/d, % – commission from the volume, which ensures a day minimum in case of partial filling of an order;
 * Per fill – trader pays fee for each fill of an order;
 * Per transaction – trader pays fee for each transaction. Transactions: place an order, cancel an order, and modify an order;
 * Per phone transaction – trader pays fee for each transaction which was made by a Phone dealer;
 * VAT – trader pays VAT from each fee operation;
-* Order volume % \(Buy/Sell/Open/Close\) – trader pays fee per each part of order volume that was filled;
+* Order volume % (Buy/Sell/Open/Close) – trader pays fee per each part of order volume that was filled;
 * Long swap – shows the swap value applied to overnight long positions of an instrument;
 * Short swap – shows the swap value applied to overnight short positions of an instrument;
-* Short position interest, % – shows the interest for short positions value for an instrument \(available for Equities, Equities CFD\), if available;
+* Short position interest, % – shows the interest for short positions value for an instrument (available for Equities, Equities CFD), if available;
 * Latest historical long swap – shows the long swap value for the previous day;
 * Latest historical short swap – shows the short swap value for the previous day;
 * Historical swap last updated on – shows the date of last historical swaps update;
-* Option exercise fee \(Long\) – fee that will be charged on the Long option expiration date, but only if the option has status ‘in-the-money’ by that time. Commission will be charged for the early option execution as well;
-* Option exercise fee \(Short\) – fee that will be charged on the Short option expiration date, but only if the option has status ‘in-the-money’ by that time.
+* Option exercise fee (Long) – fee that will be charged on the Long option expiration date, but only if the option has status ‘in-the-money’ by that time. Commission will be charged for the early option execution as well;
+* Option exercise fee (Short) – fee that will be charged on the Short option expiration date, but only if the option has status ‘in-the-money’ by that time.
 
 The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fill', 'Volume, %' and 'Order volume %' can be set depending on quantity ranges.
 
@@ -210,7 +210,7 @@ Symbol info panel displays these fee types depending upon commission plan settin
 
 The rebates value can be set for the fee types such as 'Per lot', 'Fill volume, %' depending on quantity ranges.
 
-* Add/Remove liquidity rebate per lot – means that for each lot in a made trade the fixed rebate value will be charged/returned \(in the plan's currency\);
+* Add/Remove liquidity rebate per lot – means that for each lot in a made trade the fixed rebate value will be charged/returned (in the plan's currency);
 * Add/Remove liquidity rebate per volume, % – means that charged/returned sum will be calculated as a percent from a trade volume.
 
 5\) Indicative market schedule:
@@ -223,7 +223,6 @@ Information about settings for all trade sessions:
 * Post-market;
 * After market.
 
-In order to make the needed columns or rows with parameters visible in the Symbol info panel, go to Context menu -&gt; Preferences -&gt; Columns -&gt; and simply check them in the list.
+In order to make the needed columns or rows with parameters visible in the Symbol info panel, go to Context menu -> Preferences -> Columns -> and simply check them in the list.
 
-### 
-
+### &#xD;

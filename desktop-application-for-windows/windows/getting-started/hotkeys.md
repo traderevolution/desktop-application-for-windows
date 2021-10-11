@@ -2,9 +2,9 @@
 
 Hotkey is a key or a combination of keys providing quick access to a particular function. The same functionality can be activated using the mouse by selecting the functionality in a menu, but using the equivalent hotkey is much faster. The description below is given within the bounds of each panel.
 
-![](../../../.gitbook/assets/new1%20%2815%29.jpg)
+![](<../../../.gitbook/assets/new1 (15).jpg>)
 
-### Accounts
+### &#xD;Accounts
 
 View report – allows viewing a report of account activity. The certain account in the panel should be chosen to make the hotkey work.
 
@@ -40,9 +40,9 @@ Show open positions – allows displaying opened positions on the chart;
 
 Show volume – shows the volume profile on the chart.
 
-Show working orders – ****allows displaying working orders on the chart;
+Show working orders –** **allows displaying working orders on the chart;
 
-Set period \(Tick, 1 m, 5 m, 15 m, 30 m, 1 H, 4 H, 1 D, 1 W, 1 Month, 1 Y\) – allows specifying the timeframe.
+Set period (Tick, 1 m, 5 m, 15 m, 30 m, 1 H, 4 H, 1 D, 1 W, 1 Month, 1 Y) – allows specifying the timeframe.
 
 Object manager Indicators – allows evoking the window with settings of indicators.
 
@@ -86,20 +86,20 @@ Cancel last order on selected instrument – allows cancelling the last order on
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 
-Cancel Buy order\(s\) closest to the last price – allows cancelling Buy order\(s\) closest to the last price.
+Cancel Buy order(s) closest to the last price – allows cancelling Buy order(s) closest to the last price.
 
-Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
+Cancel Sell order(s) closest to the last price – allows cancelling Sell order(s) closest to the last price.
 
 Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
 
 ### General
 
-Connections – opens the screen ‘Connections’.  
-  
-Show settings – opens the screen with settings.  
-  
-Show hotkeys – opens the screen with settings of hotkeys.  
-  
+Connections – opens the screen ‘Connections’.\
+\
+Show settings – opens the screen with settings.\
+\
+Show hotkeys – opens the screen with settings of hotkeys.\
+\
 New Chart panel – allows opening a new Chart panel.
 
 New OE panel – allows opening a new Order entry panel.
@@ -120,17 +120,17 @@ Cancel last order on selected instrument – allows cancelling the last order on
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 
-Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel.
+Place Sell order with amount equal to existed position – allows placing order with side ‘Sell’ with amount equal to the existed position without regard to the quantity which is set. Other parameters (Order type, Validity, Price) are taken from the panel.
 
-Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel.
+Place Buy order with amount equal to existed position – allows placing order with side ‘Buy’ with amount equal to the existed position without regard to the quantity which is set. Other parameters (Order type, Validity, Price) are taken from the panel.
 
 Buy market with amount equal to existed position – allows to open a position with parameters equal to the existed position with Buy side.
 
 Sell market with amount equal to existed position – allows to open a position with parameters equal to the existed position with Sell side.
 
-Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+Cancel Buy order(s) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
 
-Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+Cancel Sell order(s) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
 
 Place Buy order – allows placing Buy order according to the parameters of the order which are set at the panel.
 
@@ -138,9 +138,9 @@ Place Sell order – allows placing Sell order according to the parameters of th
 
 Prepare LMT Order – allows activating the field for entering the value of LMT order.
 
-Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+Place Buy order with working qty. 1, 2, 3 – allows placing Buy order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters (Order type, Validity, Price) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
 
-Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters \(Order type, Validity, Price\) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
+Place Sell order with working qty. 1, 2, 3 – allows placing Sell order with working quantity specified in first/second/third field of working quantities in Market Depth/Hotkey trading settings without regard to the quantity which is set. Other parameters (Order type, Validity, Price) are taken from the panel. The setting ‘Display quantity in lots’ – if true, the quantity which is set at the panel is applied. If false, the quantity ‘working qty.’ \* ‘lot size’ will be applied depending on the chosen instrument.
 
 Modifier: Stop order when mouse click – allows stopping an order after mouse click.
 
@@ -156,9 +156,9 @@ Cancel all active orders on selected instrument – allows cancelling all active
 
 Cancel last order on selected instrument – allows cancelling last order on the selected instrument.
 
-Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+Cancel Buy order(s) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
 
-Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+Cancel Sell order(s) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
 
 Modifier: Stop order when mouse click – allows stopping the order when mouse click.
 
@@ -200,16 +200,16 @@ Cancel last order on selected instrument – allows cancelling the last order on
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 
-Cancel Buy order\(s\) closest to the last price – allows cancelling Buy order\(s\) closest to the last price.
+Cancel Buy order(s) closest to the last price – allows cancelling Buy order(s) closest to the last price.
 
-Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
+Cancel Sell order(s) closest to the last price – allows cancelling Sell order(s) closest to the last price.
 
-Mouse trading – activates trading using mouse.  
-  
+Mouse trading – activates trading using mouse.\
+\
 Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
 
-Recenter – allows recentering Bid/Ask while scrolling the panel.  
-  
+Recenter – allows recentering Bid/Ask while scrolling the panel.\
+\
 Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.  
 
 ### Trading
@@ -245,4 +245,3 @@ To change the value of a hotkey, click on its current value.
 Find information about Scalper hotkeys here: 
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/trading-panels/scalper](https://guide.traderevolution.com/project/desktop-application-for-windows/trading-panels/scalper)_._
-

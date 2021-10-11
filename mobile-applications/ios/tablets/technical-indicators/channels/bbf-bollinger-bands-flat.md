@@ -1,4 +1,4 @@
-# BBF \(Bollinger bands flat\)
+# BBF (Bollinger bands flat)
 
 Bollinger bands flat indicator provides the same data as Bollinger bands but is displayed in a separate field and thus makes it easy to determine whether prices are in or out of the band. 
 
@@ -24,7 +24,7 @@ A - deviation parameter value,
 
 D - dispersion relative to the moving average,
 
-Negative deviation = \(-1\) __A \* D
+Negative deviation = (-1)_ _A \* D
 
 ### Main parameters
 
@@ -35,5 +35,4 @@ Negative deviation = \(-1\) __A \* D
 
 This looks as follows on the chart:
 
-![](../../../../../.gitbook/assets/bbf%20%287%29.jpg)
-
+![](<../../../../../.gitbook/assets/bbf (7).jpg>)

@@ -4,40 +4,40 @@ Working orders/Positions panels show the orders/positions that were opened durin
 
 The following columns are available for the Positions panel:
 
-![](../../.gitbook/assets/1%20%2812%29.png)
+![](<../../.gitbook/assets/1 (12).png>)
 
 * Account – login name of an account that opened a position;
 * Symbol – a traded symbol;
 * Symbol description - comments to an instrument;
-* Symbol type – a symbol's market category \(CFD, spot, stocks, etc.\);
+* Symbol type – a symbol's market category (CFD, spot, stocks, etc.);
 * Position ID – a unique number that the trading system assigns to each position;
-* Side – type of trade \(Long or Short\);
+* Side – type of trade (Long or Short);
 * Open price – price at which a position was opened;
 * Current price – a market price obtainable from a broker;
 * Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-        For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+        For Long position: Gross P/L = Qty. \* Lot size \* (Current price - Open price)
 
-        For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+        For Short position: Gross P/L = Qty. \* Lot size \* (Open price - Current price)
 
         P/L for Spreadbet instrument type is calculated depending on price change in ticks:
 
-        For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Current price - Open price\)/Tick size\)\)
+        For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* ((Current price - Open price)/Tick size))
 
-        For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Open price - Current price\)/Tick size\)\)
+        For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* ((Open price - Current price)/Tick size))
 
         Cross price is applied in the case when account currency doesn't correspond to the Betting currency.
 
 * P/L, offset – profit/losses in points;
 * Position exposure – exposure of a position, in the account currency. Calculated on base of an open price:
 
-        Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
+        Position exposure = Price \* Quantity \* Lot size \* Cross price (quoting CCY > account currency) – calculation for Forex
 
-        Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
+        Position exposure = Price \* Quantity \* (Tick cost/Tick size) \* Cross price (quoting CCY > account currency) – calculation for Futures
 
-        In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+        In all cases Cross price (quoting CCY > account currency) is a current cross price.
 
 * Position value – current value of a position. Calculated on base of a current market price:
 
@@ -53,10 +53,10 @@ The following columns are available for the Positions panel:
 
     And for the Working orders panel:
 
-![](../../.gitbook/assets/screenshot_2-1-.png)
+![](../../.gitbook/assets/screenshot\_2-1-.png)
 
 * Symbol – name of the instrument to be traded.
-* Side – type of the trade to be performed \(Buy or Sell\).
+* Side – type of the trade to be performed (Buy or Sell).
 * Date – date, on which the order was placed.
 * Time – time when the order was placed.
 * Type – the order type.
@@ -71,8 +71,8 @@ The following columns are available for the Positions panel:
 * Account – login name of the account that placed the order.
 * SL price – stop loss price set for the order.
 * TP price – take profit price set for the order.
-* Bound to \(OCO\) – ID of the order which another order is bound to; if the former is executed, system will cancel the latter.
-* Symbol type – market category of the instrument \(CFD, spot, stocks, etc.\).
+* Bound to (OCO) – ID of the order which another order is bound to; if the former is executed, system will cancel the latter.
+* Symbol type – market category of the instrument (CFD, spot, stocks, etc.).
 * Symbol description – comments to the instrument.
 * Trading exchange – indicates whether the instrument has a stock exchange or off-exchange type.
 * Status – status of the current order. It can have the following values: Created, Partially filled, Off market, Cancelling, Modified;
@@ -85,5 +85,4 @@ The following functions can be realized through the context menu:
 
 * Export – allows to export table to CSV or Excel format.
 * Group by – allows to group positions by symbol, account, expiry date, side, symbol type, symbol description, and to group working orders by the same parameters as well as by date, time, Validity, Qty. filled, Qty. remaining, exchange, status.
-* Show close orders \(SL/TP\) – if checked, closing orders will be shown \(only for Working orders panel\).
-
+* Show close orders (SL/TP) – if checked, closing orders will be shown (only for Working orders panel).

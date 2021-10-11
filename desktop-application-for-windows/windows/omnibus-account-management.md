@@ -4,11 +4,11 @@ Omnibus accounts allow aggregating multiple User accounts into a single entity t
 
 In order to open the “Omnibus account management” panel, select it from the drop-down list in Account widget.
 
-![](../../.gitbook/assets/screenshot_1%20%281%29.jpg)
+![](<../../.gitbook/assets/screenshot\_1 (1).jpg>)
 
 The following panel will be opened:
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](<../../.gitbook/assets/image (37).png>)
 
 This panel consists of two parts: 
 
@@ -23,7 +23,7 @@ The user can select an account or group of accounts for which he wants to see th
 
 The following information is available:
 
-![](../../.gitbook/assets/screenshot_2%20%282%29.jpg)
+![](<../../.gitbook/assets/screenshot\_2 (2).jpg>)
 
 * Account - account name;
 * Balance - balance for the selected account;
@@ -63,7 +63,7 @@ This tab displays trading history for today or for a certain time period. Descri
 
 ### Orders history
 
-This tab shows system actions related to opening and closing orders \(SL/TP\) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/orders-history) article.
+This tab shows system actions related to opening and closing orders (SL/TP) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/orders-history) article.
 
 ### Assets
 
@@ -74,7 +74,7 @@ This tab represents information about assets of each account added to the select
 This tab shows the detailed information on accounts that are linked to the Omnibus account. The following information about accounts is available:
 
 * Balance - the remaining balance of the account;
-* Projected balance - current equity \(balance + unrealized P/L\);
+* Projected balance - current equity (balance + unrealized P/L);
 * Balance & All risks - balance and risks;
 * Credit value - credit funds available for trading;
 * Available funds - funds available for this account;
@@ -92,6 +92,4 @@ This tab shows the detailed information on accounts that are linked to the Omnib
 * Today’s gross - gross profit/loss for the day;
 * Today’s net - net profit/loss for the day.
 
-Thus, the “Omnibus account management” panel allows to easily and conveniently track user accounts that are linked to one Omnibus account, as well as monitor their changes.  
-
-
+Thus, the “Omnibus account management” panel allows to easily and conveniently track user accounts that are linked to one Omnibus account, as well as monitor their changes.\

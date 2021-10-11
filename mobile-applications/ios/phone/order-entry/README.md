@@ -1,8 +1,8 @@
 # Order entry
 
-The Order entry screen enables user to send orders. The Order entry button![](../../../../.gitbook/assets/1-kopiya%20%2812%29.png)is located on the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
+The Order entry screen enables user to send orders. The Order entry button![](<../../../../.gitbook/assets/1-kopiya (12).png>)is located on the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button: 
 
-                                           ![](../../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2813%29.png)           
+                                           ![](<../../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm (13).png>)           
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask. 
 
@@ -22,7 +22,7 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 1. Market order guarantees execution at a market price.
 2. Limit order is placed with a brokerage to buy or sell a set number of shares at a specified price or better.
 3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit. The![](../../../../.gitbook/assets/ios-oe-kopiya.png)icon informs a user that additional Limit price is available if the checkbox 'Use stop limit instead of stop' is active in the Settings; 
-4. Stop limit order will be executed at a specified price \(or better\) after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy \(or sell\) at the limit price or better.
+4. Stop limit order will be executed at a specified price (or better) after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy (or sell) at the limit price or better.
 5. "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders.
 
 **Validity:**
@@ -30,16 +30,16 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK, GTS. This is especially important for active traders:
 
 1. Day order, as the name implies, is valid for the current trading day.
-2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled.
-3. IOC \(Immediate or Cancel Order\) requires that all or part of the order be executed immediately after it has been brought to the market.
-4. FOK \(Fill or kill\) – requires to execute the entire transaction immediately and completely or not to execute it at all.
-5. GTD \(Good till date\) allows input date until which the order will be cancelled if not executed.
+2. GTC (Good till cancelled) orders, on the other hand, will remain alive until they are cancelled.
+3. IOC (Immediate or Cancel Order) requires that all or part of the order be executed immediately after it has been brought to the market.
+4. FOK (Fill or kill) – requires to execute the entire transaction immediately and completely or not to execute it at all.
+5. GTD (Good till date) allows input date until which the order will be cancelled if not executed.
 
 * SL/TP price – allows to set Stop loss and Take profit prices.
 
-![](../../../../.gitbook/assets/image%20%283%29.png)
+![](<../../../../.gitbook/assets/image (3).png>)
 
-When the checkbox near SL price is true, and the checkbox 'Use stop limit instead of stop' is also true \(a setting located in Defaults tab of General settings\), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
+When the checkbox near SL price is true, and the checkbox 'Use stop limit instead of stop' is also true (a setting located in Defaults tab of General settings), the additional field 'SL limit price' will appear. It shows Limit price which is set for SL order. The field can be also displayed as 'SL limit offset'. This field shows Limit offset for SL order. The dependence is related to the values in which SL is displayed -  in price or offset.
 
 * Trailing SL offset – allows entering the order trailing stop price.
 
@@ -47,7 +47,7 @@ When the checkbox near SL price is true, and the checkbox 'Use stop limit instea
 SL price and Trailing SL offset cannot be checked together.
 {% endhint %}
 
-6. GTS \(Good till session\) order will be cancelled at the end of the trading session if not executed.
+6\. GTS (Good till session) order will be cancelled at the end of the trading session if not executed.
 
 **Margin**
 
@@ -72,7 +72,7 @@ After trade funds = Available funds + Impact on portfolio - Fee;
 * Blocked for stocks – shows the amount debited from the balance in case of trading using symbols with the Stocks pre-paid margin type;
 * Spread initial loss – shows initial loss on the spread:
 
-Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
+Spread initial loss = (Ask - Bid) \* Tick cost \* Qty.
 
 * P/L per Tick – displays data for Symbols:
 
@@ -95,7 +95,7 @@ This button is intended to get a snapshot of the actual quotes for the current S
 1. Price - displays prices for Symbol in the context of Last/Bid/Ask;
 2. Size - volumes for Symbol at the specified Price in the context of Last/Bid/Ask;
 3. Change - price change, calculated by the formula _Change = Last price - Previous close_;
-4. Change, % - price change as a percentage, calculated by the formula _Change,% = \(Last price - Previous close\) / Previous close\) \* 100%_;
+4. Change, % - price change as a percentage, calculated by the formula _Change,% = (Last price - Previous close) / Previous close) \* 100%_;
 5. Today high - highest price of the day for the current Symbol;
 6. Today low - lowest price of the day for the current Symbol;
 7. Today volume - current day volume for Symbol.
@@ -106,5 +106,4 @@ The "Get snapshot" button allows to update the information in this window.
 
 In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../../.gitbook/assets/ds.png)button and the widget will be shown:
 
-![](../../../../.gitbook/assets/oe-big%20%281%29.png)
-
+![](<../../../../.gitbook/assets/oe-big (1).png>)

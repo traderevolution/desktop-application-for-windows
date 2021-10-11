@@ -10,7 +10,7 @@ Tap the name of the symbol at the list of added symbols to open the chart by thi
 
 ### **Chart toolbar** 
 
-Tap the button![](../../../.gitbook/assets/2-kopiya%20%282%29.png)to open Chart toolbar.
+Tap the button![](<../../../.gitbook/assets/2-kopiya (2).png>)to open Chart toolbar.
 
 ![](../../../.gitbook/assets/simulator-screen-shot-ipad-pro-11-inch-2nd-generation-2020-09-29-at-18.03.26.png)
 
@@ -20,7 +20,7 @@ Tap the button![](../../../.gitbook/assets/2-kopiya%20%282%29.png)to open Chart 
 * Chart templates – allows to create a chart template;
 * Settings – allows to open the Chart settings screen**.**
 
-![](../../../.gitbook/assets/new1%20%285%29.jpg)
+![](<../../../.gitbook/assets/new1 (5).jpg>)
 
 The following chart settings are available for configuration:
 
@@ -37,25 +37,25 @@ The following chart settings are available for configuration:
 
 ### **Indicators**
 
- In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add1.jpg)near the indicator name at the list of available Indicators.
+ In order to add a new indicator, choose the category of indicators (Channels, Moving averages, Oscillators etc.) and tap the button![](../../../.gitbook/assets/add1.jpg)near the indicator name at the list of available Indicators.
 
-![](../../../.gitbook/assets/3%20%2887%29.png)
+![](<../../../.gitbook/assets/3 (87).png>)
 
 It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify.jpg). Tap the button![](../../../.gitbook/assets/delete.jpg)located near indicator’s name to remove indicator from this section.   
 
-![](../../../.gitbook/assets/4%20%2859%29.png)
+![](<../../../.gitbook/assets/4 (59).png>)
 
 Open the chart to see the added indicators.
 
-![](../../../.gitbook/assets/5%20%2853%29.png)
+![](<../../../.gitbook/assets/5 (53).png>)
 
-### **Order entry**
+### &#xD;&#xD;**Order entry**
 
-The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/1-kopiya%20%281%29.png)is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon![](<../../../.gitbook/assets/1-kopiya (1).png>)is located at the top right corner of the Chart screen.
 
 Orders are displayed on the chart with the quantity value inside of the order marker, the color of order marker for Buy orders is blue, for Sell orders – red.
 
-![](../../../.gitbook/assets/6%20%2840%29.png)
+![](<../../../.gitbook/assets/6 (40).png>)
 
 Read more information about Order entry screen here:
 
@@ -65,11 +65,11 @@ Read more information about Order entry screen here:
 
 A set of graphical tools is available to assist in price movements analysis:
 
-![](../../../.gitbook/assets/2%20%283%29.jpg)
+![](<../../../.gitbook/assets/2 (3).jpg>)
 
 All of these tools are accessible via the Drawings panel. In order to access this panel tap the![](https://lh5.googleusercontent.com/Cy2wX4HhhifU3wXGFvNYsq67rneT1HGIpdDBRVl4jhTqo9Da1hma5yEi6otbQJzs6vPN0IzUyFxe90qFEvhMn3FnnHRHR8OlC9I2jhGzmr-2oPqsni3m3mLhwCNHe1LTgMMRT6ZH)icon. The following panel will be opened:
 
-![](../../../.gitbook/assets/3%20%282%29.jpg)
+![](<../../../.gitbook/assets/3 (2).jpg>)
 
 The following list of graphical tools is currently available:
 
@@ -110,13 +110,13 @@ Polygon drawings:
 In order to place a tool:
 
 * Open the Drawings panel and select the desired drawing tool;
-* If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), the user can place these points on the chart by tapping the required places.
+* If a tool requires points to be specified on the chart (e.g. a line requires two points while Andrew's pitchfork requires three), the user can place these points on the chart by tapping the required places.
 
 #### Settings
 
 Each drawing has its vertical Settings bar:
 
-![](../../../.gitbook/assets/screenshot_1%20%2812%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_1 (12).jpg>)
 
 This bar allows the user to configure the following settings:
 
@@ -134,5 +134,4 @@ By pressing the top of the menu, the user can move it within the chart to any co
 
 In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya.jpeg)arrow and the widget will be shown:
 
-![](../../../.gitbook/assets/chart%20%281%29.png)
-
+![](<../../../.gitbook/assets/chart (1).png>)

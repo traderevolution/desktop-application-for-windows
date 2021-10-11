@@ -2,11 +2,11 @@
 
 The Market depth panel allows to view and trade Level II quotes.
 
-To open a new Market depth panel, go to 'Terminal -&gt; Market depth'.
+To open a new Market depth panel, go to 'Terminal -> Market depth'.
 
 ![](../../../.gitbook/assets/image5.png)
 
-### Toolbar
+### &#xD;Toolbar
 
 Under the panel's header there is Toolbar.
 
@@ -18,17 +18,17 @@ This panel consists of the following sections:
 
 * Level I - only Level I quotes.
 
- You can customize this section via the context menu -&gt;![](../../../.gitbook/assets/smallest.png):
+ You can customize this section via the context menu ->![](../../../.gitbook/assets/smallest.png):
 
 ![](../../../.gitbook/assets/customize1.png)
 
 The buttons '+' allow to change the default 'Empty' value of cells to one of the values from drop-down lists which appear with pressing buttons '+'.
 
-Every drop-down list corresponds to its button '+' and contains the following items, except those which are already used to be displayed by previously adjusted cell\(s\):
+Every drop-down list corresponds to its button '+' and contains the following items, except those which are already used to be displayed by previously adjusted cell(s):
 
 Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previous close; Change; Change, %; Spread; Settlement price; Previous settlement price; Volume; Ask source; Bid source and Last source.
 
-* Position bar - short information about opened positions \(average price, quantity, current profit and loss\): 
+* Position bar - short information about opened positions (average price, quantity, current profit and loss): 
 
 ![](../../../.gitbook/assets/position-bar-blue.png)
 
@@ -36,28 +36,28 @@ Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previ
 
 When clicking the Price value, you can select of two options: Average open price or Break-even.
 
-Break-even = \(Long qty.\*Average long – Short qty.\*Average short\) / \(Long qty. – Short qty.\)
+Break-even = (Long qty.\*Average long – Short qty.\*Average short) / (Long qty. – Short qty.)
 
 When clicking the QTY value, you can select of two options: Net QTY or Gross QTY:
 
 Net QTY = Qty1 + Qty2 + Qty3
 
-Gross QTY = \|Qty1\| + \|Qty2\| + \|Qty3\|
+Gross QTY = |Qty1| + |Qty2| + |Qty3|
 
 The color of QTY cell depends on a position's side:
 
-a\) If all positions have Side = Long, qty. cell will be colored in blue;
+a) If all positions have Side = Long, qty. cell will be colored in blue;
 
-b\) If all positions have Side = Short, qty. cell will be colored in red;
+b) If all positions have Side = Short, qty. cell will be colored in red;
 
-c\) If positions are multidirectional, then qty. cell is not colored;
+c) If positions are multidirectional, then qty. cell is not colored;
 
-d\) If there are no positions, qty. cell will not be colored and qty. value will have an empty value \( '---' \).
+d) If there are no positions, qty. cell will not be colored and qty. value will have an empty value ( '---' ).
 
-* 'Order entry' is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). An order entry mode can be adjusted in the 'Market depth Preferences -&gt; View'. An 'Order entry' bar allows you to adjust the following: quantity, type and Validity of an order, limit and stop price;
+* 'Order entry' is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view (showing only buttons and main boxes) and extended view (with explanation labels for buttons and boxes). An order entry mode can be adjusted in the 'Market depth Preferences -> View'. An 'Order entry' bar allows you to adjust the following: quantity, type and Validity of an order, limit and stop price;
 * Detailed quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows a total volume at each price level. On the left side are bid volumes and on the right one – ask volumes.
 
-The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose panel's elements to be visible, open 'context menu -&gt; View':
+The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose panel's elements to be visible, open 'context menu -> View':
 
 ![](../../../.gitbook/assets/context-menu.png)
 
@@ -69,7 +69,7 @@ The detailed quote section is displayed as a table with the columns which can be
 * Price – a buy or sell price from the highest Bid and the lowest Ask to lower Bids and higher Asks;
 * Size – a volume being offered to purchase at a specified Bid price or to sell at a specified Ask price;
 * Source – ECN or exchange, where orders are set. This field is similar to MPID, but it has another representation on the server. Is unavailable when 'Aggregate size' is active in the 'Market depth Preferences';
-* MPID \(market participant ID\) – ECN or exchange, where orders are set;
+* MPID (market participant ID) – ECN or exchange, where orders are set;
 * Total size – the aggregated traded volume;
 * VWAP – prices of order executions including slippage effect that will take place depending on order quantity;
 * Counter CCY value – a value of Ask/Bid size recalculated in the quoting currency, Price \* Ask/Bid size;
@@ -78,9 +78,9 @@ The detailed quote section is displayed as a table with the columns which can be
 
 ### Data source
 
-In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/screenshot_3%20%2811%29.png)arrow and the widget will be shown:
+In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](<../../../.gitbook/assets/screenshot\_3 (11).png>)arrow and the widget will be shown:
 
-                                                          ![](../../../.gitbook/assets/image8%20%283%29.png) 
+                                                          ![](<../../../.gitbook/assets/image8 (3).png>) 
 
 Furthermore, a user can add Ask source, Bid source and Last source information to the "Level I" section.
 
@@ -90,13 +90,13 @@ Furthermore, a user can add Ask source, Bid source and Last source information t
 
 * Standard preferences – Font, Grid;
 * Size in – allows selecting in what form the volume will be shown:
-  * General preferences – will be taken from General Preferences -&gt; View:
-    * General preferences \(lots\) – in case the checkbox 'Display quantity in lots' in ‘General Preferences... -&gt; View' is enabled;
-    * General preferences \(real size\) – in case the checkbox 'Display quantity in lots' in ‘General Preferences... -&gt; View' is disabled;
+  * General preferences – will be taken from General Preferences -> View:
+    * General preferences (lots) – in case the checkbox 'Display quantity in lots' in ‘General Preferences... -> View' is enabled;
+    * General preferences (real size) – in case the checkbox 'Display quantity in lots' in ‘General Preferences... -> View' is disabled;
   * Lots – will be displayed in lots;
   * Real size – will be displayed in real value.
 * Size precision – if checked, you can set up precision of the volume displaying;
-* Show own working orders – if active, all pending orders \(Limit/Stop\) are shown in the Market depth panel with color, otherwise – orders won’t be displayed. To set the coloring scheme for displaying Limit/Stop orders in Market depth panel, go to 'Context menu - &gt; Preferences - &gt; Colors - &gt; Own working orders';
+* Show own working orders – if active, all pending orders (Limit/Stop) are shown in the Market depth panel with color, otherwise – orders won’t be displayed. To set the coloring scheme for displaying Limit/Stop orders in Market depth panel, go to 'Context menu - > Preferences - > Colors - > Own working orders';
 * Aggregate size - if active, size will be aggregated by the following criteria: Price, Side, MPID. Related to 'Size' and 'Bid / Ask' columns;
 * Show toolbar – if active, the Symbol lookup and Account lookup are displayed on the panel;
 * Show position bar – if active, the Position bar is displayed on the panel;
@@ -142,6 +142,5 @@ The following items can be selected in order to be displayed in the panel:
 
 The 'Market depth Preferences' menu contains the following buttons to manage adjustments:
 
-* ![](../../../.gitbook/assets/set%20%282%29.png)–   allows to set all current 'Market depth Preferences' menu adjustments as default ones;
-* ![](../../../.gitbook/assets/reset%20%281%29.png)–   allows to reset all the ‘Market depth Preferences’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
-
+* ![](<../../../.gitbook/assets/set (2).png>)–   allows to set all current 'Market depth Preferences' menu adjustments as default ones;
+* ![](<../../../.gitbook/assets/reset (1).png>)–   allows to reset all the ‘Market depth Preferences’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.

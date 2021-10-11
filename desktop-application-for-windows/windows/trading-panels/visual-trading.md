@@ -4,7 +4,7 @@
 
 ![](../../../.gitbook/assets/visual-trading.gif)
 
-### The built-in Order entry panel 
+### &#xD;The built-in Order entry panel 
 
 In order to start visual trading, click the 'Chart trading' button![](../../../.gitbook/assets/83.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
@@ -30,7 +30,7 @@ Hot buttons for one-click trading are the following:
 * Cancel sell – to cancel sell orders by selected symbol and account;
 * Cancel all – to cancel all orders by selected symbol and account.
 
-### Chart trading
+### &#xD;Chart trading
 
 To start chart trading, follow these steps:
 
@@ -54,7 +54,7 @@ Orders tooltips are always visible while trading: if order is Buy, then its icon
 
 When allocating a Stop limit order on the chart, limit price and stop price are shown inside of the order marker.
 
-![](../../../.gitbook/assets/new2%20%288%29.jpg)
+![](<../../../.gitbook/assets/new2 (8).jpg>)
 
 To disable the chart trading, click the 'Mouse trading' button again, or just stop holding the Ctrl key.
 
@@ -64,7 +64,7 @@ To change the order’s price, simply drag and drop the order marker![](../../..
 
 To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
-![](../../../.gitbook/assets/new3%20%284%29.jpg)
+![](<../../../.gitbook/assets/new3 (4).jpg>)
 
 To cancel order, click the ![](../../../.gitbook/assets/89.png)button.
 
@@ -73,7 +73,7 @@ Left-clicking the order qty allows to set the required number.
 {% hint style="warning" %}
 Please note that an order can be changed to market by clicking the three-dot button located on the right side of the order widget:
 
-![](../../../.gitbook/assets/image%20%2897%29.png)
+![](<../../../.gitbook/assets/image (97).png>)
 {% endhint %}
 
 All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
@@ -84,9 +84,8 @@ All modifying operations can be made from the Modify window which can be opened 
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
-![](../../../.gitbook/assets/image%20%28103%29.png)
+![](<../../../.gitbook/assets/image (103).png>)
 
 In order to modify SL to breakeven, click the the three-dot button located on the right side of the SL widget:
 
-![](../../../.gitbook/assets/image%20%28104%29.png)
-
+![](<../../../.gitbook/assets/image (104).png>)

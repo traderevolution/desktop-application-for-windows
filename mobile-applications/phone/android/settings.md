@@ -2,9 +2,9 @@
 
 A user can access the "Settings" tab from the application’s "More" menu in order to manage "Defaults" and "Confirmations".
 
-### Defaults
+### Defaults&#xD;
 
-![](../../../.gitbook/assets/4%20%2870%29.png)
+![](<../../../.gitbook/assets/4 (70).png>)
 
 In "Defaults" settings section you can adjust the following:
 
@@ -14,7 +14,7 @@ In "Defaults" settings section you can adjust the following:
 * Quantity in lots - if checked, quantity is displayed in lots, if unchecked – in units;
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points;
-* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the "Limit offset, ticks" field.
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked,** **it activates the "Limit offset, ticks" field.
 
 ### **Confirmations**
 
@@ -32,19 +32,19 @@ In "Defaults" settings section you can adjust the following:
 
 ### Other
 
-![](../../../.gitbook/assets/2%20%28120%29.png)
+![](<../../../.gitbook/assets/2 (120).png>)
 
 The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked. 
 
 Biometric authentication enables a user to log in to the mobile application more securely by using the Fingerprint or FaceID features.
 
-![](../../../.gitbook/assets/4%20%2866%29.png)
+![](<../../../.gitbook/assets/4 (66).png>)
 
 To apply Fingerprint in the application for subsequent logins, a user should put his finger on the sensor.
 
-![](../../../.gitbook/assets/1%20%28141%29.png)
+![](<../../../.gitbook/assets/1 (141).png>)
 
-After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. 
+After this, the checkbox More -> Settings -> Other -> Biometric authentication becomes True. 
 
 A user should enter his password to confirm biometrics:
 
@@ -52,7 +52,7 @@ A user should enter his password to confirm biometrics:
 
 On subsequent calls of the Login screen form, if the Biometric authentication setting is checked in the application, then the following dialog box is automatically displayed:
 
-![](../../../.gitbook/assets/3%20%2896%29.png)
+![](<../../../.gitbook/assets/3 (96).png>)
 
 The user authentication occurs after putting a finger on the sensor and successful fingerprint recognition.
 
@@ -75,12 +75,12 @@ This section allows to configure the alerts, the following settings are availabl
 ![](../../../.gitbook/assets/f626729e-1a6f-4c08-8def-712790d32e6d.jpg)
 
 * Notification – combobox for selecting the type of notification after alert triggering, multiselect is available:
-* * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
+*
+  * Email – an alert containing the text from the ‘Alert message’ field will be sent to the user by email;
   * Push notification – an alert containing the text from the ‘Alert message’ field will be sent to the user via push notification;
   * Pop-up – an alert containing the text from the ‘Alert message’ field will be sent to the user in pop-up message;
   * Sound – a musical alert will be played to the user in the client.
 * Alert type – allows to set an alert type. Available options are: Default by symbol, Ask, Bid, Last, Change%, Volume;
-* Condition – allows to set an alert condition. Available values are: &gt;,&lt;,&gt;=,&lt;=;
+* Condition – allows to set an alert condition. Available values are: >,<,>=,<=;
 * Importance – allows to define the alert importance, the following options are available: High, Medium, Low;
 * After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution.
-
